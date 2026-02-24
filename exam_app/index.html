@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>法律考試刷題寶典</title>
+    <meta name="description" content="司法官、律師考試一試綜合法學練習平台 - 111~114年歷屆試題">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Noto+Sans+TC:wght@400;500;700;900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="app-shell">
+        <!-- Top Bar -->
+        <div class="top-bar">
+            <div class="logo">⚖️ 法律刷題寶典</div>
+            <div class="top-actions">
+                <button class="icon-btn" id="btn-shuffle" title="隨機出題">🔀</button>
+                <button class="icon-btn" id="btn-reset" title="重新開始">🔄</button>
+            </div>
+        </div>
+
+        <!-- Exam Badge (clickable to open selector) -->
+        <div class="exam-badge" id="exam-badge" title="點擊切換題庫">
+            載入中...
+        </div>
+
+        <!-- Progress -->
+        <div class="progress-section">
+            <div class="progress-track">
+                <div class="progress-fill" id="progress-fill"></div>
+            </div>
+            <div class="progress-meta">
+                <span id="progress-label">第 0 / 0 題</span>
+                <span id="accuracy-label">正確率 --</span>
+            </div>
+        </div>
+
+        <!-- Question Card -->
+        <div class="q-card" id="q-card">
+            <div class="q-header">
+                <span class="q-number" id="q-number">Q1</span>
+                <span class="q-source" id="q-source"></span>
+            </div>
+            <div class="q-text" id="q-text">正在載入題庫...</div>
+            <div class="options-list" id="options-list"></div>
+            <div class="answer-info" id="answer-info"></div>
+        </div>
+
+        <!-- Result Card (hidden) -->
+        <div class="result-card" id="result-card">
+            <div style="font-size:3rem;">🎉</div>
+            <h2 style="margin-top:0.5rem;">測驗完成！</h2>
+            <div class="result-score" id="result-score">0%</div>
+            <div class="result-subtitle" id="result-subtitle">--</div>
+            <div class="result-stats">
+                <div class="stat-box">
+                    <div class="stat-val" id="stat-total">0</div>
+                    <div class="stat-label">總題數</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-val" style="color:var(--correct)" id="stat-correct">0</div>
+                    <div class="stat-label">答對</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-val" style="color:var(--wrong)" id="stat-wrong">0</div>
+                    <div class="stat-label">答錯</div>
+                </div>
+            </div>
+            <button class="nav-btn primary" onclick="resetExam()" style="width:100%">重新開始</button>
+        </div>
+    </div>
+
+    <!-- Bottom Nav -->
+    <div class="bottom-nav">
+        <div class="nav-inner">
+            <button class="nav-btn ghost" id="btn-select">📚 題庫選擇</button>
+            <button class="nav-btn primary" id="btn-next" disabled>下一題 →</button>
+        </div>
+    </div>
+
+    <!-- Modal: Exam Selector -->
+    <div class="modal-overlay" id="modal-overlay">
+        <div class="modal-sheet">
+            <div class="modal-header">
+                <span class="modal-title">選擇題庫</span>
+                <button class="modal-close" id="modal-close">&times;</button>
+            </div>
+            <div class="exam-list" id="exam-list">
+                <!-- JS fills -->
+            </div>
+        </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
