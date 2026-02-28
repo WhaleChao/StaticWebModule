@@ -492,6 +492,170 @@
             color: var(--m-orange);
         }
 
+        /* ========== PRINT ========== */
+        .print-only {
+            display: none;
+        }
+
+        #print-area {
+            display: none;
+        }
+
+        @media print {
+
+            body,
+            body::before {
+                background: #fff !important;
+                color: #000 !important;
+            }
+
+            .container,
+            .tabs,
+            #quiz-view,
+            #pdf-view,
+            #import-view,
+            .hdr {
+                display: none !important;
+            }
+
+            #print-area {
+                display: block !important;
+                font-family: 'Noto Sans TC', sans-serif;
+                color: #000;
+                font-size: 11pt;
+            }
+
+            #print-area h1 {
+                font-size: 16pt;
+                text-align: center;
+                margin-bottom: 4px;
+                color: #000;
+                -webkit-text-fill-color: #000;
+                background: none;
+            }
+
+            #print-area .p-meta {
+                text-align: center;
+                font-size: 9pt;
+                color: #555;
+                margin-bottom: 12px;
+                border-bottom: 2px solid #000;
+                padding-bottom: 8px;
+            }
+
+            #print-area .p-q {
+                page-break-inside: avoid;
+                margin-bottom: 10px;
+                padding: 6px 0;
+                border-bottom: 1px solid #ccc;
+            }
+
+            #print-area .p-q-head {
+                font-weight: 700;
+                font-size: 10pt;
+                margin-bottom: 4px;
+            }
+
+            #print-area .p-q-text {
+                font-size: 10.5pt;
+                line-height: 1.5;
+                margin-bottom: 6px;
+                white-space: pre-line;
+            }
+
+            #print-area .p-opts {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 2px 12px;
+                font-size: 10pt;
+            }
+
+            #print-area .p-opt {
+                padding: 2px 0;
+            }
+
+            #print-area .p-ans-page {
+                page-break-before: always;
+            }
+
+            #print-area .p-ans-page h2 {
+                text-align: center;
+                font-size: 14pt;
+                margin-bottom: 8px;
+            }
+
+            #print-area .p-ans-grid {
+                display: grid;
+                grid-template-columns: repeat(5, 1fr);
+                gap: 4px;
+                font-size: 10pt;
+                text-align: center;
+            }
+
+            #print-area .p-ans-item {
+                padding: 4px;
+                border: 1px solid #ccc;
+            }
+        }
+
+        /* ========== IMPORT TAB ========== */
+        #import-view {
+            display: none;
+        }
+
+        #import-view.active {
+            display: block;
+        }
+
+        .import-box {
+            background: var(--surface);
+            border: 2px dashed rgba(255, 255, 255, .15);
+            border-radius: var(--radius);
+            padding: 24px;
+            text-align: center;
+            margin-bottom: 16px;
+        }
+
+        .import-box h3 {
+            margin-bottom: 8px;
+            font-size: 1rem;
+        }
+
+        .import-box p {
+            color: var(--text2);
+            font-size: .85rem;
+            line-height: 1.6;
+        }
+
+        .import-steps {
+            background: var(--surface);
+            border-radius: var(--radius);
+            padding: 20px;
+        }
+
+        .import-steps h3 {
+            margin-bottom: 12px;
+        }
+
+        .import-steps ol {
+            padding-left: 20px;
+        }
+
+        .import-steps li {
+            margin-bottom: 10px;
+            font-size: .88rem;
+            line-height: 1.6;
+            color: var(--text2);
+        }
+
+        .import-steps code {
+            background: rgba(102, 126, 234, .2);
+            color: var(--accent1);
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: .82rem;
+        }
+
         @keyframes fadeIn {
             from {
                 opacity: 0
@@ -543,6 +707,7 @@
         <div class="tabs">
             <button class="tab active" onclick="switchTab('quiz')">🎲 隨機測驗</button>
             <button class="tab" onclick="switchTab('pdf')">📄 歷屆題庫</button>
+            <button class="tab" onclick="switchTab('import')">📥 匯入題目</button>
         </div>
 
         <!-- ======== QUIZ VIEW ======== -->
@@ -572,6 +737,7 @@
                 </div>
                 <div class="nav-row">
                     <button class="nav-btn ghost" onclick="backToSelect()">⬅ 返回選科</button>
+                    <button class="nav-btn ghost" onclick="printQuiz()" style="flex:0.6">🖨️ 列印</button>
                     <button class="nav-btn primary" id="btn-next" disabled onclick="nextQ()">下一題 →</button>
                 </div>
             </div>
@@ -598,6 +764,7 @@
                 </div>
                 <div class="nav-row">
                     <button class="nav-btn ghost" onclick="backToSelect()">⬅ 選其他科</button>
+                    <button class="nav-btn ghost" onclick="printQuiz()" style="flex:0.6">🖨️ 列印</button>
                     <button class="nav-btn primary" onclick="startQuiz(lastSubject)">🔄 再來一組</button>
                 </div>
             </div>
@@ -606,6 +773,27 @@
         <!-- ======== PDF VIEW ======== -->
         <div id="pdf-view">
             <div id="pdf-list"></div>
+        </div>
+
+        <!-- ======== IMPORT VIEW ======== -->
+        <div id="import-view">
+            <div class="import-box">
+                <h3>📥 匯入新考題與答案</h3>
+                <p>將新的考試 PDF（試題 + 答案）放入資料夾後，執行匯入腳本即可自動加入題庫。</p>
+            </div>
+            <div class="import-steps">
+                <h3>操作步驟</h3>
+                <ol>
+                    <li>將新的<strong>試題 PDF</strong> 和<strong>答案 PDF</strong> 放入<br><code>K:\EXAM\考畢題答\</code></li>
+                    <li>檔名格式請遵循現有命名規則：<br>
+                        試題：<code>115110_0101_綜合法學(一)(憲法.pdf</code><br>
+                        答案：<code>115110_ANS0101_綜合法學(一)(憲法.pdf</code></li>
+                    <li>在 PowerShell 中執行匯入腳本：<br><code>python K:\MAGI\import_new_exam.py</code></li>
+                    <li>匯入完成後推送至
+                        GitHub：<br><code>cd K:\StaticWebModule &amp;&amp; git add -A &amp;&amp; git commit -m "Add new exam data" &amp;&amp; git push origin master</code>
+                    </li>
+                </ol>
+            </div>
         </div>
     </div>
 
@@ -617,9 +805,10 @@
         // Tab switching
         // ============================================================
         function switchTab(t) {
-            document.querySelectorAll('.tab').forEach((b, i) => b.classList.toggle('active', (t === 'quiz' ? i === 0 : i === 1)));
+            document.querySelectorAll('.tab').forEach((b, i) => b.classList.toggle('active', (t === 'quiz' ? i === 0 : t === 'pdf' ? i === 1 : i === 2)));
             document.getElementById('quiz-view').classList.toggle('active', t === 'quiz');
             document.getElementById('pdf-view').classList.toggle('active', t === 'pdf');
+            document.getElementById('import-view').classList.toggle('active', t === 'import');
         }
 
         // ============================================================
@@ -746,6 +935,42 @@
             document.getElementById('quiz-active').style.display = 'none';
             document.getElementById('quiz-result').style.display = 'none';
             document.getElementById('quiz-select').style.display = '';
+        }
+
+        // ============================================================
+        // PRINT QUIZ
+        // ============================================================
+        function printQuiz() {
+            if (!pool.length) return;
+            let area = document.getElementById('print-area');
+            if (!area) {
+                area = document.createElement('div');
+                area.id = 'print-area';
+                document.body.appendChild(area);
+            }
+            const now = new Date();
+            const dateStr = `${now.getFullYear()}/${now.getMonth() + 1}/${now.getDate()} ${now.getHours()}:${String(now.getMinutes()).padStart(2, '0')}`;
+            let html = `<h1>⚖️ ${lastSubject || '綜合法學'} 模擬測驗</h1>`;
+            html += `<div class="p-meta">${pool.length} 題 ｜ ${dateStr} ｜ 姓名：＿＿＿＿＿＿</div>`;
+            // Questions
+            pool.forEach((q, i) => {
+                html += `<div class="p-q">`;
+                html += `<div class="p-q-head">${i + 1}. （${q.year}年）</div>`;
+                html += `<div class="p-q-text">${q.question}</div>`;
+                html += `<div class="p-opts">`;
+                Object.keys(q.options).sort().forEach(lbl => {
+                    html += `<div class="p-opt">(${lbl}) ${q.options[lbl]}</div>`;
+                });
+                html += `</div></div>`;
+            });
+            // Answer key on new page
+            html += `<div class="p-ans-page"><h2>答案</h2><div class="p-ans-grid">`;
+            pool.forEach((q, i) => {
+                html += `<div class="p-ans-item"><strong>${i + 1}</strong>. ${q.answer || '?'}</div>`;
+            });
+            html += `</div></div>`;
+            area.innerHTML = html;
+            window.print();
         }
 
         // ============================================================
