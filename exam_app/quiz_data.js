@@ -12,7 +12,7 @@ const EXAM_DATA = {
           "D": "附終期"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 1,
@@ -24,7 +24,7 @@ const EXAM_DATA = {
           "D": "乙對甲及戊、己之侵權行為賠償損害請求權已罹於消滅時效，故丙、丁代理起訴請求甲及戊、己賠\n\n償為無理由"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 3,
@@ -36,7 +36,7 @@ const EXAM_DATA = {
           "D": "因特定行為選定居所者，關於其行為，視為住所"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 4,
@@ -48,7 +48,7 @@ const EXAM_DATA = {
           "D": "甲是限制行為能力人，故效力未定"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 5,
@@ -60,7 +60,7 @@ const EXAM_DATA = {
           "D": "監察人有數人時，各監察人均得單獨行使監察權"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 6,
@@ -72,7 +72,7 @@ const EXAM_DATA = {
           "D": "甲與乙意思不一致時，應由法院依其事件之性質定之\n\n\f代號：3301\n頁次：12－2"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 7,
@@ -84,7 +84,7 @@ const EXAM_DATA = {
           "D": "乙因被甲詐欺而為意思表示，不得向丙撤銷意思表示"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 8,
@@ -96,7 +96,7 @@ const EXAM_DATA = {
           "D": "甲得依意思表示錯誤之規定，決定是否要撤銷"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 9,
@@ -108,7 +108,7 @@ const EXAM_DATA = {
           "D": "基於惡意不受保護原則，如丙係惡意，買賣契約無效"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 10,
@@ -120,7 +120,7 @@ const EXAM_DATA = {
           "D": "因丙之重大過失導致失火時，承租人乙應依民法第 433 條規定，對出租人甲負損害賠償責任"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 11,
@@ -132,7 +132,7 @@ const EXAM_DATA = {
           "D": "租賃物之地板，因年久失修而影響通行，乙得逕行終止租賃契約"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 12,
@@ -144,7 +144,7 @@ const EXAM_DATA = {
           "D": "縱使乙未將押租金轉交於丙，甲返還房屋後，仍得向丙請求返還押租金"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 13,
@@ -156,7 +156,7 @@ const EXAM_DATA = {
           "D": "價值或效用之減少非關重要者，不得視為瑕疵\n\n\f14 住在臺北之甲將其使用半年之筆電出賣於乙，約定價金新臺幣 15,000 元。雙方約定 3 日後由甲將該\n筆電運送至乙在桃園之工作室。3 日後，甲指示員工丙將該筆電送至乙處，路途中因丙超速駕駛，發\n生車禍導致該筆電滅失。下列敘述，何者錯誤？\n\n代號：3301\n頁次：12－3"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 15,
@@ -168,7 +168,7 @@ const EXAM_DATA = {
           "D": "甲乙間之使用借貸雖訂有期限，但期限屆滿前，甲得隨時請求返還借用物"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 16,
@@ -180,7 +180,7 @@ const EXAM_DATA = {
           "D": "6 個月"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 16,
@@ -192,7 +192,7 @@ const EXAM_DATA = {
           "D": "甲於訴訟審理中產下乙，但為死產，法院應以裁定駁回乙部分之訴"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 17,
@@ -204,7 +204,7 @@ const EXAM_DATA = {
           "D": "甲得逕行解除與乙就 A 型商品之買賣契約，並不得請求賠償因此所受損害"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 18,
@@ -216,7 +216,7 @@ const EXAM_DATA = {
           "D": "推定商品之欠缺與損害間有因果關係"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 19,
@@ -228,7 +228,7 @@ const EXAM_DATA = {
           "D": "承攬契約必為有償之契約，委任契約必為無償之契約"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 20,
@@ -240,7 +240,7 @@ const EXAM_DATA = {
           "D": "乙得向丁行使求償權，僅得請求 20 萬元\n\n\f代號：3301\n頁次：12－4"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 21,
@@ -252,7 +252,7 @@ const EXAM_DATA = {
           "D": "甲乙於委任契約中，未特別約定應由乙親自處理事務時，乙得隨時委任丁代為處理事務"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 22,
@@ -264,7 +264,7 @@ const EXAM_DATA = {
           "D": "合夥財產若不足清償合夥之債務時，各合夥人對於不足之額，應負連帶責任"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 23,
@@ -276,7 +276,7 @@ const EXAM_DATA = {
           "D": "預扣之 100 萬元既未實際交付甲，並非貸與本金之一部分"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 24,
@@ -288,7 +288,7 @@ const EXAM_DATA = {
           "D": "此項代位權之行使，未必以訴為之"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 25,
@@ -300,7 +300,7 @@ const EXAM_DATA = {
           "D": "乙受通知後，乙基於法定事由解除與甲之原契約時，乙得對丙拒絕給付系爭貨款"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 26,
@@ -312,7 +312,7 @@ const EXAM_DATA = {
           "D": "最高限額抵押權在原債權確定前，若第三人為債務人清償債務者，最高限額抵押權亦隨同移轉於第\n\n三人"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 27,
@@ -324,7 +324,7 @@ const EXAM_DATA = {
           "D": "甲將 A 地轉賣並移轉所有權登記於丙，丙在 A 地上建築 B 屋\n\n\f代號：3301\n頁次：12－5"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 28,
@@ -336,7 +336,7 @@ const EXAM_DATA = {
           "D": "乙所供給材料之價額，推定為承攬報酬之一部"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 29,
@@ -348,7 +348,7 @@ const EXAM_DATA = {
           "D": "乙得主張甲與丙間之 A 地買賣無效"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 30,
@@ -360,7 +360,7 @@ const EXAM_DATA = {
           "D": "丙於甲、乙贈與 A 地於丁時，丙不得就甲、乙應有部分讓與主張優先承買權"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 31,
@@ -372,7 +372,7 @@ const EXAM_DATA = {
           "D": "丁不得主張優先承購"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 32,
@@ -384,7 +384,7 @@ const EXAM_DATA = {
           "D": "買受人取得法院命出賣人辦理房屋所有權移轉登記之確定判決"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 33,
@@ -396,7 +396,7 @@ const EXAM_DATA = {
           "D": "丁提出甲非償還其支出之價金，不得回復其物之抗辯，係屬有理"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 34,
@@ -408,7 +408,7 @@ const EXAM_DATA = {
           "D": "甲訴請丙返還該股票，係屬有理\n\n\f代號：3301\n頁次：12－6"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 35,
@@ -420,7 +420,7 @@ const EXAM_DATA = {
           "D": "甲得請求乙返還 A 帆船"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 37,
@@ -432,7 +432,7 @@ const EXAM_DATA = {
           "D": "依協議或裁判決定由一方行使親權後，他方若能證明由自己行使將對子女更為有利，得請求法院改\n\n定親權人"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 38,
@@ -444,7 +444,7 @@ const EXAM_DATA = {
           "D": "非婚生子女於未成年時，經生父認領，父母已書面約定變更為父姓，該子女成年後，仍得自行決定\n\n再次變更為母姓"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 39,
@@ -456,7 +456,7 @@ const EXAM_DATA = {
           "D": "甲乙為兄弟，乙丙為夫妻，甲戊為養父子。甲於乙死亡後，終止與戊之收養關係。丙與戊結婚"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 40,
@@ -468,7 +468,7 @@ const EXAM_DATA = {
           "D": "乙於丙出生時即明知丙為丁之骨肉，但擔心與甲婚姻破裂，不敢張揚。甲在丙三歲時死亡，乙得提\n\n起訴訟，否認甲、丙之親子關係"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 41,
@@ -480,7 +480,7 @@ const EXAM_DATA = {
           "D": "丙無權利對甲主張剩餘財產分配\n\n\f代號：3301\n頁次：12－7"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 42,
@@ -492,7 +492,7 @@ const EXAM_DATA = {
           "D": "甲不願認領丙，但在乙之脅迫下不得不辦理認領登記。甲事後不得主張被脅迫而撤銷認領之意思表示"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 43,
@@ -504,7 +504,7 @@ const EXAM_DATA = {
           "D": "因父母處分未成年子女之特有財產，須為子女之利益，甲之行為違反丙之利益，故為無效"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 44,
@@ -516,7 +516,7 @@ const EXAM_DATA = {
           "D": "丙就甲之遺產清償其債務完畢後，請求分割遺產，但並未保留丁之應繼分，丁出生後，其分割雖有\n\n效，但丙應對丁負損害賠償責任"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 45,
@@ -528,7 +528,7 @@ const EXAM_DATA = {
           "D": "丁、庚"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 46,
@@ -540,7 +540,7 @@ const EXAM_DATA = {
           "D": "若甲生前原本擬撰寫遺囑，但乙以強暴脅迫手段不許甲為之，乙當然喪失對甲之繼承權"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 47,
@@ -552,7 +552,7 @@ const EXAM_DATA = {
           "D": "遺囑意思表示之撤銷"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 48,
@@ -564,7 +564,7 @@ const EXAM_DATA = {
           "D": "乙 250 萬元，丙 250 萬元，丁 250 萬元"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 49,
@@ -576,7 +576,7 @@ const EXAM_DATA = {
           "D": "全體繼承人之遺產分割，自分割時，始發生效力，而不溯及於繼承開始時"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 50,
@@ -588,7 +588,7 @@ const EXAM_DATA = {
           "D": "回復名譽請求權\n\n\f代號：3301\n頁次：12－8"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 51,
@@ -600,7 +600,7 @@ const EXAM_DATA = {
           "D": "當事人所主張不利於己之事實，縱未經他造援用，法院亦得採為裁判基礎"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 52,
@@ -612,7 +612,7 @@ const EXAM_DATA = {
           "D": "若法院認為有妨害善良風俗情形，得職權決定不公開審判"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 53,
@@ -624,7 +624,7 @@ const EXAM_DATA = {
           "D": "不可歸責於當事人或代理人之事由，致遲誤不變期間者，應透過回復原狀制度加以救濟"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 54,
@@ -636,7 +636,7 @@ const EXAM_DATA = {
           "D": "於訴訟審理中，甲依買賣契約反訴請求乙移轉 A 屋所有權，僅臺灣臺北地方法院有管轄權"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 55,
@@ -645,7 +645,7 @@ const EXAM_DATA = {
           "A": "起訴基於惡意、不當目的或有重大過失，且事實上或法律上之主張欠缺合理依據，法院認定屬於濫\n\n訴者，僅得以判決駁回之"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 56,
@@ -656,7 +656,7 @@ const EXAM_DATA = {
           "D": "濫訴之處罰，僅限於第一審，不適用上訴審程序"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 57,
@@ -668,7 +668,7 @@ const EXAM_DATA = {
           "D": "第一審法院之審判長命當事人預納支出必要訴訟行為之費用，因當事人不預納費用致訴訟無從進\n行，經定期通知他造墊支亦不為墊支者，視為合意停止訴訟程序，當事人逾 4 個月未預納或墊支者，\n視為撤回其訴\n\n\f58 訴訟繫屬中為訴訟標的之法律關係已由被告移轉至第三人時，關於法院之處置，下列敘述，何者錯誤？"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 59,
@@ -680,7 +680,7 @@ const EXAM_DATA = {
           "D": "受訴法院須先使兩造交換準備書狀，始得開始整理爭點"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 60,
@@ -692,7 +692,7 @@ const EXAM_DATA = {
           "D": "當事人雖不在法院之轄區內住居，但只要其受特別委任之訴訟代理人受送達之權限未受限制，且住\n\n居法院所在地者，於計算法定期間時，即不得扣除在途期間"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 61,
@@ -704,7 +704,7 @@ const EXAM_DATA = {
           "D": "甲以借名登記契約業經終止為由，訴請 A 地登記名義人乙將 A 地所有權移轉登記予甲"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 62,
@@ -716,7 +716,7 @@ const EXAM_DATA = {
           "D": "甲如於保全證據程序終結後逾 30 日未對乙起訴，乙得向法院聲請裁定解除維修紀錄之留置"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 63,
@@ -728,7 +728,7 @@ const EXAM_DATA = {
           "D": "在訴訟中，乙抗辯系爭買賣契約已經解除，就甲所積欠之價金，得併為訴之聲明：如法院認為 A 地\n\n所有權移轉登記請求為有理由時，甲應給付乙 100 萬元\n\n\f代號：3301\n頁次：12－10"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 64,
@@ -740,7 +740,7 @@ const EXAM_DATA = {
           "D": "在乙抗辯其就 A 車對甲有租賃權，而甲否認乙有租賃權時，則乙就該租賃權發生之要件事實應為\n\n具體陳述，然後就甲所否認之事實負證據提出責任"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 65,
@@ -752,7 +752,7 @@ const EXAM_DATA = {
           "D": "甲於 111 年 1 月 2 日將 A 地所有權移轉登記於丙，丙不得持系爭判決對乙強制執行返還 A 地"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 66,
@@ -764,7 +764,7 @@ const EXAM_DATA = {
           "D": "醫療糾紛因當事人間並無一定情誼，且爭議很大，通常難能成立和解，故非為起訴前應經法院調解\n\n之事件"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 67,
@@ -776,7 +776,7 @@ const EXAM_DATA = {
           "D": "小額程序之判決書，得僅記載主文，均無加記理由要領之必要"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 68,
@@ -788,7 +788,7 @@ const EXAM_DATA = {
           "D": "原告主張被告應支付房屋鄰損修繕費 7 萬元，原告除聲請鑑定外，陳明無其他證據方法，經法院選\n\n任臺北市建築師公會鑑定，該公會覆知鑑定需費時 10 個月始能完成，鑑定費用為 35 萬元"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 69,
@@ -800,7 +800,7 @@ const EXAM_DATA = {
           "D": "附帶上訴如已具備上訴之要件，不因原告合法撤回起訴而失其效力\n\n\f代號：3301\n頁次：12－11"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 70,
@@ -812,7 +812,7 @@ const EXAM_DATA = {
           "D": "乙未於上訴狀內表明上訴理由，第二審法院審判長得定相當期間命乙提出理由書，如乙逾期未提出，\n\n審判長得命乙以書狀說明理由，逾期未說明者，第二審法院應裁定駁回乙之上訴"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 71,
@@ -824,7 +824,7 @@ const EXAM_DATA = {
           "D": "上訴第三審，不得再為訴之變更或追加"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 72,
@@ -836,7 +836,7 @@ const EXAM_DATA = {
           "D": "上訴狀未表明上訴理由時，經第二審法院通知補正仍未補正，得逕以裁定駁回上訴"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 73,
@@ -848,7 +848,7 @@ const EXAM_DATA = {
           "D": "上訴人係未成年人，在未經上訴人之法定代理人合法代理之情形下，第二審法院逕為本案判決"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 74,
@@ -860,7 +860,7 @@ const EXAM_DATA = {
           "D": "當事人就確定判決於民事訴訟法第 500 條所定之再審不變期間末日，依民事訴訟法第 496 條第 1 項\n第 13 款提起再審之訴，即已合法提起再審，為求訴訟經濟、紛爭一次解決，依最高法院裁判見解，\n可於訴訟進行中，併主張同條項第 1 款之再審事由"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 75,
@@ -872,7 +872,7 @@ const EXAM_DATA = {
           "D": "合法之抗告得停止原裁定之效力\n\n\f代號：3301\n頁次：12－12"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 76,
@@ -884,7 +884,7 @@ const EXAM_DATA = {
           "D": "假扣押"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 77,
@@ -896,7 +896,7 @@ const EXAM_DATA = {
           "D": "受訴法院不得依職權將本案請求移付調解，當事人在調解程序亦不得合意聲請法院就本案請求為\n\n裁定"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 78,
@@ -908,7 +908,7 @@ const EXAM_DATA = {
           "D": "於丁所提否認推定生父之訴，就甲及丁間血緣關係存否之爭執，法院認有必要時，得依職權命雙方\n\n接受醫學上之檢驗"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 79,
@@ -920,7 +920,7 @@ const EXAM_DATA = {
           "D": "臺南地院應依職權將前訴訟移送於受理後訴訟之高雄少家法院"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 80,
@@ -932,7 +932,7 @@ const EXAM_DATA = {
           "D": "撤銷婚姻之訴，原告於判決確定前死亡者，有權提起同一訴訟之他人，得於知悉原告死亡時起 3 個\n\n月內聲明承受訴訟，但原告死亡後已逾 1 年者，即不得再承受訴訟"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 111,
@@ -956,7 +956,7 @@ const EXAM_DATA = {
           "D": "土地共有人得自由處分其應有部分，其他共有人無優先購買權"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 2,
@@ -968,7 +968,7 @@ const EXAM_DATA = {
           "D": "乙、丙之抵押權不適用共同抵押權規定"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 3,
@@ -980,7 +980,7 @@ const EXAM_DATA = {
           "D": "受任人非經委任人同意，或另有習慣，或有不得已事由，不得使第三人代為處理委任事務"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 4,
@@ -992,7 +992,7 @@ const EXAM_DATA = {
           "D": "丁自甲買得 A 車後，得請求乙將 A 車返還自己"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 5,
@@ -1002,7 +1002,7 @@ const EXAM_DATA = {
           "C": "甲丙之電腦買賣契約，效力未定"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 6,
@@ -1014,7 +1014,7 @@ const EXAM_DATA = {
           "D": "丙得主張表見代理，甲應負授權人之責任"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 7,
@@ -1026,7 +1026,7 @@ const EXAM_DATA = {
           "D": "土地所有人對鄰地所有人之移去或變更越界建築請求權\n\n\f代號：3301\n頁次：12－2"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 8,
@@ -1038,7 +1038,7 @@ const EXAM_DATA = {
           "D": "乙與丙向來不和，乙對於甲分租給丙一事，不甚滿意，乙得以甲違法分租為由，終止租賃契約"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 9,
@@ -1050,7 +1050,7 @@ const EXAM_DATA = {
           "D": "由乙、丁、戊共同繼承"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 10,
@@ -1062,7 +1062,7 @@ const EXAM_DATA = {
           "D": "乙對丙之占有物返還請求權，其消滅時效期間為二年"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 10,
@@ -1074,7 +1074,7 @@ const EXAM_DATA = {
           "D": "如受訴法院以乙雖占有 A 地但甲於本訴訟繫屬中已將該地所有權移轉予丙，故甲對乙無所有物返\n還請求權等旨為理由，判決甲敗訴確定後，丙得再基於其自己之所有物返還請求權，訴請判決命乙\n將 A 地返還予丙"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 11,
@@ -1086,7 +1086,7 @@ const EXAM_DATA = {
           "D": "甲乙共有之土地"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 12,
@@ -1098,7 +1098,7 @@ const EXAM_DATA = {
           "D": "甲向乙定期 1 個月以上期限催告後，其消費借貸關係，即行終止"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 13,
@@ -1110,7 +1110,7 @@ const EXAM_DATA = {
           "D": "贈與之撤銷為單方意思表示，故撤銷權人單方向受贈人為撤銷意思表示即可，不須受贈人同意"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 14,
@@ -1122,7 +1122,7 @@ const EXAM_DATA = {
           "D": "若丁受讓時不知關於甲單獨使用 A 建物屋頂平台之約定，且就其不知無過失，則得請求甲返還 A\n\n建物屋頂平台於全體區分所有人\n\n\f代號：3301\n頁次：12－3"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 15,
@@ -1134,7 +1134,7 @@ const EXAM_DATA = {
           "D": "甲之土地本來與公路有適宜之聯絡，但因甲自行拆除橋樑，致使甲之土地不能與公路為適宜之聯\n\n絡，得通行乙所有之周圍地以至公路"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 16,
@@ -1146,7 +1146,7 @@ const EXAM_DATA = {
           "D": "甲未將買賣條件通知地上權人乙，而就 A 地與丙訂立買賣契約並移轉登記於丙時，甲、丙契約不\n\n得對抗乙"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 17,
@@ -1158,7 +1158,7 @@ const EXAM_DATA = {
           "D": "失蹤人配偶之同居人，因有事實上利害關係，為利害關係人"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 18,
@@ -1170,7 +1170,7 @@ const EXAM_DATA = {
           "D": "當場表示異議之區分所有權人得訴請法院撤銷該決議"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 19,
@@ -1182,7 +1182,7 @@ const EXAM_DATA = {
           "D": "從物有瑕疵時，買受人不得僅就從物之部分解除契約"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 20,
@@ -1194,7 +1194,7 @@ const EXAM_DATA = {
           "D": "設立中法人有受遺贈能力"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 21,
@@ -1206,7 +1206,7 @@ const EXAM_DATA = {
           "D": "引擎為轎車之從物"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 22,
@@ -1216,7 +1216,7 @@ const EXAM_DATA = {
           "C": "甲及丙均有意思表示錯誤之撤銷權"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 23,
@@ -1228,7 +1228,7 @@ const EXAM_DATA = {
           "D": "因丙無意思表示之錯誤，故甲無撤銷權"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 24,
@@ -1240,7 +1240,7 @@ const EXAM_DATA = {
           "D": "代理權不得於其所由授與之法律關係存續中撤回之"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 25,
@@ -1252,7 +1252,7 @@ const EXAM_DATA = {
           "D": "乙得向甲請求燒傷住院致無法工作之損害賠償"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 26,
@@ -1264,7 +1264,7 @@ const EXAM_DATA = {
           "D": "戊"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 27,
@@ -1276,7 +1276,7 @@ const EXAM_DATA = {
           "D": "分期付價買賣，應訂立書面契約，始得成立"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 28,
@@ -1286,7 +1286,7 @@ const EXAM_DATA = {
           "C": "中華郵政公司郵件遞送契約"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 29,
@@ -1298,7 +1298,7 @@ const EXAM_DATA = {
           "D": "航空公司旅客運送契約"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 30,
@@ -1310,7 +1310,7 @@ const EXAM_DATA = {
           "D": "甲乙間成立間接代理"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 31,
@@ -1322,7 +1322,7 @@ const EXAM_DATA = {
           "D": "在該三日期間中，若甲情緒不穩，要求家屬親自過夜共同陪伴照顧，甲之家屬仍應給付該三日之看\n\n護費用\n\n\f代號：3301\n頁次：12－5"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 32,
@@ -1334,7 +1334,7 @@ const EXAM_DATA = {
           "D": "甲得將其對合夥所積欠之出資額，與其應受之報酬額互為抵銷"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 33,
@@ -1346,7 +1346,7 @@ const EXAM_DATA = {
           "D": "丙、丁對乙不得主張先訴抗辯權"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 34,
@@ -1358,7 +1358,7 @@ const EXAM_DATA = {
           "D": "甲交付 A 地於乙，甲其後移轉 A 地所有權於戊。對戊而言，乙有權占有 A 地"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 35,
@@ -1370,7 +1370,7 @@ const EXAM_DATA = {
           "D": "丁、戊為三親等旁系血親，丁、乙三親等旁系姻親"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 36,
@@ -1382,7 +1382,7 @@ const EXAM_DATA = {
           "D": "甲為 A 屋所有人"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 37,
@@ -1394,7 +1394,7 @@ const EXAM_DATA = {
           "D": "非婚生子女與其生母之親子關係，無須認領"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 38,
@@ -1406,7 +1406,7 @@ const EXAM_DATA = {
           "D": "繼承人無須向法院陳報遺產清冊，亦就繼承債務之清償，負有限責任"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 39,
@@ -1418,7 +1418,7 @@ const EXAM_DATA = {
           "D": "提出繼承人名冊（繼承系統表），係以辦理拋棄繼承為其法定要件\n\n\f代號：3301\n頁次：12－6"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 40,
@@ -1430,7 +1430,7 @@ const EXAM_DATA = {
           "D": "不可。因甲在作成遺囑後，將遺贈標的物贈與丙，視為撤回遺囑"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 41,
@@ -1439,7 +1439,7 @@ const EXAM_DATA = {
           "A": "乙提領甲存款存入自己帳戶之行為，屬於隱匿遺產情節重大，喪失限定責任之利益，故乙應清償丁"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 42,
@@ -1451,7 +1451,7 @@ const EXAM_DATA = {
           "D": "甲為繼承人，乙為遺囑執行人，乙為履行遺贈，將遺產中之 A 車交付於受遺贈人丙"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 43,
@@ -1463,7 +1463,7 @@ const EXAM_DATA = {
           "D": "若丙己後來離婚，不久後乙過世，甲己若相戀結婚，其婚姻無效"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 44,
@@ -1475,7 +1475,7 @@ const EXAM_DATA = {
           "D": "甲公司之董事長乙，為償還公司債務，以詐欺方式低價收購甲公司之股票，致生損害於丙"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 45,
@@ -1487,7 +1487,7 @@ const EXAM_DATA = {
           "D": "甲之母死亡，留下巨額債務，甲擬拋棄繼承\n\n\f代號：3301\n頁次：12－7"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 46,
@@ -1499,7 +1499,7 @@ const EXAM_DATA = {
           "D": "養子女為未成年人而對養父母為重大侮辱者，即使養父母請求法院裁判終止收養，法院仍得審酌養\n\n子女最佳利益決定是否終止"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 47,
@@ -1511,7 +1511,7 @@ const EXAM_DATA = {
           "D": "因法院判決甲乙婚姻無效，故乙不得主張剩餘財產分配請求權"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 48,
@@ -1523,7 +1523,7 @@ const EXAM_DATA = {
           "D": "在丙成年經甲認領後，丙得自行變更姓氏為甲之姓"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 49,
@@ -1535,7 +1535,7 @@ const EXAM_DATA = {
           "D": "丙丁各取得 900 萬元"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 50,
@@ -1547,7 +1547,7 @@ const EXAM_DATA = {
           "D": "乙與丙為一體，乙一人辭任，效力及於丙。由丁單獨任監護人"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 51,
@@ -1559,7 +1559,7 @@ const EXAM_DATA = {
           "D": "第三審行言詞辯論時，一律應採法庭公開之形式"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 52,
@@ -1571,7 +1571,7 @@ const EXAM_DATA = {
           "D": "在乙辯稱兩造間 A 地租賃契約因默示更新而繼續存在時，法院不得闡明乙提起反訴，請求確認租\n\n賃關係存在，以謀求訴訟經濟"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 53,
@@ -1583,7 +1583,7 @@ const EXAM_DATA = {
           "D": "在第三審行言詞辯論程序時，兩造均應委任律師為訴訟代理人行之\n\n\f代號：3301\n頁次：12－8"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 54,
@@ -1595,7 +1595,7 @@ const EXAM_DATA = {
           "D": "法院應曉諭甲變更原告為丙"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 55,
@@ -1607,7 +1607,7 @@ const EXAM_DATA = {
           "D": "因債權之擔保涉訟者，以所擔保之債權額為準；但如供擔保之物其價額少於債權額時，以該物之價\n\n額為準"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 57,
@@ -1619,7 +1619,7 @@ const EXAM_DATA = {
           "D": "在本訴訟之爭點整理程序，乙辯稱：其已於甲起訴前將 A 車出售並交付予丙云云，此時甲不可將\n\n本訴訟之請求，變更為請求判決命乙賠償甲若干元"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 58,
@@ -1631,7 +1631,7 @@ const EXAM_DATA = {
           "D": "在前訴訟經法院以上開借貸 100 萬元債務存在為由判決甲勝訴確定後，如甲又對乙提起後訴訟請\n求返還前訴訟未經聲明之借款餘額 60 萬元，則在後訴訟程序上，乙不論有無提出新事證，均得再\n爭執該借款交付之事實\n\n\f代號：3301\n頁次：12－9"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 59,
@@ -1643,7 +1643,7 @@ const EXAM_DATA = {
           "D": "甲、乙是否有違約金之合意為本件訴訟之法律上爭點"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 60,
@@ -1654,7 +1654,7 @@ const EXAM_DATA = {
           "D": "乙得辦理拋棄繼承，如此乙便不是繼承人，即無庸清償丁任何金額"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 60,
@@ -1666,7 +1666,7 @@ const EXAM_DATA = {
           "D": "法院在調查、斟酌鑑定報告之內容後，形成心證認為甲所受損害亦因其自己未遵守交通規則所造成\n\n時，應將此事實曉諭兩造為辯論"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 62,
@@ -1678,7 +1678,7 @@ const EXAM_DATA = {
           "D": "在甲受敗訴判決確定之情形，如丙未獲參與訴訟之機會，縱未循第三人撤銷訴訟程序請求救濟，亦\n\n不受該確定判決之既判力所及"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 63,
@@ -1690,7 +1690,7 @@ const EXAM_DATA = {
           "D": "甲如經法院闡明後，猶未提出有關其已交付借款予乙之證據，則法院可逕判決駁回甲之本案請求，\n\n無須審酌有無約定償還借款之事實\n\n\f代號：3301\n頁次：12－10"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 64,
@@ -1702,7 +1702,7 @@ const EXAM_DATA = {
           "D": "對於法院准許與駁回保全證據聲請之裁定，受不利裁定之當事人得提起抗告"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 65,
@@ -1714,7 +1714,7 @@ const EXAM_DATA = {
           "D": "甲雖未併請求就借款返還請求權為判決，但乙抗辯其不負有該借款債務時，乙得對甲提起請求確認\n\n該借款債權不存在之反訴"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 66,
@@ -1726,7 +1726,7 @@ const EXAM_DATA = {
           "D": "在離婚協議無效確認訴訟事件，如經兩造同意得為兩次以上之移付調解"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 67,
@@ -1738,7 +1738,7 @@ const EXAM_DATA = {
           "D": "甲起訴後，於法院試行和解時，得與乙合意請求受命法官在 10 萬元至 15 萬元之間酌定應返還之\n\n借款額"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 68,
@@ -1750,7 +1750,7 @@ const EXAM_DATA = {
           "D": "若乙對本件判決不服者，得於判決書送達後 20 日之不變期間內，上訴於臺灣高等法院"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 69,
@@ -1762,7 +1762,7 @@ const EXAM_DATA = {
           "D": "當事人在第二審程序違反規定提出新攻擊或防禦方法，第二審法院應駁回之。但如他造就此項程序\n\n上瑕疵表示無異議，則因責問權喪失而補正\n\n\f代號：3301\n頁次：12－11"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 70,
@@ -1774,7 +1774,7 @@ const EXAM_DATA = {
           "D": "地方法院獨任法官誤用簡易訴訟程序審理通常訴訟事件，兩造就本案請求有無理由為攻擊防禦而\n作成本案判決後，經當事人上訴於第二審法院時，第二審法院不得以原審法院適用程序錯誤為由，\n將該事件發回地方法院重新適用通常訴訟程序為審理"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 71,
@@ -1786,7 +1786,7 @@ const EXAM_DATA = {
           "D": "甲如徵得丙及乙之同意，得在第二審主張系爭名畫係遭丙放火燒毀，而追加丙為被告請求其賠償損害"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 72,
@@ -1798,7 +1798,7 @@ const EXAM_DATA = {
           "D": "第三審律師酬金之核定，關涉訴訟費用之計算，故應由第一審法院於確定訴訟費用額時一併核定"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 73,
@@ -1810,7 +1810,7 @@ const EXAM_DATA = {
           "D": "第二審判決維持第一審所為甲敗訴之判決，駁回甲上訴，甲以該第二審判決不備理由為由，提起第\n三審上訴。第三審法院雖認甲請求為無理由，然原判決確有不備理由之情，故廢棄原判決，發回原\n第二審法院"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 74,
@@ -1822,7 +1822,7 @@ const EXAM_DATA = {
           "D": "在民事訴訟法上通常訴訟事件，對於第二、三審法院就同一事件所為之確定判決，以發現未經斟酌\n\n之證物為由，提起再審之訴者，專屬原第二審法院合併管轄\n\n\f代號：3301\n頁次：12－12"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 75,
@@ -1834,7 +1834,7 @@ const EXAM_DATA = {
           "D": "本案訴訟為請求給付票款 10 萬元之小額訴訟事件，抗告法院對於第一審法院核定訴訟標的價額裁\n\n定之抗告，所為抗告無理由之裁定"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 76,
@@ -1846,7 +1846,7 @@ const EXAM_DATA = {
           "D": "當事人不得向本案訴訟繫屬之第二審法院聲請假扣押"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 77,
@@ -1858,7 +1858,7 @@ const EXAM_DATA = {
           "D": "乙聲請對甲為監護宣告，法院選任丙為監護人，丙得以其罹患癌症，不能執行監護為由，聲請法院\n\n許可其辭任"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 78,
@@ -1870,7 +1870,7 @@ const EXAM_DATA = {
           "D": "乙於後訴訟雖承認「甲、乙結婚無公開儀式」之事實，但不生自認之效力"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 79,
@@ -1882,7 +1882,7 @@ const EXAM_DATA = {
           "D": "法院受理乙聲請酌定丁扶養費事件，不受乙聲明金額之拘束"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 80,
@@ -1894,7 +1894,7 @@ const EXAM_DATA = {
           "D": "甲知悉丙非婚生子女 6 個月後，於提起否認子女之訴前，乙及丙均死亡者，因欠缺對造當事人，甲\n\n不得再提起否認子女之訴"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 105,
@@ -1918,7 +1918,7 @@ const EXAM_DATA = {
           "D": "乙不須返還 A 屋予甲，丁亦不得取得 B 屋之所有權，丙仍應償還甲 100 萬元"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 3,
@@ -1930,7 +1930,7 @@ const EXAM_DATA = {
           "D": "得撤銷"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 3,
@@ -1940,7 +1940,7 @@ const EXAM_DATA = {
           "D": "甲乙以書局所出售之租賃契約書，作為訂約之用，兩人於契約書並未親自簽名或蓋章，僅以按指印\n\n代替之，該租賃契約之有效期間為 3 年"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 4,
@@ -1952,7 +1952,7 @@ const EXAM_DATA = {
           "D": "庚與辛間之借款返還請求權已罹於時效消滅，其效力及於利息請求權"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 5,
@@ -1964,7 +1964,7 @@ const EXAM_DATA = {
           "D": "財團法人對董事因執行職務所加於他人之損害，與該董事負連帶賠償責任"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 6,
@@ -1976,7 +1976,7 @@ const EXAM_DATA = {
           "D": "對於因精神障礙而不能辨識其意思表示之效果者，得為輔助宣告"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 7,
@@ -1988,7 +1988,7 @@ const EXAM_DATA = {
           "D": "無代理權人所為之代理行為無效\n\n\f代號：3301\n頁次：12－2"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 8,
@@ -2000,7 +2000,7 @@ const EXAM_DATA = {
           "D": "代理權之授與，不得附條件"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 9,
@@ -2012,7 +2012,7 @@ const EXAM_DATA = {
           "D": "物權得依習慣法創設"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 10,
@@ -2024,7 +2024,7 @@ const EXAM_DATA = {
           "D": "受監護宣告者於意識回復時，撤銷監護宣告前，所為代理權之授與行為，有效"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 11,
@@ -2036,7 +2036,7 @@ const EXAM_DATA = {
           "D": "委任契約"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 11,
@@ -2048,7 +2048,7 @@ const EXAM_DATA = {
           "D": "甲於查封前，由 A 果園所收取之天然孳息，不在抵押權之效力範圍內"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 12,
@@ -2060,7 +2060,7 @@ const EXAM_DATA = {
           "D": "丁"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 13,
@@ -2072,7 +2072,7 @@ const EXAM_DATA = {
           "D": "丁主張其受傷住院期間，母親戊之看護費"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 14,
@@ -2084,7 +2084,7 @@ const EXAM_DATA = {
           "D": "甲就其受傷得向丙請求損害賠償，但乙為甲之使用人，故就甲之損害，丙得主張適用與有過失之規定"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 15,
@@ -2096,7 +2096,7 @@ const EXAM_DATA = {
           "D": "有效，效力及於乙"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 15,
@@ -2108,7 +2108,7 @@ const EXAM_DATA = {
           "D": "丙丁與戊對庚各負三分之一賠償責任\n\n\f代號：3301\n頁次：12－3"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 16,
@@ -2120,7 +2120,7 @@ const EXAM_DATA = {
           "D": "12 月 1 日安裝之熱水與衛浴設備，係乙在 11 月底未履行修繕後，甲有權請人修繕，其全部費用\n\n得由租金中扣除"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 17,
@@ -2130,7 +2130,7 @@ const EXAM_DATA = {
           "B": "若甲親自書寫租賃契約之內容，作為訂約之用，兩人並於契約書簽名時，該租賃契約之有效期間為"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 18,
@@ -2142,7 +2142,7 @@ const EXAM_DATA = {
           "D": "因乙丙當初未通知甲，所以丙不得向甲請求債務不履行之損害賠償"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 19,
@@ -2154,7 +2154,7 @@ const EXAM_DATA = {
           "D": "不動產之出租人依法對承租人取得法定留置權時，承租人趁出租人不知而取去留置物時，出租人得\n\n終止租約"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 20,
@@ -2166,7 +2166,7 @@ const EXAM_DATA = {
           "D": "甲得隨時終止該承攬契約，惟須賠償乙因終止契約所生之損害\n\n\f代號：3301\n頁次：12－4"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 21,
@@ -2178,7 +2178,7 @@ const EXAM_DATA = {
           "D": "受監護宣告"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 22,
@@ -2190,7 +2190,7 @@ const EXAM_DATA = {
           "D": "甲如不能繼續使用大樓，得向乙主張終止租約"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 24,
@@ -2202,7 +2202,7 @@ const EXAM_DATA = {
           "D": "若甲係為躲避債權人強制執行，而與乙通謀虛偽訂立 A 地借名登記契約者，該借名登記契約無效"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 25,
@@ -2214,7 +2214,7 @@ const EXAM_DATA = {
           "D": "若甲交付該 A 車，甲在乙所負擔之限度內，負與出賣人同一擔保責任。於 A 車有重大瑕疵時，乙\n\n得解除契約，拒絕履行其負擔"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 26,
@@ -2226,7 +2226,7 @@ const EXAM_DATA = {
           "D": "民法第 949 條規定盜贓物之回復請求權，不以占有人已為善意取得，始得請求"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 27,
@@ -2238,7 +2238,7 @@ const EXAM_DATA = {
           "D": "共有人依民法規定之方法決定共有物之管理後，對共有人即不負損害賠償責任\n\n\f代號：3301\n頁次：12－5"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 28,
@@ -2250,7 +2250,7 @@ const EXAM_DATA = {
           "D": "依抵押權之從屬性，丙取得 A 地 200 萬元之抵押權，亦得對 A 地全部行使抵押權"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 29,
@@ -2262,7 +2262,7 @@ const EXAM_DATA = {
           "D": "土地所有人甲於土地上建有房屋一棟以供自住，其後僅提供土地為乙設定普通抵押權，為實行抵押\n\n權，當事人約定由抵押權人承受抵押物之所有權時，為避免法律關係複雜，乙得主張連同承受土地\n\n上房屋之所有權"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 30,
@@ -2274,7 +2274,7 @@ const EXAM_DATA = {
           "D": "抵押權因無所附麗而消滅"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 31,
@@ -2286,7 +2286,7 @@ const EXAM_DATA = {
           "D": "乙可受分配之金額為 80 萬元"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 32,
@@ -2298,7 +2298,7 @@ const EXAM_DATA = {
           "D": "租賃關係之推定"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 33,
@@ -2310,7 +2310,7 @@ const EXAM_DATA = {
           "D": "依共同抵押之法理，乙如同時拍賣或變賣 A、B 兩地，乙應先就 B 地賣得之價金受償\n\n\f代號：3301\n頁次：12－6"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 34,
@@ -2322,7 +2322,7 @@ const EXAM_DATA = {
           "D": "未經登記之祭祀公業之派下員對祭祀公業財產之關係"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 35,
@@ -2334,7 +2334,7 @@ const EXAM_DATA = {
           "D": "大廈住戶共用之頂樓平台，縱依區分所有人全體同意約定由甲使用，亦非法律所許"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 36,
@@ -2346,7 +2346,7 @@ const EXAM_DATA = {
           "D": "見證人應向法院登記"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 37,
@@ -2358,7 +2358,7 @@ const EXAM_DATA = {
           "D": "甲、乙之婚姻消滅後，乙得向甲請求損害賠償"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 38,
@@ -2370,7 +2370,7 @@ const EXAM_DATA = {
           "D": "甲受監護宣告後，不得為遺囑"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 39,
@@ -2382,7 +2382,7 @@ const EXAM_DATA = {
           "D": "甲男、乙女訂立家庭生活費用分擔之契約，並至法院公證"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 40,
@@ -2394,7 +2394,7 @@ const EXAM_DATA = {
           "D": "共同繼承人未保留胎兒之應繼分而分割遺產時，該分割無效\n\n\f代號：3301\n頁次：12－7"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 41,
@@ -2406,7 +2406,7 @@ const EXAM_DATA = {
           "D": "夫或妻以其婚前財產清償其婚姻關係中所負債務者，應納入婚姻關係存續中所負債務計算"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 42,
@@ -2418,7 +2418,7 @@ const EXAM_DATA = {
           "D": "乙與丁離婚後，甲不得與丁結婚"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 43,
@@ -2430,7 +2430,7 @@ const EXAM_DATA = {
           "D": "甲離婚後與丙結婚，乙不得限制之"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 44,
@@ -2441,7 +2441,7 @@ const EXAM_DATA = {
           "C": "丙得提否認丁為甲婚生子之訴"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 45,
@@ -2453,7 +2453,7 @@ const EXAM_DATA = {
           "D": "婚生否認之訴之除斥期間經過後，丙得收養丁"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 46,
@@ -2465,7 +2465,7 @@ const EXAM_DATA = {
           "D": "拋棄繼承得附條件與期限"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 47,
@@ -2477,7 +2477,7 @@ const EXAM_DATA = {
           "D": "乙、丙將黃金變賣獲得 30 萬元價金後，每人分得 15 萬元"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 48,
@@ -2489,7 +2489,7 @@ const EXAM_DATA = {
           "D": "父母濫用其對於未成年子女之財產管理權時，法院得為子女之利益宣告停止其財產管理權之行使"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 49,
@@ -2501,7 +2501,7 @@ const EXAM_DATA = {
           "D": "乙 40 萬元，丙 30 萬元，丁 50 萬元\n\n\f代號：3301\n頁次：12－8"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 50,
@@ -2513,7 +2513,7 @@ const EXAM_DATA = {
           "D": "乙日後擬將丙出養給戊時，仍須取得甲之同意"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 51,
@@ -2523,7 +2523,7 @@ const EXAM_DATA = {
           "B": "直接審理主義"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 52,
@@ -2535,7 +2535,7 @@ const EXAM_DATA = {
           "D": "公開審理主義"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 53,
@@ -2547,7 +2547,7 @@ const EXAM_DATA = {
           "D": "當事人所聲明證據涉及隱私時，應引用文件或照片以代替言詞陳述"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 54,
@@ -2559,7 +2559,7 @@ const EXAM_DATA = {
           "D": "為達成慎重而正確之裁判，如雙方提起訴訟時，受訴法院均應適用通常訴訟程序作成本案判決之協議"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 55,
@@ -2571,7 +2571,7 @@ const EXAM_DATA = {
           "D": "債權人對保證人訴請履行保證債務，保證人對主債務人為訴訟告知者，主債務人雖逾時參加，仍視\n\n為其於得行參加時已參加訴訟，債權人之勝訴確定判決對主債務人得為執行名義"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 56,
@@ -2583,7 +2583,7 @@ const EXAM_DATA = {
           "D": "法院應以起訴不合法為由，裁定駁回"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 57,
@@ -2595,7 +2595,7 @@ const EXAM_DATA = {
           "D": "受訴法院應以裁定停止訴訟程序\n\n\f代號：3301\n頁次：12－9"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 58,
@@ -2607,7 +2607,7 @@ const EXAM_DATA = {
           "D": "法院改用訴訟程序之裁定，當事人不得聲明不服"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 59,
@@ -2619,7 +2619,7 @@ const EXAM_DATA = {
           "D": "於言詞辯論時，當事人須先經審判長許可後，始得向他造當事人自行發問"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 60,
@@ -2631,7 +2631,7 @@ const EXAM_DATA = {
           "D": "就受訴法院准分割 A 地之本案判決，甲無提起上訴之利益，故其提起之上訴為不合法"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 61,
@@ -2643,7 +2643,7 @@ const EXAM_DATA = {
           "D": "經兩造當事人同意於法院外以書狀為陳述之證人，得以電信傳真，將其書狀傳送於法院"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 62,
@@ -2655,7 +2655,7 @@ const EXAM_DATA = {
           "D": "如法院判決乙應給付甲 6 萬元，應依職權宣告假執行"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 63,
@@ -2667,7 +2667,7 @@ const EXAM_DATA = {
           "D": "受訴法院如得心證認為乙就甲之受害確有未盡法定注意義務之情事，但其損害額難以證明而要酌\n\n定損害額時，既應斟酌已調查證據之結果，亦應說明其得心證之理由\n\n\f代號：3301\n頁次：12－10"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 64,
@@ -2679,7 +2679,7 @@ const EXAM_DATA = {
           "D": "就因通姦所生損害賠償請求，原告獲勝訴者"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 65,
@@ -2691,7 +2691,7 @@ const EXAM_DATA = {
           "D": "法院為甲敗訴之判決時，若乙未聲請為假執行宣告，基於處分權主義之原理，法院不得於判決中逕\n\n為假執行之宣告"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 66,
@@ -2703,7 +2703,7 @@ const EXAM_DATA = {
           "D": "關於夫妻間剩餘財產分配請求事件之調解，經兩造同意者，調解委員得以書面酌定解決事件之調解\n\n條款，經法官核定後，發生與調解成立相同之效力"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 67,
@@ -2715,7 +2715,7 @@ const EXAM_DATA = {
           "D": "如有不可歸責於當事人之事由，法院得不受當事人爭點簡化協議之拘束"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 68,
@@ -2727,7 +2727,7 @@ const EXAM_DATA = {
           "D": "如甲於起訴時表明僅依買賣關係請求乙給付價金，法院應以本訴及反訴非行同種訴訟程序，裁定駁\n\n回反訴\n\n\f69 甲將新臺幣 5,000 元之 A 畫交乙保管後，竟遭乙據為己有而拒絕返還，甲乃訴請乙返還。下列敘述，\n\n代號：3301\n頁次：12－11\n\n何者錯誤？"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 70,
@@ -2739,7 +2739,7 @@ const EXAM_DATA = {
           "D": "甲之訴訟不受影響，法院仍應實體審認乙是否無權占有 A 地，據以判決乙應否返還 A 地"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 71,
@@ -2751,7 +2751,7 @@ const EXAM_DATA = {
           "D": "以本訴為反訴之先決問題為由，裁定停止反訴之訴訟程序"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 72,
@@ -2761,7 +2761,7 @@ const EXAM_DATA = {
           "C": "當事人不得變更其聲明"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 73,
@@ -2773,7 +2773,7 @@ const EXAM_DATA = {
           "D": "當事人不得提起反訴"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 74,
@@ -2785,7 +2785,7 @@ const EXAM_DATA = {
           "D": "對於第二審法院就家事訴訟事件所為判決提起第三審上訴後，第三審法院如認原判決之判決理由\n\n矛盾但不影響原判決結果時，不得廢棄第二審判決"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 75,
@@ -2797,7 +2797,7 @@ const EXAM_DATA = {
           "D": "原告所為訴之變更合法者，可認原訴因撤回而終結，第一審就原訴所為判決，當然失其效力\n\n\f代號：3301\n頁次：12－12"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 76,
@@ -2809,7 +2809,7 @@ const EXAM_DATA = {
           "D": "若甲合法撤回上訴，因乙逾上訴期間始提出附帶上訴，該附帶上訴因甲撤回上訴而失其效力"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 77,
@@ -2821,7 +2821,7 @@ const EXAM_DATA = {
           "D": "出租人以租約到期為理由，得向法院聲請支付命令請求承租人返還房屋"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 78,
@@ -2833,7 +2833,7 @@ const EXAM_DATA = {
           "D": "在甲所提本件訴訟之程序上，乙不得反訴請求法院判決准兩造離婚"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 79,
@@ -2845,7 +2845,7 @@ const EXAM_DATA = {
           "D": "於確認婚姻無效訴訟，就「婚姻是否有效」之原因、事實，法院不受當事人自認所拘束"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 80,
@@ -2857,7 +2857,7 @@ const EXAM_DATA = {
           "D": "法院審酌丙之最佳利益時，應依職權調查一切證據，但無庸讓丙表示意見"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 1,
@@ -2869,7 +2869,7 @@ const EXAM_DATA = {
           "D": "丙不知甲受監護宣告，甲自行與丙訂立之契約有效"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 2,
@@ -2881,7 +2881,7 @@ const EXAM_DATA = {
           "D": "無權代理行為可為負擔行為，亦可為處分行為"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 3,
@@ -2893,7 +2893,7 @@ const EXAM_DATA = {
           "D": "基地租賃承租人請求出租人協同辦理地上權設定登記之請求權"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 4,
@@ -2905,7 +2905,7 @@ const EXAM_DATA = {
           "D": "每位社員皆具有總會召集之權限"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 5,
@@ -2917,7 +2917,7 @@ const EXAM_DATA = {
           "D": "法定代理人代理胎兒受領賠償金後，若胎兒嗣後死產，應返還之"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 6,
@@ -2929,7 +2929,7 @@ const EXAM_DATA = {
           "D": "監護人代理受監護人處分不動產，須經法院許可；動產則否\n\n\f代號：3301\n頁次：12－2"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 7,
@@ -2941,7 +2941,7 @@ const EXAM_DATA = {
           "D": "如乙明知甲內心實無贈與之意，甲乙間之贈與是通謀虛偽表示，故無效"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 8,
@@ -2953,7 +2953,7 @@ const EXAM_DATA = {
           "D": "若乙受丙詐欺，指示甲將鑽石低價出賣給丙，甲所為之代理行為效力未定"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 9,
@@ -2965,7 +2965,7 @@ const EXAM_DATA = {
           "D": "以不行為為目的之請求權，自為行為時起算"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 10,
@@ -2977,7 +2977,7 @@ const EXAM_DATA = {
           "D": "戊"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 11,
@@ -2989,7 +2989,7 @@ const EXAM_DATA = {
           "D": "懸賞廣告為契約之一種，須對特定人為之始有效力"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 12,
@@ -3001,7 +3001,7 @@ const EXAM_DATA = {
           "D": "甲基於乙之不實陳述，而購買乙之房屋"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 13,
@@ -3013,7 +3013,7 @@ const EXAM_DATA = {
           "D": "甲不得對 A 客運公司致贈的慰問金 2 萬元及乙的意外險 5 萬元主張損益相抵\n\n\f14 甲以電子郵件向好友乙表示欲以新臺幣 5 萬元購買其所珍藏之 A 畫，乙於收信後直接將 A 畫郵寄給\n\n代號：3301\n頁次：12－3\n\n甲。下列敘述，何者正確？"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 15,
@@ -3025,7 +3025,7 @@ const EXAM_DATA = {
           "D": "契約履行時，定金應返還或作為給付之一部"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 16,
@@ -3037,7 +3037,7 @@ const EXAM_DATA = {
           "D": "甲將其對丙之債權轉讓給乙後，因不再具備「二人互負債務」之抵銷要件，丙不得對受讓人主張抵銷"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 17,
@@ -3049,7 +3049,7 @@ const EXAM_DATA = {
           "D": "甲對乙應負擔損害賠償責任，因為甲對乙成立締約上過失"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 18,
@@ -3061,7 +3061,7 @@ const EXAM_DATA = {
           "D": "甲遲延辦理所有權移轉登記因而令乙增加稅額之負擔，非屬因遲延而生之損害"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 19,
@@ -3073,7 +3073,7 @@ const EXAM_DATA = {
           "D": "乙丙間之轉租契約無效"
         },
         "year": 109,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 20,
@@ -3085,7 +3085,7 @@ const EXAM_DATA = {
           "D": "甲對丙應負物之瑕疵擔保責任\n\n\f代號：3301\n頁次：12－4"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 21,
@@ -3097,7 +3097,7 @@ const EXAM_DATA = {
           "D": "如出租房屋之期限為 2 年，乙授與甲處理權與代理權須以文字為之"
         },
         "year": 109,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 22,
@@ -3109,7 +3109,7 @@ const EXAM_DATA = {
           "D": "乙駕駛該汽車，因剎車失靈導致車禍，甲對於剎車系統之瑕疵如有故意不告知或保證無瑕疵，始對\n\n乙負賠償責任"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 23,
@@ -3121,7 +3121,7 @@ const EXAM_DATA = {
           "D": "若標的物之品質與貨樣不同時，買受人得依民法第 364 條規定請求另行交付無瑕疵之物"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 24,
@@ -3133,7 +3133,7 @@ const EXAM_DATA = {
           "D": "定作人所供給之材料，因不可抗力而毀損滅失者，承攬人仍應負責"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 25,
@@ -3145,7 +3145,7 @@ const EXAM_DATA = {
           "D": "合夥之決算與分配利益，除契約另有訂定外，應於每屆事務年度終為之"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 26,
@@ -3157,7 +3157,7 @@ const EXAM_DATA = {
           "D": "因甲未受破產宣告，所以保證人乙仍無須負保證之責"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 27,
@@ -3169,7 +3169,7 @@ const EXAM_DATA = {
           "D": "甲、乙、丙間之契約關於不分割之約定，未經登記，甲將應有部分讓與給丁，丁仍受該約定之拘束\n\n\f代號：3301\n頁次：12－5"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 28,
@@ -3181,7 +3181,7 @@ const EXAM_DATA = {
           "D": "乙之普通地上權已成為區分地上權"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 29,
@@ -3193,7 +3193,7 @@ const EXAM_DATA = {
           "D": "甲之土地所有權應經移轉登記乙後，始成為乙所有"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 31,
@@ -3205,7 +3205,7 @@ const EXAM_DATA = {
           "D": "丙清償甲之債務，是履行保證債務，與最高限額抵押權無關"
         },
         "year": 109,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 32,
@@ -3217,7 +3217,7 @@ const EXAM_DATA = {
           "D": "普通抵押權與景觀不動產役權可在同一土地上，同時存在"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 33,
@@ -3229,7 +3229,7 @@ const EXAM_DATA = {
           "D": "第三人於抵押權設定前，就抵押物之從物取得之權利"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 34,
@@ -3241,7 +3241,7 @@ const EXAM_DATA = {
           "D": "精神病不可歸責於甲，故乙女不得撤銷該婚姻\n\n\f代號：3301\n頁次：12－6"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 35,
@@ -3253,7 +3253,7 @@ const EXAM_DATA = {
           "D": "嗣丙實行對 A1 地、A2 地之抵押權，由丁拍定，則丁與乙共有 A 地"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 36,
@@ -3265,7 +3265,7 @@ const EXAM_DATA = {
           "D": "未定有地租之地上權人拋棄地上權"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 37,
@@ -3277,7 +3277,7 @@ const EXAM_DATA = {
           "D": "僅乙、丙、丁"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 38,
@@ -3289,7 +3289,7 @@ const EXAM_DATA = {
           "D": "己與戊無親屬關係"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 39,
@@ -3301,7 +3301,7 @@ const EXAM_DATA = {
           "D": "被繼承人以遺囑託他人代定遺產分割方法"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 40,
@@ -3313,7 +3313,7 @@ const EXAM_DATA = {
           "D": "有效，因第三人丁信賴丙占有 A 電腦之外觀，縱丙無處分權，丁仍取得其所有權"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 40,
@@ -3325,7 +3325,7 @@ const EXAM_DATA = {
           "D": "原告未主張價金請求，法院不得依職權就該價金請求為審理，且就該價金請求不負有闡明義務"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 41,
@@ -3337,7 +3337,7 @@ const EXAM_DATA = {
           "D": "效力未定"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 42,
@@ -3349,7 +3349,7 @@ const EXAM_DATA = {
           "D": "戊與己"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 43,
@@ -3361,7 +3361,7 @@ const EXAM_DATA = {
           "D": "丙得 300 萬元，戊得 300 萬元，己得 300 萬元，庚得 300 萬元"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 44,
@@ -3373,7 +3373,7 @@ const EXAM_DATA = {
           "D": "丙對戊喪失繼承權\n\n\f代號：3301\n頁次：12－7"
         },
         "year": 109,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 45,
@@ -3385,7 +3385,7 @@ const EXAM_DATA = {
           "D": "無人得主張特留分扣減"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 46,
@@ -3397,7 +3397,7 @@ const EXAM_DATA = {
           "D": "100 萬元之遺產全數歸屬丙"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 47,
@@ -3409,7 +3409,7 @@ const EXAM_DATA = {
           "D": "由乙女決定之人"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 48,
@@ -3421,7 +3421,7 @@ const EXAM_DATA = {
           "D": "若地政機關已受理甲之地上權登記申請，在未為登記前，甲占用 A 地仍無正當權源，法院亦不得為\n\n時效取得之實體上裁判"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 49,
@@ -3431,7 +3431,7 @@ const EXAM_DATA = {
           "B": "乙"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 50,
@@ -3443,7 +3443,7 @@ const EXAM_DATA = {
           "D": "丁"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 51,
@@ -3455,7 +3455,7 @@ const EXAM_DATA = {
           "D": "本訴訟之受命法官不得容許兩造所委任為訴訟代理人之律師，在其事務所自行協商並整理爭點後向\n\n受訴法院陳明\n\n\f代號：3301\n頁次：12－8"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 52,
@@ -3467,7 +3467,7 @@ const EXAM_DATA = {
           "D": "上訴之預備撤回"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 53,
@@ -3479,7 +3479,7 @@ const EXAM_DATA = {
           "D": "訴訟救助僅限於原告得為聲請，被告並無聲請權"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 54,
@@ -3491,7 +3491,7 @@ const EXAM_DATA = {
           "D": "受輔助宣告人為捨棄、認諾、撤回或和解時，應得輔助人之同意，且得以言詞聲請書記官記明於筆錄"
         },
         "year": 109,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 55,
@@ -3503,7 +3503,7 @@ const EXAM_DATA = {
           "D": "僅臺灣新竹地方法院有管轄權"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 56,
@@ -3515,7 +3515,7 @@ const EXAM_DATA = {
           "D": "原告就清償借款事件向無管轄權之法院起訴，但被告不抗辯無管轄權而為本案之言詞辯論者，法院\n\n不得再為移送訴訟之裁定"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 57,
@@ -3527,7 +3527,7 @@ const EXAM_DATA = {
           "D": "受輔助宣告之人被訴時，無須經輔助人同意，即得為應訴之訴訟行為"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 58,
@@ -3539,7 +3539,7 @@ const EXAM_DATA = {
           "D": "民事訴訟法上並未有一般促進訴訟義務之規定，而僅規定個別促進訴訟義務而已\n\n\f代號：3301\n頁次：12－9"
         },
         "year": 109,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 59,
@@ -3551,7 +3551,7 @@ const EXAM_DATA = {
           "D": "法院就其所不知之外國法規認無必要依職權調查者"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 60,
@@ -3563,7 +3563,7 @@ const EXAM_DATA = {
           "D": "於第三審審理中，法院得依職權移付調解"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 61,
@@ -3575,7 +3575,7 @@ const EXAM_DATA = {
           "D": "如後訴先於前訴經本案判決確定，後訴敗訴之乙得對之提起再審之訴，主張後訴違反重複起訴禁止\n\n規定，法院未予駁回，適用法律顯有錯誤"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 62,
@@ -3587,7 +3587,7 @@ const EXAM_DATA = {
           "D": "第一審法院以借用物返還請求有理由判決乙敗訴，乙上訴後，第二審法院縱認為借用物返還請求無\n\n理由，亦不得就所有物返還請求權為審判"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 63,
@@ -3599,7 +3599,7 @@ const EXAM_DATA = {
           "D": "對於證據保全聲請之准駁裁定，均得提起抗告"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 64,
@@ -3611,7 +3611,7 @@ const EXAM_DATA = {
           "D": "第一審法院定 107 年 3 月 29 日行言詞辯論，言詞辯論期日通知於 107 年 3 月 9 日合法送達乙，乙\n\n於該日無正當理由未到場，第一審法院得依聲請由甲一造辯論而為判決\n\n\f代號：3301\n頁次：12－10"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 66,
@@ -3623,7 +3623,7 @@ const EXAM_DATA = {
           "D": "本件為非強制調解之事件，甲之調解聲請視為起訴"
         },
         "year": 109,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 67,
@@ -3635,7 +3635,7 @@ const EXAM_DATA = {
           "D": "併依不當得利法律關係，請求乙返還租約到期後繼續占有 A 地之相當於租金之利益"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 68,
@@ -3647,7 +3647,7 @@ const EXAM_DATA = {
           "D": "甲對乙公司起訴請求確認乙公司民國 107 年 3 月 20 日股東臨時會決議不存在後，乙公司另案對甲\n\n起訴，請求確認乙公司 107 年 3 月 20 日股東臨時會決議存在"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 69,
@@ -3659,7 +3659,7 @@ const EXAM_DATA = {
           "D": "在本案審理程序上試行和解時，受訴法院亦得通知第三人參加和解，但其成立之和解，不具有與確\n\n定判決同一之既判力"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 70,
@@ -3671,7 +3671,7 @@ const EXAM_DATA = {
           "D": "在請求裁判分割共有物事件，法院酌定分割方法准予分割，使共有人分別取得單獨所有權之本案判\n\n決，不得依職權宣告假執行\n\n\f代號：3301\n頁次：12－11"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 71,
@@ -3683,7 +3683,7 @@ const EXAM_DATA = {
           "D": "倘甲於再審訴訟程序進行中將 A 畫讓與丙，丙不得在乙所提再審之訴為參加以輔助甲"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 72,
@@ -3695,7 +3695,7 @@ const EXAM_DATA = {
           "D": "甲單獨為原告，列乙為被告，聲明求為判決命乙將 A 地返還予甲、丙及丁，主張：A 地為甲、丙、\n丁等三人所共有，被乙無權占有，為此行使共有地回復請求權云云（本訴訟），此訴訟經判決甲敗\n訴確定後，丙及丁主張彼等均未獲參加本訴訟之機會，而有意訴請撤銷該判決時，不得合併聲明求\n為判決命乙返還 A 地予甲、丙及丁等三人"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 73,
@@ -3707,7 +3707,7 @@ const EXAM_DATA = {
           "D": "當事人依通常訴訟程序委任律師提起第三審上訴，未於上訴狀內表明上訴理由，應於上訴後 20 日\n\n內提出上訴理由書於第二審法院，未提出者，毋庸命其補正，由原第二審法院駁回其上訴"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 74,
@@ -3719,7 +3719,7 @@ const EXAM_DATA = {
           "D": "第二審判命被告向原告清償借款，被告提起第三審上訴後，向原告為清償，並於第三審法院提出清\n\n償抗辯。因該項新防禦方法發生在第二審言詞辯論終結後，可由第三審法院採為判決基礎"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 75,
@@ -3731,7 +3731,7 @@ const EXAM_DATA = {
           "D": "兩造均對第一審判決提起上訴後，一造雖曾撤回上訴，除係經第三審法院發回或發交者外，仍得於\n\n第二審言詞辯論終結前，再為附帶上訴\n\n\f代號：3301\n頁次：12－12"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 76,
@@ -3743,7 +3743,7 @@ const EXAM_DATA = {
           "D": "抗告法院審理假扣押或假處分之抗告，為求迅速，毋庸給當事人陳述意見之機會"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 77,
@@ -3755,7 +3755,7 @@ const EXAM_DATA = {
           "D": "聲請人於申報權利期間期滿後 3 個月內，得聲請法院為除權判決"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 78,
@@ -3767,7 +3767,7 @@ const EXAM_DATA = {
           "D": "數家事訴訟事件，其請求基礎相牽連者，始得合併請求"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 79,
@@ -3779,7 +3779,7 @@ const EXAM_DATA = {
           "D": "此類事件之審理程序，原則上應準用民事訴訟法之規定"
         },
         "year": 109,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 80,
@@ -3791,7 +3791,7 @@ const EXAM_DATA = {
           "D": "家事法院就此二請求為本案審理後，縱使認為甲及乙均有危害未成年子女之慣行時，亦不得為該子\n\n女選定甲及乙以外之人為監護人"
         },
         "year": 109,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 200,
@@ -3815,7 +3815,7 @@ const EXAM_DATA = {
           "D": "甲所為之意思表示，有效；乙所為之意思表示，有效"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 2,
@@ -3827,7 +3827,7 @@ const EXAM_DATA = {
           "D": "抵押權人若認為乙對果園之經營影響其抵押權之實行時，抵押權人聲請法院拍賣時，得聲請法院\n\n除去乙的承租權"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 3,
@@ -3839,7 +3839,7 @@ const EXAM_DATA = {
           "D": "丙明知甲無處分權限但已受領該畫時，如乙承認甲之無權代理或無權處分之行為，丙即取得該畫\n\n之所有權"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 4,
@@ -3851,7 +3851,7 @@ const EXAM_DATA = {
           "D": "甲、乙成立 B 地之買賣契約"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 5,
@@ -3863,7 +3863,7 @@ const EXAM_DATA = {
           "D": "甲須明知或可得而知丙受脅迫而為意思表示，丙始得撤銷之"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 6,
@@ -3875,7 +3875,7 @@ const EXAM_DATA = {
           "D": "甲與丙間之土地所有權移轉無效 \n\n \n \n\f代號：3301 \n頁次：12－2"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 7,
@@ -3887,7 +3887,7 @@ const EXAM_DATA = {
           "D": "甲、乙間只有一個處分行為"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 8,
@@ -3899,7 +3899,7 @@ const EXAM_DATA = {
           "D": "乙得向甲請求銷售產品所得利益 3 倍之懲罰性損害賠償"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 9,
@@ -3911,7 +3911,7 @@ const EXAM_DATA = {
           "D": "取決於全體董事過半數之同意"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 10,
@@ -3923,7 +3923,7 @@ const EXAM_DATA = {
           "D": "事後 3 年，當乙向甲請求賠償 4000 元時，甲馬上賠償乙 4000 元，事後甲後悔，甲仍得請求乙返\n\n還 4000 元"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 11,
@@ -3935,7 +3935,7 @@ const EXAM_DATA = {
           "D": "基於詐害行為之撤銷權，自債權人知有撤銷原因時起，1 年間不行使而消滅"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 12,
@@ -3947,7 +3947,7 @@ const EXAM_DATA = {
           "D": "甲、乙間之土地買賣契約雖未以書面訂立而無效，但因甲已收受定金，契約視為有效"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 13,
@@ -3959,7 +3959,7 @@ const EXAM_DATA = {
           "D": "代理人死亡後，代理權由其繼承人繼承之"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 14,
@@ -3971,7 +3971,7 @@ const EXAM_DATA = {
           "D": "丙僅得依民法第 184 條第 2 項規定，向乙請求損害賠償 \n\n \n\f代號：3301\n頁次：12－3"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 15,
@@ -3983,7 +3983,7 @@ const EXAM_DATA = {
           "D": "甲原有之三隻愛情鳥亦一併遭感染而死亡，對甲而言係屬瑕疵結果損害，甲得依民法第 227 條第 2\n\n項加害給付規定，向乙請求損害賠償"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 16,
@@ -3995,7 +3995,7 @@ const EXAM_DATA = {
           "D": "甲對乙之燒傷應負損害賠償責任"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 17,
@@ -4007,7 +4007,7 @@ const EXAM_DATA = {
           "D": "甲於 2 年內不得提前清償之約定無效"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 18,
@@ -4019,7 +4019,7 @@ const EXAM_DATA = {
           "D": "須甲於贈與行為時明知有損害於債權人之權利，且乙於受贈與時亦知其情事者為限，債權人方得\n\n聲請法院撤銷之"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 19,
@@ -4031,7 +4031,7 @@ const EXAM_DATA = {
           "D": "乙得主張其將借款返還予丙，生清償效力，甲不得對抗之，雖丙非真正債權人"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 20,
@@ -4043,7 +4043,7 @@ const EXAM_DATA = {
           "D": "得依民法第 110 條有關無權代理人責任之規定，向 A 請求損害賠償 \n\n \n\f代號：3301 \n頁次：12－4"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 21,
@@ -4055,7 +4055,7 @@ const EXAM_DATA = {
           "D": "由甲負擔去程之運費，而由乙負擔回程之運費"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 22,
@@ -4067,7 +4067,7 @@ const EXAM_DATA = {
           "D": "甲將 A 屋一部轉租給丙，乙得請求甲返還 A 屋"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 23,
@@ -4079,7 +4079,7 @@ const EXAM_DATA = {
           "D": "須待甲催告乙修補後，甲方得向乙請求賠償受傷所生之損害"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 24,
@@ -4089,7 +4089,7 @@ const EXAM_DATA = {
           "C": "不動產之買入"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 25,
@@ -4101,7 +4101,7 @@ const EXAM_DATA = {
           "D": "提付仲裁"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 26,
@@ -4113,7 +4113,7 @@ const EXAM_DATA = {
           "D": "甲與丙以書面訂立 2 年期租約，訂約之際丙並表示期滿後須另訂契約，租約期滿甲繼續居住"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 27,
@@ -4125,7 +4125,7 @@ const EXAM_DATA = {
           "D": "甲依約所交付之 A 車，如有瑕疵時，在 A 車價值限度內，甲應對乙負物之瑕疵擔保責任"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 28,
@@ -4137,7 +4137,7 @@ const EXAM_DATA = {
           "D": "因買受人乙對違章 B 屋僅有事實上處分權，如該屋嗣後遭侵奪時，乙不得請求返還 B 屋 \n\n \n \n \n\f代號：3301\n頁次：12－5"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 29,
@@ -4149,7 +4149,7 @@ const EXAM_DATA = {
           "D": "共有物分割後，共有人取得分得部分的單獨所有權，其效力係向後發生而非溯及既往"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 30,
@@ -4161,7 +4161,7 @@ const EXAM_DATA = {
           "D": "甲與戊締結 A 地之買賣契約，未經全體共有人同意，效力未定"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 31,
@@ -4173,7 +4173,7 @@ const EXAM_DATA = {
           "D": "地上權之效力，及於附加於該建築物而不具獨立性之部分"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 32,
@@ -4185,7 +4185,7 @@ const EXAM_DATA = {
           "D": "丙聲請拍賣甲分得之部分時，法院得將乙分得部分倂付拍賣"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 33,
@@ -4197,7 +4197,7 @@ const EXAM_DATA = {
           "D": "遲延利息"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 34,
@@ -4209,7 +4209,7 @@ const EXAM_DATA = {
           "D": "丙在 A 地所有權移轉於乙前，不得清償乙對甲之消費借貸債權，以消滅該抵押權"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 35,
@@ -4221,7 +4221,7 @@ const EXAM_DATA = {
           "D": "丁借用 A 地設置停車場，若影響抵押權實行，法院得終止該使用借貸關係後拍賣之"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 36,
@@ -4233,7 +4233,7 @@ const EXAM_DATA = {
           "D": "租賃權 \n\n \n\f代號：3301 \n頁次：12－6"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 37,
@@ -4245,7 +4245,7 @@ const EXAM_DATA = {
           "D": "乙又將該電腦賣給丁，屬於無權處分，雖以所有權保留方式交付給丁，若丁為善意，丁仍可取得\n\n所有權"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 38,
@@ -4257,7 +4257,7 @@ const EXAM_DATA = {
           "D": "甲、乙之間為旁系血親六親等，民法並未禁止其結婚"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 39,
@@ -4267,7 +4267,7 @@ const EXAM_DATA = {
           "B": "婚姻視為消滅"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 40,
@@ -4279,7 +4279,7 @@ const EXAM_DATA = {
           "D": "離婚"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 41,
@@ -4291,7 +4291,7 @@ const EXAM_DATA = {
           "D": "依協議或裁判決定由父行使親權之後，母得舉證父對子女有不利之情事，請求法院改定行使親權\n\n之人"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 42,
@@ -4301,7 +4301,7 @@ const EXAM_DATA = {
           "C": "生父被脅迫認領其非婚生子女"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 43,
@@ -4313,7 +4313,7 @@ const EXAM_DATA = {
           "D": "繼承人被脅迫拋棄繼承"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 44,
@@ -4325,7 +4325,7 @@ const EXAM_DATA = {
           "D": "法院選定監護人時，不得有二人以上之監護人，以免執行職務時發生衝突"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 45,
@@ -4337,7 +4337,7 @@ const EXAM_DATA = {
           "D": "萬元 \n\n \n \n\f代號：3301\n頁次：12－7"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 46,
@@ -4349,7 +4349,7 @@ const EXAM_DATA = {
           "D": "被繼承人之配偶與被繼承人之父母共同繼承時，按人數平均繼承"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 47,
@@ -4361,7 +4361,7 @@ const EXAM_DATA = {
           "D": "不能維持生活且無謀生能力之人，對其特定親屬之扶養請求權"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 48,
@@ -4373,7 +4373,7 @@ const EXAM_DATA = {
           "D": "萬元"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 49,
@@ -4385,7 +4385,7 @@ const EXAM_DATA = {
           "D": "乙喪失限定繼承之利益，丁得對乙請求清償債務全額 50 萬元"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 50,
@@ -4397,7 +4397,7 @@ const EXAM_DATA = {
           "D": "無此種方式之遺囑"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 51,
@@ -4409,7 +4409,7 @@ const EXAM_DATA = {
           "D": "當事人就其所主張爭點為簡化之協議者，法院與當事人均受拘束，且法院依該協議為判決者，應\n\n為假執行之宣告"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 52,
@@ -4421,7 +4421,7 @@ const EXAM_DATA = {
           "D": "地為甲、乙、丙共有，遭丁無權占有，甲以自己之名義為原告，基於所有物返還請求權，請求\n丁返還 A 地予全體共有人，經法院認定丁非無權占有，以甲之請求為無理由而判決甲敗訴確定後，\n丙一律得以自己之名義為原告，就同一事由，基於所有物返還請求權，另起訴請求丁返還 A 地予丙 \n\n \n\f代號：3301 \n頁次：12－8"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 53,
@@ -4433,7 +4433,7 @@ const EXAM_DATA = {
           "D": "第三人之訴訟參加，如其未具有法律上利害關係者，法院得依職權裁定駁回"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 54,
@@ -4445,7 +4445,7 @@ const EXAM_DATA = {
           "D": "甲於向最高法院提起抗告之同時，縱繳清追加之訴之裁判費，其抗告仍為無理由"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 55,
@@ -4457,7 +4457,7 @@ const EXAM_DATA = {
           "D": "經法院以訴訟代理人未經合法授權為由，裁定駁回其訴後，原告仍得再行起訴"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 56,
@@ -4469,7 +4469,7 @@ const EXAM_DATA = {
           "D": "調解程序中，調解委員之勸導及當事人所為之陳述或讓步，於調解不成立後之本案訴訟，不得採\n\n為裁判之基礎"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 57,
@@ -4481,7 +4481,7 @@ const EXAM_DATA = {
           "D": "受命法官勘驗 A 機器期日前，曾通知兩造到場，兩造均已收受通知，屆期甲未到場，受命法官仍\n\n得進行勘驗程序"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 58,
@@ -4493,7 +4493,7 @@ const EXAM_DATA = {
           "D": "如丙受裁罰後，仍拒不提出，法院得審酌乙、丙之關係，認甲主張乙有短報營業額之事實為真實 \n\n \n\f代號：3301\n頁次：12－9"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 59,
@@ -4505,7 +4505,7 @@ const EXAM_DATA = {
           "D": "受訴法院經訊問證人丙之結果，形成心證認為甲就爭點所涉損害之發生亦與有過失時，應將此心\n\n證之內容，使當事人有辯論之機會後，才可據該心證為本案判決之基礎資料"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 60,
@@ -4517,7 +4517,7 @@ const EXAM_DATA = {
           "D": "在甲向受訴法院表明撤回本訴訟後，如乙要撤回其請求甲交付買賣標的物之反訴，應得甲之同意"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 61,
@@ -4529,7 +4529,7 @@ const EXAM_DATA = {
           "D": "提起上訴時未繳納上訴裁判費而不依法院之命補繳之情形"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 62,
@@ -4541,7 +4541,7 @@ const EXAM_DATA = {
           "D": "於本案訴訟繫屬後繼受訴訟標的法律關係之人，得單獨為被繼受之敗訴當事人提起上訴"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 63,
@@ -4553,7 +4553,7 @@ const EXAM_DATA = {
           "D": "若甲知悉 A 為非婚生子女逾 2 年，不得再提起否認子女之訴"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 64,
@@ -4565,7 +4565,7 @@ const EXAM_DATA = {
           "D": "甲請求乙賠償因乙與他人通姦致甲所生之精神損害 \n\n \n\f代號：3301 \n頁次：12－10"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 65,
@@ -4577,7 +4577,7 @@ const EXAM_DATA = {
           "D": "設丙於訴訟程序進行中死亡，乙之父母不得於法定期間內聲明承受訴訟"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 66,
@@ -4589,7 +4589,7 @@ const EXAM_DATA = {
           "D": "法院以某證人證言為基礎，為被告不利之判決，被告上訴並告發證人涉犯偽證罪，第二審法院仍\n以該證人證詞為據，駁回被告之上訴，如該證人於第二審言詞辯論後經檢察官以偽證罪嫌提起公\n訴，被告得以法院未裁定停止訴訟，訴訟程序違背法令為由提起第三審上訴"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 67,
@@ -4601,7 +4601,7 @@ const EXAM_DATA = {
           "D": "家事法院為選任遺產管理人之裁定後，察知其有不適任之情事時，應經抗告程序求為重新選任，\n\n而不得由原法院自行予以變更或撤銷"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 68,
@@ -4613,7 +4613,7 @@ const EXAM_DATA = {
           "D": "甲或乙收受支付命令後，於法定期間內聲明異議，應附具理由"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 69,
@@ -4625,7 +4625,7 @@ const EXAM_DATA = {
           "D": "甲向法院聲請假扣押裁定獲准，乙對此裁定不得聲明不服 \n\n \n\f代號：3301\n頁次：12－11"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 70,
@@ -4637,7 +4637,7 @@ const EXAM_DATA = {
           "D": "在未成年人甲請求否認乙為其生父之事件調解程序進行中，家事法院斟酌兩造間對於互無血緣關\n係之事實不甚爭執，乃依兩造聲請為該項否認之裁定，終告確定。對於此項裁定，甲之生母丙如\n果已經參與該裁定程序者，亦得聲請再審"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 71,
@@ -4649,7 +4649,7 @@ const EXAM_DATA = {
           "D": "甲提起上訴後，第二審法院倘認甲先位聲明之請求為有理由時，應將第一審判決全部廢棄，改判\n\n乙應交付 K 機械設備一台予甲"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 72,
@@ -4661,7 +4661,7 @@ const EXAM_DATA = {
           "D": "法院認為丙之訴為有理由而判決其勝訴確定時，甲及乙即不受原判決（本訴訟之確定判決）之效\n\n力所拘束"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 73,
@@ -4673,7 +4673,7 @@ const EXAM_DATA = {
           "D": "丙對甲所為之捨棄，效力及於乙"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 74,
@@ -4685,7 +4685,7 @@ const EXAM_DATA = {
           "D": "如乙在爭點整理程序上主張其未向甲購買 A 車時，受訴法院應即以甲未盡事實主張具體化義務（陳\n\n述義務）為由，駁回甲之訴訟上請求 \n\n \n\f代號：3301 \n頁次：12－12"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 75,
@@ -4697,7 +4697,7 @@ const EXAM_DATA = {
           "D": "就某應證事實承認其為真實之當事人一造，事後縱使經他造同意且證明與事實不符，亦不得撤銷\n\n該項承認"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 76,
@@ -4709,7 +4709,7 @@ const EXAM_DATA = {
           "D": "受原告委任為訴訟代理人之律師，於準備書狀就原告請求所依據之事實及證據為記載（陳述）時，\n\n受訴法院亦需斟酌該事實與證據間之關聯性及調查必要性"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 77,
@@ -4721,7 +4721,7 @@ const EXAM_DATA = {
           "D": "依簡易訴訟程序命被告給付新臺幣 100 萬元之判決"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 78,
@@ -4733,7 +4733,7 @@ const EXAM_DATA = {
           "D": "在本訴訟經判決認定丙無代理權而駁回甲之訴確定後，如甲又列丙為被告提起後訴訟請求無權代\n理之損害賠償，則丙不論有無參加本訴訟之機會，就該確定判決有關丙無代理權之認定內容，不\n得再事爭執"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 79,
@@ -4745,7 +4745,7 @@ const EXAM_DATA = {
           "D": "丙因非前訴之當事人，故不受甲、乙間之判決效力所及"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 80,
@@ -4757,7 +4757,7 @@ const EXAM_DATA = {
           "D": "原告甲以住居於臺南市之乙為被告，向無管轄權之臺灣臺中地方法院起訴，請求判決命乙賠償因\n\n其在臺北市加害甲所生損害。在本案審理前，甲與乙得合意由該法院審理、判決"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 1,
@@ -4769,7 +4769,7 @@ const EXAM_DATA = {
           "D": "須以社團法人為行使撤銷權之相對人"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 2,
@@ -4781,7 +4781,7 @@ const EXAM_DATA = {
           "D": "經乙承認後有效"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 3,
@@ -4793,7 +4793,7 @@ const EXAM_DATA = {
           "D": "債務人有拒絕給付之抗辯權"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 4,
@@ -4805,7 +4805,7 @@ const EXAM_DATA = {
           "D": "買賣標的物瑕疵之價金減少請求權"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 5,
@@ -4817,7 +4817,7 @@ const EXAM_DATA = {
           "D": "丙使用 A 地種植水稻，但未給付任何租金於甲"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 6,
@@ -4829,7 +4829,7 @@ const EXAM_DATA = {
           "D": "乙僅就現受利益 500 萬元負返還予甲之責"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 7,
@@ -4841,7 +4841,7 @@ const EXAM_DATA = {
           "D": "乙、丙、丁都是甲之繼承人 \n\n \n \n \n\f代號：3301 \n頁次：12－2"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 8,
@@ -4853,7 +4853,7 @@ const EXAM_DATA = {
           "D": "甲、乙之所有權讓與合意附解除條件"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 9,
@@ -4865,7 +4865,7 @@ const EXAM_DATA = {
           "D": "若乙所為之行為逾越其代理權，成立無權處分"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 10,
@@ -4877,7 +4877,7 @@ const EXAM_DATA = {
           "D": "因甲仍為該屋所有人，故甲得向乙請求返還該屋"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 11,
@@ -4889,7 +4889,7 @@ const EXAM_DATA = {
           "D": "若乙不承認甲代為與丙訂定之買賣契約，丙可向甲請求損害賠償"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 12,
@@ -4901,7 +4901,7 @@ const EXAM_DATA = {
           "D": "醫療院所不得洩漏就醫者之隱私"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 13,
@@ -4913,7 +4913,7 @@ const EXAM_DATA = {
           "D": "甲為使公務員乙為違背職務之行為，而交付之款項"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 14,
@@ -4925,7 +4925,7 @@ const EXAM_DATA = {
           "D": "由甲單獨對乙負擔損害賠償責任，因甲於行為時無識別能力"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 15,
@@ -4937,7 +4937,7 @@ const EXAM_DATA = {
           "D": "甲付清新臺幣 3 萬元之價金時 \n\n \n\f代號：3301\n頁次：12－3"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 16,
@@ -4949,7 +4949,7 @@ const EXAM_DATA = {
           "D": "乙為保全全體債權人之債權，得以自己之名義，代位甲請求戊塗銷不動產移轉登記"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 17,
@@ -4961,7 +4961,7 @@ const EXAM_DATA = {
           "D": "若乙業已返還借款予甲，乙得以此為由對抗丙"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 18,
@@ -4973,7 +4973,7 @@ const EXAM_DATA = {
           "D": "在甲移轉登記不動產給乙前，甲、乙間之約定無效"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 19,
@@ -4985,7 +4985,7 @@ const EXAM_DATA = {
           "D": "甲與乙間之買賣契約生效，惟若該音響設備有瑕疵，甲不負物之瑕疵擔保責任"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 20,
@@ -4997,7 +4997,7 @@ const EXAM_DATA = {
           "D": "乙得向丙請求給付租金，因乙、丙間依法有租賃關係"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 21,
@@ -5009,7 +5009,7 @@ const EXAM_DATA = {
           "D": "乙定相當期限催告甲處理仍無結果後，乙得解除契約，並得請求賠償因契約解除而生之損害"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 22,
@@ -5021,7 +5021,7 @@ const EXAM_DATA = {
           "D": "洗手台破裂雖非甲所造成，乙仍得向甲請求損害賠償 \n\n \n\f代號：3301 \n頁次：12－4"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 23,
@@ -5031,7 +5031,7 @@ const EXAM_DATA = {
           "C": "出名營業人受監護宣告"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 24,
@@ -5043,7 +5043,7 @@ const EXAM_DATA = {
           "D": "隱名合夥人受破產之宣告"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 25,
@@ -5055,7 +5055,7 @@ const EXAM_DATA = {
           "D": "甲通知 A 銀行終止保證契約時，即對所有債務不負保證責任"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 26,
@@ -5067,7 +5067,7 @@ const EXAM_DATA = {
           "D": "若乙有故意傷害甲身體之行為，而乙又已死亡者，甲即不得對乙之繼承人撤銷此一贈與契約"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 27,
@@ -5079,7 +5079,7 @@ const EXAM_DATA = {
           "D": "甲、乙之約定為無償使用借貸"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 28,
@@ -5091,7 +5091,7 @@ const EXAM_DATA = {
           "D": "甲對丙有償還借款之義務"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 29,
@@ -5103,7 +5103,7 @@ const EXAM_DATA = {
           "D": "有關相鄰關係之法律規定乃強行規定，當事人不得作相反之約定"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 30,
@@ -5115,7 +5115,7 @@ const EXAM_DATA = {
           "D": "法院之分割應斟酌共有物之性質及價格，依當事人主張的方法分配 \n\n \n\f代號：3301\n頁次：12－5"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 31,
@@ -5127,7 +5127,7 @@ const EXAM_DATA = {
           "D": "甲得以乙為被告，訴請法院判決分割共有土地，並應依南北方向平分"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 32,
@@ -5139,7 +5139,7 @@ const EXAM_DATA = {
           "D": "甲如因分割應補償金錢給丙，丙就其補償金額，對於 A1 有抵押權；丁移存於 A1 之抵押權次序優先"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 33,
@@ -5151,7 +5151,7 @@ const EXAM_DATA = {
           "D": "甲未得乙之同意設定之不動產役權，不得在乙之土地上為登記"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 34,
@@ -5163,7 +5163,7 @@ const EXAM_DATA = {
           "D": "增建之 C 廚房"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 35,
@@ -5175,7 +5175,7 @@ const EXAM_DATA = {
           "D": "抵押物滅失後，如有殘餘物，乙不得請求占有"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 36,
@@ -5187,7 +5187,7 @@ const EXAM_DATA = {
           "D": "乙就該物為無權占有"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 37,
@@ -5199,7 +5199,7 @@ const EXAM_DATA = {
           "D": "甲對該房屋一間與乙之占有關係，是為自己創設占有輔助關係 \n\n \n \n\f代號：3301 \n頁次：12－6"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 38,
@@ -5211,7 +5211,7 @@ const EXAM_DATA = {
           "D": "婚姻因被詐欺而撤銷，其撤銷之效力不溯及既往"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 39,
@@ -5223,7 +5223,7 @@ const EXAM_DATA = {
           "D": "旁系血親六親等"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 40,
@@ -5235,7 +5235,7 @@ const EXAM_DATA = {
           "D": "受輔助宣告之人為汽車之處分或設定負擔，應經輔助人之同意"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 41,
@@ -5247,7 +5247,7 @@ const EXAM_DATA = {
           "D": "夫或妻婚前財產於婚姻關係存續中所生之孳息視為婚前財產"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 42,
@@ -5259,7 +5259,7 @@ const EXAM_DATA = {
           "D": "若甲與丙因善意且無過失信賴甲、乙之離婚確定判決而結婚，甲、丙之婚姻有效，甲、乙之婚姻\n\n自甲、丙婚姻成立之日起，視為消滅"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 43,
@@ -5271,7 +5271,7 @@ const EXAM_DATA = {
           "D": "甲男生前被乙收養，甲死後，養父乙聲請法院許可終止收養"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 44,
@@ -5283,7 +5283,7 @@ const EXAM_DATA = {
           "D": "由於丙、丁為戊之祖父母，所以丙、丁不得針對監護事務請求報酬"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 46,
@@ -5295,7 +5295,7 @@ const EXAM_DATA = {
           "D": "繼承人雖對被繼承人之債務，以繼承所得遺產為限負連帶清償責任，但於法院公示催告債權人申\n\n報債權期間，繼承人不得對任何債權人償還債務"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 47,
@@ -5307,7 +5307,7 @@ const EXAM_DATA = {
           "D": "將各自對遺產三分之一之應繼分出售予第三人戊，使遺產為丁、戊共有"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 48,
@@ -5319,7 +5319,7 @@ const EXAM_DATA = {
           "D": "乙、丙、丁、戊均為歸扣權利人"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 49,
@@ -5331,7 +5331,7 @@ const EXAM_DATA = {
           "D": "丙繼承 90 萬元"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 50,
@@ -5343,7 +5343,7 @@ const EXAM_DATA = {
           "D": "由乙與丙之繼承人共同取得該 100 萬元"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 51,
@@ -5355,7 +5355,7 @@ const EXAM_DATA = {
           "D": "某大學同學會已經辦妥法人登記在案，其會員甲有意主張該同學會於某年月日所作成之某項大會\n\n決議在召集程序上有重大瑕疵而得予以撤銷時，得起訴列該同學會為被告、其理事長乙為法定代\n理人，聲明求為判決：該決議應予撤銷 \n\n \n\f代號：3301 \n頁次：12－8"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 52,
@@ -5367,7 +5367,7 @@ const EXAM_DATA = {
           "D": "如甲就本訴訟獲敗訴判決確定，而丙就本訴訟未曾受訴訟告知，則丙尚得提起同一訴訟以求救濟"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 53,
@@ -5379,7 +5379,7 @@ const EXAM_DATA = {
           "D": "當事人主張之事實，經他造於準備書狀內或言詞辯論時或在受命法官、受託法官前自認者，無庸\n\n舉證"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 54,
@@ -5391,7 +5391,7 @@ const EXAM_DATA = {
           "D": "在財產權訟爭事件，受訴法院之審判長依民事訴訟法所選任之特別代理人"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 55,
@@ -5403,7 +5403,7 @@ const EXAM_DATA = {
           "D": "在本票之發票人拒不依執票人之請求為履行時，執票人起訴請求給付本票票款"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 56,
@@ -5415,7 +5415,7 @@ const EXAM_DATA = {
           "D": "在被告丙於 106 年 4 月 3 日已經將其應有部分為戊銀行設定抵押權登記，又於 106 年 5 月 3 日將\n\n其應有部分移轉登記予丁之情形，本訴訟之受訴法院除依職權將本訴訟繫屬程度通知丁外，亦得\n\n通知戊 \n\n \n\f代號：3301\n頁次：12－9"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 57,
@@ -5427,7 +5427,7 @@ const EXAM_DATA = {
           "D": "訴訟標的對於數人必須合一確定而應共同起訴，如其中一人拒絕同為原告而無正當理由者，法院\n\n應依職權命該未起訴之人於一定期間內追加為原告，逾期未追加者，視為已一同起訴"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 58,
@@ -5439,7 +5439,7 @@ const EXAM_DATA = {
           "D": "依選定當事人制度所選出之被選定人有數人者，其中一人死亡時，法院得依聲請裁定停止訴訟程序"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 59,
@@ -5451,7 +5451,7 @@ const EXAM_DATA = {
           "D": "該訴訟程序當然停止"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 60,
@@ -5463,7 +5463,7 @@ const EXAM_DATA = {
           "D": "由書記官以處分更正"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 61,
@@ -5475,7 +5475,7 @@ const EXAM_DATA = {
           "D": "④①②③"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 62,
@@ -5487,7 +5487,7 @@ const EXAM_DATA = {
           "D": "甲在本案審理過程向法院承認丙曾經在訴訟外受丁賠償 10 萬元時，縱使丙當時未到庭在場見證，\n\n甲所為該項承認僅就丙請求損害賠償部分對受訴法院生拘束力"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 63,
@@ -5499,7 +5499,7 @@ const EXAM_DATA = {
           "D": "當事人無正當理由不到場者，法院得以裁定處罰鍰"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 64,
@@ -5511,7 +5511,7 @@ const EXAM_DATA = {
           "D": "法院選任經兩造合意之鑑定人者，其所出具之鑑定意見書，法院應受拘束 \n\n \n \n\f代號：3301 \n頁次：12－10"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 65,
@@ -5523,7 +5523,7 @@ const EXAM_DATA = {
           "D": "具有法律上利害關係之第三人，非因可歸責於自己之事由，未參加和解或調解者，得對已成立之\n\n和解或調解，提起第三人撤銷訴訟"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 66,
@@ -5535,7 +5535,7 @@ const EXAM_DATA = {
           "D": "甲於言詞辯論期日始聲明證據而偕同證人丙到場，聲請訊問丙以證明甲、乙消費借貸之經過，法\n\n院見丙已到場，為免證人多次奔波，乃訊問之，訊問後得由甲一造辯論而為判決"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 67,
@@ -5547,7 +5547,7 @@ const EXAM_DATA = {
           "D": "在請求金錢賠償損害之訴，原告於起訴時，應於訴狀內表明全部請求金額，如僅表明在原因事實\n\n範圍內全部請求之最低金額，係屬起訴不合程式"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 68,
@@ -5559,7 +5559,7 @@ const EXAM_DATA = {
           "D": "在甲為履行損害賠償債務而簽發某面額支票交付乙作為清償方法後，甲、乙間成立乙在甲不履行\n\n債務時，僅得以該損害賠償請求權（不以票款支付請求權）為訴訟標的起訴之協議"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 69,
@@ -5571,7 +5571,7 @@ const EXAM_DATA = {
           "D": "在原告甲對被告乙訴請返還借款事件，事實審言詞辯論終結後對該借款債權為抵銷之事實 \n\n \n\f代號：3301\n頁次：12－11"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 70,
@@ -5583,7 +5583,7 @@ const EXAM_DATA = {
           "D": "在有選定當事人之情形，其選定人之表明"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 71,
@@ -5595,7 +5595,7 @@ const EXAM_DATA = {
           "D": "對於第一審法院就簡易訴訟事件適用通常訴訟程序所為終局判決，經上訴於第二審法院後，其審\n\n理應適用通常訴訟程序"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 72,
@@ -5607,7 +5607,7 @@ const EXAM_DATA = {
           "D": "當事人不遵審判長所命預納費用，致訴訟無從進行，他造亦不遵期墊支費用時，視為合意停止訴\n\n訟程序。逾期 4 個月仍未預納或墊支者，視為撤回其訴"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 73,
@@ -5619,7 +5619,7 @@ const EXAM_DATA = {
           "D": "甲依據買賣契約起訴請求乙移轉 A 地所有權，第二審法院審理時，乙抗辯甲尚有價金 300 萬元未\n給付，第二審法院判命乙應於甲給付 300 萬元之同時，將 A 地所有權移轉登記與甲，甲僅就命其\n給付逾 100 萬元部分提起上訴，第三審法院認甲之上訴有理由時，應將第二審判決全部廢棄發回"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 74,
@@ -5631,7 +5631,7 @@ const EXAM_DATA = {
           "D": "於確定判決發生對世效之情形，不得依第三人撤銷訴訟程序請求救濟"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 75,
@@ -5643,7 +5643,7 @@ const EXAM_DATA = {
           "D": "訴訟經第三審法院為發回判決者，上訴人於發回後之第二審程序，不得擴張上訴聲明 \n\n \n\f代號：3301 \n頁次：12－12"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 76,
@@ -5655,7 +5655,7 @@ const EXAM_DATA = {
           "D": "原告撤回上訴後，法院應退還其所繳納第二審之全部裁判費"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 77,
@@ -5667,7 +5667,7 @@ const EXAM_DATA = {
           "D": "乙收受支付命令後，聲明異議時應附具理由"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 78,
@@ -5679,7 +5679,7 @@ const EXAM_DATA = {
           "D": "甲知悉 A 並非婚生子女已逾 2 年，不得再提起確認親子關係不存在之訴"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 79,
@@ -5691,7 +5691,7 @@ const EXAM_DATA = {
           "D": "本件離婚訴訟繫屬中，甲因意外死亡，此時離婚訴訟程序當然停止"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 80,
@@ -5703,7 +5703,7 @@ const EXAM_DATA = {
           "D": "在本案審理過程，乙得請求裁判確認甲、乙間之婚姻關係不存在。此時，兩造不得合意由原法院\n\n適用原非訟程序審理乙之請求"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 170,
@@ -5727,7 +5727,7 @@ const EXAM_DATA = {
           "D": "A 醫院及其所屬醫護人員，不得擔任甲受監護宣告後之監護人"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 2,
@@ -5739,7 +5739,7 @@ const EXAM_DATA = {
           "D": "無效，但不得對抗善意之乙"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 3,
@@ -5751,7 +5751,7 @@ const EXAM_DATA = {
           "D": "乙與丙間關於 G 土地之買賣契約無效；丙可以取得 G 土地之所有權"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 4,
@@ -5763,7 +5763,7 @@ const EXAM_DATA = {
           "D": "乙得免除相對人之部分債務"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 5,
@@ -5775,7 +5775,7 @@ const EXAM_DATA = {
           "D": "聲請法院酌定之"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 6,
@@ -5787,7 +5787,7 @@ const EXAM_DATA = {
           "D": "乙已將 80 萬元遺產全部用於清償對丁之債務而無剩餘，故丙不得再請求乙清償 \n\n \n \n \n \n\f代號：3301 \n頁次：12－2"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 7,
@@ -5799,7 +5799,7 @@ const EXAM_DATA = {
           "D": "1 年"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 8,
@@ -5811,7 +5811,7 @@ const EXAM_DATA = {
           "D": "甲與丙間之買賣契約有效，雖甲與丙間並無特約，甲仍須負權利瑕疵擔保責任"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 9,
@@ -5823,7 +5823,7 @@ const EXAM_DATA = {
           "D": "乙得向甲請求返還該波斯貓之所有權"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 10,
@@ -5835,7 +5835,7 @@ const EXAM_DATA = {
           "D": "丙不得向甲請求給付租金，因甲、丙間無租賃關係"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 11,
@@ -5847,7 +5847,7 @@ const EXAM_DATA = {
           "D": "甲與丙間之買賣契約仍為有效，惟丙得對甲行使權利瑕疵擔保請求權"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 13,
@@ -5859,7 +5859,7 @@ const EXAM_DATA = {
           "D": "甲贈與乙有瑕疵之車，因乙使用該車致生損害 \n\n \n\f14  甲、乙、丙三人合夥經營一家冰店，若其合夥財產不足清償合夥債務，對此等不足之額，法律效果\n\n代號：3301\n頁次：12－3\n\n如何？"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 15,
@@ -5871,7 +5871,7 @@ const EXAM_DATA = {
           "D": "甲對於出價最高之應買表示，得不為賣定之表示"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 16,
@@ -5883,7 +5883,7 @@ const EXAM_DATA = {
           "D": "借款債權罹於時效時，其效力及於利息債權"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 17,
@@ -5895,7 +5895,7 @@ const EXAM_DATA = {
           "D": "甲得向乙請求交付一包 A 牌豆干，惟應將該包 B 牌豆干返還予乙"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 18,
@@ -5907,7 +5907,7 @@ const EXAM_DATA = {
           "D": "此一債務承擔契約縱經乙之同意，丙仍應將上開 10 萬元借款返還予甲"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 19,
@@ -5919,7 +5919,7 @@ const EXAM_DATA = {
           "D": "駕駛機車有過失致坐於後座之人被他人駕駛之車撞死者，駕駛機車之人並非後座之人之使用人"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 20,
@@ -5931,7 +5931,7 @@ const EXAM_DATA = {
           "D": "甲對丙固負支付價金之債務，惟甲得請求乙代其清償對丙之此一價金債務 \n\n \n\f代號：3301 \n頁次：12－4"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 21,
@@ -5943,7 +5943,7 @@ const EXAM_DATA = {
           "D": "丙得向甲請求因乙不能履行演唱義務之損失"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 22,
@@ -5955,7 +5955,7 @@ const EXAM_DATA = {
           "D": "承"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 23,
@@ -5967,7 +5967,7 @@ const EXAM_DATA = {
           "D": "因本人丙惡意，故代理人丁善意取得畫之所有權"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 24,
@@ -5979,7 +5979,7 @@ const EXAM_DATA = {
           "D": "乙得請求甲償還 1 萬元醫療費用"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 25,
@@ -5991,7 +5991,7 @@ const EXAM_DATA = {
           "D": "該違章建築遭受他人不法侵害，丙得主張侵權行為損害賠償請求權"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 26,
@@ -6003,7 +6003,7 @@ const EXAM_DATA = {
           "D": "最高限額抵押權所擔保之債權，請求權時效已消滅，且抵押權人在時效消滅後五年期間內不實行\n\n抵押權者，該債權不再屬於最高限額抵押權擔保範圍 \n\n \n \n\f代號：3301\n頁次：12－5"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 27,
@@ -6015,7 +6015,7 @@ const EXAM_DATA = {
           "D": "A、B 二地不得請求合併分割，因二地不相鄰"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 28,
@@ -6027,7 +6027,7 @@ const EXAM_DATA = {
           "D": "地上權因存續期間屆滿而消滅者"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 29,
@@ -6039,7 +6039,7 @@ const EXAM_DATA = {
           "D": "婚姻無效時，雙方當事人不得適用夫妻財產制之規定而相互清算各自之財產"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 30,
@@ -6051,7 +6051,7 @@ const EXAM_DATA = {
           "D": "無親屬關係"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 31,
@@ -6063,7 +6063,7 @@ const EXAM_DATA = {
           "D": "他方受徒刑之宣告"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 32,
@@ -6075,7 +6075,7 @@ const EXAM_DATA = {
           "D": "剩餘財產較少之一方先死亡時"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 33,
@@ -6087,7 +6087,7 @@ const EXAM_DATA = {
           "D": "非婚生子女經生父認領後，其親權之行使得由生父與生母共同協議之"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 35,
@@ -6099,7 +6099,7 @@ const EXAM_DATA = {
           "D": "繼承開始時 \n\n \n \n \n \n\f代號：3301 \n頁次：12－6"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 36,
@@ -6111,7 +6111,7 @@ const EXAM_DATA = {
           "D": "九分之一"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 37,
@@ -6123,7 +6123,7 @@ const EXAM_DATA = {
           "D": "被代位繼承人拋棄繼承者，不發生代位繼承問題"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 38,
@@ -6135,7 +6135,7 @@ const EXAM_DATA = {
           "D": "抵押擔保之債務、遺贈、付買屋之價款"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 39,
@@ -6147,7 +6147,7 @@ const EXAM_DATA = {
           "D": "原告王長青即長青電氣行"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 40,
@@ -6159,7 +6159,7 @@ const EXAM_DATA = {
           "D": "甲對乙提起給付工程款之本訴，乙對甲提出借款債權之抵銷抗辯，並就抵銷餘額部分提出返還借\n\n款之反訴"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 41,
@@ -6171,7 +6171,7 @@ const EXAM_DATA = {
           "D": "甲得以訴訟救助聲請之裁定尚未確定，認法院尚不應裁定限期命補正為由，對命補正之裁定提起\n\n抗告"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 42,
@@ -6183,7 +6183,7 @@ const EXAM_DATA = {
           "D": "給付訴訟僅能以實體法上權利義務歸屬主體為原、被告 \n\n \n \n\f代號：3301\n頁次：12－7"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 43,
@@ -6195,7 +6195,7 @@ const EXAM_DATA = {
           "D": "如從上訴人所提出之上訴理由，第三審法院認為該上訴理由雖非當然違背法令之事由，但涉及法\n\n律問題而有須確保裁判之一致性時，即得許可其上訴"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 44,
@@ -6207,7 +6207,7 @@ const EXAM_DATA = {
           "D": "在本訴訟之程序上，若甲及乙一致承認協議離婚時並無證人在場見聞之事實，法院尚應依職權調\n\n查證據而為事實之認定"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 45,
@@ -6219,7 +6219,7 @@ const EXAM_DATA = {
           "D": "在未成年人甲對其父乙請求扶養之事件，法院為甲所選任之程序監理人丙已向法院表明有意與乙\n\n成立和解，但甲卻表示不同意和解時，法院應即以甲之表意為準決定和解不成立"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 46,
@@ -6231,7 +6231,7 @@ const EXAM_DATA = {
           "D": "在丙爭執甲之繼承權時，丙得於甲所提訴訟之第一審程序中提起反訴，請求法院判決確認甲之繼\n\n承權不存在 \n\n \n\f代號：3301 \n頁次：12－8"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 47,
@@ -6243,7 +6243,7 @@ const EXAM_DATA = {
           "D": "臺灣苗栗地方法院"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 48,
@@ -6255,7 +6255,7 @@ const EXAM_DATA = {
           "D": "前開支付命令已送達予乙，乙未於法定期間合法提出異議，僅發生執行力，不發生既判力"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 49,
@@ -6267,7 +6267,7 @@ const EXAM_DATA = {
           "D": "訴訟程序當然停止間，法定期間及裁定期間皆停止進行"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 50,
@@ -6279,7 +6279,7 @@ const EXAM_DATA = {
           "D": "在甲未撤回此訴之情況下，若第一審法院判決甲、乙敗訴後，乙上訴，第二審法院應將甲併列為\n\n上訴人"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 51,
@@ -6291,7 +6291,7 @@ const EXAM_DATA = {
           "D": "甲列乙為被告，聲明求為判決確認丙對乙之 300 萬元貨款債權存在。其主張略以：甲對丙取得執\n行名義，聲請強制執行丙對乙之 300 萬元貨款債權。乙向執行法院聲明異議，否認丙對其有債權\n存在等語 \n\n \n\f代號：3301\n頁次：12－9"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 52,
@@ -6303,7 +6303,7 @@ const EXAM_DATA = {
           "D": "如法院經本案審理後，認定 Y1 所抗辯 A 地之應有部分三分之一移轉予 Z 之事實屬實，但其主張之\n\n分割協議不存在，於是判決分割 A 地，終告確定。此判決之效力原則上不及於 Z"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 53,
@@ -6315,7 +6315,7 @@ const EXAM_DATA = {
           "D": "於證據保全程序期日，兩造得達成協議委由某專家就兩造有爭執之某事實存否提出判斷意見，此\n\n項意見對法院之事實認定有拘束力"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 54,
@@ -6327,7 +6327,7 @@ const EXAM_DATA = {
           "D": "關於當事人主張「自 85 年 1 月 5 日起至 98 年 12 月 31 日止占有 A 地之事實」：當事人業已證明"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 55,
@@ -6339,7 +6339,7 @@ const EXAM_DATA = {
           "D": "當事人兩造於調解期日到場而調解不成立者，其中一造得聲請法院將調解程序轉換為訴訟程序，\n\n此時並視為調解之聲請人自聲請時已經起訴"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 56,
@@ -6351,7 +6351,7 @@ const EXAM_DATA = {
           "D": "調解委員因由法官選任，一律不容許當事人合意選任，以確保公正性"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 57,
@@ -6363,7 +6363,7 @@ const EXAM_DATA = {
           "D": "小額事件程序之起訴"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 58,
@@ -6375,7 +6375,7 @@ const EXAM_DATA = {
           "D": "判決主文之判斷 \n\n \n \n \n\f代號：3301 \n頁次：12－10"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 59,
@@ -6387,7 +6387,7 @@ const EXAM_DATA = {
           "D": "當事人依法律規定得請求閱覽者"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 60,
@@ -6399,7 +6399,7 @@ const EXAM_DATA = {
           "D": "若適用簡易訴訟程序，而第一審法院判決甲全部勝訴，乙對此判決不服者，得上訴於管轄之地方\n\n法院，並非上訴於高等法院"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 61,
@@ -6411,7 +6411,7 @@ const EXAM_DATA = {
           "D": "第一審為原告全部敗訴判決，原告委任律師為訴訟代理人提起上訴，惟未繳納上訴裁判費，第一\n\n審法院未命補正即裁定駁回原告之上訴，原告不服，提起抗告，第二審法院裁定駁回其抗告。本\n\n件判決不待第三審法院裁判即告確定"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 62,
@@ -6423,7 +6423,7 @@ const EXAM_DATA = {
           "D": "凡向最高法院提起抗告者，均為再抗告事件，且須以適用法規顯有錯誤為理由 \n\n二、複選題（第 63 題至第 74 題，每題 3 分，占 36 分） \n\n說明：所列的五個選項，其中至少有二個是正確答案。各題之選項獨立判定，全部答對者，\n得 3 分；答錯一個選項者，得 1.8 分；答錯二個選項者，得 0.6 分；所有選項均未作答\n或答錯多於二個選項（不含二個）者，該題以零分計算。"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 63,
@@ -6435,7 +6435,7 @@ const EXAM_DATA = {
           "D": "尚未完全竣工、但已足避風雨，可達經濟上使用目的之房屋 \n農田 \n\n \n \n\f代號：3301\n頁次：12－11"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 64,
@@ -6447,7 +6447,7 @@ const EXAM_DATA = {
           "D": "押租金契約 \n\n互易契約"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 65,
@@ -6459,7 +6459,7 @@ const EXAM_DATA = {
           "D": "丙得向乙請求懲罰性賠償金 \n\n一旦甲對丙之損害為全部賠償，乙亦同免除其對丙責任"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 66,
@@ -6471,7 +6471,7 @@ const EXAM_DATA = {
           "D": "如甲死亡，其父母得向乙請求賠償慰撫金 \n\n甲經治療後完全復原時，即不得向乙請求賠償慰撫金"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 67,
@@ -6483,7 +6483,7 @@ const EXAM_DATA = {
           "D": "甲將其 A 地之應有部分設定普通抵押權予第三人，無須經其他共有人之同意 \n\n丙未經其他共有人之同意，將 A 地出租並交付予第三人，該租約對其他共有人不生效力"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 68,
@@ -6495,7 +6495,7 @@ const EXAM_DATA = {
           "D": "若甲已交付並移轉登記 A 地予乙，但買賣契約無效，乙得依物上請求權請求甲返還 A 地 \n\n若甲已交付但尚未移轉登記 A 地予乙，甲仍然得依物上請求權請求乙返還 A 地"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 69,
@@ -6507,7 +6507,7 @@ const EXAM_DATA = {
           "D": "養父母與未成年之養子女合意終止收養關係 \n\n夫妻間約定以共同財產制作為婚姻關係期間適用之夫妻財產制"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 70,
@@ -6519,7 +6519,7 @@ const EXAM_DATA = {
           "D": "乙、丁、戊、庚、辛繼承 \n\n乙、丁、戊應繼分各四分之一，庚、辛應繼分各八分之一 \n\n \n\f代號：3301 \n頁次：12－12"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 71,
@@ -6531,7 +6531,7 @@ const EXAM_DATA = {
           "D": "X 向 Y 總公司之分公司 Z 購買沙拉油一桶，積欠貨款新臺幣 2000 元未還，為請求返還該款，起訴\n\n時可列 Z 分公司為原告，亦可列 Y 總公司為原告 \n\nX 已滿 18 歲，經其父 Z 同意後，向 Y 購買機車一部，交車後發現該車有瑕疵，為此有意起訴解決\n\n紛爭，此時可由 X 自行起訴並進行訴訟"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 72,
@@ -6543,7 +6543,7 @@ const EXAM_DATA = {
           "D": "居住於臺中之 X，因出售貨物，收受設於新竹之 Y 公司所簽發、付款地為苗栗之本票一張，本票\n\n到期後經提示未獲付款，X 得向新竹地方法院或苗栗地方法院對 Y 起訴請求給付本票票款 \n\n住於臺南之 X，以住於桃園之 Y 借款未償並有脫產行為為由，有意就 Y 所有座落臺中之房屋為扣\n\n押，仍得向桃園地方法院聲請核發准予假扣押之裁定"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 73,
@@ -6555,7 +6555,7 @@ const EXAM_DATA = {
           "D": "法院依被告意願為緩期給付判決者，得於判決內依法定乙逾期不履行時應加給甲之金額 \n乙如不服第一審法院所為其敗訴之判決，得上訴於管轄之高等法院或其分院"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 74,
@@ -6567,7 +6567,7 @@ const EXAM_DATA = {
           "D": "受訴法院得依職權將本件訴訟進行之狀況及爭點通知丙 \n受訴法院就甲、乙間訴訟所為本案確定判決之效力，縱使法院在本案審理程序將爭點通知於丙，\n\n均不及於丙"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 400,
@@ -6603,7 +6603,7 @@ const EXAM_DATA = {
           "D": "甲為限制行為能力人，並無受意思表示之能力"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 2,
@@ -6615,7 +6615,7 @@ const EXAM_DATA = {
           "D": "丙得向甲乙請求連帶負損害賠償責任"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 3,
@@ -6627,7 +6627,7 @@ const EXAM_DATA = {
           "D": "無權處分之規定，對於債權行為及物權行為均有適用"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 4,
@@ -6639,7 +6639,7 @@ const EXAM_DATA = {
           "D": "甲與丁訂立之租約，事後得因乙之承認而溯及於訂約時發生效力"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 5,
@@ -6651,7 +6651,7 @@ const EXAM_DATA = {
           "D": "甲與丙之珍珠買賣契約有效，丙不得撤銷其意思表示 \n\n \n \n \n \n\f 代號：3301 \n頁次：12－2"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 6,
@@ -6663,7 +6663,7 @@ const EXAM_DATA = {
           "D": "甲與丙之保證契約效力未定"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 7,
@@ -6675,7 +6675,7 @@ const EXAM_DATA = {
           "D": "甲公司對丁的每期利息請求權，其消滅時效期間為 5 年"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 9,
@@ -6687,7 +6687,7 @@ const EXAM_DATA = {
           "D": "戊得繼承乙、丙因甲之遺囑所應獲得之金額共 300 萬元"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 10,
@@ -6699,7 +6699,7 @@ const EXAM_DATA = {
           "D": "須待乙以書面向法院辦理拋棄遺贈，古董花瓶自 6 月 1 日起成為甲之遺產，由丙繼承"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 11,
@@ -6711,7 +6711,7 @@ const EXAM_DATA = {
           "D": "A 依侵權行為規定，得向甲、乙、丙三人請求連帶損害賠償 \n\n \n \n\f12  甲與乙締結書桌買賣契約，買受人甲因自出賣人乙受領之書桌出現瑕疵，向出賣人乙解除買賣契約\n\n代號：3301\n頁次：12－3\n\n之前夕，該書桌因不可歸責於甲之事由而滅失。下列敘述，何者正確？"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 11,
@@ -6723,7 +6723,7 @@ const EXAM_DATA = {
           "D": "甲就電冰箱全毀之損害，得請求丁戊連帶負賠償責任"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 13,
@@ -6735,7 +6735,7 @@ const EXAM_DATA = {
           "D": "將來租賃期滿，房屋即使尚存增價額，乙亦不得向甲有所請求"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 15,
@@ -6747,7 +6747,7 @@ const EXAM_DATA = {
           "D": "乙得依債務不履行規定，向丙請求返還該車之所有權"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 16,
@@ -6759,7 +6759,7 @@ const EXAM_DATA = {
           "D": "丙得依民法第 184 條第 1 項前段侵權行為之規定向乙請求返還新臺幣 1 萬元"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 17,
@@ -6771,7 +6771,7 @@ const EXAM_DATA = {
           "D": "乙分居之配偶丙"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 18,
@@ -6783,7 +6783,7 @@ const EXAM_DATA = {
           "D": "甲與丙必須一起將債權讓與通知乙時，債權讓與契約始對乙發生效力 \n\n \n \n\f 代號：3301 \n頁次：12－4"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 19,
@@ -6795,7 +6795,7 @@ const EXAM_DATA = {
           "D": "乙除賠償甲 A 屋之修繕費以及 6 個月租金之損失外，尚須給付予甲相當金額之慰撫金"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 20,
@@ -6807,7 +6807,7 @@ const EXAM_DATA = {
           "D": "乙因尋找甲而支出之調查費"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 21,
@@ -6819,7 +6819,7 @@ const EXAM_DATA = {
           "D": "甲有償委任乙律師為訴訟代理人，因乙之過失致敗訴，甲請求乙賠償"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 22,
@@ -6831,7 +6831,7 @@ const EXAM_DATA = {
           "D": "丁"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 23,
@@ -6843,7 +6843,7 @@ const EXAM_DATA = {
           "D": "乙僅得請求減少價金"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 24,
@@ -6855,7 +6855,7 @@ const EXAM_DATA = {
           "D": "甲不得向乙請求報酬"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 25,
@@ -6867,7 +6867,7 @@ const EXAM_DATA = {
           "D": "善意占有人推定其為有過失占有"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 26,
@@ -6879,7 +6879,7 @@ const EXAM_DATA = {
           "D": "乙實行抵押權拍賣 B 別墅時，視為已有地上權之設定 \n\n \n\f代號：3301\n頁次：12－5"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 27,
@@ -6891,7 +6891,7 @@ const EXAM_DATA = {
           "D": "區分所有人間依規約所生之權利義務，繼受人應受拘束。其依其他約定所生之權利義務，特定繼\n\n受人對於約定之內容明知或可得而知者，亦同"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 28,
@@ -6903,7 +6903,7 @@ const EXAM_DATA = {
           "D": "有通行權人應擇其周圍地損害最少之處所通行，不得開設道路"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 29,
@@ -6915,7 +6915,7 @@ const EXAM_DATA = {
           "D": "甲得向乙請求償還璞玉之價額"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 30,
@@ -6927,7 +6927,7 @@ const EXAM_DATA = {
           "D": "乙積欠甲地租逾二年之總額，甲終止地上權時，應通知丙"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 31,
@@ -6939,7 +6939,7 @@ const EXAM_DATA = {
           "D": "自己出資興建建築物"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 32,
@@ -6951,7 +6951,7 @@ const EXAM_DATA = {
           "D": "乙之占有已完成所有權取得時效，故非無權占有 \n\n \n \n\f 代號：3301 \n頁次：12－6"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 33,
@@ -6963,7 +6963,7 @@ const EXAM_DATA = {
           "D": "1000 萬元"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 34,
@@ -6973,7 +6973,7 @@ const EXAM_DATA = {
           "B": "親屬會議"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 35,
@@ -6985,7 +6985,7 @@ const EXAM_DATA = {
           "D": "監護人"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 36,
@@ -6997,7 +6997,7 @@ const EXAM_DATA = {
           "D": "有理，以丙得知時起算，未逾 6 個月時效"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 37,
@@ -7009,7 +7009,7 @@ const EXAM_DATA = {
           "D": "無理，丙丁輩分相同，不在禁婚範圍"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 38,
@@ -7021,7 +7021,7 @@ const EXAM_DATA = {
           "D": "遺囑執行人所請求之報酬"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 39,
@@ -7033,7 +7033,7 @@ const EXAM_DATA = {
           "D": "闡明權之行使"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 40,
@@ -7045,7 +7045,7 @@ const EXAM_DATA = {
           "D": "地方法院民事庭受理之某訴訟事件，另已繫屬於行政法院"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 41,
@@ -7057,7 +7057,7 @@ const EXAM_DATA = {
           "D": "乙於本訴訟第一審繫屬中將訴訟告知於丙後，丙不得自由選擇參加甲"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 42,
@@ -7069,7 +7069,7 @@ const EXAM_DATA = {
           "D": "丁依據侵權行為起訴並列乙為被告請求損害賠償時，僅臺中地方法院有管轄權 \n\n \n \n \n\f43  甲、乙、丙、丁及戊共有土地一筆，應有部分各為 5 分之 1，因協議分割不成，甲乃以乙、丙、丁及\n\n戊為被告，提起裁判分割共有物之訴，起訴時該土地之交易價額為新臺幣 2000 萬元。就本件訴訟而\n\n代號：3301\n頁次：12－7\n\n言，下列敘述，何者正確？"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 44,
@@ -7081,7 +7081,7 @@ const EXAM_DATA = {
           "D": "應適用簡易訴訟程序之事件而第一審法院行通常訴訟程序者，第二審法院應將原判決廢棄發回第\n\n一審法院"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 45,
@@ -7093,7 +7093,7 @@ const EXAM_DATA = {
           "D": "在小額事件之上訴審程序，為保障當事人之程序權，法院應一律使兩造當事人行言詞辯論後始得\n\n為本案判決"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 46,
@@ -7105,7 +7105,7 @@ const EXAM_DATA = {
           "D": "當事人間有起訴前應先經法院調解之合意但卻逕為起訴時，法院應依職權駁回起訴"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 47,
@@ -7117,7 +7117,7 @@ const EXAM_DATA = {
           "D": "受訴法院於證據調查所需費用顯不相當時，得不調查證據而為公平之裁判"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 48,
@@ -7129,7 +7129,7 @@ const EXAM_DATA = {
           "D": "於確認某買賣關係不存在之訴訟，兩造爭執買賣契約是否因通謀虛偽意思表示而訂立時，原告應\n\n就有該項通謀之事實負舉證責任 \n\n \n\f 代號：3301 \n頁次：12－8"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 49,
@@ -7141,7 +7141,7 @@ const EXAM_DATA = {
           "D": "受訴訟告知之第三人得自由決定是否參與本訴訟"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 50,
@@ -7153,7 +7153,7 @@ const EXAM_DATA = {
           "D": "訴訟代理人"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 51,
@@ -7165,7 +7165,7 @@ const EXAM_DATA = {
           "D": "為迅速發現真實，並達到審理集中化之目標，法院訊問證人或當事人本人，應集中為之"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 52,
@@ -7177,7 +7177,7 @@ const EXAM_DATA = {
           "D": "雖然第一審訴訟程序有重大瑕疵，如兩造未合意由第二審法院審判，第二審法院仍得裁量決定自\n\n為判決或廢棄發回"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 53,
@@ -7189,7 +7189,7 @@ const EXAM_DATA = {
           "D": "④⑤"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 54,
@@ -7201,7 +7201,7 @@ const EXAM_DATA = {
           "D": "當事人對於第一審判決於上訴期間內提起合法上訴，嗣於上訴期間屆滿前撤回上訴者，仍在上訴\n\n期間屆滿時確定"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 55,
@@ -7213,7 +7213,7 @@ const EXAM_DATA = {
           "D": "①② \n\n \n\f代號：3301\n頁次：12－9"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 56,
@@ -7225,7 +7225,7 @@ const EXAM_DATA = {
           "D": "第一審及第二審法院不理被告以原告起訴違背管轄合意之抗辯，逕為實體判決，該被告得以法院\n\n違背相關規定為理由，提起第三審上訴"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 57,
@@ -7237,7 +7237,7 @@ const EXAM_DATA = {
           "D": "甲合法捨棄上訴權後，於上訴不變期間屆滿前，仍得提起上訴，此時應視為其撤回為捨棄上訴權\n\n之意思表示，以保障甲之訴訟權"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 58,
@@ -7249,7 +7249,7 @@ const EXAM_DATA = {
           "D": "第二審法院審理後如認原判決理由不當，即應以上訴為有理由而廢棄原判決"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 59,
@@ -7261,7 +7261,7 @@ const EXAM_DATA = {
           "D": "准許假扣押之裁定如經抗告法院予以廢棄者，已實施之假扣押執行程序即喪失效力"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 60,
@@ -7273,7 +7273,7 @@ const EXAM_DATA = {
           "D": "法院就第二項聲明為裁判前，應使丙有陳述意見之機會 \n\n \n \n\f 代號：3301 \n頁次：12－10"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 61,
@@ -7285,7 +7285,7 @@ const EXAM_DATA = {
           "D": "於離婚事件審理中，乙另請求甲自離婚之裁判確定日起至丙成年之日止，按月給付丙扶養費 5,000\n元，法院經審理後，形成心證認為應按月給付扶養費 10,000 元，始能達成扶養之目的時，應先經\n乙變更其聲明之意旨，否則法院不得以該心證為基礎下該項內容之裁判"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 62,
@@ -7297,7 +7297,7 @@ const EXAM_DATA = {
           "D": "②③④"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 63,
@@ -7309,7 +7309,7 @@ const EXAM_DATA = {
           "D": "甲請求乙支付約定價金，有理由 \n甲請求乙支付約定價金，因屬權利濫用，法院據此應減少價金，甚或命免支付"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 64,
@@ -7321,7 +7321,7 @@ const EXAM_DATA = {
           "D": "乙預扣第一年之利息部分，違反禁止規定 \n甲乙之間的借款契約為諾成契約 \n\n\f代號：3301\n頁次：12－11"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 65,
@@ -7333,7 +7333,7 @@ const EXAM_DATA = {
           "D": "丙對丁之請求為「承認」時，其中斷時效之效力亦及於甲、乙 \n\n僅乙對丁之連帶債務罹於時效時，丁仍得請求甲給付 90 萬元"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 66,
@@ -7345,7 +7345,7 @@ const EXAM_DATA = {
           "D": "乙負有出租人之義務 \n\n乙與丙至公證處公證租賃契約後，就其所支出之公證費用，得請求甲償還之"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 67,
@@ -7357,7 +7357,7 @@ const EXAM_DATA = {
           "D": "乙繼受取得該屋之所有權 \n\n乙為該屋之直接占有人"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 68,
@@ -7369,7 +7369,7 @@ const EXAM_DATA = {
           "D": "遺產酌給請求權人於繼承人交付遺贈後，遺產若有剩餘，始得請求之 \n\n遺產酌給請求權之數額，應先由法院依照其所受扶養程度與其他關係，酌給之"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 69,
@@ -7381,7 +7381,7 @@ const EXAM_DATA = {
           "D": "丁不能維持生活且無謀生能力時，得向甲請求扶養 \n\n丁之父母乙、丙未以遺囑指定監護人時，甲為丁之法定監護人"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 70,
@@ -7393,7 +7393,7 @@ const EXAM_DATA = {
           "D": "甲在 102 年 1 月 10 日前往民間公證人己之事務所，作成公證遺囑，將 A 地遺贈予配偶丙 \n\n甲在 102 年 1 月 11 日將 A 地贈與配偶丙，並已辦妥不動產所有權移轉登記 \n\n \n\f 代號：3301 \n頁次：12－12"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 71,
@@ -7405,7 +7405,7 @@ const EXAM_DATA = {
           "D": "丙得參加訴訟上和解，同意乙繼續承租 A 屋，租金自 103 年 3 月 1 日起每月調漲為三萬五千元。\n\n於該和解成立後，乙如未遵期給付租金予丙，丙得執該和解筆錄對乙聲請強制執行 \n\n丙如欲代甲承當訴訟，應經原當事人全體之同意。乙如拒絕，丙即無從承當訴訟"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 72,
@@ -7417,7 +7417,7 @@ const EXAM_DATA = {
           "D": "就與本件訴訟有關事項所作之文書，當事人有提出之義務。但涉及第三人之隱私或業務秘密，如\n\n予公開，有致該第三人受重大損害之虞者，得拒絕提出 \n\n第三人無正當理由不從提出文書之命者，法院得審酌情形認當事人關於該文書之主張或依該文書\n\n應證之事實為真實"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 73,
@@ -7429,7 +7429,7 @@ const EXAM_DATA = {
           "D": "在本案審理程序上，甲不得追加請求反訴之離婚事實所生損害賠償 \n\n就本訴進行證據調查所得資料，如未經當事人援用，受訴法院不得在反訴請求之本案審判加以斟酌"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 74,
@@ -7441,7 +7441,7 @@ const EXAM_DATA = {
           "D": "普通法院認其無審判權者，應以裁定駁回原告之訴 \n\n訴訟已繫屬於行政法院者，當事人不得就同一事件向普通法院更行起訴"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 220,
@@ -7465,7 +7465,7 @@ const EXAM_DATA = {
           "D": "經輔助人承認後有效"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 1,
@@ -7477,7 +7477,7 @@ const EXAM_DATA = {
           "D": "甲於言詞辯論終結前，得隨時聲明證據，法院均應為調查"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 2,
@@ -7489,7 +7489,7 @@ const EXAM_DATA = {
           "D": "B 屋屬乙所有，C 樹屬甲所有"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 3,
@@ -7501,7 +7501,7 @@ const EXAM_DATA = {
           "D": "並非各自獨立之物，有一個所有權"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 4,
@@ -7513,7 +7513,7 @@ const EXAM_DATA = {
           "D": "乙與丙間關於 G 土地之買賣契約無效；移轉 G 土地所有權予丙之物權行為效力未定"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 4,
@@ -7525,7 +7525,7 @@ const EXAM_DATA = {
           "D": "倘乙於言詞辯論期日辯稱：本件貨款債務業經渠於 100 年 5 月 1 日電匯 90 萬元予甲云云，對此甲\n\n則表示：雖有收受該筆電匯款，但該筆電匯款係乙清償其對甲之另筆金錢借貸債務云云，則乙就\n\n該另筆金錢借貸債務不存在之事實，無再提出證據之實益 \n\n倘乙於言詞辯論期日僅辯稱：系爭價金給付請求權已於 102 年 4 月 5 日罹於短期時效而消滅云云，\n\n對此甲則表示：乙曾於 102 年 3 月 20 日表示承認本件貨款債務，本件請求權應未罹於時效云云，\n則甲就乙曾於 102 年 3 月 20 日承認本件貨款債務之事實，應負舉證之責 \n\n \n\f 代號：3301 \n頁次：12－12"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 5,
@@ -7537,7 +7537,7 @@ const EXAM_DATA = {
           "D": "經丙承認後有效"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 6,
@@ -7549,7 +7549,7 @@ const EXAM_DATA = {
           "D": "要約一旦由要約人為之，並不會因要約人之死亡、行為能力受到限制而受影響"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 6,
@@ -7561,7 +7561,7 @@ const EXAM_DATA = {
           "D": "丁之抵押權移存於 A 地，但劣於丙對該地之法定抵押權"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 7,
@@ -7573,7 +7573,7 @@ const EXAM_DATA = {
           "D": "乙對丙之損害賠償責任亦因而免除 \n\n \n \n\f 代號：3301 \n頁次：12－2"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 8,
@@ -7585,7 +7585,7 @@ const EXAM_DATA = {
           "D": "貸與人善意不知其情事者，借用人得請求返還現存之增價額"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 9,
@@ -7597,7 +7597,7 @@ const EXAM_DATA = {
           "D": "損害非因商品欠缺所致"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 10,
@@ -7609,7 +7609,7 @@ const EXAM_DATA = {
           "D": "乙尚未給付價金"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 11,
@@ -7621,7 +7621,7 @@ const EXAM_DATA = {
           "D": "丙已取得 A 畫所有權"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 12,
@@ -7633,7 +7633,7 @@ const EXAM_DATA = {
           "D": "寄託契約"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 13,
@@ -7645,7 +7645,7 @@ const EXAM_DATA = {
           "D": "自始不能，乙僅得請求信賴利益之損害賠償"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 14,
@@ -7657,7 +7657,7 @@ const EXAM_DATA = {
           "D": "乙得向甲請求因受傷不能開車營業之損失"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 15,
@@ -7669,7 +7669,7 @@ const EXAM_DATA = {
           "D": "出賣人故意不告知物之瑕疵時，不適用前述 6 個月期間之規定"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 16,
@@ -7681,7 +7681,7 @@ const EXAM_DATA = {
           "D": "合意解除是由當事人另訂契約以消滅原來有效之契約，於當事人合意時即生契約解除之效力，其\n\n效果適用民法第 259 條之規定回復原狀 \n\n \n\f17  甲之土地為乙設定普通抵押權，其後甲將土地租與丙建築房屋使用，屆期甲未清償債務，乙欲實行\n\n代號：3301\n頁次：12－3\n\n普通抵押權。下列關於丙屋處置之敘述，何者錯誤？"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 18,
@@ -7693,7 +7693,7 @@ const EXAM_DATA = {
           "D": "甲、乙對共有之土地，各有一所有權，但其權利之行使應受應有部分之限制"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 19,
@@ -7705,7 +7705,7 @@ const EXAM_DATA = {
           "D": "甲、丙間之區分地上權若已獲乙之同意而設定者，則其效力優先於甲、乙間之普通地上權"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 20,
@@ -7717,7 +7717,7 @@ const EXAM_DATA = {
           "D": "丙得將自己之占有與乙占有合併而為主張"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 21,
@@ -7729,7 +7729,7 @@ const EXAM_DATA = {
           "D": "不動產共有人間關於共有物分割之約定，非經登記，對於應有部分之受讓人不生效力"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 22,
@@ -7741,7 +7741,7 @@ const EXAM_DATA = {
           "D": "甲如係無權占有乙之土地建屋時，未完成之建築依附合之規定，應為乙所有 \n\n \n\f 代號：3301 \n頁次：12－4"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 24,
@@ -7753,7 +7753,7 @@ const EXAM_DATA = {
           "D": "設定合意"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 25,
@@ -7765,7 +7765,7 @@ const EXAM_DATA = {
           "D": "未成年之婦女已結婚者，因夫死亡而再婚時，無須法定代理人之同意"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 26,
@@ -7777,7 +7777,7 @@ const EXAM_DATA = {
           "D": "非婚生子女得否認生父之認領"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 27,
@@ -7787,7 +7787,7 @@ const EXAM_DATA = {
           "B": "法院"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 28,
@@ -7799,7 +7799,7 @@ const EXAM_DATA = {
           "D": "社會福利主管機關"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 29,
@@ -7811,7 +7811,7 @@ const EXAM_DATA = {
           "D": "可，因甲之妻乙已死亡"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 30,
@@ -7823,7 +7823,7 @@ const EXAM_DATA = {
           "D": "丙不得成為乙之婚生子女"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 31,
@@ -7835,7 +7835,7 @@ const EXAM_DATA = {
           "D": "效力未定"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 32,
@@ -7847,7 +7847,7 @@ const EXAM_DATA = {
           "D": "與甲之祖父母平均分配"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 33,
@@ -7859,7 +7859,7 @@ const EXAM_DATA = {
           "D": "推定就繼承開始時，債務人庚之支付能力，負擔保之責 \n\n \n \n\f34  甲之繼承人乙、丙，甲生前贈與丙 100 萬元，1 年後甲死亡，甲除生前對丁有 100 萬元債務，並無其\n\n他財產，則乙、丙對甲之債務應負之清償責任如何？"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 35,
@@ -7871,7 +7871,7 @@ const EXAM_DATA = {
           "D": "遺囑有效"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 36,
@@ -7883,7 +7883,7 @@ const EXAM_DATA = {
           "D": "依法確認無繼承人承認繼承，並清償債務、交付遺贈後，將剩餘遺產移交國庫"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 37,
@@ -7895,7 +7895,7 @@ const EXAM_DATA = {
           "D": "戊、A、B、C 各繼承 90 萬元"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 38,
@@ -7907,7 +7907,7 @@ const EXAM_DATA = {
           "D": "甲於數年後寫了 X 有效遺囑，指定將 100 本集郵冊全數捐給慈善機構，但對於 A 遺囑隻字未提"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 39,
@@ -7919,7 +7919,7 @@ const EXAM_DATA = {
           "D": "若乙銀行請求返還之金額為新臺幣 10 萬元，甲係有限公司。縱受訴法院認該合意管轄約定，按其\n情形，顯失公平，亦應認受訴法院有管轄權，不得以裁定移送於臺北地方法院以外之其他法定管\n轄法院"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 40,
@@ -7931,7 +7931,7 @@ const EXAM_DATA = {
           "D": "原告之訴是否具備訴之利益 \n\n \n\f 代號：3301 \n頁次：12－6"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 41,
@@ -7943,7 +7943,7 @@ const EXAM_DATA = {
           "D": "抗告人提起抗告時未表明抗告理由，經審判長定期間命抗告人提出抗告理由書，如抗告人復未依\n\n上開期限提出抗告理由書時，原裁定法院得認其抗告為不合法，而以裁定駁回其抗告"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 42,
@@ -7955,7 +7955,7 @@ const EXAM_DATA = {
           "D": "民事訴訟法上簡易訴訟事件得與通常訴訟事件合併提起"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 43,
@@ -7967,7 +7967,7 @@ const EXAM_DATA = {
           "D": "分公司就其業務範圍內事項涉訟，其所受確定判決之效力不及於總公司"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 44,
@@ -7979,7 +7979,7 @@ const EXAM_DATA = {
           "D": "b 約款係訴訟成立要件，法院不待當事人抗辯即應調查與審酌"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 45,
@@ -7991,7 +7991,7 @@ const EXAM_DATA = {
           "D": "土地共有人中之二人以他共有人為被告，請求分割共有物，原告中之一人起訴後撤回起訴，其撤\n\n回對他原告不生效力；土地共有人中之二人以他共有人為被告，請求分割共有物，第一審判決准\n\n予分割，僅原告中之一人不服分割方法提起第二審上訴，嗣提起上訴之原告撤回上訴，未提起上\n\n訴之原告既未上訴，本件訴訟即告終結 \n\n\f代號：3301\n頁次：12－7"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 46,
@@ -8003,7 +8003,7 @@ const EXAM_DATA = {
           "D": "②④⑤"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 47,
@@ -8015,7 +8015,7 @@ const EXAM_DATA = {
           "D": "在兩造於起訴前達成被告應提出某文書之協議時，如該被告經受訴法院依該協議命提出該文書卻\n\n置之不理，則法院得審酌情形認原告關於該文書之主張為真實"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 48,
@@ -8027,7 +8027,7 @@ const EXAM_DATA = {
           "D": "先行自認"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 49,
@@ -8039,7 +8039,7 @@ const EXAM_DATA = {
           "D": "本件訴訟屬法定訴訟擔當，非意定訴訟擔當，故甲 3 就本件訴訟之本案確定判決，不論甲 1 勝訴\n\n或敗訴，均有提起第三人撤銷訴訟之原告適格"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 50,
@@ -8051,7 +8051,7 @@ const EXAM_DATA = {
           "D": "如丙承當訴訟，本訴訟之判決效力仍及於脫離訴訟之乙"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 51,
@@ -8063,7 +8063,7 @@ const EXAM_DATA = {
           "D": "第一審法院依通常訴訟程序審理，為乙敗訴判決，法院應依職權宣告假執行 \n\n \n\f 代號：3301 \n頁次：12－8"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 52,
@@ -8075,7 +8075,7 @@ const EXAM_DATA = {
           "D": "本件原告訴之聲明具有全部請求之性質，並非一部訴求"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 54,
@@ -8087,7 +8087,7 @@ const EXAM_DATA = {
           "D": "第三審法院認為上訴有理由，將事件發回原法院時，受發回之法院，根據法官審判獨立原則，得\n\n不以第三審法院所為廢棄理由之法律上判斷為其判決基礎，而依自己所確信之法律見解為判決"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 56,
@@ -8099,7 +8099,7 @@ const EXAM_DATA = {
           "D": "乙主張因甲前次買賣超收價金 10 萬元而請求判決命甲給付 10 萬元"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 57,
@@ -8111,7 +8111,7 @@ const EXAM_DATA = {
           "D": "裁定駁回，因為甲已在法院撤銷假處分裁定前，對丙提起訴訟"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 58,
@@ -8123,7 +8123,7 @@ const EXAM_DATA = {
           "D": "債務人就支付命令提出異議者，應附具書面理由"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 59,
@@ -8135,7 +8135,7 @@ const EXAM_DATA = {
           "D": "本訴訟之受訴法院判決甲勝訴後，乙提起上訴之同時，甲另行向第一審法院起訴列乙為被告，請\n\n求判決准許甲與乙離婚，受理此後訴訟之法院應自為判決"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 60,
@@ -8147,7 +8147,7 @@ const EXAM_DATA = {
           "D": "若乙對通姦事實自認，法院原則上應以自認之內容為裁判之基礎 \n\n \n\f 代號：3301 \n頁次：12－10"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 61,
@@ -8159,7 +8159,7 @@ const EXAM_DATA = {
           "D": "扶養請求事件"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 62,
@@ -8171,7 +8171,7 @@ const EXAM_DATA = {
           "D": "不論就前訴訟或後訴訟，兩造當事人均得以書面合意由臺北地方法院審判管轄 \n\n二、複選題（第 63 題至第 74 題，每題 3 分，占 36 分） \n    說明：所列的五個選項，其中至少有二個是正確答案。各題之選項獨立判定，全部答對者，\n得 3 分；答錯一個選項者，得 1.8 分；答錯二個選項者，得 0.6 分；所有選項均未作答\n或答錯多於二個選項（不含二個）者，該題以零分計算。"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 63,
@@ -8183,7 +8183,7 @@ const EXAM_DATA = {
           "D": "丙得定相當期限，催告乙是否承認甲之無權代理行為 \n乙拒絕承認時，甲對於丙應負無過失之損害賠償責任"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 64,
@@ -8195,7 +8195,7 @@ const EXAM_DATA = {
           "D": "乙女尚得向甲男請求賠償慰撫金 \n乙女之夫仍得向甲男請求賠償精神上損害"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 65,
@@ -8207,7 +8207,7 @@ const EXAM_DATA = {
           "D": "就其名下之不動產設定普通抵押權"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 66,
@@ -8219,7 +8219,7 @@ const EXAM_DATA = {
           "D": "請求另行交付無瑕疵之車子 \n\n \n \n \n \n\f67  甲對乙有 100 萬元之債權，丙提供其不動產設定普通抵押權以為擔保，甲事後將該債權讓與丁，下\n\n代號：3301\n頁次：12－11\n\n列敘述，何者正確？"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 68,
@@ -8231,7 +8231,7 @@ const EXAM_DATA = {
           "D": "甲因繼承而取得土地所有權 \n\n甲與乙訂立互易契約，將其所有之土地與乙所有之房屋互易，經由公證人作成公證書"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 69,
@@ -8243,7 +8243,7 @@ const EXAM_DATA = {
           "D": "18 歲的甲男與 16 歲的乙女於婚後訂立夫妻共同財產制契約 \n\n16 歲之甲男於養父母死亡後，向法院聲請許可終止收養關係"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 70,
@@ -8255,7 +8255,7 @@ const EXAM_DATA = {
           "D": "繼承人未於法定期間內拋棄其繼承權，嗣後再為繼承權之拋棄，不生效力 \n\n繼承開始前預為繼承之拋棄，應屬無效"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 72,
@@ -8267,7 +8267,7 @@ const EXAM_DATA = {
           "D": "甲於訴訟中追加依租賃之法律關係，請求乙給付租金 160 萬元。第一審法院為甲全部敗訴之判決\n\n，甲得向該管高等法院或其分院提起第二審上訴 \n\n第二審法院為甲全部敗訴之判決，甲須經第二審法院依法許可後，始得提起第三審上訴"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 73,
@@ -8279,7 +8279,7 @@ const EXAM_DATA = {
           "D": "假扣押之聲請，應表明本案請求及其原因事實，並釋明之 \n\n准許假扣押之裁定，經抗告法院廢棄而駁回假扣押之聲請時，已實施之假扣押執行程序失其效力"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 74,
@@ -8291,7 +8291,7 @@ const EXAM_DATA = {
           "D": "在甲有意提起否認子女之訴與離婚之訴時，得合併提起此二訴 \n\n於甲、乙間離婚請求事件，有關離婚事由該當事實之存否，兩造得約定就乙是否有與丁於某日夜\n\n宿某汽車旅館之事實不為爭執"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 80,
@@ -9264,7 +9264,17 @@ const EXAM_DATA = {
       "111": 81,
       "112": 79
     },
-    "answeredYears": []
+    "answeredYears": [
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112
+    ]
   },
   "綜合法學(二) 公法": {
     "code": "2B",
@@ -9279,7 +9289,7 @@ const EXAM_DATA = {
           "D": "若甲執行業務，有重大損害公司之行為或違反法令或章程之重大事項，乙或丙得訴請法院裁判解任之"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 2,
@@ -9291,7 +9301,7 @@ const EXAM_DATA = {
           "D": "不合法，因 A 公司章程未有得對外保證條款"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 2,
@@ -9303,7 +9313,7 @@ const EXAM_DATA = {
           "D": "若甲持有該私募有價證券尚未滿 3 年，得以私人間之直接讓受，其數量不超過該證券一個交易單位，\n\n代號：4301\n頁次：10－7\n\n前後 2 次之讓受行為，相隔不少於 3 個月之方式賣出"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 3,
@@ -9315,7 +9325,7 @@ const EXAM_DATA = {
           "D": "D 公司為閉鎖性股份有限公司，想轉換為一般股份有限公司，甲建議 D 公司得經有代表已發行股\n\n份總數三分之二以上股東出席之股東會，以出席股東表決權過半數之同意，即可為之"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 4,
@@ -9327,7 +9337,7 @@ const EXAM_DATA = {
           "D": "法院依公司法第 208 條之 1 選任之臨時管理人"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 5,
@@ -9339,7 +9349,7 @@ const EXAM_DATA = {
           "D": "有效\n\n\f代號：4301\n頁次：10－2"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 6,
@@ -9351,7 +9361,7 @@ const EXAM_DATA = {
           "D": "為了節省公司經營成本，A、B 公司均得以章程允許股東會與董事會透過視訊或書面開會"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 7,
@@ -9363,7 +9373,7 @@ const EXAM_DATA = {
           "D": "繼續 1 年以上，持有已發行股份總數 3%以上之股東"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 8,
@@ -9375,7 +9385,7 @@ const EXAM_DATA = {
           "D": "董事會對於股東之提案，如不列入議案時，應於股東會後說明未列入之理由"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 9,
@@ -9387,7 +9397,7 @@ const EXAM_DATA = {
           "D": "甲得以自己名義行使 C 公司對 A 公司及其負責人之求償權，請求對 C 公司為給付"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 10,
@@ -9399,7 +9409,7 @@ const EXAM_DATA = {
           "D": "甲與乙皆不可"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 11,
@@ -9411,7 +9421,7 @@ const EXAM_DATA = {
           "D": "A 公司欲以股東會決議之方式同意本次轉投資後，公司轉投資總額為實收股本百分之五十"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 12,
@@ -9423,7 +9433,7 @@ const EXAM_DATA = {
           "D": "法院裁定重整後，重整人應擬訂重整計畫，連同公司業務及財務報表，提請由股東與債權人組成的\n\n重整關係人會議審查\n\n\f代號：4301\n頁次：10－3"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 13,
@@ -9435,7 +9445,7 @@ const EXAM_DATA = {
           "D": "本次會議合法，因已有過半數董事贊成此一聘任案"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 14,
@@ -9447,7 +9457,7 @@ const EXAM_DATA = {
           "D": "A 公司股東會如未通過解任董事甲之議案，監察人得隨時提起解任董事之訴"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 16,
@@ -9459,7 +9469,7 @@ const EXAM_DATA = {
           "D": "A 公司就甲屋之損失應依其責任比例賠償 600 萬元，就甲為減輕損失所支出之必要費用依其比例\n\n償還 480 萬元，共計支付 1,080 萬元"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 17,
@@ -9471,7 +9481,7 @@ const EXAM_DATA = {
           "D": "甲得請求保險給付，乙雖出嫁與其配偶丙成家，但對甲仍負有扶養義務，故保險人應在乙之扶養義\n\n務範圍內給付甲保險金"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 18,
@@ -9483,7 +9493,7 @@ const EXAM_DATA = {
           "D": "不可，因甲對乙的請求權係基於侵權行為損害賠償請求權\n\n\f代號：4301\n頁次：10－4"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 19,
@@ -9495,7 +9505,7 @@ const EXAM_DATA = {
           "D": "對不動產之取得及處分，應經合法之不動產鑑價機構評價"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 20,
@@ -9507,7 +9517,7 @@ const EXAM_DATA = {
           "D": "B 公司不得代位，因 B 公司已從 A 公司收取保險費"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 21,
@@ -9519,7 +9529,7 @@ const EXAM_DATA = {
           "D": "乙得證明甲之死亡並非基於其所隱匿之體況，保險人仍應給付保險金"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 22,
@@ -9531,7 +9541,7 @@ const EXAM_DATA = {
           "D": "參與權僅包括和解參加權，不包括和解同意權，保險人參與和解，除有正當理由得拒絕和解條件或\n\n其他除外不保理由外，保險人在保險金額範圍內應受和解之拘束"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 23,
@@ -9543,7 +9553,7 @@ const EXAM_DATA = {
           "D": "契約有效，但除喪葬費用之給付外，其餘死亡給付之約定於乙滿 15 歲時始生效力"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 24,
@@ -9555,7 +9565,7 @@ const EXAM_DATA = {
           "D": "保險公司雖收受受益人變更申請書，但保險契約之受益人變更尚須保險人同意始生效力，故乙有保\n\n險給付請求權\n\n\f代號：4301\n頁次：10－5"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 25,
@@ -9567,7 +9577,7 @@ const EXAM_DATA = {
           "D": "原保險契約得以條款約定，再保險不履行其給付義務時，保險人得拒絕或延遲其保險金給付義務"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 26,
@@ -9579,7 +9589,7 @@ const EXAM_DATA = {
           "D": "因丁為無償取得，故丁對甲及乙均不得行使追索權"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 27,
@@ -9591,7 +9601,7 @@ const EXAM_DATA = {
           "D": "票據上之權利，係依票據法因時效或手續之欠缺而消滅時，執票人始得主張利益償還請求權"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 28,
@@ -9603,7 +9613,7 @@ const EXAM_DATA = {
           "D": "丁"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 29,
@@ -9615,7 +9625,7 @@ const EXAM_DATA = {
           "D": "僅甲、乙、己"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 30,
@@ -9627,7 +9637,7 @@ const EXAM_DATA = {
           "D": "甲、乙、丙、C"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 31,
@@ -9639,7 +9649,7 @@ const EXAM_DATA = {
           "D": "甲得向乙丙追索，追索無效後，得聲請法院裁定後強制執行乙財產\n\n\f代號：4301\n頁次：10－6"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 32,
@@ -9651,7 +9661,7 @@ const EXAM_DATA = {
           "D": "付款銀行 B 不得付款"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 33,
@@ -9663,7 +9673,7 @@ const EXAM_DATA = {
           "D": "丙在平行線內簽章即可撤銷"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 34,
@@ -9675,7 +9685,7 @@ const EXAM_DATA = {
           "D": "丙背書旁註記「轉讓金額新臺幣 80 萬元」"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 35,
@@ -9687,7 +9697,7 @@ const EXAM_DATA = {
           "D": "因乙之背書是被偽造，該票據之背書不連續，但乙背書之偽造不影響其他真正簽名者之效力，故丁\n\n僅得對丙行使追索權"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 36,
@@ -9699,7 +9709,7 @@ const EXAM_DATA = {
           "D": "若有該內線消息以外因素影響 A 公司股價，應將該因素影響之股價自犯罪所得中扣除"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 37,
@@ -9711,7 +9721,7 @@ const EXAM_DATA = {
           "D": "A 公司收買自己之股份轉讓於員工時，得限制員工在一定期間內不得轉讓。但其期間最長不得超過"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 39,
@@ -9723,7 +9733,7 @@ const EXAM_DATA = {
           "D": "除兼營之金融機構外，證券商須為股份有限公司"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 40,
@@ -9735,7 +9745,7 @@ const EXAM_DATA = {
           "D": "若甲、乙、丙、丁、戊 5 人中有 2 人解任，則 A 公司應自事實發生之日起 60 日內，召開股東臨時\n\n會補選之"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 41,
@@ -9747,7 +9757,7 @@ const EXAM_DATA = {
           "D": "請求賠償之原告須能證明在本財務報告簽章之職員丁有不正當或過失行為，方可要求丁負損害賠償\n\n責任"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 42,
@@ -9759,7 +9769,7 @@ const EXAM_DATA = {
           "D": "重大之資產或衍生性商品交易案"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 43,
@@ -9771,7 +9781,7 @@ const EXAM_DATA = {
           "D": "證券交易法下證券商可以區分為證券承銷商、證券自營商、證券經紀商等三種"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 44,
@@ -9783,7 +9793,7 @@ const EXAM_DATA = {
           "D": "縮短公開收購期間"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 45,
@@ -9795,7 +9805,7 @@ const EXAM_DATA = {
           "D": "A 公司審計委員會成員對其職權所有事項，均得各自獨立行使"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 46,
@@ -9807,7 +9817,7 @@ const EXAM_DATA = {
           "D": "假扣押債權人以其債權對於政府機關強制徵收後之代替利益為終局執行時，毋須另行取得執行名義"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 47,
@@ -9819,7 +9829,7 @@ const EXAM_DATA = {
           "D": "彰化地院應以丙之保證金支票背書不連續，於開標後不能補正，其投標為廢標為由，裁定駁回其聲明\n\n異議"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 48,
@@ -9831,7 +9841,7 @@ const EXAM_DATA = {
           "D": "如點交時發現 A 屋於法院核發權利移轉證書後滅失，丙得請求法院解除拍賣"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 49,
@@ -9843,7 +9853,7 @@ const EXAM_DATA = {
           "D": "丁屬再聲請強制執行之債權人，其繳交之執行費，得就 A 地拍賣所得價金優先受清償"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 50,
@@ -9855,7 +9865,7 @@ const EXAM_DATA = {
           "D": "執行法院得定期命乙拆除路障，於不履行時，逕予管收"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 51,
@@ -9867,7 +9877,7 @@ const EXAM_DATA = {
           "D": "假處分裁定為禁止債務人為一定之行為者，執行法院應將該裁定送達於債務人\n\n\f代號：4301\n頁次：10－9"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 52,
@@ -9879,7 +9889,7 @@ const EXAM_DATA = {
           "D": "乙之假扣押執行程序並不妨礙丙之終局執行程序"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 53,
@@ -9891,7 +9901,7 @@ const EXAM_DATA = {
           "D": "銀行核發乙已給付 2,000 萬元之證明書時"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 54,
@@ -9903,7 +9913,7 @@ const EXAM_DATA = {
           "D": "臺北地院應得乙之同意後，對 A 地再為假扣押執行之查封程序"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 55,
@@ -9915,7 +9925,7 @@ const EXAM_DATA = {
           "D": "丙收受扣押命令後，仍得與乙合意終止僱傭契約"
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 57,
@@ -9927,7 +9937,7 @@ const EXAM_DATA = {
           "D": "nuisance\n\ncharacteristic to nature of the activity and resulting from it."
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 58,
@@ -9939,7 +9949,7 @@ const EXAM_DATA = {
           "D": "impossibility to perform\n\n."
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 59,
@@ -9951,7 +9961,7 @@ const EXAM_DATA = {
           "D": "A non-disclosure agreement\n\n\f代號：4301\n頁次：10－10"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 60,
@@ -9963,7 +9973,7 @@ const EXAM_DATA = {
           "D": "risk of lost"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 61,
@@ -9975,7 +9985,7 @@ const EXAM_DATA = {
           "D": "information rights"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 62,
@@ -9987,7 +9997,7 @@ const EXAM_DATA = {
           "D": "waived"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 63,
@@ -9999,7 +10009,7 @@ const EXAM_DATA = {
           "D": "Matters in supporting of new allegation by the cross-examiner may be brought out in cross examination\n\nwith the court’s permission."
         },
         "year": 112,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 64,
@@ -10011,7 +10021,7 @@ const EXAM_DATA = {
           "D": "sojourning"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 65,
@@ -10023,7 +10033,7 @@ const EXAM_DATA = {
           "D": "replacement"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 66,
@@ -10035,7 +10045,7 @@ const EXAM_DATA = {
           "D": "scrutiny"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 67,
@@ -10047,7 +10057,7 @@ const EXAM_DATA = {
           "D": "interstate commerce\n\n.\n\na company sells the listed shares within six months after its acquisition, the company shall recover from such\npersons any profits made in the"
         },
         "year": 112,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 68,
@@ -10059,7 +10069,7 @@ const EXAM_DATA = {
           "D": "article"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 70,
@@ -10071,7 +10081,7 @@ const EXAM_DATA = {
           "D": "differential"
         },
         "year": 112,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 600,
@@ -10095,7 +10105,7 @@ const EXAM_DATA = {
           "D": "揭穿公司面紗原則亦明文適用於有限公司，但僅適用於擔任董事之股東，故有可能向甲求償"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 1,
@@ -10107,7 +10117,7 @@ const EXAM_DATA = {
           "D": "丙逾越見票之提示期限，故丙對乙喪失票據權利，但仍可對甲行使票據權利"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 2,
@@ -10119,7 +10129,7 @@ const EXAM_DATA = {
           "D": "有限公司董事為當然負責人"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 3,
@@ -10131,7 +10141,7 @@ const EXAM_DATA = {
           "D": "公司行使改派權時應得 B 公司同意後，改派始生效"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 4,
@@ -10143,7 +10153,7 @@ const EXAM_DATA = {
           "D": "X 公司章程得將董事會委任及解任經理人之權限，改由股東會決議行之"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 5,
@@ -10155,7 +10165,7 @@ const EXAM_DATA = {
           "D": "若因疫情肆虐，A 公司有感於經營困難欲進行減資決議，不同意之股東戊，仍得於章程修正之決議\n\n進行否決\n\n\f代號：4301\n頁次：12－2"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 6,
@@ -10167,7 +10177,7 @@ const EXAM_DATA = {
           "D": "股份有限公司發起人得以公司事業所需之財產、技術抵充之，惟不得以勞務為出資"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 7,
@@ -10179,7 +10189,7 @@ const EXAM_DATA = {
           "D": "非公開發行股票之公司須取得全體股東同意，始得變更為閉鎖性股份有限公司"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 8,
@@ -10191,7 +10201,7 @@ const EXAM_DATA = {
           "D": "以法定盈餘公積發給者，以超過實收資本額百分之二十五之部分為限"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 9,
@@ -10203,7 +10213,7 @@ const EXAM_DATA = {
           "D": "公司法不允許以電子方式通知"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 10,
@@ -10215,7 +10225,7 @@ const EXAM_DATA = {
           "D": "A 公司必須再尋得任一自然人或法人為共同發起人，始得合法設立 B 公司"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 11,
@@ -10227,7 +10237,7 @@ const EXAM_DATA = {
           "D": "章程明訂得以書面行使表決權，且經董事會特別決議後，得以書面行使表決權"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 12,
@@ -10239,7 +10249,7 @@ const EXAM_DATA = {
           "D": "毋須辦理補選\n\n\f代號：4301\n頁次：12－3"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 13,
@@ -10251,7 +10261,7 @@ const EXAM_DATA = {
           "D": "A 公司得行使表決權，且無上限之限制"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 14,
@@ -10263,7 +10273,7 @@ const EXAM_DATA = {
           "D": "①③④"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 15,
@@ -10275,7 +10285,7 @@ const EXAM_DATA = {
           "D": "重整裁定送達公司後，公司業務之經營及財產之管理處分權移屬於重整監督人"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 16,
@@ -10287,7 +10297,7 @@ const EXAM_DATA = {
           "D": "甲為證明及估計損失所支出之必要費用，除契約另有訂定外，由保險人負擔之"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 17,
@@ -10299,7 +10309,7 @@ const EXAM_DATA = {
           "D": "丙部分賠遺產稅喪葬扣除額半額；丁部分賠遺產稅喪葬扣除額半額\n\n\f代號：4301\n頁次：12－4"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 18,
@@ -10311,7 +10321,7 @@ const EXAM_DATA = {
           "D": "未成年人或受監護宣告尚未撤銷者之父、母或監護人依保險法第一百三十八條之二第二項規定為\n\n被保險人時，信託受託人得依委託人於信託契約之指示，為該保險契約之要保人"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 19,
@@ -10323,7 +10333,7 @@ const EXAM_DATA = {
           "D": "要保人與保險人均不終止契約時，除契約另有訂定外，保險人對於以後保險事故所致之損失，其責\n\n任以賠償保險金額之餘額為限"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 20,
@@ -10335,7 +10345,7 @@ const EXAM_DATA = {
           "D": "A 保險公司仍應負保險責任"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 21,
@@ -10347,7 +10357,7 @@ const EXAM_DATA = {
           "D": "A 保險公司無須負責，因甲向 B 保險公司訂立契約後，A 保險公司保單即行終止"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 22,
@@ -10359,7 +10369,7 @@ const EXAM_DATA = {
           "D": "未依約通知變更民宿，以及未依法為火災事故通知，保險人均僅得請求損害賠償\n\n\f代號：4301\n頁次：12－5"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 23,
@@ -10371,7 +10381,7 @@ const EXAM_DATA = {
           "D": "被保險人年齡不實，而其真實年齡已超過保險人所定保險年齡限度，其契約仍為有效"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 24,
@@ -10383,7 +10393,7 @@ const EXAM_DATA = {
           "D": "保險契約終止時，保險費已付足二年以上，如有保單價值準備金者，保險人應返還其保單價值準備金"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 25,
@@ -10395,7 +10405,7 @@ const EXAM_DATA = {
           "D": "A 公司得拒絕理賠，因保險契約為要物契約，未實際扣款前，保險費屬尚未繳納，契約並未生效"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 26,
@@ -10407,7 +10417,7 @@ const EXAM_DATA = {
           "D": "甲、乙、丙、丁、戊均需負連帶給付票款責任"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 27,
@@ -10419,7 +10429,7 @@ const EXAM_DATA = {
           "D": "甲不可拒絕付款，因甲對乙亦不具有抗辯權"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 28,
@@ -10431,7 +10441,7 @@ const EXAM_DATA = {
           "D": "甲對於乙另有利益償還請求權，權利時效期間為 1 年\n\n\f代號：4301\n頁次：12－6"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 29,
@@ -10443,7 +10453,7 @@ const EXAM_DATA = {
           "D": "業經簽名而未記載完成之空白票據不可向付款人提出止付通知，但得聲請公示催告"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 30,
@@ -10455,7 +10465,7 @@ const EXAM_DATA = {
           "D": "甲、乙、丙、丁、戊"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 31,
@@ -10467,7 +10477,7 @@ const EXAM_DATA = {
           "D": "丙應負承兌人責任"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 32,
@@ -10479,7 +10489,7 @@ const EXAM_DATA = {
           "D": "丁"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 34,
@@ -10491,7 +10501,7 @@ const EXAM_DATA = {
           "D": "新臺幣伍萬元或$60,000 元均為有效"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 35,
@@ -10503,7 +10513,7 @@ const EXAM_DATA = {
           "D": "甲因並未簽名，乙並非發票人，故兩人均不負責"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 36,
@@ -10515,7 +10525,7 @@ const EXAM_DATA = {
           "D": "發行人出具書面獲利保證\n\n\f代號：4301\n頁次：12－7"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 37,
@@ -10527,7 +10537,7 @@ const EXAM_DATA = {
           "D": "A 公司依規定提撥向外公開發行時，同次發行由公司員工承購之價格，應與向外公開發行之價格\n\n相同"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 38,
@@ -10539,7 +10549,7 @@ const EXAM_DATA = {
           "D": "審計委員會全體成員三分之二以上同意"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 39,
@@ -10551,7 +10561,7 @@ const EXAM_DATA = {
           "D": "若已設薪資報酬委員會，其職掌包括審議給付經理人之股票選擇權"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 40,
@@ -10563,7 +10573,7 @@ const EXAM_DATA = {
           "D": "若 A 公司未於收購期間完成預定收購數量，除有正當理由並經主管機關核准者外，A 公司於 1 年\n\n內不得再對 B 公司進行公開收購"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 41,
@@ -10575,7 +10585,7 @@ const EXAM_DATA = {
           "D": "A 公司進行庫藏股買回，A 公司之關係企業或董事、監察人、經理人、持有該公司股份超過股份\n\n總額百分之十之股東所持有之股份，於該公司買回之期間內不得賣出\n\n\f代號：4301\n頁次：12－8"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 42,
@@ -10587,7 +10597,7 @@ const EXAM_DATA = {
           "D": "A 公司應於公司債價款繳納完成日起 15 日內，檢附相關書件，報請主管機關備查"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 43,
@@ -10599,7 +10609,7 @@ const EXAM_DATA = {
           "D": "公司制證券交易所不得發行無記名股票"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 44,
@@ -10611,7 +10621,7 @@ const EXAM_DATA = {
           "D": "45 日"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 45,
@@ -10623,7 +10633,7 @@ const EXAM_DATA = {
           "D": "300,000 元"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 46,
@@ -10635,7 +10645,7 @@ const EXAM_DATA = {
           "D": "臺中高分院應以甲之抗告為有理由，廢棄臺中地院之裁定，發回臺中地院更為適法之處理\n\n\f代號：4301\n頁次：12－9"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 47,
@@ -10647,7 +10657,7 @@ const EXAM_DATA = {
           "D": "執行債權無論是否為終局執行之確定債權，執行債權人均得依債務人財產開示之規定，聲請執行法\n\n院命債務人報告其財產狀況，執行法院應准許甲之聲請"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 48,
@@ -10659,7 +10669,7 @@ const EXAM_DATA = {
           "D": "甲不得併聲請法院就乙所得向丙收取租金之債權，發扣押命令、收取命令而為執行"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 49,
@@ -10671,7 +10681,7 @@ const EXAM_DATA = {
           "D": "甲丙間之租賃關係既經法院裁定除去，乙嗣於 110 年 12 月 15 日再次聲請對 A 地為強制執行，法\n\n院於第一次拍賣時，拍賣條件應為拍定後點交"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 50,
@@ -10683,7 +10693,7 @@ const EXAM_DATA = {
           "D": "乙、丁、戊均不可\n\n\f代號：4301\n頁次：12－10"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 51,
@@ -10695,7 +10705,7 @@ const EXAM_DATA = {
           "D": "皆依關於動產執行之規定"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 52,
@@ -10707,7 +10717,7 @@ const EXAM_DATA = {
           "D": "如確定判決命乙於甲給付全部價金之同時應將 A 屋所有權移轉登記予甲，乙就該價金得持該判決\n\n為執行名義聲請對甲為強制執行"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 53,
@@ -10719,7 +10729,7 @@ const EXAM_DATA = {
           "D": "甲持該判決聲請強制執行，執行法院得依甲之聲請點交 B1 土地"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 54,
@@ -10731,7 +10741,7 @@ const EXAM_DATA = {
           "D": "如丙已基於其對 A 地之地上權，起訴請求乙交付 A 地，並獲得勝訴判決確定，執以聲請強制執行\n\n時，法院應駁回甲對乙就 A 地所為禁止移轉之假處分執行聲請"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 55,
@@ -10743,7 +10753,7 @@ const EXAM_DATA = {
           "D": "丙之強制執行聲請，為已實施執行行為之效力所及，執行法院不須再查封 A 土地\n\n\f代號：4301\n頁次：12－11"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 56,
@@ -10755,7 +10765,7 @@ const EXAM_DATA = {
           "D": "misrepresentation"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 57,
@@ -10767,7 +10777,7 @@ const EXAM_DATA = {
           "D": "devolution of property"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 58,
@@ -10779,7 +10789,7 @@ const EXAM_DATA = {
           "D": "duty of good deed"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 59,
@@ -10791,7 +10801,7 @@ const EXAM_DATA = {
           "D": "concurring"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 60,
@@ -10803,7 +10813,7 @@ const EXAM_DATA = {
           "D": "under seal"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 61,
@@ -10815,7 +10825,7 @@ const EXAM_DATA = {
           "D": "good will"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 62,
@@ -10827,7 +10837,7 @@ const EXAM_DATA = {
           "D": "When issuing new stock, participating underwriters need to have licenses, meet strict qualifications, and\n\ncannot be bypassed.\n\n\f代號：4301\n頁次：12－12"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 63,
@@ -10839,7 +10849,7 @@ const EXAM_DATA = {
           "D": "Proxy solicitation"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 64,
@@ -10851,7 +10861,7 @@ const EXAM_DATA = {
           "D": "vice"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 65,
@@ -10863,7 +10873,7 @@ const EXAM_DATA = {
           "D": "Consequential damages"
         },
         "year": 111,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 66,
@@ -10875,7 +10885,7 @@ const EXAM_DATA = {
           "D": "overhauled"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 67,
@@ -10887,7 +10897,7 @@ const EXAM_DATA = {
           "D": "Presidential immunity"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 68,
@@ -10899,7 +10909,7 @@ const EXAM_DATA = {
           "D": "acceptance"
         },
         "year": 111,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 69,
@@ -10911,7 +10921,7 @@ const EXAM_DATA = {
           "D": "punitive damages"
         },
         "year": 111,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 70,
@@ -10923,7 +10933,7 @@ const EXAM_DATA = {
           "D": "judgement notwithstanding the verdict"
         },
         "year": 111,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 1,
@@ -10935,7 +10945,7 @@ const EXAM_DATA = {
           "D": "可以，因兩家公司分屬不同縣市"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 2,
@@ -10947,7 +10957,7 @@ const EXAM_DATA = {
           "D": "A 公司已不得再為他人保證"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 3,
@@ -10959,7 +10969,7 @@ const EXAM_DATA = {
           "D": "③④"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 3,
@@ -10971,7 +10981,7 @@ const EXAM_DATA = {
           "D": "90 日"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 4,
@@ -10983,7 +10993,7 @@ const EXAM_DATA = {
           "D": "該政府機關自行參選監察人，且另推派 10 名自然人代表參選董事"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 5,
@@ -10995,7 +11005,7 @@ const EXAM_DATA = {
           "D": "監察人"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 6,
@@ -11007,7 +11017,7 @@ const EXAM_DATA = {
           "D": "由乙代表 A 公司與甲訂立買賣契約\n\n\f代號：4301\n頁次：10－2"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 7,
@@ -11019,7 +11029,7 @@ const EXAM_DATA = {
           "D": "該臨時動議未違反股東會召集程序之規定"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 8,
@@ -11031,7 +11041,7 @@ const EXAM_DATA = {
           "D": "三位董事自行召集前，未先經主管機關許可，並不合法"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 9,
@@ -11043,7 +11053,7 @@ const EXAM_DATA = {
           "D": "不應該，乙之提案非股東會所得決議者"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 10,
@@ -11055,7 +11065,7 @@ const EXAM_DATA = {
           "D": "戊若未持有股份，則不得自行召集股東臨時會"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 10,
@@ -11067,7 +11077,7 @@ const EXAM_DATA = {
           "D": "A 公司所需之 3 億資金，必須一次募足，不得分次發行"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 11,
@@ -11079,7 +11089,7 @@ const EXAM_DATA = {
           "D": "15,000 股"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 12,
@@ -11091,7 +11101,7 @@ const EXAM_DATA = {
           "D": "甲僅就議案（三）不得行使表決權，而 B 公司就議案（二）得行使表決權\n\n\f代號：4301\n頁次：10－3"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 13,
@@ -11103,7 +11113,7 @@ const EXAM_DATA = {
           "D": "常務董事會決議解任 A 之董事長職務後，A 仍為公司董事"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 15,
@@ -11115,7 +11125,7 @@ const EXAM_DATA = {
           "D": "甲得以自己名義行使 B 公司權利，請求 A 公司對 B 公司為給付"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 16,
@@ -11127,7 +11137,7 @@ const EXAM_DATA = {
           "D": "否，該契約條款牴觸保險法第 54 條之 1 之規定而無效"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 17,
@@ -11139,7 +11149,7 @@ const EXAM_DATA = {
           "D": "危險增加，若係因防護保險人之利益者，即使該危險增加係因要保人之行為所導致，亦無需通知保\n\n險人"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 18,
@@ -11151,7 +11161,7 @@ const EXAM_DATA = {
           "D": "A 保險公司得解除契約，並請求損害賠償\n\n\f代號：4301\n頁次：10－4"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 19,
@@ -11163,7 +11173,7 @@ const EXAM_DATA = {
           "D": "保險人不得對被保險人之家屬或受僱人行使代位權，但損失係由其故意或重大過失所引起者，不在\n\n此限"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 20,
@@ -11175,7 +11185,7 @@ const EXAM_DATA = {
           "D": "本件事故之發生與虛報車價之間無因果關係，保險公司仍應就保險金額之全部為理賠"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 21,
@@ -11187,7 +11197,7 @@ const EXAM_DATA = {
           "D": "應自被保險人對第三人應負損失賠償責任確定時起算，亦即應自 108 年 10 月起算二年，因此尚未\n\n罹於時效"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 22,
@@ -11199,7 +11209,7 @@ const EXAM_DATA = {
           "D": "保險人不得拒絕甲之申請恢復契約效力"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 23,
@@ -11211,7 +11221,7 @@ const EXAM_DATA = {
           "D": "保險業對利害關係人之放款皆應經董事會特別決議通過"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 24,
@@ -11223,7 +11233,7 @@ const EXAM_DATA = {
           "D": "被保險人於契約訂約二年後故意自殺\n\n\f代號：4301\n頁次：10－5"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 25,
@@ -11235,7 +11245,7 @@ const EXAM_DATA = {
           "D": "國際發生重大事故導致再保險費提高，B 公司僅得依保險法第 60 條第 1 項之規定向 A 公司主張終\n\n止契約"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 26,
@@ -11247,7 +11257,7 @@ const EXAM_DATA = {
           "D": "乙得自支票時效完成後 15 年內向甲請求"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 27,
@@ -11259,7 +11269,7 @@ const EXAM_DATA = {
           "D": "丙不負任何票據責任"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 28,
@@ -11271,7 +11281,7 @@ const EXAM_DATA = {
           "D": "戊若行使追索權，得向丙請求 20 萬元"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 29,
@@ -11283,7 +11293,7 @@ const EXAM_DATA = {
           "D": "乙之印章蓋在票據上，故須負票據責任"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 30,
@@ -11295,7 +11305,7 @@ const EXAM_DATA = {
           "D": "102 年 6 月 9 日"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 31,
@@ -11307,7 +11317,7 @@ const EXAM_DATA = {
           "D": "甲、乙、丙、丁均應負票據責任\n\n\f代號：4301\n頁次：10－6"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 32,
@@ -11319,7 +11329,7 @@ const EXAM_DATA = {
           "D": "丙行使追索權時，得請求追索之必要費用"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 33,
@@ -11331,7 +11341,7 @@ const EXAM_DATA = {
           "D": "未記載發票地，該支票無效"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 34,
@@ -11343,7 +11353,7 @@ const EXAM_DATA = {
           "D": "丙應遵守法定提示期間，方得行使票據權利"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 35,
@@ -11355,7 +11365,7 @@ const EXAM_DATA = {
           "D": "丁僅可向甲行使追索權"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 36,
@@ -11367,7 +11377,7 @@ const EXAM_DATA = {
           "D": "不可行，因基於此一目的所為股份之買回，屬於證券交易法所禁止的連續交易行為"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 37,
@@ -11379,7 +11389,7 @@ const EXAM_DATA = {
           "D": "得直接經由全體獨立董事三分之二以上同意之決議為之"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 39,
@@ -11391,7 +11401,7 @@ const EXAM_DATA = {
           "D": "A 公司監察人與董事間皆為二親等以內親屬，則監察人中所得選票代表選舉權較低者，其當選失\n\n其效力\n\n\f代號：4301\n頁次：10－7"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 40,
@@ -11403,7 +11413,7 @@ const EXAM_DATA = {
           "D": "自然人甲得僅受股東 B 一人之委託，代理股東 B 出席本次股東會，行使 B 全部之表決權"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 41,
@@ -11415,7 +11425,7 @@ const EXAM_DATA = {
           "D": "A 公司身為 B 公司之控制股東，則其未取得 B 公司股東會同意之前，不得採用公開收購方式來買\n\n進 B 公司股票"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 42,
@@ -11427,7 +11437,7 @@ const EXAM_DATA = {
           "D": "依法決議後，可於 2 年內分次辦理"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 43,
@@ -11439,7 +11449,7 @@ const EXAM_DATA = {
           "D": "上市有價證券之買賣，應於證券交易所開設之有價證券集中交易市場為之。但私人間之直接讓受，\n\n其數量不超過該證券 1 個成交單位，且前後兩次之讓受行為相隔不少於 6 個月者，不在此限"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 44,
@@ -11451,7 +11461,7 @@ const EXAM_DATA = {
           "D": "分銷"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 45,
@@ -11463,7 +11473,7 @@ const EXAM_DATA = {
           "D": "A 公司非上市公司，故甲無須負任何責任\n\n\f代號：4301\n頁次：10－8"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 46,
@@ -11475,7 +11485,7 @@ const EXAM_DATA = {
           "D": "判決確定前，執行法院僅得扣押 A 存款及查封 B 房地，不能實施換價"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 47,
@@ -11487,7 +11497,7 @@ const EXAM_DATA = {
           "D": "通知乙、丙到場對質，並命甲、乙辯論，調查 A 屋權利歸屬後，據以處置"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 48,
@@ -11499,7 +11509,7 @@ const EXAM_DATA = {
           "D": "未拍定，執行債權人亦不願承受時，應撤銷該動產之拍賣"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 49,
@@ -11511,7 +11521,7 @@ const EXAM_DATA = {
           "D": "A 地既以「拍定後不點交」為拍賣條件，丁於拍定後即不得再為相反主張，執行法院應駁回其異議"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 50,
@@ -11523,7 +11533,7 @@ const EXAM_DATA = {
           "D": "債權人甲聲請執行債務人乙之礦業權，應準用不動產之執行程序辦理"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 51,
@@ -11535,7 +11545,7 @@ const EXAM_DATA = {
           "D": "拍賣併強制管理\n\n\f代號：4301\n頁次：10－9"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 52,
@@ -11547,7 +11557,7 @@ const EXAM_DATA = {
           "D": "丁並非執行名義效力所及之人，且乙已將丙安置在丁處所，甲僅能另行對丁取得執行名義，執行法\n\n院應駁回甲之強制執行聲請"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 53,
@@ -11559,7 +11569,7 @@ const EXAM_DATA = {
           "D": "命債務人乙協同債權人甲向監理機關辦理 B 車過戶登記"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 54,
@@ -11571,7 +11581,7 @@ const EXAM_DATA = {
           "D": "應視丙之假扣押執行為參與分配，以其應受分配金額予以提存"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 55,
@@ -11583,7 +11593,7 @@ const EXAM_DATA = {
           "D": "應予准許，因先後執行債權人所執行之權利不同"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 56,
@@ -11595,7 +11605,7 @@ const EXAM_DATA = {
           "D": "Defamation"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 57,
@@ -11607,7 +11617,7 @@ const EXAM_DATA = {
           "D": "contradict wrong"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 58,
@@ -11619,7 +11629,7 @@ const EXAM_DATA = {
           "D": "watching of obligation"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 59,
@@ -11631,7 +11641,7 @@ const EXAM_DATA = {
           "D": "disoriented\n\n\f代號：4301\n頁次：10－10"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 60,
@@ -11643,7 +11653,7 @@ const EXAM_DATA = {
           "D": "Financial Supervisory Commission"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 61,
@@ -11655,7 +11665,7 @@ const EXAM_DATA = {
           "D": "Public investors"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 62,
@@ -11667,7 +11677,7 @@ const EXAM_DATA = {
           "D": "Proportionality"
         },
         "year": 110,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 64,
@@ -11679,7 +11689,7 @@ const EXAM_DATA = {
           "D": "Exculpatory evidence"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 65,
@@ -11691,7 +11701,7 @@ const EXAM_DATA = {
           "D": "embezzlement"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 66,
@@ -11703,7 +11713,7 @@ const EXAM_DATA = {
           "D": "appellate"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 67,
@@ -11713,7 +11723,7 @@ const EXAM_DATA = {
           "B": "probe\n\n."
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 68,
@@ -11723,7 +11733,7 @@ const EXAM_DATA = {
           "D": "scrutiny\n, the government that denies the application"
         },
         "year": 110,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 69,
@@ -11735,7 +11745,7 @@ const EXAM_DATA = {
           "D": "compelling interests"
         },
         "year": 110,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 1,
@@ -11747,7 +11757,7 @@ const EXAM_DATA = {
           "D": "除公開發行股票公司外，其他公司均得將資金貸與任何人"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 2,
@@ -11759,7 +11769,7 @@ const EXAM_DATA = {
           "D": "有限公司須經股東表決權三分之二以上之同意，始得變更其組織為股份有限公司"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 3,
@@ -11771,7 +11781,7 @@ const EXAM_DATA = {
           "D": "X 公司第一次發行股份總數為 300 萬股，甲、乙、丙三人並未實際繳納股款而以申請文件表明收足\n\n者，僅會受到行政罰鍰之處罰"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 4,
@@ -11783,7 +11793,7 @@ const EXAM_DATA = {
           "D": "不得為非同類業務事業之無限責任股東"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 5,
@@ -11795,7 +11805,7 @@ const EXAM_DATA = {
           "D": "股東丁以書面或電子方式行使表決權時，其意思表示有重複時，以最先送達者為準\n\n\f代號：4301\n頁次：10－2"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 6,
@@ -11807,7 +11817,7 @@ const EXAM_DATA = {
           "D": "該租賃契約應由丙代表 A 公司簽訂；又乙不得無故辭去董事職務"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 7,
@@ -11819,7 +11829,7 @@ const EXAM_DATA = {
           "D": "A、B 兩家公司合併後，B 公司為消滅公司，B 公司依法應進行清算"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 8,
@@ -11831,7 +11841,7 @@ const EXAM_DATA = {
           "D": "經董事會特別決議，並經股東會普通決議"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 9,
@@ -11843,7 +11853,7 @@ const EXAM_DATA = {
           "D": "X 公司擬發行無表決權特別股，並禁止該特別股股東出席股東會"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 10,
@@ -11855,7 +11865,7 @@ const EXAM_DATA = {
           "D": "A、B 公司均可發行限制員工權利新股給甲"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 11,
@@ -11867,7 +11877,7 @@ const EXAM_DATA = {
           "D": "監察人丁如認為戊與 Z 不適任，丁得自行召集股東會，以股東會決議方式解任戊與 Z 之職務"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 12,
@@ -11879,7 +11889,7 @@ const EXAM_DATA = {
           "D": "甲、乙、丙任期最長為 3 年，但得連選連任\n\n\f代號：4301\n頁次：10－3"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 13,
@@ -11891,7 +11901,7 @@ const EXAM_DATA = {
           "D": "甲無須認股出資"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 14,
@@ -11903,7 +11913,7 @@ const EXAM_DATA = {
           "D": "無上限"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 15,
@@ -11915,7 +11925,7 @@ const EXAM_DATA = {
           "D": "X 公司若未對 Y 公司賠償 5 千萬元，繼續六個月以上持有 Y 公司股份之股東，得以自己名義，\n\n請求 X 公司對 Y 公司為給付"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 16,
@@ -11927,7 +11937,7 @@ const EXAM_DATA = {
           "D": "得撤銷"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 17,
@@ -11939,7 +11949,7 @@ const EXAM_DATA = {
           "D": "甲得依投保比例請求償還所支出之避免損害必要費用"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 18,
@@ -11951,7 +11961,7 @@ const EXAM_DATA = {
           "D": "除得解除契約外，並得請求損害賠償"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 19,
@@ -11963,7 +11973,7 @@ const EXAM_DATA = {
           "D": "與保險契約有關之一切事項，不問過去現在或未來，均得以特約條款約定之\n\n\f代號：4301\n頁次：10－4"
         },
         "year": 109,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 20,
@@ -11975,7 +11985,7 @@ const EXAM_DATA = {
           "D": "依一般保險實務，罹患高血壓症為人壽保險之重要詢問事項，A 保險公司應得解除契約，拒絕給付"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 21,
@@ -11987,7 +11997,7 @@ const EXAM_DATA = {
           "D": "待修汽車 5 部及員工自有汽車 3 部均無須理賠"
         },
         "year": 109,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 22,
@@ -11999,7 +12009,7 @@ const EXAM_DATA = {
           "D": "自契約訂立兩年後，甲精神疾病再度復發，保險人亦不得解除契約"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 23,
@@ -12011,7 +12021,7 @@ const EXAM_DATA = {
           "D": "契約存續期間，受益人之變更應經被保險人書面承認"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 24,
@@ -12023,7 +12033,7 @@ const EXAM_DATA = {
           "D": "終止契約"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 25,
@@ -12035,7 +12045,7 @@ const EXAM_DATA = {
           "D": "萬分之一"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 26,
@@ -12047,7 +12057,7 @@ const EXAM_DATA = {
           "D": "戊為無償取得票據，因而不能向背書人乙主張追索權，而只得向發票人請求\n\n\f代號：4301\n頁次：10－5"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 27,
@@ -12059,7 +12069,7 @@ const EXAM_DATA = {
           "D": "此票據未經乙背書，故票據背書不連續，丁無法主張善意取得"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 28,
@@ -12071,7 +12081,7 @@ const EXAM_DATA = {
           "D": "該本票因欠缺應記載事項，故甲、乙均得對丙主張票據無效"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 29,
@@ -12083,7 +12093,7 @@ const EXAM_DATA = {
           "D": "乙之附記有效"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 30,
@@ -12095,7 +12105,7 @@ const EXAM_DATA = {
           "D": "未載保證年月日，故保證無效"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 31,
@@ -12107,7 +12117,7 @@ const EXAM_DATA = {
           "D": "無被參加付款人"
         },
         "year": 109,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 32,
@@ -12119,7 +12129,7 @@ const EXAM_DATA = {
           "D": "應予准許。本票執票人雖未遵期提示，但仍得依票據法第 123 條裁定後強制執行"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 33,
@@ -12131,7 +12141,7 @@ const EXAM_DATA = {
           "D": "甲及戊係真正蓋乙及丁印章之人，故甲及戊應負票據責任"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 34,
@@ -12143,7 +12153,7 @@ const EXAM_DATA = {
           "D": "C 銀行違法對於 B 公司付款，可處最高 110 萬元之罰鍰\n\n\f代號：4301\n頁次：10－6"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 35,
@@ -12155,7 +12165,7 @@ const EXAM_DATA = {
           "D": "乙對 A 追索權有效期間為三年"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 36,
@@ -12167,7 +12177,7 @@ const EXAM_DATA = {
           "D": "同年 7 月 16 日"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 37,
@@ -12179,7 +12189,7 @@ const EXAM_DATA = {
           "D": "A 公司應設置薪資報酬委員會"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 38,
@@ -12191,7 +12201,7 @@ const EXAM_DATA = {
           "D": "乙之妻"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 39,
@@ -12203,7 +12213,7 @@ const EXAM_DATA = {
           "D": "A 公司若採公開收購，在公開收購期間未屆滿前，若應募股數已達百分之三十八，A 公司即應提前\n\n停止公開收購"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 40,
@@ -12215,7 +12225,7 @@ const EXAM_DATA = {
           "D": "340 萬零 1"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 41,
@@ -12227,7 +12237,7 @@ const EXAM_DATA = {
           "D": "8 萬股"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 42,
@@ -12239,7 +12249,7 @@ const EXAM_DATA = {
           "D": "本件讓受 A、B 二家公司股票之行為均違法\n\n\f代號：4301\n頁次：10－7"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 43,
@@ -12251,7 +12261,7 @@ const EXAM_DATA = {
           "D": "A 公司僅得於櫃檯買賣市場進行股份買回"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 44,
@@ -12263,7 +12273,7 @@ const EXAM_DATA = {
           "D": "承銷商丙"
         },
         "year": 109,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 46,
@@ -12275,7 +12285,7 @@ const EXAM_DATA = {
           "D": "如 A 屋係丙出資興建，出售於乙，乙再出售於丁，則丁不得代位丙提起第三人異議之訴"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 47,
@@ -12287,7 +12297,7 @@ const EXAM_DATA = {
           "D": "執行法院仍應實施後案執行"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 48,
@@ -12299,7 +12309,7 @@ const EXAM_DATA = {
           "D": "執行法院未通知債權人、債務人於拍賣日到場，而拍賣程序已終結時，拍賣仍有效\n\n\f代號：4301\n頁次：10－8"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 49,
@@ -12311,7 +12321,7 @@ const EXAM_DATA = {
           "D": "丙如否認乙對其有薪資債權，得於接受扣押命令後 10 日內，向法院聲明異議"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 50,
@@ -12323,7 +12333,7 @@ const EXAM_DATA = {
           "D": "A 屋經乙作為倉儲使用，自查封前即由乙之保全人員戊管理"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 51,
@@ -12335,7 +12345,7 @@ const EXAM_DATA = {
           "D": "執行法院之扣押命令效力僅及於扣押命令到達丙時已屆期之租金債權"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 52,
@@ -12347,7 +12357,7 @@ const EXAM_DATA = {
           "D": "B 建物興建於上開確定判決最後事實審言詞辯論終結之後，執行法院應指示甲另行取得拆除 B 建\n\n物之執行名義，並在取得之前停止全部執行程序"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 53,
@@ -12359,7 +12369,7 @@ const EXAM_DATA = {
           "D": "執行法院將 B 屋拆除、點交 A 地予甲占有後，乙復即占有 A 地，甲得持原確定判決再聲請強制執\n\n行，惟應另行繳納執行費\n\n\f代號：4301\n頁次：10－9"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 54,
@@ -12371,7 +12381,7 @@ const EXAM_DATA = {
           "D": "如 A 地價值超過 300 萬元，執行法院應駁回甲之追加執行聲請"
         },
         "year": 109,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 55,
@@ -12383,7 +12393,7 @@ const EXAM_DATA = {
           "D": "甲之前案執行停止，不得由後案執行受分配"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 56,
@@ -12395,7 +12405,7 @@ const EXAM_DATA = {
           "D": "joint and several liability"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 57,
@@ -12407,7 +12417,7 @@ const EXAM_DATA = {
           "D": "defamation"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 58,
@@ -12419,7 +12429,7 @@ const EXAM_DATA = {
           "D": "liable to Tom for nuisance"
         },
         "year": 109,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 59,
@@ -12431,7 +12441,7 @@ const EXAM_DATA = {
           "D": "Force majeure"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 60,
@@ -12443,7 +12453,7 @@ const EXAM_DATA = {
           "D": "counter-offer"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 61,
@@ -12455,7 +12465,7 @@ const EXAM_DATA = {
           "D": "fraudulent misrepresentation\n\n\f代號：4301\n頁次：10－10"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 62,
@@ -12467,7 +12477,7 @@ const EXAM_DATA = {
           "D": "John worked as the head of a government agency that directly supervises ABC Inc.’s business activities.\n\nAfter retiring in late 2016, John joined ABC’s board as an independent director in spring 2017."
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 63,
@@ -12479,7 +12489,7 @@ const EXAM_DATA = {
           "D": "A shareholder needs to hold more than 1 percent of outstanding shares to file a shareholder derivative suit."
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 64,
@@ -12491,7 +12501,7 @@ const EXAM_DATA = {
           "D": "counsel"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 65,
@@ -12503,7 +12513,7 @@ const EXAM_DATA = {
           "D": "unreasonable"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 66,
@@ -12515,7 +12525,7 @@ const EXAM_DATA = {
           "D": "self-discipline"
         },
         "year": 109,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 67,
@@ -12527,7 +12537,7 @@ const EXAM_DATA = {
           "D": "prior restraint"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 68,
@@ -12539,7 +12549,7 @@ const EXAM_DATA = {
           "D": "enumerated"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 69,
@@ -12551,7 +12561,7 @@ const EXAM_DATA = {
           "D": "Gender discrimination"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 70,
@@ -12563,7 +12573,7 @@ const EXAM_DATA = {
           "D": "fair and balanced doctrine"
         },
         "year": 109,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 90,
@@ -12587,7 +12597,7 @@ const EXAM_DATA = {
           "D": "①①①皆不符合"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 2,
@@ -12599,7 +12609,7 @@ const EXAM_DATA = {
           "D": "由董事會召集股東常會，並於會議中決議解任甲之董事長職務"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 2,
@@ -12611,7 +12621,7 @@ const EXAM_DATA = {
           "D": "公司已無董事會"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 2,
@@ -12623,7 +12633,7 @@ const EXAM_DATA = {
           "D": "本會計年度不能為盈餘期中分派，會計年度終了後得為盈餘分派，盈餘分派決定權限歸屬股東會 \n\n \n\f代號：4301\n頁次：12－3"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 3,
@@ -12635,7 +12645,7 @@ const EXAM_DATA = {
           "D": "無法產生有權代表 A 公司簽訂該租賃契約之人"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 4,
@@ -12647,7 +12657,7 @@ const EXAM_DATA = {
           "D": "公司內部依法定程序選用外文名稱後，可不必辦理登記"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 5,
@@ -12659,7 +12669,7 @@ const EXAM_DATA = {
           "D": "人"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 5,
@@ -12671,7 +12681,7 @@ const EXAM_DATA = {
           "D": "萬元"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 6,
@@ -12683,7 +12693,7 @@ const EXAM_DATA = {
           "D": "股份有限公司之臨時管理人在執行業務範圍內，為公司負責人 \n\n \n \n\f代號：4301 \n頁次：12－2"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 7,
@@ -12695,7 +12705,7 @@ const EXAM_DATA = {
           "D": "倘若 X 公司為公開發行股票公司，並設有審計委員會，則於董事會決議併購前，應先由審計委員\n\n會就本次併購計畫與交易之公平性、合理性進行審議"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 8,
@@ -12707,7 +12717,7 @@ const EXAM_DATA = {
           "D": "公司合併，應經股東表決權三分之二以上之同意"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 9,
@@ -12719,7 +12729,7 @@ const EXAM_DATA = {
           "D": "相當於 A 公司負債總金額 10%以上之公司債權人，得聲請重整"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 10,
@@ -12731,7 +12741,7 @@ const EXAM_DATA = {
           "D": "非得其他全體股東同意，不得轉讓於他人之特別股"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 10,
@@ -12743,7 +12753,7 @@ const EXAM_DATA = {
           "D": "新臺幣 0 元"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 13,
@@ -12755,7 +12765,7 @@ const EXAM_DATA = {
           "D": "股東乙為公司提起訴訟，得向法院聲請選任律師為訴訟代理人"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 14,
@@ -12767,7 +12777,7 @@ const EXAM_DATA = {
           "D": "若乙公司欲召集股東會選舉董事時，甲公司僅得行使其所持有乙公司已發行有表決權股份總數之\n\n三分之一"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 15,
@@ -12779,7 +12789,7 @@ const EXAM_DATA = {
           "D": "公司未對 B 公司為賠償時，B 公司之債權人，得以自己名義行使 B 公司之權利，請求 A 公司及\n\n其負責人為給付"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 16,
@@ -12791,7 +12801,7 @@ const EXAM_DATA = {
           "D": "甲、丙、丁、戊皆不得請求"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 17,
@@ -12803,7 +12813,7 @@ const EXAM_DATA = {
           "D": "甲違反通知義務，保險人得拒絕給付 \n\n \n\f代號：4301 \n頁次：12－4"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 18,
@@ -12815,7 +12825,7 @@ const EXAM_DATA = {
           "D": "條款 X 無效，條款 Y 有效"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 19,
@@ -12827,7 +12837,7 @@ const EXAM_DATA = {
           "D": "保險公司應給付甲 120 萬元"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 20,
@@ -12839,7 +12849,7 @@ const EXAM_DATA = {
           "D": "關於 48 小時內通知事故發生之約定及不負賠償責任之約定，均為有效"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 21,
@@ -12851,7 +12861,7 @@ const EXAM_DATA = {
           "D": "人壽保險因屬長期保險，故保險費皆為分期交付"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 22,
@@ -12863,7 +12873,7 @@ const EXAM_DATA = {
           "D": "保險公司之給付若有遲延，遲延利息為年息百分之十"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 23,
@@ -12875,7 +12885,7 @@ const EXAM_DATA = {
           "D": "日"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 24,
@@ -12887,7 +12897,7 @@ const EXAM_DATA = {
           "D": "殘廢保險 \n\n \n \n \n\f代號：4301\n頁次：12－5"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 25,
@@ -12899,7 +12909,7 @@ const EXAM_DATA = {
           "D": "無理由，因由被保險人負擔公證費用之約定，違反保險法第 54 條之 1 無效"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 26,
@@ -12911,7 +12921,7 @@ const EXAM_DATA = {
           "D": "公司及董事長丙均應支付 10 萬元之票款"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 28,
@@ -12923,7 +12933,7 @@ const EXAM_DATA = {
           "D": "若乙善意時，甲應支付新臺幣 2 萬元"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 29,
@@ -12935,7 +12945,7 @@ const EXAM_DATA = {
           "D": "丙不可向甲請求 X 元，但可向甲請求 Y 元，並可向乙請求 X 及 Y 元"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 30,
@@ -12947,7 +12957,7 @@ const EXAM_DATA = {
           "D": "如執票人允許延期承兌，應於延期之末日或其後 5 日內作成拒絕證書 \n\n \n\f代號：4301 \n頁次：12－6"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 31,
@@ -12959,7 +12969,7 @@ const EXAM_DATA = {
           "D": "連續，因執票人丁收受本票時並未爭執背書不連續"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 32,
@@ -12971,7 +12981,7 @@ const EXAM_DATA = {
           "D": "本票之背書人並非本票強制執行之對象"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 33,
@@ -12983,7 +12993,7 @@ const EXAM_DATA = {
           "D": "丁得向甲追索，不得向乙、丙追索"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 34,
@@ -12995,7 +13005,7 @@ const EXAM_DATA = {
           "D": "票據行為仍為有效，惟付款銀行得拒絕付款"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 35,
@@ -13007,7 +13017,7 @@ const EXAM_DATA = {
           "D": "有理由。因支票為乙所簽發，丙為背書人，但無任何對價關係，今甲僅訴請丙負責，丙自可以其\n\n與乙之間並無對價或受讓票據權利，而不負給付票款之責 \n\n \n\f36  剛從大學畢業的社會新鮮人甲，擬將其部分薪水拿來從事投資。甲想要了解下列何者非證券交易法\n\n代號：4301\n頁次：12－7\n\n所稱之有價證券？"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 37,
@@ -13019,7 +13029,7 @@ const EXAM_DATA = {
           "D": "甲在任期中轉讓超過選任當時所持有之 A 公司股份數額二分之一時，並不會發生解任之效果"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 38,
@@ -13031,7 +13041,7 @@ const EXAM_DATA = {
           "D": "甲之配偶從 7 月 28 日至 8 月 30 日止，都不得於櫃檯買賣市場購買 B 上櫃公司股票"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 39,
@@ -13043,7 +13053,7 @@ const EXAM_DATA = {
           "D": "公司應編製年報，於本次股東會分送股東"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 40,
@@ -13055,7 +13065,7 @@ const EXAM_DATA = {
           "D": "若 A 公司不再設立監察人而改設審計委員會，則原全體監察人之最低持股數應加計在全體董事的\n\n最低持股數中 \n\n \n\f代號：4301 \n頁次：12－8"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 41,
@@ -13067,7 +13077,7 @@ const EXAM_DATA = {
           "D": "發行人募集發行有價證券時，按認股人或應募人之合理請求，負有交付公開說明書的義務"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 43,
@@ -13079,7 +13089,7 @@ const EXAM_DATA = {
           "D": "公司之董事長丁如無法證明其已盡相當注意，且有正當理由合理確信經甲簽證之財務報告內容\n\n無虛偽隱匿情事時，即須負賠償責任"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 44,
@@ -13091,7 +13101,7 @@ const EXAM_DATA = {
           "D": "丁係自非 A 公司內部人之丙得知 A 公司虧損之消息，故丁不構成內線交易"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 45,
@@ -13103,7 +13113,7 @@ const EXAM_DATA = {
           "D": "得於退件之緣由改善或消滅後，備妥相關文件，重行申請上市 \n\n \n\f代號：4301\n頁次：12－9"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 46,
@@ -13115,7 +13125,7 @@ const EXAM_DATA = {
           "D": "債務人係計程車司機，其所有之計程車為職業上所必需之物品，債權人亦一律不得聲請查封拍賣之"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 47,
@@ -13127,7 +13137,7 @@ const EXAM_DATA = {
           "D": "甲如於 106 年 7 月 25 日向執行法院提出已起訴證明，法院應駁回甲之分配表異議之訴"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 48,
@@ -13139,7 +13149,7 @@ const EXAM_DATA = {
           "D": "乙之 A 車於查封後失竊"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 50,
@@ -13151,7 +13161,7 @@ const EXAM_DATA = {
           "D": "執行法院就分配金額無異議之部分亦應停止分配 \n\n \n\f代號：4301 \n頁次：12－10"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 51,
@@ -13163,7 +13173,7 @@ const EXAM_DATA = {
           "D": "甲因強制執行而支出之費用"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 52,
@@ -13175,7 +13185,7 @@ const EXAM_DATA = {
           "D": "執行法院得酌定數額命乙預納，並以乙預納之費用採買與 A 車同廠牌、規格之汽車交付予甲，以\n\n代 A 車原物返還之執行"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 53,
@@ -13187,7 +13197,7 @@ const EXAM_DATA = {
           "D": "對乙處以怠金，續經定期履行而仍不履行時，再處以怠金或管收"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 54,
@@ -13199,7 +13209,7 @@ const EXAM_DATA = {
           "D": "執行法院就拍賣 A 地所得價金，應先扣除丙之債權額後，再將餘額分配予甲並提存之"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 55,
@@ -13211,7 +13221,7 @@ const EXAM_DATA = {
           "D": "甲得以保全執行在先為由，對於執行法院就丙之聲請准予執行，聲明異議 \n\n \n\f代號：4301\n頁次：12－11"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 56,
@@ -13223,7 +13233,7 @@ const EXAM_DATA = {
           "D": "civil disability"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 57,
@@ -13235,7 +13245,7 @@ const EXAM_DATA = {
           "D": "strict liability"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 58,
@@ -13247,7 +13257,7 @@ const EXAM_DATA = {
           "D": "Larry is a shop owner who knows his customer Jane is in his shop. But he locks \n\nthe only door of the shop \n\nto prevent a third person from entering when he goes out for his lunch."
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 59,
@@ -13259,7 +13269,7 @@ const EXAM_DATA = {
           "D": "expectation \n\ndamages"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 60,
@@ -13271,7 +13281,7 @@ const EXAM_DATA = {
           "D": "A third\n\n-party beneficiary contract"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 61,
@@ -13283,7 +13293,7 @@ const EXAM_DATA = {
           "D": "the CEO and chairman, John is not required to excuse himself from voting at the shareholder meeting \n\nautomatically,  unless  he  has  a  conflict  of  interest  that  could  result  in  a  possible  breach  of  fiduciary \n\nresponsibility."
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 62,
@@ -13295,7 +13305,7 @@ const EXAM_DATA = {
           "D": "note \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f代號：4301 \n頁次：12－12"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 63,
@@ -13307,7 +13317,7 @@ const EXAM_DATA = {
           "D": "causation"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 64,
@@ -13319,7 +13329,7 @@ const EXAM_DATA = {
           "D": "voter intimidation"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 65,
@@ -13331,7 +13341,7 @@ const EXAM_DATA = {
           "D": "substantive due process"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 66,
@@ -13343,7 +13353,7 @@ const EXAM_DATA = {
           "D": "reserved"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 67,
@@ -13355,7 +13365,7 @@ const EXAM_DATA = {
           "D": "deduce"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 68,
@@ -13367,7 +13377,7 @@ const EXAM_DATA = {
           "D": "Durational conditions"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 69,
@@ -13379,7 +13389,7 @@ const EXAM_DATA = {
           "D": "A majority of supervisors can convene a meeting and remove a director if all supervisors agree to it."
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 70,
@@ -13391,7 +13401,7 @@ const EXAM_DATA = {
           "D": "voidable"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 107,
@@ -13415,7 +13425,7 @@ const EXAM_DATA = {
           "D": "B 公司之請求權已逾消滅時效，甲可提出時效抗辯"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 2,
@@ -13427,7 +13437,7 @@ const EXAM_DATA = {
           "D": "章程中規定公司得設置經理人，且必須經法定程序委任"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 2,
@@ -13439,7 +13449,7 @@ const EXAM_DATA = {
           "D": "曆法上所無之到期日，應解為該月末日為到期日，丙之提示逾期對乙喪失追索權"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 3,
@@ -13451,7 +13461,7 @@ const EXAM_DATA = {
           "D": "有罪判決確定後，若經主管機關限期補正，且乙已補正後，即可無須撤銷或廢止 X 公司登記"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 4,
@@ -13463,7 +13473,7 @@ const EXAM_DATA = {
           "D": "無效，因要求 B 公司提供抵押擔保 \n\n \n \n\f代號：4301 \n頁次：12－2"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 5,
@@ -13475,7 +13485,7 @@ const EXAM_DATA = {
           "D": "本次投資需股東會決議，因總投資金額已達實收資本百分之四十"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 6,
@@ -13487,7 +13497,7 @@ const EXAM_DATA = {
           "D": "股東會推選之非股東戊"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 7,
@@ -13499,7 +13509,7 @@ const EXAM_DATA = {
           "D": "若股東會決議通過該議案，股東甲於決議前曾以書面通知公司反對該議案，並於股東會已為反對\n\n者，得請求公司以當時公平價格收買其所有股份"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 8,
@@ -13511,7 +13521,7 @@ const EXAM_DATA = {
           "D": "自然人戊受乙及其他股東共計 5 人委託出席股東會，其代理之表決權不得超過已發行股份總數表\n\n決權之百分之三"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 9,
@@ -13523,7 +13533,7 @@ const EXAM_DATA = {
           "D": "不能分派 \n\n \n \n\f代號：4301\n頁次：12－3"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 10,
@@ -13535,7 +13545,7 @@ const EXAM_DATA = {
           "D": "公司非於盈餘公積填補資本虧損，仍有不足時，不得以資本公積補充之"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 11,
@@ -13547,7 +13557,7 @@ const EXAM_DATA = {
           "D": "①、②及③皆符合"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 12,
@@ -13559,7 +13569,7 @@ const EXAM_DATA = {
           "D": "甲律師之報酬由公司現存財產中儘先給付"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 13,
@@ -13571,7 +13581,7 @@ const EXAM_DATA = {
           "D": "因甲轉讓 10 萬股已超過 A 公司已發行股份總數十分之一，故董事當然解任"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 14,
@@ -13583,7 +13593,7 @@ const EXAM_DATA = {
           "D": "受股東會決議之委託代表 A 公司向其董事提起民事訴訟"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 15,
@@ -13595,7 +13605,7 @@ const EXAM_DATA = {
           "D": "公司規模逐漸成長，股東人數眾多，應向證券主管機關申請辦理公開發行程序 \n\n \n\f代號：4301 \n頁次：12－4"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 16,
@@ -13607,7 +13617,7 @@ const EXAM_DATA = {
           "D": "我國司法實務見解認為再保險無保險代位之適用"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 17,
@@ -13619,7 +13629,7 @@ const EXAM_DATA = {
           "D": "保險公證人公司"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 18,
@@ -13631,7 +13641,7 @@ const EXAM_DATA = {
           "D": "財產保險契約之功能在填補損失"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 19,
@@ -13643,7 +13653,7 @@ const EXAM_DATA = {
           "D": "有理由，因乙非保險法第 53 條第 2 項之「家屬」或「受僱人」"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 20,
@@ -13655,7 +13665,7 @@ const EXAM_DATA = {
           "D": "甲對 A 公司提起賠償請求經判決確定後，即得直接向 B 保險公司請求給付保險金"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 21,
@@ -13667,7 +13677,7 @@ const EXAM_DATA = {
           "D": "請求損害賠償 \n\n \n \n\f22  保險人於承保前，如未查明保險標的物之市價超額承保，下列關於保險事故發生後，保險契約效力\n\n代號：4301\n頁次：12－5\n\n之敘述，何者正確？"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 23,
@@ -13679,7 +13689,7 @@ const EXAM_DATA = {
           "D": "乙如於 16 歲因意外傷害事故住院治療時，保險人負給付醫療保險金之責"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 24,
@@ -13691,7 +13701,7 @@ const EXAM_DATA = {
           "D": "無理由，因僅投保時在妊娠中者，健康保險人始得拒賠，而甲罹癌非妊娠，亦非因生產住院"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 25,
@@ -13703,7 +13713,7 @@ const EXAM_DATA = {
           "D": "保險業辦理保險金信託業務，除其他經主管機關核准之資金運用方式外，其資金運用範圍限於現\n\n金或銀行存款、公債或金融債券、短期票券及不動產"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 27,
@@ -13715,7 +13725,7 @@ const EXAM_DATA = {
           "D": "乙為甲之使者或機關，於乙填載發票日完成後，票據應屬有效 \n\n \n\f代號：4301 \n頁次：12－6"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 28,
@@ -13727,7 +13737,7 @@ const EXAM_DATA = {
           "D": "新臺幣 0 元，因為該本票有瑕疵而無效"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 29,
@@ -13739,7 +13749,7 @@ const EXAM_DATA = {
           "D": "因甲為期後付款，故執票人乙不得拒絕"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 30,
@@ -13751,7 +13761,7 @@ const EXAM_DATA = {
           "D": "丙對戊有抗辯事由，因戊未遵期提示請求付款"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 31,
@@ -13763,7 +13773,7 @@ const EXAM_DATA = {
           "D": "執票人丙逾越付款之提示期間，但執票人丙對發票人甲之追索權時效期間為 3 年，對背書人之追\n\n索權時效為 1 年，故丙對甲、乙均得行使追索權"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 32,
@@ -13775,7 +13785,7 @@ const EXAM_DATA = {
           "D": "此本票欠缺應記載事項，所以發票人甲得對丙主張發票行為無效，但背書人乙之背書仍有效，因\n\n為票據行為具有獨立性"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 33,
@@ -13787,7 +13797,7 @@ const EXAM_DATA = {
           "D": "甲、乙、丙、丁、戊 \n\n \n\f代號：4301\n頁次：12－7"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 34,
@@ -13799,7 +13809,7 @@ const EXAM_DATA = {
           "D": "同年 3 月 25 日"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 35,
@@ -13811,7 +13821,7 @@ const EXAM_DATA = {
           "D": "A 銀行之付款責任與匯票承兌人同"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 36,
@@ -13823,7 +13833,7 @@ const EXAM_DATA = {
           "D": "A 公司登錄創櫃板後，即有證券交易法第 157 條之 1 內線交易禁止規定之適用"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 37,
@@ -13835,7 +13845,7 @@ const EXAM_DATA = {
           "D": "獨立董事於任期中轉讓超過選任當時所持有之公司股份數額二分之一時，該獨立董事當然解任"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 38,
@@ -13847,7 +13857,7 @@ const EXAM_DATA = {
           "D": "無效，因須先向主管機關申報，並於申報之日起 3 日後，方得於集中交易市場出售該等股票"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 39,
@@ -13859,7 +13869,7 @@ const EXAM_DATA = {
           "D": "A 公司證明 B 公司財務狀況發生重大變化並經主管機關核准後，即得停止公開收購 \n\n \n\f代號：4301 \n頁次：12－8"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 40,
@@ -13871,7 +13881,7 @@ const EXAM_DATA = {
           "D": "A 公司應於買回之日起 3 年內將買回之股份轉讓；逾期未轉讓者，視為公司未發行股份，並應辦\n\n理變更登記"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 41,
@@ -13883,7 +13893,7 @@ const EXAM_DATA = {
           "D": "A 公司應至少提撥發行新股總額之百分之十五對外公開發行"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 42,
@@ -13895,7 +13905,7 @@ const EXAM_DATA = {
           "D": "甲原本要買 A 公司股票，知悉該利空消息後就不買了"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 43,
@@ -13907,7 +13917,7 @@ const EXAM_DATA = {
           "D": "甲之損害賠償請求權，自其知有得受賠償之原因時起 1 年間不行使而消滅；自募集、發行或買賣\n\n之日起逾 2 年者亦同"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 44,
@@ -13919,7 +13929,7 @@ const EXAM_DATA = {
           "D": "臺灣存託憑證 \n\n \n\f45  A 上市公司因股價表現不佳，該公司董事長甲為拉抬公司股價並製造股票交易活絡的假象，乃與其\n\n好友乙以約定價格於甲出售 A 公司股票時，乙同時為購買之相對行為。試問甲之行為成立證券交易\n\n代號：4301\n頁次：12－9\n\n法之何刑責？"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 46,
@@ -13931,7 +13941,7 @@ const EXAM_DATA = {
           "D": "丙如提起異議之訴，執行法院為避免丙受損害無法回復，得依職權命丙供擔保後停止執行"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 47,
@@ -13943,7 +13953,7 @@ const EXAM_DATA = {
           "D": "臺中地院對甲取得之執行名義是否有效成立不得加以審查，應受士林地院囑託逕行實施強制執行"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 48,
@@ -13955,7 +13965,7 @@ const EXAM_DATA = {
           "D": "乙於 A 牛被查封後，將其出賣給丙，乙、丙間之買賣契約為無效"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 49,
@@ -13967,7 +13977,7 @@ const EXAM_DATA = {
           "D": "丁於開標前如未繳納保證金，應認其投標無效，不得補正 \n\n \n\f代號：4301 \n頁次：12－10"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 50,
@@ -13979,7 +13989,7 @@ const EXAM_DATA = {
           "D": "丁以丙之執行債權已罹於消滅時效，法院應將丙之受分配額剔除"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 51,
@@ -13991,7 +14001,7 @@ const EXAM_DATA = {
           "D": "甲就 A 屋之拍賣並無優先承買權"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 52,
@@ -14003,7 +14013,7 @@ const EXAM_DATA = {
           "D": "法院判決原物分割確定，甲所分得部分為丙占有時，甲得以該判決為執行名義，聲請執行法院排\n\n除丙之占有"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 53,
@@ -14015,7 +14025,7 @@ const EXAM_DATA = {
           "D": "如甲、乙任一方已攜丙出國，我國法院無法囑託外國法院代為執行"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 54,
@@ -14027,7 +14037,7 @@ const EXAM_DATA = {
           "D": "臺中地院應否准乙假處分之聲請 \n\n \n\f代號：4301\n頁次：12－11"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 55,
@@ -14039,7 +14049,7 @@ const EXAM_DATA = {
           "D": "撤銷甲之假處分執行"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 56,
@@ -14051,7 +14061,7 @@ const EXAM_DATA = {
           "D": "mass spectrometry"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 57,
@@ -14063,7 +14073,7 @@ const EXAM_DATA = {
           "D": "A wrongdoer"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 58,
@@ -14075,7 +14085,7 @@ const EXAM_DATA = {
           "D": "vexati\n\nously"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 59,
@@ -14087,7 +14097,7 @@ const EXAM_DATA = {
           "D": "counteroffer"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 60,
@@ -14099,7 +14109,7 @@ const EXAM_DATA = {
           "D": "Implied warranty of fitn\n\ness for particular purpose"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 61,
@@ -14111,7 +14121,7 @@ const EXAM_DATA = {
           "D": "privity in possession"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 62,
@@ -14123,7 +14133,7 @@ const EXAM_DATA = {
           "D": "Encouraging investors to take due risk and enjoy economic growth\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f代號：4301 \n頁次：12－12"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 63,
@@ -14135,7 +14145,7 @@ const EXAM_DATA = {
           "D": "The corporate charter should stipulate a clear limitation on the free transferability of shar\n\nes."
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 64,
@@ -14147,7 +14157,7 @@ const EXAM_DATA = {
           "D": "double jeopardy"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 65,
@@ -14159,7 +14169,7 @@ const EXAM_DATA = {
           "D": "right to remain silent"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 66,
@@ -14171,7 +14181,7 @@ const EXAM_DATA = {
           "D": "unethical"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 67,
@@ -14183,7 +14193,7 @@ const EXAM_DATA = {
           "D": "religious equality"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 68,
@@ -14195,7 +14205,7 @@ const EXAM_DATA = {
           "D": "Solicitor General"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 69,
@@ -14207,7 +14217,7 @@ const EXAM_DATA = {
           "D": "service"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 70,
@@ -14219,7 +14229,7 @@ const EXAM_DATA = {
           "D": "answer\n\n---- defendant"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 1,
@@ -14231,7 +14241,7 @@ const EXAM_DATA = {
           "D": "丁"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 2,
@@ -14243,7 +14253,7 @@ const EXAM_DATA = {
           "D": "A 公司承擔丁之債務"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 3,
@@ -14255,7 +14265,7 @@ const EXAM_DATA = {
           "D": "經成立後之 A 公司承認後，對該公司發生效力"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 4,
@@ -14267,7 +14277,7 @@ const EXAM_DATA = {
           "D": "戊所持有之股份無表決權，故不得出席股東會 \n\n \n \n\f 代號：4301 \n頁次：12－2"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 5,
@@ -14279,7 +14289,7 @@ const EXAM_DATA = {
           "D": "B 公司以其對 A 公司之控制力，要求 A 公司從事不合營業常規之交易而造成 A 公司受有損害時，B\n\n公司應在會計年度終了時對 A 公司為適當補償"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 6,
@@ -14291,7 +14301,7 @@ const EXAM_DATA = {
           "D": "2,466,667 股"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 7,
@@ -14303,7 +14313,7 @@ const EXAM_DATA = {
           "D": "2,466,667 股"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 8,
@@ -14315,7 +14325,7 @@ const EXAM_DATA = {
           "D": "為避免監察人怠於行使監督權，故繼續一年以上持股之股東，可以依公司法逕行向法院提起撤銷\n\n董事會決議之訴"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 9,
@@ -14327,7 +14337,7 @@ const EXAM_DATA = {
           "D": "持有 A 公司兩億元債權之乙 \n\n \n \n \n\f代號：4301\n頁次：12－3"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 10,
@@ -14339,7 +14349,7 @@ const EXAM_DATA = {
           "D": "B 公司所持有 A 公司三百五十萬股之股份均得行使表決權"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 11,
@@ -14351,7 +14361,7 @@ const EXAM_DATA = {
           "D": "股份有限公司"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 12,
@@ -14363,7 +14373,7 @@ const EXAM_DATA = {
           "D": "應由甲、乙與 A 公司等三位股東之全體同意，互推一人擔任"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 13,
@@ -14375,7 +14385,7 @@ const EXAM_DATA = {
           "D": "新臺幣二億四千萬元"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 14,
@@ -14387,7 +14397,7 @@ const EXAM_DATA = {
           "D": "該臨時動議違反股東會召集程序之規定，故該決議無效"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 15,
@@ -14399,7 +14409,7 @@ const EXAM_DATA = {
           "D": "A 公司得不發行股票 \n\n \n\f 代號：4301 \n頁次：12－4"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 16,
@@ -14411,7 +14421,7 @@ const EXAM_DATA = {
           "D": "保險人無須給付，因甲於契約成立生效前已經死亡"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 17,
@@ -14423,7 +14433,7 @@ const EXAM_DATA = {
           "D": "30 日"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 18,
@@ -14435,7 +14445,7 @@ const EXAM_DATA = {
           "D": "甲對 A 保險公司終止契約之通知於 105 年 4 月 30 日到達，保險契約於 105 年 5 月 1 日終止"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 19,
@@ -14447,7 +14457,7 @@ const EXAM_DATA = {
           "D": "A 保險公司未收取之保費，應視為已繳清，不得再向甲請求"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 20,
@@ -14459,7 +14469,7 @@ const EXAM_DATA = {
           "D": "被保險人因受第三人之請求而為抗辯，所支出訴訟上或訴訟外之必要費用，除契約另有訂定外，\n\n由保險人負擔之"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 21,
@@ -14471,7 +14481,7 @@ const EXAM_DATA = {
           "D": "保險契約仍為有效，但保險人不負保險責任"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 22,
@@ -14483,7 +14493,7 @@ const EXAM_DATA = {
           "D": "甲對死亡結果的發生並無故意，保險人應依約定給付保險金 \n\n\f代號：4301\n頁次：12－5"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 23,
@@ -14495,7 +14505,7 @@ const EXAM_DATA = {
           "D": "保險公司得解除契約"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 24,
@@ -14507,7 +14517,7 @@ const EXAM_DATA = {
           "D": "因乙與丙衝突，意外遭丙砍殺身亡，故保險人不負保險責任"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 25,
@@ -14519,7 +14529,7 @@ const EXAM_DATA = {
           "D": "衡諸契約訂立時甲指定「妻」為受益人之真意，應係為保障甲身故時具婚姻關係之妻子，故受益\n\n人應為丙"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 26,
@@ -14531,7 +14541,7 @@ const EXAM_DATA = {
           "D": "本票未記載發票日則票據無效，匯票與支票未記載發票日則視為見票即付"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 27,
@@ -14543,7 +14553,7 @@ const EXAM_DATA = {
           "D": "甲無需負票據法上之責任 \n\n \n\f 代號：4301 \n頁次：12－6"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 28,
@@ -14555,7 +14565,7 @@ const EXAM_DATA = {
           "D": "該支票票據權利因時效完成而消滅，但 A 公司仍應返還所受利益"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 29,
@@ -14567,7 +14577,7 @@ const EXAM_DATA = {
           "D": "因甲已經得法定代理人同意，得簽發本票，雖簽發之際未載發票日，然於 A 公司補充填載發票日\n\n後，丙得對甲及 A 公司行使票據權利"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 30,
@@ -14579,7 +14589,7 @@ const EXAM_DATA = {
           "D": "以最低額為準，故為 NT$55,680"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 31,
@@ -14591,7 +14601,7 @@ const EXAM_DATA = {
           "D": "甲應負代理人之票據責任"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 32,
@@ -14603,7 +14613,7 @@ const EXAM_DATA = {
           "D": "甲及丙均應負票據責任 \n\n \n \n\f代號：4301\n頁次：12－7"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 33,
@@ -14615,7 +14625,7 @@ const EXAM_DATA = {
           "D": "民國 100 年 6 月 13 日"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 34,
@@ -14627,7 +14637,7 @@ const EXAM_DATA = {
           "D": "甲、乙對丁均有抗辯事由"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 35,
@@ -14639,7 +14649,7 @@ const EXAM_DATA = {
           "D": "A 銀行非票據債務人，甲仍應負付款之責"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 36,
@@ -14651,7 +14661,7 @@ const EXAM_DATA = {
           "D": "獨立董事於任期中若有持股轉讓超過其被選任時二分之一以上者，並不當然解任"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 37,
@@ -14663,7 +14673,7 @@ const EXAM_DATA = {
           "D": "戊為辛、寅之父親；其餘董事、監察人無親屬關係 \n\n \n\f 代號：4301 \n頁次：12－8"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 38,
@@ -14675,7 +14685,7 @@ const EXAM_DATA = {
           "D": "該有價證券之證券承銷商無須對善意相對人，因此所受之損害，負賠償責任"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 39,
@@ -14687,7 +14697,7 @@ const EXAM_DATA = {
           "D": "追究董事具有利益衝突之交易行為責任"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 40,
@@ -14699,7 +14709,7 @@ const EXAM_DATA = {
           "D": "買進認售權證之交易係屬於賣出相當之地位，得與買進所屬公司股票或其他以該股票為基礎證券\n\n之具有股權性質之有價證券之交易相配"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 41,
@@ -14711,7 +14721,7 @@ const EXAM_DATA = {
           "D": "②④"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 42,
@@ -14723,7 +14733,7 @@ const EXAM_DATA = {
           "D": "意圖造成集中交易市場某種有價證券交易活絡之表象，自行或以他人名義，連續委託買賣或申報\n\n買賣而相對成交 \n\n\f代號：4301\n頁次：12－9"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 43,
@@ -14735,7 +14745,7 @@ const EXAM_DATA = {
           "D": "乙"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 44,
@@ -14747,7 +14757,7 @@ const EXAM_DATA = {
           "D": "①④"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 45,
@@ -14759,7 +14769,7 @@ const EXAM_DATA = {
           "D": "於 10 月 2 日股東臨時會決議合併案後始可開始進行買賣"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 46,
@@ -14771,7 +14781,7 @@ const EXAM_DATA = {
           "D": "對法院核發支付命令之裁定提起抗告"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 47,
@@ -14783,7 +14793,7 @@ const EXAM_DATA = {
           "D": "執行程序已經終結，不得聲明異議或提起債務人異議之訴"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 48,
@@ -14795,7 +14805,7 @@ const EXAM_DATA = {
           "D": "拍定人於領得法院所發權利移轉證書後，到地政機關辦妥移轉登記時取得所有權 \n\n \n \n \n\f 代號：4301 \n頁次：12－10"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 49,
@@ -14807,7 +14817,7 @@ const EXAM_DATA = {
           "D": "丙係善意受讓 A 車，仍可取得該車所有權，故不得對該車繼續執行"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 50,
@@ -14819,7 +14829,7 @@ const EXAM_DATA = {
           "D": "無論法院所發為何種命令，甲為向丙為強制執行，僅得對丙另行取得執行名義後為之"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 51,
@@ -14831,7 +14841,7 @@ const EXAM_DATA = {
           "D": "如不可代替行為係夫妻同居之履行，債務人未依判決履行者，法院僅得處怠金"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 52,
@@ -14843,7 +14853,7 @@ const EXAM_DATA = {
           "D": "乙於鐵門被拆除後，又重行裝上鐵門時，執行法院得依甲之聲請再為執行，而無須徵收執行費"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 53,
@@ -14855,7 +14865,7 @@ const EXAM_DATA = {
           "D": "執行法院已將該貨車取交給甲後，乙又至甲停放貨車處，將其開走，甲得再繳執行費用聲請法院\n\n再為執行"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 54,
@@ -14867,7 +14877,7 @@ const EXAM_DATA = {
           "D": "准許追加查封 \n\n \n\f代號：4301\n頁次：12－11"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 55,
@@ -14879,7 +14889,7 @@ const EXAM_DATA = {
           "D": "假扣押之財產經他案債權人聲請強制執行，依分配程序應分配於假扣押債權人之金額，應提存之"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 56,
@@ -14891,7 +14901,7 @@ const EXAM_DATA = {
           "D": "perform"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 57,
@@ -14903,7 +14913,7 @@ const EXAM_DATA = {
           "D": "The fact that Mary is covered by accident insurance is not a defense for John not to compensate Mary."
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 58,
@@ -14915,7 +14925,7 @@ const EXAM_DATA = {
           "D": "The work which caused injury was under the negligent instruction of the contractor."
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 59,
@@ -14927,7 +14937,7 @@ const EXAM_DATA = {
           "D": "Article 235 imposes excessive restrictions on the expression of sexually explicit material and therefore \n\nconstitutes an unreasonable restraint on the people’s freedom of speech and publication."
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 60,
@@ -14939,7 +14949,7 @@ const EXAM_DATA = {
           "D": "Amendment"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 61,
@@ -14951,7 +14961,7 @@ const EXAM_DATA = {
           "D": "Freedom of publication"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 62,
@@ -14963,7 +14973,7 @@ const EXAM_DATA = {
           "D": "subpoena \n\n \n \n \n \n \n\f 代號：4301 \n頁次：12－12"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 63,
@@ -14975,7 +14985,7 @@ const EXAM_DATA = {
           "D": "Code of Criminal Procedure"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 64,
@@ -14987,7 +14997,7 @@ const EXAM_DATA = {
           "D": "Both parties have consented the hearing not be held in public."
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 65,
@@ -14999,7 +15009,7 @@ const EXAM_DATA = {
           "D": "a verdict"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 66,
@@ -15011,7 +15021,7 @@ const EXAM_DATA = {
           "D": "enters into"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 67,
@@ -15023,7 +15033,7 @@ const EXAM_DATA = {
           "D": "collision"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 68,
@@ -15035,7 +15045,7 @@ const EXAM_DATA = {
           "D": "Trustee"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 69,
@@ -15047,7 +15057,7 @@ const EXAM_DATA = {
           "D": "The date of establishment of the Articles of Incorporation"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 70,
@@ -15059,7 +15069,7 @@ const EXAM_DATA = {
           "D": "Board of Managers"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 1,
@@ -15071,7 +15081,7 @@ const EXAM_DATA = {
           "D": "依企業併購法之規定，B 公司於 A 公司董事會與股東會決議合併案時，應迴避不得行使表決權"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 2,
@@ -15083,7 +15093,7 @@ const EXAM_DATA = {
           "D": "X 公司受命令解散之行政處分後，毋須再經股東會決議解散，得依法進行清算"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 3,
@@ -15095,7 +15105,7 @@ const EXAM_DATA = {
           "D": "X 公司申請設立登記之資本額，應經會計師查核簽證，且公司最晚應於設立登記後 60 日內，檢送\n\n經會計師查核簽證之文件，未於前述期限內檢送會計師驗資報告，主管機關得依職權或利害關係\n\n人之申請，命令解散之"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 4,
@@ -15107,7 +15117,7 @@ const EXAM_DATA = {
           "D": "保密義務 \n\n \n \n\f 代號：4301 \n頁次：12－2"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 5,
@@ -15119,7 +15129,7 @@ const EXAM_DATA = {
           "D": "僅③"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 6,
@@ -15131,7 +15141,7 @@ const EXAM_DATA = {
           "D": "有限公司股東之出資額轉讓時，其他股東有優先受讓權，若其他股東拒絕受讓，則應由公司收回\n\n辦理減資"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 6,
@@ -15143,7 +15153,7 @@ const EXAM_DATA = {
           "D": "戊"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 7,
@@ -15155,7 +15165,7 @@ const EXAM_DATA = {
           "D": "應由法院選任臨時管理人，代表公司提起對董事之訴訟"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 8,
@@ -15167,7 +15177,7 @@ const EXAM_DATA = {
           "D": "公司公開募集發行公司債，應設置受託人，受託人有權查核及監督公司有關公司債之履行"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 9,
@@ -15179,7 +15189,7 @@ const EXAM_DATA = {
           "D": "股東同時為電子投票並以委託書委託代理人出席時，以最先送達者為準"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 10,
@@ -15191,7 +15201,7 @@ const EXAM_DATA = {
           "D": "有理由。為保護 A 公司權益，A 公司例外得收回其股份主張抵償 \n\n\f代號：4301\n頁次：12－3"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 11,
@@ -15203,7 +15213,7 @@ const EXAM_DATA = {
           "D": "如甲之提案未被列入股東會議案，X 公司因已於股東常會前，將處理結果通知甲，故 X 公司董事\n\n會毋需於股東會說明未列入之理由"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 12,
@@ -15215,7 +15225,7 @@ const EXAM_DATA = {
           "D": "A 公司董事甲選任時持股 0 股，股東會開會時持股 30,000 股，設質 20,000 股，不得行使表決權之\n\n股數為 5,000 股，得行使表決權之股數為 25,000 股"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 13,
@@ -15227,7 +15237,7 @@ const EXAM_DATA = {
           "D": "限制員工承購之股份在 2 年內不得轉讓"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 14,
@@ -15239,7 +15249,7 @@ const EXAM_DATA = {
           "D": "D 公司應造具與 B 公司間之關係報告書"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 15,
@@ -15251,7 +15261,7 @@ const EXAM_DATA = {
           "D": "甲公司派多位代表人分別當選乙公司的董事與監察人 \n\n \n\f 代號：4301 \n頁次：12－4"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 16,
@@ -15263,7 +15273,7 @@ const EXAM_DATA = {
           "D": "加重要保人或被保險人之義務者"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 17,
@@ -15275,7 +15285,7 @@ const EXAM_DATA = {
           "D": "乙得請求減少保險金額"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 18,
@@ -15287,7 +15297,7 @@ const EXAM_DATA = {
           "D": "乙不得請求調整保險費，但得將因甲之新職業以批註方式列為除外危險"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 19,
@@ -15299,7 +15309,7 @@ const EXAM_DATA = {
           "D": "得請求按投保之比例，償還損害減輕費用"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 20,
@@ -15311,7 +15321,7 @@ const EXAM_DATA = {
           "D": "無理由，因為保險人對要保人所得主張之抗辯，亦得以之對抗受益人"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 21,
@@ -15323,7 +15333,7 @@ const EXAM_DATA = {
           "D": "工程履約保證保險"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 22,
@@ -15335,7 +15345,7 @@ const EXAM_DATA = {
           "D": "該保險契約為超額保險，故乙保險人得解除契約，不負給付保險金之責 \n\n \n\f代號：4301\n頁次：12－5"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 23,
@@ -15347,7 +15357,7 @@ const EXAM_DATA = {
           "D": "無須給付"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 24,
@@ -15359,7 +15369,7 @@ const EXAM_DATA = {
           "D": "二人均無理由，保險人應返還責任準備金予應得之人"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 25,
@@ -15371,7 +15381,7 @@ const EXAM_DATA = {
           "D": "保險人得解除該契約並不返還保險費"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 26,
@@ -15383,7 +15393,7 @@ const EXAM_DATA = {
           "D": "丙對甲、乙均喪失票據權利"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 27,
@@ -15395,7 +15405,7 @@ const EXAM_DATA = {
           "D": "該票據無效"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 28,
@@ -15407,7 +15417,7 @@ const EXAM_DATA = {
           "D": "甲可以在得到法院對乙之判決後，對丁主張抵銷 \n\n \n \n \n\f 代號：4301 \n頁次：12－6"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 29,
@@ -15419,7 +15429,7 @@ const EXAM_DATA = {
           "D": "103 年 5 月 10 日"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 30,
@@ -15431,7 +15441,7 @@ const EXAM_DATA = {
           "D": "甲"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 32,
@@ -15443,7 +15453,7 @@ const EXAM_DATA = {
           "D": "承兌人、甲、乙、丙、丁"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 33,
@@ -15455,7 +15465,7 @@ const EXAM_DATA = {
           "D": "無從確定到期日，故視為見票即付"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 34,
@@ -15467,7 +15477,7 @@ const EXAM_DATA = {
           "D": "甲對丁無抗辯事由，因丙為甲之機關"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 35,
@@ -15479,7 +15489,7 @@ const EXAM_DATA = {
           "D": "僅得對甲以裁定為之，對乙、丙不可 \n\n \n \n \n \n\f代號：4301\n頁次：12－7"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 36,
@@ -15491,7 +15501,7 @@ const EXAM_DATA = {
           "D": "曾在公開說明書上簽章之會計師，若能證明已經合理調查，並有正當理由確信其簽證或意見為真\n\n實，即無須負責"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 37,
@@ -15503,7 +15513,7 @@ const EXAM_DATA = {
           "D": "不構成內線交易，因乙從幾個月前就陸續買進 A 公司股票"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 38,
@@ -15515,7 +15525,7 @@ const EXAM_DATA = {
           "D": "若審計委員會就內部控制制度有效性之考核事項為決議時，應有審計委員會全體成員三分之二以\n\n上之同意，始為有效之決議"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 39,
@@ -15527,7 +15537,7 @@ const EXAM_DATA = {
           "D": "X 公司買回之股份應於買回之日起 5 年內將其轉讓；逾期未轉讓者，視為公司未發行股份，並應\n\n辦理變更登記 \n\n \n\f 代號：4301 \n頁次：12－8"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 40,
@@ -15539,7 +15549,7 @@ const EXAM_DATA = {
           "D": "公司內部人若認購私募之有價證券，並於 6 個月後依法律限制之交易數額限制賣出獲利者，亦有\n\n短線交易歸入權之適用"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 41,
@@ -15551,7 +15561,7 @@ const EXAM_DATA = {
           "D": "丙向 B 證券公司購買以 C 上市公司普通股為基礎證券之認購權證，於得行使權利期間，丙要求\n\nB 證券公司以 C 公司之普通股為實物交割"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 42,
@@ -15563,7 +15573,7 @@ const EXAM_DATA = {
           "D": "王小非與 B 證券商"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 43,
@@ -15575,7 +15585,7 @@ const EXAM_DATA = {
           "D": "甲公司販賣土地持分非證券交易法之有價證券，但仍須向證券主管機關為申報後方得為之"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 44,
@@ -15587,7 +15597,7 @@ const EXAM_DATA = {
           "D": "不實財務報告公布後尚未買入 A 公司股票，而於更正後買入且仍持有股票之善意投資人 \n\n \n\f45  A 上市公司董事甲於民國 99 年 1 月 1 日買進 A 公司股票 10,000 股，每股價格新臺幣 11 元；又於同\n\n年 4 月 30 日賣出 A 公司股票 30,000 股，每股價格新臺幣 20 元；復於同年 9 月 15 日買進 A 公司股\n\n票 30,000 股，每股價格新臺幣 15 元，請問於不考慮證券商手續費及證券交易稅之情形下，A 公司對\n\n代號：4301\n頁次：12－9\n\n甲之歸入權行使金額為多少？"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 46,
@@ -15599,7 +15609,7 @@ const EXAM_DATA = {
           "D": "假扣押、假處分等保全處分之執行，亦應徵收執行費，僅於本案終局執行徵收執行費時，予以扣除"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 47,
@@ -15611,7 +15621,7 @@ const EXAM_DATA = {
           "D": "對於合夥人個人之金錢債權執行名義，不得對合夥財產聲請強制執行"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 48,
@@ -15623,7 +15633,7 @@ const EXAM_DATA = {
           "D": "丙為惡意，無救濟之權利"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 49,
@@ -15635,7 +15645,7 @@ const EXAM_DATA = {
           "D": "丙為乙之受僱人，乙命丙前來清掃 A 屋環境。法院就 A 屋之拍賣條件應為拍定後不點交 \n\n \n \n \n \n\f 代號：4301 \n頁次：12－10"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 50,
@@ -15647,7 +15657,7 @@ const EXAM_DATA = {
           "D": "上開扣押命令合法送達後，乙被法院宣告破產時，執行法院得以命令許可乙之破產管理人收取甲\n\n被扣押之薪資"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 51,
@@ -15659,7 +15669,7 @@ const EXAM_DATA = {
           "D": "該執行程序之執行處分，於丙再為執行聲請時，其效力始及於丙"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 52,
@@ -15671,7 +15681,7 @@ const EXAM_DATA = {
           "D": "執行法院得定期命乙完成畫作，乙如不依期履行時，執行法院不得強制執行，甲僅得請求損害賠償"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 53,
@@ -15683,7 +15693,7 @@ const EXAM_DATA = {
           "D": "該第三人係於訴訟繫屬前無權占有，執行法院不得逕對其為強制執行"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 54,
@@ -15695,7 +15705,7 @@ const EXAM_DATA = {
           "D": "丙不得另行聲請其得在 A 地鋪設水泥便道、甲不得加以妨害之定暫時狀態處分 \n\n\f55  甲債權人主張債務人名義之 A 地為其所有，向法院聲請禁止債務人處分該地之假處分，經法院作成\n\n准予假處分裁定，甲債權人持之向法院聲請執行查封該地。乙債權人嗣後持金錢給付之終局確定判\n\n決，聲請法院對債務人之 A 地為查封拍賣，試問法院應如何處理？"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 56,
@@ -15707,7 +15717,7 @@ const EXAM_DATA = {
           "D": "beating of two hearts"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 57,
@@ -15719,7 +15729,7 @@ const EXAM_DATA = {
           "D": "president"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 58,
@@ -15731,7 +15741,7 @@ const EXAM_DATA = {
           "D": "a limited company"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 59,
@@ -15743,7 +15753,7 @@ const EXAM_DATA = {
           "D": "share exchange pursuant to Article 156, Paragraph 8 of the Company Law"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 60,
@@ -15755,7 +15765,7 @@ const EXAM_DATA = {
           "D": "shadow directors"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 61,
@@ -15767,7 +15777,7 @@ const EXAM_DATA = {
           "D": "short sales"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 62,
@@ -15779,7 +15789,7 @@ const EXAM_DATA = {
           "D": "terminate \n\n \n \n \n \n \n \n\f 代號：4301 \n頁次：12－12"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 63,
@@ -15791,7 +15801,7 @@ const EXAM_DATA = {
           "D": "a referendum"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 64,
@@ -15803,7 +15813,7 @@ const EXAM_DATA = {
           "D": "freedom of movement"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 65,
@@ -15815,7 +15825,7 @@ const EXAM_DATA = {
           "D": "vacate"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 66,
@@ -15827,7 +15837,7 @@ const EXAM_DATA = {
           "D": "examination of evidence"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 67,
@@ -15839,7 +15849,7 @@ const EXAM_DATA = {
           "D": "privacy"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 68,
@@ -15851,7 +15861,7 @@ const EXAM_DATA = {
           "D": "private offering"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 69,
@@ -15863,7 +15873,7 @@ const EXAM_DATA = {
           "D": "defendant"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 70,
@@ -15875,7 +15885,7 @@ const EXAM_DATA = {
           "D": "probation"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 1,
@@ -15887,7 +15897,7 @@ const EXAM_DATA = {
           "D": "該股東協議將無法組成任何型式之公司組織"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 2,
@@ -15899,7 +15909,7 @@ const EXAM_DATA = {
           "D": "倘董事丙為無給職的董事，其可以主張不負善良管理人之注意義務"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 3,
@@ -15911,7 +15921,7 @@ const EXAM_DATA = {
           "D": "A 公司之票據背書，為一種隱存保證之背書，除非 A 公司為金融機關，否則 A 公司不得為之"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 3,
@@ -15923,7 +15933,7 @@ const EXAM_DATA = {
           "D": "甲、乙、丙對丁均有抗辯事由 \n\n \n\f 代號：4301 \n頁次：12－6"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 4,
@@ -15935,7 +15945,7 @@ const EXAM_DATA = {
           "D": "股東 B 得於股東會中提出臨時動議 \n\n \n \n \n\f 代號：4301 \n頁次：12－2"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 5,
@@ -15947,7 +15957,7 @@ const EXAM_DATA = {
           "D": "甲乙丙丁戊"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 5,
@@ -15959,7 +15969,7 @@ const EXAM_DATA = {
           "D": "民國 102 年 11 月 20 日 \n\n \n \n\f代號：4301\n頁次：12－7"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 6,
@@ -15971,7 +15981,7 @@ const EXAM_DATA = {
           "D": "A 公司章程訂定：「每一股東不論出資額多寡，均有一表決權」，係違反公司法一股一表決權之原則"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 7,
@@ -15983,7 +15993,7 @@ const EXAM_DATA = {
           "D": "我國目前並無最低實收資本額之規定，甲及乙得自行商議決定設立時最適合之實收資本額，而訂\n\n定發行股數"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 8,
@@ -15995,7 +16005,7 @@ const EXAM_DATA = {
           "D": "若戊無法親自出席董事會，其不得委託他人代理出席。除非 X 公司章程有規定得由其他董事代理，\n\n戊才可以委託其他董事代理出席董事會"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 9,
@@ -16007,7 +16017,7 @@ const EXAM_DATA = {
           "D": "有關公開發行公司董事持股設質表決權受限制的規定，於監察人並無準用 \n\n\f10  A 股份有限公司為公開發行公司，共有 3 席董事分別為甲、乙、丙，甲並為董事長，其當選時分別\n\n持股數為 100 萬股、80 萬股及 60 萬股，試問以下何種情況會發生董事當然解任之事由？"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 11,
@@ -16019,7 +16029,7 @@ const EXAM_DATA = {
           "D": "獨立董事丁無法親自出席時，不得由甲、乙、丙、戊充任代理人代為出席"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 12,
@@ -16031,7 +16041,7 @@ const EXAM_DATA = {
           "D": "B 公司與 D 公司"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 13,
@@ -16043,7 +16053,7 @@ const EXAM_DATA = {
           "D": "C 公司之全體董事"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 14,
@@ -16055,7 +16065,7 @@ const EXAM_DATA = {
           "D": "由於我國與 A 公司之母國日本素無邦交，我國政府將不會認許其成立"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 15,
@@ -16067,7 +16077,7 @@ const EXAM_DATA = {
           "D": "可隨時調查公司財務業務情況，發現董事會違法時，應立即要求停止違法行為 \n\n \n\f 代號：4301 \n頁次：12－4"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 16,
@@ -16079,7 +16089,7 @@ const EXAM_DATA = {
           "D": "1000 萬元"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 17,
@@ -16091,7 +16101,7 @@ const EXAM_DATA = {
           "D": "保險公證人"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 18,
@@ -16103,7 +16113,7 @@ const EXAM_DATA = {
           "D": "A 不得向乙請求償還醫療費用，因傷害保險準用保險法第 103 條代位禁止之規定"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 19,
@@ -16115,7 +16125,7 @@ const EXAM_DATA = {
           "D": "2 年"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 20,
@@ -16127,7 +16137,7 @@ const EXAM_DATA = {
           "D": "關於未來事項之特約條款，於未屆履行期前危險已發生，或其履行為不可能，或在訂約地為不合\n\n法而未履行者，保險契約將因之而失效"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 21,
@@ -16139,7 +16149,7 @@ const EXAM_DATA = {
           "D": "保險人仍須給付保險金"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 22,
@@ -16151,7 +16161,7 @@ const EXAM_DATA = {
           "D": "保險契約所定申請恢復效力之期限，自停止效力之日起不得低於 2 年，並不得遲於保險期間之屆滿日 \n\n\f23  依保險法規定，關於人壽保險，下列敘述何者錯誤？"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 24,
@@ -16163,7 +16173,7 @@ const EXAM_DATA = {
           "D": "要保人如於停止效力 6 個月以後申請恢復效力，保險人得要求提供可保證明"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 25,
@@ -16175,7 +16185,7 @@ const EXAM_DATA = {
           "D": "就集合之物而總括為保險者，被保險人受僱人之動產，不得列為保險標的"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 26,
@@ -16187,7 +16197,7 @@ const EXAM_DATA = {
           "D": "拒絕證書，由執票人請求拒絕履行票據債務之票據債務人作成之"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 27,
@@ -16199,7 +16209,7 @@ const EXAM_DATA = {
           "D": "如該匯票未獲付款，發票人免負付款之責任"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 29,
@@ -16211,7 +16221,7 @@ const EXAM_DATA = {
           "D": "若 D 向 C 行使追索權得到清償者，C 於取得該本票後，仍得再向 B 為追索，且追索之金額將高於\n\nC 自己清償予 D 之金額"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 30,
@@ -16223,7 +16233,7 @@ const EXAM_DATA = {
           "D": "記載發票日後 1 個月付款"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 31,
@@ -16235,7 +16245,7 @@ const EXAM_DATA = {
           "D": "A、B、C"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 32,
@@ -16247,7 +16257,7 @@ const EXAM_DATA = {
           "D": "僅可將普通平行線支票變更為特種平行線支票，而不得將特種平行線支票變更為普通平行線支票"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 33,
@@ -16259,7 +16269,7 @@ const EXAM_DATA = {
           "D": "對乙、丙皆不得聲請本票裁定"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 35,
@@ -16271,7 +16281,7 @@ const EXAM_DATA = {
           "D": "甲可以在得到對乙之勝訴判決後對丁主張抵銷"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 36,
@@ -16283,7 +16293,7 @@ const EXAM_DATA = {
           "D": "X 公司董事會之決議及執行情形應於最近一次之股東會報告，但若因故未買回股份時，則可不必\n\n向股東會報告"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 37,
@@ -16295,7 +16305,7 @@ const EXAM_DATA = {
           "D": "證券交易法為公司法之特別法，股票上市公司之股東常會應於會計年度終了後 6 個月內召開，並已\n\n明文規定不適用公司法第 170 條第 2 項但書之規定，故不得經公司法主管機關之核准而延期召開"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 38,
@@ -16307,7 +16317,7 @@ const EXAM_DATA = {
           "D": "57 萬元 \n\n \n\f 代號：4301 \n頁次：12－8"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 39,
@@ -16319,7 +16329,7 @@ const EXAM_DATA = {
           "D": "A 銀行得於取得該私募甲種特別股 3 個月後，每日賣出 1 萬股予符合認購私募有價證券之法人"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 40,
@@ -16331,7 +16341,7 @@ const EXAM_DATA = {
           "D": "D 股份有限公司通過股票之上市審查程序後，應與證券主管機關簽訂上市契約，方得上市交易"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 41,
@@ -16343,7 +16353,7 @@ const EXAM_DATA = {
           "D": "名流甲以其不知情之未成年子女乙名義買進 D 公司股票，則乙構成內線交易的犯罪"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 42,
@@ -16355,7 +16365,7 @@ const EXAM_DATA = {
           "D": "A 公司對於持有記名股票未滿 1 千股股東，其股東常會之召集通知，得以公告方式為之"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 43,
@@ -16367,7 +16377,7 @@ const EXAM_DATA = {
           "D": "兩者均為推定過失責任"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 44,
@@ -16379,7 +16389,7 @@ const EXAM_DATA = {
           "D": "丙、丁皆可以 \n\n\f代號：4301\n頁次：12－9"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 45,
@@ -16391,7 +16401,7 @@ const EXAM_DATA = {
           "D": "A 先出售甲股 1 萬股予其友人後，間隔 3 個月，再行出售甲股 1 萬股予同一友人"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 46,
@@ -16403,7 +16413,7 @@ const EXAM_DATA = {
           "D": "丙雖不得對甲之假扣押執行程序提起第三人異議之訴，惟得向法院聲明異議，請求撤銷查封"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 47,
@@ -16415,7 +16425,7 @@ const EXAM_DATA = {
           "D": "執行法院不得囑託地政機關塗銷甲之抵押權登記"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 48,
@@ -16427,7 +16437,7 @@ const EXAM_DATA = {
           "D": "提起再審之訴"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 49,
@@ -16439,7 +16449,7 @@ const EXAM_DATA = {
           "D": "抵押人如主張抵押債權不存在，於強制執行程序得聲明異議，並聲請法院定相當確實之擔保，裁\n\n定停止執行"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 50,
@@ -16451,7 +16461,7 @@ const EXAM_DATA = {
           "D": "拍賣甲之股票，以賣得價金 25 萬元清償，駁回股息部分之強制執行聲請 \n\n \n \n\f 代號：4301 \n頁次：12－10"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 51,
@@ -16463,7 +16473,7 @@ const EXAM_DATA = {
           "D": "F 建物於設定抵押權前即已興建，乙得聲請法院併付拍賣，但對其賣得價金無優先受償權"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 52,
@@ -16475,7 +16485,7 @@ const EXAM_DATA = {
           "D": "執行乙之執行名義，駁回甲之執行聲請"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 53,
@@ -16487,7 +16497,7 @@ const EXAM_DATA = {
           "D": "主文為「被告應認領原告為其子女」"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 54,
@@ -16499,7 +16509,7 @@ const EXAM_DATA = {
           "D": "停止執行"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 55,
@@ -16511,7 +16521,7 @@ const EXAM_DATA = {
           "D": "執行法院就甲之強制執行聲請，應依職權撤銷丙之假處分執行後，再就 A 房地進行拍賣 \n\n \n \n\f代號：4301\n頁次：12－11"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 56,
@@ -16523,7 +16533,7 @@ const EXAM_DATA = {
           "D": "separately"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 57,
@@ -16535,7 +16545,7 @@ const EXAM_DATA = {
           "D": "rape"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 58,
@@ -16547,7 +16557,7 @@ const EXAM_DATA = {
           "D": "short of meeting of the minds"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 59,
@@ -16559,7 +16569,7 @@ const EXAM_DATA = {
           "D": "in camera inspection"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 60,
@@ -16571,7 +16581,7 @@ const EXAM_DATA = {
           "D": "To act concurrently as a director or managerial officer of the company"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 61,
@@ -16583,7 +16593,7 @@ const EXAM_DATA = {
           "D": "derivative"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 62,
@@ -16595,7 +16605,7 @@ const EXAM_DATA = {
           "D": "robbery"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 63,
@@ -16607,7 +16617,7 @@ const EXAM_DATA = {
           "D": "Special stock"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 64,
@@ -16619,7 +16629,7 @@ const EXAM_DATA = {
           "D": "That the accused may make a telephone call to inform his/her family \n\n \n \n \n\f 代號：4301 \n頁次：12－12"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 65,
@@ -16631,7 +16641,7 @@ const EXAM_DATA = {
           "D": "Where  there  is  a  prospect  for  the  parties  to  reach  settlement,  but  a  party  has  difficulty  to  appear  in \n\nperson,  the  court,  the  commissioned  judge,  or  the  assigned  judge  may,  on  motion  or  on  its  own \n\ninitiative, make a settlement proposal"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 66,
@@ -16643,7 +16653,7 @@ const EXAM_DATA = {
           "D": "claim preclusion"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 67,
@@ -16655,7 +16665,7 @@ const EXAM_DATA = {
           "D": "No Member of the Control Yuan shall concurrently hold a public office or engage in any profession"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 68,
@@ -16667,7 +16677,7 @@ const EXAM_DATA = {
           "D": "A conduct is punishable only when expressly so provided by the law at the time of judgment"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 69,
@@ -16679,7 +16689,7 @@ const EXAM_DATA = {
           "D": "qualification of becoming a candidate for a city mayor"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 70,
@@ -16691,7 +16701,7 @@ const EXAM_DATA = {
           "D": "Corporate supervisors"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       }
     ],
     "totalByYear": {
@@ -16705,7 +16715,17 @@ const EXAM_DATA = {
       "111": 70,
       "112": 68
     },
-    "answeredYears": []
+    "answeredYears": [
+      103,
+      104,
+      105,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112
+    ]
   },
   "綜合法學(一) 刑法、刑訴、法律倫理": {
     "code": "1A",
@@ -18897,7 +18917,7 @@ const EXAM_DATA = {
           "D": "甲強擄乙至深山中拘禁，並撥打電話請乙之家人攜 1000 萬元前來贖人，惟於未取得贖款前，即心\n\n生憐憫，自主決定釋放乙，令乙離去，僅構成刑法第 347 條擄人勒贖罪之中止未遂"
         },
         "year": 110,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 35,
@@ -19650,7 +19670,7 @@ const EXAM_DATA = {
           "D": "甲至地方檢察署一併誣告乙、丙、丁犯詐欺罪，依實務見解，甲僅成立一個誣告罪"
         },
         "year": 109,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 21,
@@ -20142,7 +20162,7 @@ const EXAM_DATA = {
           "D": "因為檢察官負責訴追犯罪，應以訴追犯罪為最主要的任務，在偵查與執行公訴時，不需考慮對被告\n\n有利之證據"
         },
         "year": 109,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 62,
@@ -20166,7 +20186,7 @@ const EXAM_DATA = {
           "D": "對於讀者提問個案法律糾紛應如何解決，撰文回應分析爭點及提供如何起訴之具體法律建議\n\n\f代號：1301\n頁次：12－11"
         },
         "year": 109,
-        "answer": "A"
+        "answer": "D"
       },
       {
         "number": 64,
@@ -20190,7 +20210,7 @@ const EXAM_DATA = {
           "D": "地方法院院長基於司法監督，為維持審判效率，指示某一法官就某一案件應於 10 日內終結之"
         },
         "year": 109,
-        "answer": "C"
+        "answer": "A"
       },
       {
         "number": 66,
@@ -20202,7 +20222,7 @@ const EXAM_DATA = {
           "D": "因為 A 的法律意見與檢察長不同，為了維護檢察一體，檢察長本可依據口頭命令要求 A 將案件交出"
         },
         "year": 109,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 67,
@@ -20238,7 +20258,7 @@ const EXAM_DATA = {
           "D": "檢察官對於其偵辦中之個案，發現新聞媒體之報導猜中其未來之偵查作為時，可對新聞媒體釋放假\n\n訊息，以避免偵查作為受到影響\n\n\f代號：1301\n頁次：12－12"
         },
         "year": 109,
-        "answer": "A"
+        "answer": "C"
       },
       {
         "number": 70,
@@ -20250,7 +20270,7 @@ const EXAM_DATA = {
           "D": "有違反，依照現行規範，律師只能在名片上列出學歷，不能夠列出任何經歷"
         },
         "year": 109,
-        "answer": "A"
+        "answer": "C"
       },
       {
         "number": 71,
@@ -20262,7 +20282,7 @@ const EXAM_DATA = {
           "D": "有違反。律師不得為推展業務，將訴訟案件之勝訴率列為宣傳內容"
         },
         "year": 109,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 72,
@@ -20286,7 +20306,7 @@ const EXAM_DATA = {
           "D": "甲律師擔任檢察官承辦的是刑事部分，現在涉訟的是民事部分，二者是不同的訴訟程序，甲律師可\n\n以接受委任"
         },
         "year": 109,
-        "answer": "D"
+        "answer": "A"
       },
       {
         "number": 74,
@@ -20298,7 +20318,7 @@ const EXAM_DATA = {
           "D": "在土地買賣案件訴訟中，因當事人發生財務困難，與當事人約好由甲律師購買該案之土地，再由甲\n\n律師接手要被告拆屋還地"
         },
         "year": 109,
-        "answer": "C"
+        "answer": "A"
       },
       {
         "number": 75,
@@ -21042,7 +21062,7 @@ const EXAM_DATA = {
           "D": "違反法官與檢察官倫理規範者，直接送職務法庭審理；違反律師倫理規範者，則於律師公會審議"
         },
         "year": 108,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 62,
@@ -21054,7 +21074,7 @@ const EXAM_DATA = {
           "D": "法官審判具獨立性，但法院院長對於法官多次未請假而無故缺席法官會議，仍得為行政監督"
         },
         "year": 108,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 63,
@@ -21078,7 +21098,7 @@ const EXAM_DATA = {
           "D": "甲之諭示只是個人意見的表達，不涉及法官倫理"
         },
         "year": 108,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 65,
@@ -21090,7 +21110,7 @@ const EXAM_DATA = {
           "D": "甲法官對於告訴乃論案件，得當庭打電話向乙法官詢問民事和解情形"
         },
         "year": 108,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 66,
@@ -21102,7 +21122,7 @@ const EXAM_DATA = {
           "D": "法官應要求書記官等受其指揮或監督之法院人員，不得就繫屬中或即將繫屬之案件公開發表足以\n\n影響裁判公正之評論"
         },
         "year": 108,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 67,
@@ -21126,7 +21146,7 @@ const EXAM_DATA = {
           "D": "檢察官於任職期間，不得參加政黨、政治團體，任職前已參加政黨、政治團體者，應退出之"
         },
         "year": 108,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 69,
@@ -21138,7 +21158,7 @@ const EXAM_DATA = {
           "D": "甲在其律師事務所公開網站介紹中，介紹其經歷曾任檢察官，妻子為現職法官，其具有堅強之法\n\n律背景，訴訟百戰百勝 \n\n \n\f代號：1301 \n頁次：12－12"
         },
         "year": 108,
-        "answer": "B"
+        "answer": "A"
       },
       {
         "number": 70,
@@ -21150,7 +21170,7 @@ const EXAM_DATA = {
           "D": "律師因處理受任事件而被當事人起訴請求返還報酬，於答辯之必要範圍內，得揭露原應保密的受\n\n任事件內容"
         },
         "year": 108,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 71,
@@ -21174,7 +21194,7 @@ const EXAM_DATA = {
           "D": "律師為保護當事人權益，所有的卷證資料永遠都不能銷毀"
         },
         "year": 108,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 73,
@@ -21186,7 +21206,7 @@ const EXAM_DATA = {
           "D": "甲可以受任，只要 A 書面授權其父親全權處理委託律師事宜"
         },
         "year": 108,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 74,
@@ -21198,7 +21218,7 @@ const EXAM_DATA = {
           "D": "律師於當事人委任時，僅以口頭向其說明以按件計酬方式收費"
         },
         "year": 108,
-        "answer": "A"
+        "answer": "C"
       },
       {
         "number": 75,
@@ -21222,7 +21242,7 @@ const EXAM_DATA = {
           "D": "圖利之公務員與被圖利因而獲取利益之私人，具犯意聯絡及行為分擔，應成立本罪之共同正犯"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 2,
@@ -21234,7 +21254,7 @@ const EXAM_DATA = {
           "D": "檢察官因過失少算刑期，致受刑人提早 1 月離監出獄，構成刑法第 127 條第 2 項過失違法行刑罪"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 3,
@@ -21246,7 +21266,7 @@ const EXAM_DATA = {
           "D": "應一律適用裁判時之法律"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 4,
@@ -21258,7 +21278,7 @@ const EXAM_DATA = {
           "D": "甲行為僅涉行政不法，不構成刑事犯罪"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 5,
@@ -21270,7 +21290,7 @@ const EXAM_DATA = {
           "D": "純正不作為犯的行為態樣，在於不為規範所期待的積極行為"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 6,
@@ -21282,7 +21302,7 @@ const EXAM_DATA = {
           "D": "重傷致死罪之成立，以行為人能預見死亡結果為要件 \n\n \n \n\f代號：1301 \n頁次：12－2"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 7,
@@ -21294,7 +21314,7 @@ const EXAM_DATA = {
           "D": "過失犯不適用共同正犯之規定，甲、乙無論如何均不成立過失共同正犯"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 8,
@@ -21306,7 +21326,7 @@ const EXAM_DATA = {
           "D": "韓國籍丁男，於韓國首爾趁我國籍之旅客 A 酒醉時施以猥褻"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 9,
@@ -21318,7 +21338,7 @@ const EXAM_DATA = {
           "D": "乙拿起甲掉落於地上之水果刀，將甲砍成重傷係屬防衛過當"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 10,
@@ -21330,7 +21350,7 @@ const EXAM_DATA = {
           "D": "甲成立竊盜罪之教唆犯，乙成立竊盜罪之正犯，丙成立贓物罪"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 11,
@@ -21342,7 +21362,7 @@ const EXAM_DATA = {
           "D": "5 年以下有期徒刑、拘役或科或併科 1 千元以下罰金"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 12,
@@ -21354,7 +21374,7 @@ const EXAM_DATA = {
           "D": "鑽錶係犯罪所得之物，乙非明知甲之詐欺行為，故不得沒收"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 13,
@@ -21366,7 +21386,7 @@ const EXAM_DATA = {
           "D": "甲行賄公務員乙，要求乙為其違法變更地目。事成後，甲自首並接受裁判，法院以刑法第 62 條之\n\n規定為「得減輕其刑」而未減輕甲之刑責，並無不當 \n\n \n\f代號：1301\n頁次：12－3"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 14,
@@ -21378,7 +21398,7 @@ const EXAM_DATA = {
           "D": "行為人於前罪裁判確定前受羈押，依刑法第 37 條之 2 折抵徒刑之刑期後，於所餘刑期執行完畢後"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 15,
@@ -21390,7 +21410,7 @@ const EXAM_DATA = {
           "D": "監護處分係以因精神障礙而成為無責任能力或限制責任能力之人為對象，若認為有再犯或危害公\n\n共安全之虞時，得於刑之執行前或執行後，令入相當處所，施以監護"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 16,
@@ -21402,7 +21422,7 @@ const EXAM_DATA = {
           "D": "行為人登記參選後，為了爭取選票，多方包攬選民訴訟，不另收報酬，也算意圖漁利"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 17,
@@ -21414,7 +21434,7 @@ const EXAM_DATA = {
           "D": "本罪的客體可以為公務員，也可以是公務員依法執行的職務"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 18,
@@ -21426,7 +21446,7 @@ const EXAM_DATA = {
           "D": "證人違反客觀真實的陳述，若是在民事案件所作，不構成偽證罪"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 19,
@@ -21438,7 +21458,7 @@ const EXAM_DATA = {
           "D": "乙幫助甲燒燬計程車，構成刑法第 165 條湮滅證據罪之幫助犯"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 20,
@@ -21450,7 +21470,7 @@ const EXAM_DATA = {
           "D": "甲只要酒後駕車，無論吐氣所含酒精濃度如何，均已具備抽象危險，而成立刑法第 185 條之 3 之罪 \n\n \n\f代號：1301 \n頁次：12－4"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 21,
@@ -21462,7 +21482,7 @@ const EXAM_DATA = {
           "D": "甲若於事後親至警局表明身分，即不構成刑法第 185 條之 4 肇事逃逸罪"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 22,
@@ -21474,7 +21494,7 @@ const EXAM_DATA = {
           "D": "甲應成立使公務員登載不實罪之間接正犯"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 23,
@@ -21486,7 +21506,7 @@ const EXAM_DATA = {
           "D": "甲、乙應成立行使偽造私文書罪與公務員登載不實罪之共同正犯"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 24,
@@ -21498,7 +21518,7 @@ const EXAM_DATA = {
           "D": "行動電話簡訊"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 25,
@@ -21510,7 +21530,7 @@ const EXAM_DATA = {
           "D": "甲成立加重強制性交既遂罪，乙成立強制性交未遂罪之中止犯"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 26,
@@ -21522,7 +21542,7 @@ const EXAM_DATA = {
           "D": "甲成立對未滿 14 歲之男女性交罪之中止未遂犯"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 27,
@@ -21534,7 +21554,7 @@ const EXAM_DATA = {
           "D": "偽造稅務機關之完稅戳印"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 28,
@@ -21546,7 +21566,7 @@ const EXAM_DATA = {
           "D": "刑法第 273 條義憤殺人罪 \n\n \n\f代號：1301\n頁次：12－5"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 29,
@@ -21558,7 +21578,7 @@ const EXAM_DATA = {
           "D": "乙開車的去向，雖屬公開的活動，但透過 GPS 追蹤定位所勾稽的 3 個月生活軌跡，則屬非公開的\n\n人類活動"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 30,
@@ -21570,7 +21590,7 @@ const EXAM_DATA = {
           "D": "刑法第 320 條第 1 項之竊盜罪"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 31,
@@ -21582,7 +21602,7 @@ const EXAM_DATA = {
           "D": "成立強盜未遂與殺人既遂之數罪併罰"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 32,
@@ -21594,7 +21614,7 @@ const EXAM_DATA = {
           "D": "甲成立加重詐欺罪與恐嚇取財罪，法條競合，從一重論加重詐欺罪"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 33,
@@ -21606,7 +21626,7 @@ const EXAM_DATA = {
           "D": "竊盜罪"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 34,
@@ -21618,7 +21638,7 @@ const EXAM_DATA = {
           "D": "本條文書之範圍與刑法第 220 條之文書立法定義一致"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 35,
@@ -21630,7 +21650,7 @@ const EXAM_DATA = {
           "D": "以高壓電使他人電腦之主機板燒毀"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 36,
@@ -21642,7 +21662,7 @@ const EXAM_DATA = {
           "D": "因先後二訴非為一案件，但被告為同一人，應同時撤銷 A、B 法院之判決，自為合併之實體判決 \n\n \n\f代號：1301 \n頁次：12－6"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 37,
@@ -21654,7 +21674,7 @@ const EXAM_DATA = {
           "D": "法院應不受理判決"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 38,
@@ -21666,7 +21686,7 @@ const EXAM_DATA = {
           "D": "居民舉報，鄰居吵雜，警員到場查看，發現屋內正在聚眾賭博，逕行進入搜索"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 39,
@@ -21678,7 +21698,7 @@ const EXAM_DATA = {
           "D": "法官基於直接審理之原則應親自勘驗，一律不得採用檢察官之勘驗筆錄"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 40,
@@ -21690,7 +21710,7 @@ const EXAM_DATA = {
           "D": "法院於審理後，認應為不受理判決之諭知時，即應依法裁定駁回檢察官之聲請"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 41,
@@ -21702,7 +21722,7 @@ const EXAM_DATA = {
           "D": "甲於審判中所為之陳述雖有證據能力，但不得為有罪判決唯一之證據"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 42,
@@ -21714,7 +21734,7 @@ const EXAM_DATA = {
           "D": "對於「譯文」，應依刑事訴訟法第 165 條之 1 準用書證之調查程序進行證據調查"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 43,
@@ -21726,7 +21746,7 @@ const EXAM_DATA = {
           "D": "檢察官於審理期日聲請傳喚乙為證人，因乙兼具被告的身分，法院得依職權或依當事人的聲請，\n\n分離調查證據，甚至亦得分離進行辯論 \n\n \n\f代號：1301\n頁次：12－7"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 44,
@@ -21738,7 +21758,7 @@ const EXAM_DATA = {
           "D": "行合議審判案件，受命法官於準備程序時，因被告為有罪陳述，遂自為審判長進行言詞辯論，係\n\n審判程序違法，但其改行簡式審判程序，獨任審判，關於法院之組織部分並不違法"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 45,
@@ -21750,7 +21770,7 @@ const EXAM_DATA = {
           "D": "就甲之自訴，法院得為實體判決。此乃因本案屬告訴乃論之案件，甲提起告訴後，無論有無撤回，\n\n都可以再提起自訴，並無任何限制。惟檢察官知有自訴之提起後，應停止偵查，儘速將卷證移送\n\n自訴法院"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 46,
@@ -21762,7 +21782,7 @@ const EXAM_DATA = {
           "D": "不受理判決"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 47,
@@ -21774,7 +21794,7 @@ const EXAM_DATA = {
           "D": "均應事後向法院陳報"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 48,
@@ -21786,7 +21806,7 @@ const EXAM_DATA = {
           "D": "不可。除逕行拘提外，一定要在庭期前先送達傳票給甲 \n\n \n\f代號：1301 \n頁次：12－8"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 49,
@@ -21798,7 +21818,7 @@ const EXAM_DATA = {
           "D": "法官得駁回其具保之聲請，因甲已坦承本次犯行，罪證明確"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 50,
@@ -21810,7 +21830,7 @@ const EXAM_DATA = {
           "D": "法院於偵查中羈押審查程序，無選任辯護人之被告甲，不得獲知羈押卷證之內容"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 51,
@@ -21822,7 +21842,7 @@ const EXAM_DATA = {
           "D": "詢問時，應全程連續錄音；必要時，並應全程連續錄影。但有急迫情況且經記明筆錄者，不在此限"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 52,
@@ -21834,7 +21854,7 @@ const EXAM_DATA = {
           "D": "不利於被告之證據，法官負職權調查義務"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 53,
@@ -21846,7 +21866,7 @@ const EXAM_DATA = {
           "D": "考量審判效率，應先調查被告科刑之資料"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 54,
@@ -21858,7 +21878,7 @@ const EXAM_DATA = {
           "D": "丁可聲請檢察官指定代行告訴人告訴，但告訴期間只剩 1 個月 \n\n \n\f代號：1301\n頁次：12－9"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 55,
@@ -21870,7 +21890,7 @@ const EXAM_DATA = {
           "D": "甲得以自己名義提出告訴，但不得聲請再議，因甲非被害人"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 56,
@@ -21882,7 +21902,7 @@ const EXAM_DATA = {
           "D": "丙、丁雖已離婚，但丁仍有告訴權，法院仍應對丙進行實體審判，對甲為不受理判決"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 57,
@@ -21894,7 +21914,7 @@ const EXAM_DATA = {
           "D": "司法警察官員應取得檢察官之同意後，始得封鎖犯罪現場，並為即時之勘察"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 58,
@@ -21906,7 +21926,7 @@ const EXAM_DATA = {
           "D": "改依通常程序，依刑事訴訟法第 303 條第 4 款之規定判決公訴不受理。因緩起訴期滿未經撤銷，\n\n而有違背刑事訴訟法第 260 條之規定再行起訴之違法"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 59,
@@ -21918,7 +21938,7 @@ const EXAM_DATA = {
           "D": "檢察官起訴不合法，法院逕為不受理之判決"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 60,
@@ -21930,7 +21950,7 @@ const EXAM_DATA = {
           "D": "自民國 107 年 3 月 3 日起算。因上訴期間應自被告收受判決正本之翌日起算 \n\n \n\f代號：1301 \n頁次：12－10"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 61,
@@ -21942,7 +21962,7 @@ const EXAM_DATA = {
           "D": "法官與檢察官身為國家司法機關的成員，有監督下屬之義務；律師身為自由業，不需要負有監督\n\n下屬之義務"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 62,
@@ -21954,7 +21974,7 @@ const EXAM_DATA = {
           "D": "對甲提起民事訴訟，主張其投書媒體指控之內容不實，損害其名譽，請求賠償及登報道歉"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 63,
@@ -21966,7 +21986,7 @@ const EXAM_DATA = {
           "D": "當事人甲認為一審法官 A 有重大過失，致審判有明顯重大違誤，而嚴重侵害他的權益，該案件尚\n\n未確定，但自第一審繫屬日起已逾 6 年，甲可以陳請律師公會，對 A 法官進行個案評鑑"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 64,
@@ -21978,7 +21998,7 @@ const EXAM_DATA = {
           "D": "法官 A 提供自己所審理其他案件中有關乙之筆錄與證據資料，讓甲得以證明乙素行不良"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 65,
@@ -21990,7 +22010,7 @@ const EXAM_DATA = {
           "D": "法官 D 於留職停薪期間，開設早餐店貼補家用 \n\n \n\f代號：1301\n頁次：12－11"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 66,
@@ -22002,7 +22022,7 @@ const EXAM_DATA = {
           "D": "C、甲入席後，發現 A 在同桌參加喜宴，C 帶同甲向 A 打招呼，並向 A 陳述甲確實係遭冤枉，請\n\nA 主持正義"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 67,
@@ -22014,7 +22034,7 @@ const EXAM_DATA = {
           "D": "A 對於甲、乙所聲請調查之入出境資料，查調並無困難，且於犯罪事實之認定具有重要關聯性，\n\n但 A 未盡調查能事，有違檢察官應勤慎執行職務之疏失"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 68,
@@ -22026,7 +22046,7 @@ const EXAM_DATA = {
           "D": "有違反。律師事務所只能將現在處理的案件列為宣傳內容，不得將過去所處理的案件作為宣傳之用"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 69,
@@ -22038,7 +22058,7 @@ const EXAM_DATA = {
           "D": "因為債權人甲未提醒 A 律師，是甲的錯，A 律師並不違反律師倫理規範 \n\n \n\f代號：1301 \n頁次：12－12"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 70,
@@ -22050,7 +22070,7 @@ const EXAM_DATA = {
           "D": "沒有違反。律師和證人接觸，本來就是要安排套好在法庭上的證詞，所以律師要提示筆錄並幫證\n\n人編一套完整無瑕的證詞"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 71,
@@ -22062,7 +22082,7 @@ const EXAM_DATA = {
           "D": "可以。不過 A 律師必須要先以書面通知乙，但不需要得到乙之同意"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 72,
@@ -22074,7 +22094,7 @@ const EXAM_DATA = {
           "D": "律師就業務過失致死二審上訴案件，得約定如二審判決獲緩刑，另再給付律師費 10 萬元"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 73,
@@ -22086,7 +22106,7 @@ const EXAM_DATA = {
           "D": "無理由，A 律師受甲諮詢時，不知道甲的對造就是乙"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 74,
@@ -22098,7 +22118,7 @@ const EXAM_DATA = {
           "D": "在事務所外懸掛布條宣傳業務，內容為「天下第一訟師：百戰百勝。購書者可獲免費諮詢」"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 75,
@@ -22110,7 +22130,7 @@ const EXAM_DATA = {
           "D": "A 律師曾在甲法院擔任法官，於轉任律師 2 年後擬僱用律師 B，就 A 律師所承接的案件，在甲法\n\n院出庭執行律師職務"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 1,
@@ -22122,7 +22142,7 @@ const EXAM_DATA = {
           "D": "詐欺罪的共同正犯"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 2,
@@ -22134,7 +22154,7 @@ const EXAM_DATA = {
           "D": "甲之圖利未遂行為，有法律變更之比較適用問題，且應適用行為時法作為論罪科刑依據"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 3,
@@ -22146,7 +22166,7 @@ const EXAM_DATA = {
           "D": "加重結果犯必定加重處罰"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 4,
@@ -22156,7 +22176,7 @@ const EXAM_DATA = {
           "C": "甲、乙共同預備殺人"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 5,
@@ -22168,7 +22188,7 @@ const EXAM_DATA = {
           "D": "甲無罪，乙論以預備殺人"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 6,
@@ -22180,7 +22200,7 @@ const EXAM_DATA = {
           "D": "夫目睹妻與鄰居通姦，持木棍痛毆鄰居 \n\n \n \n\f代號：1301 \n頁次：12－2"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 7,
@@ -22192,7 +22212,7 @@ const EXAM_DATA = {
           "D": "須前所犯之罪係受本國法院之裁判"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 8,
@@ -22204,7 +22224,7 @@ const EXAM_DATA = {
           "D": "第 91 條之 1 對強制性交犯罪人的強制治療處分"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 9,
@@ -22216,7 +22236,7 @@ const EXAM_DATA = {
           "D": "如手槍屬第三人所有，而該第三人是合法允許持有且無違禁情形，仍應沒收"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 10,
@@ -22228,7 +22248,7 @@ const EXAM_DATA = {
           "D": "被告雖無責任能力，但是法官可以對被告既判處有期徒刑 3 年，又對被告判處令入相當處所施以\n\n監護 3 年"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 11,
@@ -22240,7 +22260,7 @@ const EXAM_DATA = {
           "D": "甲只是將 A 抱住，限制 A 的行為，不能將甲的行為，解釋為強暴或脅迫行為的實行"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 12,
@@ -22252,7 +22272,7 @@ const EXAM_DATA = {
           "D": "成立期約賄賂罪"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 13,
@@ -22264,7 +22284,7 @@ const EXAM_DATA = {
           "D": "乙應成立偽造有價證券罪之幫助犯與偽造印章罪之教唆犯 \n\n \n \n\f代號：1301\n頁次：12－3"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 14,
@@ -22276,7 +22296,7 @@ const EXAM_DATA = {
           "D": "第 174 條第 2 項放火燒燬現非供人使用之自己所有住宅或現未有人所在之自己所有處所或交通工\n\n具罪"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 15,
@@ -22288,7 +22308,7 @@ const EXAM_DATA = {
           "D": "離婚的 17 歲女子"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 16,
@@ -22300,7 +22320,7 @@ const EXAM_DATA = {
           "D": "乙應成立一個放火燒燬現供人使用住宅罪與一個殺人罪，依想像競合論處"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 17,
@@ -22312,7 +22332,7 @@ const EXAM_DATA = {
           "D": "甲所構成之殺人罪，應與他罪論以數罪併罰"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 18,
@@ -22324,7 +22344,7 @@ const EXAM_DATA = {
           "D": "搶奪罪"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 19,
@@ -22336,7 +22356,7 @@ const EXAM_DATA = {
           "D": "成立刑法第 335 條侵占罪 \n\n \n \n \n\f代號：1301 \n頁次：12－4"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 20,
@@ -22348,7 +22368,7 @@ const EXAM_DATA = {
           "D": "乙雖係與甲共同實行業務侵占罪，惟乙係無身分之人，應依刑法第 31 條第 2 項、第 28 條論以普\n\n通侵占罪之共同正犯"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 21,
@@ -22360,7 +22380,7 @@ const EXAM_DATA = {
           "D": "甲成立刑法第 360 條干擾電腦設備罪"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 22,
@@ -22372,7 +22392,7 @@ const EXAM_DATA = {
           "D": "甲應成立強盜罪之幫助犯，乙、丙應成立強盜罪之共同正犯"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 23,
@@ -22384,7 +22404,7 @@ const EXAM_DATA = {
           "D": "甲雖未親自救治 A，仍可成立中止犯"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 24,
@@ -22396,7 +22416,7 @@ const EXAM_DATA = {
           "D": "就 B 之死亡，甲僅負過失之責"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 25,
@@ -22408,7 +22428,7 @@ const EXAM_DATA = {
           "D": "成立刑法第 339 條詐欺取財罪"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 26,
@@ -22420,7 +22440,7 @@ const EXAM_DATA = {
           "D": "刑法第 336 條第 2 項業務侵占罪 \n\n \n\f代號：1301\n頁次：12－5"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 27,
@@ -22432,7 +22452,7 @@ const EXAM_DATA = {
           "D": "甲在解送途中脫逃，司法警察進入該民宅搜索，雖無搜索票，仍屬適法"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 28,
@@ -22444,7 +22464,7 @@ const EXAM_DATA = {
           "D": "甲向檢察官提出告訴時並未委任律師為告訴代理人，故甲之告訴不合法，檢察官應為不起訴處分。\n\n甲提起自訴時有委任律師為自訴代理人，故甲之自訴合法，法院應依法判決"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 29,
@@ -22456,7 +22476,7 @@ const EXAM_DATA = {
           "D": "檢察官必須徵得乙同意，始得命乙向公益團體提供義務勞動 100 小時"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 30,
@@ -22468,7 +22488,7 @@ const EXAM_DATA = {
           "D": "檢察官知有犯罪嫌疑而不屬其管轄，不得開始偵查"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 31,
@@ -22480,7 +22500,7 @@ const EXAM_DATA = {
           "D": "法警對媒體透露：剛才開庭時被告完全否認犯罪，檢察官說還要測謊"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 32,
@@ -22492,7 +22512,7 @@ const EXAM_DATA = {
           "D": "網路上互罵涉及刑法的公然侮辱罪，本罪是告訴乃論罪，故檢察官在未經當事人提出告訴之情形\n\n下，不得發動偵查 \n\n \n\f代號：1301 \n頁次：12－6"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 33,
@@ -22504,7 +22524,7 @@ const EXAM_DATA = {
           "D": "警察所製作之勘察報告，係公務員職務上所製作之紀錄文書，除顯有不可信之情況外，原則上有\n\n證據能力"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 34,
@@ -22516,7 +22536,7 @@ const EXAM_DATA = {
           "D": "金融機構之監視錄影光碟，全憑機械力拍攝，並非人之見聞，容易造假，自無證據能力。法院勘\n驗後作成勘驗筆錄，並非原始證據，縱經勘驗亦無法使無證據能力之證據變成有證據能力，法院\n採為論罪之依據，判決違背法令"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 35,
@@ -22528,7 +22548,7 @@ const EXAM_DATA = {
           "D": "甲既主張其自白係出於警察之利誘，非出於任意性，自應就此負舉證責任"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 36,
@@ -22540,7 +22560,7 @@ const EXAM_DATA = {
           "D": "乙證人筆錄並非傳聞證據，甲有權拒絕該證據之使用，二審法院不得使用乙之筆錄作為證據"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 37,
@@ -22552,7 +22572,7 @@ const EXAM_DATA = {
           "D": "甲之陳述不具有證據能力，因為警察未告知甲得選任辯護人已等同於係以詐欺之方式騙取甲之自\n\n白，故應排除甲之陳述的證據能力，以嚇阻執法機關之不法行為 \n\n \n\f代號：1301\n頁次：12－7"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 38,
@@ -22564,7 +22584,7 @@ const EXAM_DATA = {
           "D": "甲、乙皆可獨立提出撤銷羈押的聲請"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 39,
@@ -22576,7 +22596,7 @@ const EXAM_DATA = {
           "D": "甲應在發現丙律師忘了提出再議之時起的十日內，以書狀釋明回復原狀的理由，連同再議的提出，\n\n向作出不起訴處分的原檢察官聲請回復原狀"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 40,
@@ -22588,7 +22608,7 @@ const EXAM_DATA = {
           "D": "撤銷第一審判決並自為判決。因為在第一審，儘管辯護人缺席，判決仍然合法"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 41,
@@ -22600,7 +22620,7 @@ const EXAM_DATA = {
           "D": "依第一審、第二審判決所臚列量刑審酌事項多寡，綜合判斷有無違反不利益變更禁止原則以及罪\n\n刑相當原則"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 42,
@@ -22612,7 +22632,7 @@ const EXAM_DATA = {
           "D": "乙和丙有婚姻關係，丙恐有偏頗之虞，其所屬法院得依職權作成裁定"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 43,
@@ -22624,7 +22644,7 @@ const EXAM_DATA = {
           "D": "A、B 二法院受理之案件，屬相牽連案件，若 A、B 法院不同意時，應各為審判 \n\n \n\f代號：1301 \n頁次：12－8"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 44,
@@ -22636,7 +22656,7 @@ const EXAM_DATA = {
           "D": "臺北、臺中、高雄地院對甲殺乙案件都有管轄權"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 45,
@@ -22648,7 +22668,7 @@ const EXAM_DATA = {
           "D": "甲非犯罪被害人，不得提起自訴，故乙亦不得提起反訴"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 46,
@@ -22660,7 +22680,7 @@ const EXAM_DATA = {
           "D": "乙訊問甲時，為使甲明白供出共犯與否之利害關係，先暫停製作筆錄並關閉偵查庭錄音設備，與\n\n甲閒聊說明，說明完畢後，再重新開啟偵查庭錄音設備進行筆錄製作"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 47,
@@ -22672,7 +22692,7 @@ const EXAM_DATA = {
           "D": "戊未閱卷即參與評議，雖未接受關說，其同意無罪之行為，應已違反法官倫理"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 48,
@@ -22684,7 +22704,7 @@ const EXAM_DATA = {
           "D": "為乙輔佐辯護"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 49,
@@ -22696,7 +22716,7 @@ const EXAM_DATA = {
           "D": "乙律師出馬競選民意代表，甲法官不得為乙公開站台助選，僅得在私下為乙向社區鄰居請求支持 \n\n \n\f代號：1301\n頁次：12－9"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 50,
@@ -22708,7 +22728,7 @@ const EXAM_DATA = {
           "D": "法官於審理家庭暴力保護令聲請事件，訊問 15 歲之未成年被害人時，認為有隔離訊問之必要，命\n陪同到庭之社會工作人員退出庭外，而在訊問完畢後，始請社會工作人員入庭並告以訊問要旨"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 51,
@@ -22720,7 +22740,7 @@ const EXAM_DATA = {
           "D": "甲檢察官對於所屬檢察長行使檢察一體職務移轉命令，要求其交出未結之案件，其已開始偵辦之\n\n案件，可拒絕移轉，僅就尚未開始偵辦之案件移轉"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 52,
@@ -22732,7 +22752,7 @@ const EXAM_DATA = {
           "D": "檢察官利用下班時間，未向機關申請，在公職考試補習班教授法律課程，領取鐘點費"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 53,
@@ -22744,7 +22764,7 @@ const EXAM_DATA = {
           "D": "甲不滿其起訴之案件遭法院判決無罪，將法院之判決書全文及其撰寫之上訴書全文，登於其臉書\n\n上，要求大家評評理，號召大眾共同監督上級審法院之上訴審理程序"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 54,
@@ -22756,7 +22776,7 @@ const EXAM_DATA = {
           "D": "把預期的諮詢費用或鑑定費用計入律師的報酬裡面，再向當事人報價"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 55,
@@ -22768,7 +22788,7 @@ const EXAM_DATA = {
           "D": "當事人於一審敗訴後，只要當事人堅持，即使顯無理由律師仍應代為上訴 \n\n \n\f代號：1301 \n頁次：12－10"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 56,
@@ -22780,7 +22800,7 @@ const EXAM_DATA = {
           "D": "經常撰寫法律相關文章署名律師身分而投書報紙"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 57,
@@ -22790,7 +22810,7 @@ const EXAM_DATA = {
           "C": "臺中律師公會"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 58,
@@ -22802,7 +22822,7 @@ const EXAM_DATA = {
           "D": "臺中高分檢"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 59,
@@ -22814,7 +22834,7 @@ const EXAM_DATA = {
           "D": "丁律師發現被告所述，合理判斷與真實不符時，基於被告不自證己罪之原則，不應提出被告之陳\n\n述於法院"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 60,
@@ -22826,7 +22846,7 @@ const EXAM_DATA = {
           "D": "如果王律師認識李律師就不會違反律師倫理規範，但如果兩個人完全不認識，王律師就會違反律\n\n師倫理規範 \n\n \n \n \n\f代號：1301\n頁次：12－11\n\n二、複選題（第 61 題至第 70 題，每題 3 分，占 30 分） \n\n說明：所列的五個選項，其中至少有二個是正確答案。各題之選項獨立判定，全部答對者，\n得 3 分；答錯一個選項者，得 1.8 分；答錯二個選項者，得 0.6 分；所有選項均未作答\n或答錯多於二個選項（不含二個）者，該題以零分計算。"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 61,
@@ -22838,7 +22858,7 @@ const EXAM_DATA = {
           "D": "誹謗罪不罰的法定條件，行為人除需能證明所誹謗之事為真實外，尚需該事非「涉於私德而與公\n\n共利益無關」 \n\n行為人雖不能證明言論為真實，但依其所提證據資料，可認其有相當理由確信所言為真實者，仍\n\n不成立誹謗罪"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 62,
@@ -22850,7 +22870,7 @@ const EXAM_DATA = {
           "D": "丁前一晚熬夜喝酒，第二天駕車上班時，宿醉昏沉追撞前車，經警測量吐氣所含酒精濃度達每公\n\n升 0.25 毫克 \n\n戊從酒店應酬結束後，欲開車返家，自覺精神不濟，於車上休息，經警盤查進行酒測，量得吐氣\n\n所含酒精濃度為每公升 0.58 毫克"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 63,
@@ -22862,7 +22882,7 @@ const EXAM_DATA = {
           "D": "依實務見解，被教唆人有等價客體錯誤時，教唆人不成立教唆既遂罪 \n對於過失的行為，無法成立教唆犯或幫助犯"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 64,
@@ -22874,7 +22894,7 @@ const EXAM_DATA = {
           "D": "應將二罪之刑改定應執行之刑，且應執行之刑不得低於 7 年 \n應執行強盜罪之刑，並扣除已執行之 8 月，應執行之刑為 6 年 4 月"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 65,
@@ -22886,7 +22906,7 @@ const EXAM_DATA = {
           "D": "甲、乙、丙成立結夥三人加重竊盜罪 \n乙、丙未出現在犯罪現場，不成立犯罪 \n\n \n\f代號：1301 \n頁次：12－12"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 66,
@@ -22898,7 +22918,7 @@ const EXAM_DATA = {
           "D": "曾經從事過之業務，不再執業後，偶然實施同種行為，因過失而致人於死，仍應依本罪論處 \n\n二人共同業務上過失致人於死，實務上認為二人應個別論罪，無共同正犯之適用"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 67,
@@ -22910,7 +22930,7 @@ const EXAM_DATA = {
           "D": "司法警察官乙，依刑事訴訟法規定均無須向丙及丁告知得以拒絕證言 \n\n司法警察官乙，依刑事訴訟法規定均應向丙及丁告知得以拒絕證言"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 68,
@@ -22922,7 +22942,7 @@ const EXAM_DATA = {
           "D": "甲對乙、丙提出告訴，檢察官起訴乙、丙共犯竊盜罪嫌，法院審理中，甲不得對丙撤回告訴 \n\n甲僅對乙提出告訴，檢察官查明乙、丙共同竊盜，檢察官可起訴乙、丙共犯竊盜罪嫌"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 69,
@@ -22934,7 +22954,7 @@ const EXAM_DATA = {
           "D": "審判期日，審判長為人別訊問時，辯護人未到庭 \n\n辯護人是否構成無效之辯護，應同時具備「行為瑕疵」與「結果不利」二要件"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 70,
@@ -22946,7 +22966,7 @@ const EXAM_DATA = {
           "D": "地方法院判決甲傷害罪刑確定後，乙因傷重致死，乙之家屬得以發現新事實對原判決聲請重新審判 \n\n檢察官起訴甲犯傷害罪嫌，法院判決甲無罪確定後，乙因傷重致死，檢察官對乙死亡事實不得另\n\n行起訴"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 1,
@@ -22958,7 +22978,7 @@ const EXAM_DATA = {
           "D": "對於製造、持有等原屬散布、播送及販賣等之預備行為，制定為與散布、播送及販賣等傳布性資\n\n訊或物品之構成要件行為具有相同不法程度之立法，乃屬立法之形成自由"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 2,
@@ -22970,7 +22990,7 @@ const EXAM_DATA = {
           "D": "教唆殺人中止未遂"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 3,
@@ -22982,7 +23002,7 @@ const EXAM_DATA = {
           "D": "甲成立肇事逃逸罪"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 4,
@@ -22994,7 +23014,7 @@ const EXAM_DATA = {
           "D": "丙成立隱匿刑事證據罪"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 5,
@@ -23006,7 +23026,7 @@ const EXAM_DATA = {
           "D": "一行為而同時藏匿同案之數名共同被告，僅成立一藏匿人犯罪"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 6,
@@ -23018,7 +23038,7 @@ const EXAM_DATA = {
           "D": "為了維持與強化一般人民遵守法律的意願 \n\n \n \n \n \n \n \n \n \n\f 代號：1301 \n頁次：12－2"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 7,
@@ -23030,7 +23050,7 @@ const EXAM_DATA = {
           "D": "繼續犯"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 8,
@@ -23042,7 +23062,7 @@ const EXAM_DATA = {
           "D": "牽連犯"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 9,
@@ -23054,7 +23074,7 @@ const EXAM_DATA = {
           "D": "A 之死亡不違背甲殺人之本意，應負故意殺人既遂之責"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 10,
@@ -23066,7 +23086,7 @@ const EXAM_DATA = {
           "D": "甲係依法執行職務，雖屬故意殺人，但可阻卻其違法性"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 11,
@@ -23078,7 +23098,7 @@ const EXAM_DATA = {
           "D": "甲乙兩人均應成立凌虐人犯罪之共同正犯"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 12,
@@ -23090,7 +23110,7 @@ const EXAM_DATA = {
           "D": "甲成立結夥搶奪罪的教唆犯，乙丙成立結夥搶奪罪"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 13,
@@ -23102,7 +23122,7 @@ const EXAM_DATA = {
           "D": "侵占遺失物罪、以不正方法由付費設備詐取財物及行使偽造私文書罪，三罪為數罪併罰 \n\n \n \n \n \n\f14  甲自幼被 A 收養，平日與 A 感情不睦。某日，甲向 A 索討金錢花用，遭 A 峻拒，二人遂發生激烈\n\n爭吵。A 乃電請甲之生父 B 前來婉勸，甲被 B 責罵後，一時失去理智，遂至廚房持菜刀將 A 及 B 二\n\n代號：1301\n頁次：12－3 \n\n人砍斃。下列敘述，何者正確？"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 15,
@@ -23114,7 +23134,7 @@ const EXAM_DATA = {
           "D": "甲之行為係攻擊他人建築物，不能成立刑法第 354 條之毀損器物罪"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 16,
@@ -23126,7 +23146,7 @@ const EXAM_DATA = {
           "D": "侵入住宅犯之者"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 17,
@@ -23138,7 +23158,7 @@ const EXAM_DATA = {
           "D": "成立五個偽造有價證券罪，連續數行為觸犯同一之罪名，加重其刑至二分之一"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 18,
@@ -23150,7 +23170,7 @@ const EXAM_DATA = {
           "D": "甲成立一個強盜罪及二個殺人罪，數罪併罰"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 19,
@@ -23162,7 +23182,7 @@ const EXAM_DATA = {
           "D": "刑法第 90 條對有犯罪習慣者之強制工作處分"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 20,
@@ -23174,7 +23194,7 @@ const EXAM_DATA = {
           "D": "乙所為攻擊行為，係受甲挑釁所致，屬於被動行為，故不罰 \n\n \n \n \n\f 代號：1301 \n頁次：12－4"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 21,
@@ -23186,7 +23206,7 @@ const EXAM_DATA = {
           "D": "甲所犯之罪，仍屬告訴乃論之罪"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 22,
@@ -23198,7 +23218,7 @@ const EXAM_DATA = {
           "D": "甲錯殺 B 之行為，屬於重大偏離的因果歷程錯誤，不得阻卻故意"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 23,
@@ -23210,7 +23230,7 @@ const EXAM_DATA = {
           "D": "便利商店之店長，將國稅局委託代收之稅款侵占入己"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 24,
@@ -23222,7 +23242,7 @@ const EXAM_DATA = {
           "D": "甲成立侵占脫離物罪；丙無罪，因為尚未轉手賣出"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 25,
@@ -23234,7 +23254,7 @@ const EXAM_DATA = {
           "D": "謀為同死之加工自殺罪"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 26,
@@ -23246,7 +23266,7 @@ const EXAM_DATA = {
           "D": "刑法第 315 條之 1 竊錄秘密罪 \n\n \n \n \n\f代號：1301\n頁次：12－5"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 27,
@@ -23258,7 +23278,7 @@ const EXAM_DATA = {
           "D": "基於告訴不可分原則，告訴效力雖及於所有共犯，但檢察官仍得選擇起訴的對象"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 28,
@@ -23270,7 +23290,7 @@ const EXAM_DATA = {
           "D": "乙只能對丙提起告訴，告訴之效力不及於甲"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 29,
@@ -23282,7 +23302,7 @@ const EXAM_DATA = {
           "D": "因甲一人犯二罪，檢察官得先起訴一罪，後再為另一罪之獨立起訴"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 30,
@@ -23294,7 +23314,7 @@ const EXAM_DATA = {
           "D": "甲對於指定管轄的裁定，雖得提起抗告，但因 C 法院有管轄權，故應為抗告駁回"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 31,
@@ -23306,7 +23326,7 @@ const EXAM_DATA = {
           "D": "法院不得逕以甲在偵查中未爭執，遲至審理中始主張刑求，即認其刑求之抗辯不足採信"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 32,
@@ -23318,7 +23338,7 @@ const EXAM_DATA = {
           "D": "得為告訴之人失蹤，無法於告訴期間內尋獲，且無其他得為告訴之人 \n\n \n \n\f 代號：1301 \n頁次：12－6"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 33,
@@ -23330,7 +23350,7 @@ const EXAM_DATA = {
           "D": "若案發於郊外，無人知曉，B 於七個月後向檢察官提出告訴，檢察官應以告訴期間完成為由，為\n\n不起訴處分"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 34,
@@ -23342,7 +23362,7 @@ const EXAM_DATA = {
           "D": "檢察官曾命甲分 4 期，每期向公庫支付 1 萬元，甲僅支付 1 期即不交，檢察官在緩起訴期間內欲起\n\n訴甲，應先撤銷緩起訴處分"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 35,
@@ -23354,7 +23374,7 @@ const EXAM_DATA = {
           "D": "原判決撤銷，仍論處轉讓禁藥罪刑；併就公訴意旨所指脅迫行為，另為無罪之諭知"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 36,
@@ -23366,7 +23386,7 @@ const EXAM_DATA = {
           "D": "甲應在搶通對外往來通道的 10 日內，向原審法院聲請回復原狀。待法院准予回復原狀後，再於 10\n\n日內向原審法院提出上訴書狀 \n\n\f代號：1301\n頁次：12－7"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 37,
@@ -23378,7 +23398,7 @@ const EXAM_DATA = {
           "D": "乙為現行犯，縱姓名不明，仍可記載足資辨別之特徵（如五官、身高、體重）並照相後聲請羈押"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 38,
@@ -23390,7 +23410,7 @@ const EXAM_DATA = {
           "D": "對被告無審判權"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 39,
@@ -23402,7 +23422,7 @@ const EXAM_DATA = {
           "D": "丙可於審判期日當庭以言詞陳明為甲之輔佐人，即可為甲之輔佐人而到庭陳述意見"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 40,
@@ -23414,7 +23434,7 @@ const EXAM_DATA = {
           "D": "司法警察官因調查犯罪情形及蒐集證據之必要，對於經拘提或逮捕到案之犯罪嫌疑人或被告，得\n\n違反犯罪嫌疑人或被告之意思，採取其身體內之血液"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 41,
@@ -23426,7 +23446,7 @@ const EXAM_DATA = {
           "D": "必要時，檢察官得傳喚總統乙實施訊問，乙無正當理由拒絕訊問時，得向高等法院或其分院以資\n\n深庭長為審判長之法官 5 人所組成之特別合議庭聲請取得拘票後，予以拘提"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 42,
@@ -23438,7 +23458,7 @@ const EXAM_DATA = {
           "D": "檢察官依法撤銷緩起訴處分，甲未聲請再議確定後，在起訴之前，乙得提起自訴 \n\n \n\f 代號：1301 \n頁次：12－8"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 43,
@@ -23450,7 +23470,7 @@ const EXAM_DATA = {
           "D": "法院依法適用簡式審判程序者，傳聞證據不得於審判期日作為證據"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 44,
@@ -23462,7 +23482,7 @@ const EXAM_DATA = {
           "D": "合法。本案中之侵占離本人持有之物罪之法定刑輕於竊盜罪，並非不利於被告，故法院得變更起\n\n訴法條"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 45,
@@ -23474,7 +23494,7 @@ const EXAM_DATA = {
           "D": "認定被告有羈押原因及羈押必要，不必經嚴格證明"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 46,
@@ -23486,7 +23506,7 @@ const EXAM_DATA = {
           "D": "律師未查明當事人之真實身分，即對內容繕打完成、當事人欄空白之合約書為「鑑證」"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 47,
@@ -23498,7 +23518,7 @@ const EXAM_DATA = {
           "D": "不違反，甲仍具有律師資格 \n\n\f代號：1301\n頁次：12－9"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 48,
@@ -23510,7 +23530,7 @@ const EXAM_DATA = {
           "D": "在符合當事人之利益下，就案件有和解可能時，律師宜協力促成之"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 49,
@@ -23522,7 +23542,7 @@ const EXAM_DATA = {
           "D": "知其配偶以其法官之名義為特定候選人募款而不反對"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 50,
@@ -23534,7 +23554,7 @@ const EXAM_DATA = {
           "D": "受任律師向當事人表示「這個案件沒問題，我保證一定會勝訴」"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 51,
@@ -23546,7 +23566,7 @@ const EXAM_DATA = {
           "D": "檢察官言行應端莊謹慎，維護司法形象，即使乙默許，甲仍違反檢察官倫理"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 52,
@@ -23558,7 +23578,7 @@ const EXAM_DATA = {
           "D": "律師"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 53,
@@ -23570,7 +23590,7 @@ const EXAM_DATA = {
           "D": "丁檢察官於某次參觀預售屋時，向銷售員表明自己為檢察官，藉此取得低於一般交易行情二成之\n\n購屋價格"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 54,
@@ -23582,7 +23602,7 @@ const EXAM_DATA = {
           "D": "律師可經由選舉擔任地方民選縣市首長後，仍可同時繼續執行律師業務 \n\n \n \n\f 代號：1301 \n頁次：12－10"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 55,
@@ -23594,7 +23614,7 @@ const EXAM_DATA = {
           "D": "該案件係屬於律師倫理規範第 33 條第 2 款保密義務例外情形，但是甲可以選擇說明或不說明"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 56,
@@ -23606,7 +23626,7 @@ const EXAM_DATA = {
           "D": "律師原則上不得兼任公務員"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 57,
@@ -23618,7 +23638,7 @@ const EXAM_DATA = {
           "D": "一定可以，法律只限制對造當事人為配偶及二親等內血親的案件，律師才不能接受委任，表兄弟\n\n的案件不受限制"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 58,
@@ -23630,7 +23650,7 @@ const EXAM_DATA = {
           "D": "丁律師在代理某繼承登記訴訟事件，與當事人約定，如獲得勝訴判決，即取得系爭土地十分之二\n\n作為後酬"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 59,
@@ -23642,7 +23662,7 @@ const EXAM_DATA = {
           "D": "律師於某新聞雜誌上付費刊載自己的姓名、學經歷、事務所地址及連絡方式"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 60,
@@ -23654,7 +23674,7 @@ const EXAM_DATA = {
           "D": "立法委員競選後援會 \n\n \n \n \n\f代號：1301\n頁次：12－11\n\n二、複選題（第 61 題至第 70 題，每題 3 分，占 30 分） \n    說明：所列的五個選項，其中至少有二個是正確答案。各題之選項獨立判定，全部答對者，\n得 3 分；答錯一個選項者，得 1.8 分；答錯二個選項者，得 0.6 分；所有選項均未作答\n或答錯多於二個選項（不含二個）者，該題以零分計算。"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 61,
@@ -23666,7 +23686,7 @@ const EXAM_DATA = {
           "D": "教唆他人隱匿關於自己刑事案件之證據 \n\n與他人共同湮滅關於他人刑事案件之證據"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 62,
@@ -23678,7 +23698,7 @@ const EXAM_DATA = {
           "D": "客觀處罰條件亦屬構成要件要素 \n\n刑法第 238 條詐術締結婚姻罪，所定「致其無效或得撤銷之裁判確定」，為客觀處罰條件"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 63,
@@ -23690,7 +23710,7 @@ const EXAM_DATA = {
           "D": "因無停止事由，期間已超過 10 年，故時效應已完成 \n\n行為尚未終了前，並無停止時效的問題"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 64,
@@ -23702,7 +23722,7 @@ const EXAM_DATA = {
           "D": "甲成立刑法第 226 條第 1 項強制性交因而致被害人於死罪 \n\n甲成立刑法第 226 條之 1 強制性交與殺人罪之結合犯"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 65,
@@ -23714,7 +23734,7 @@ const EXAM_DATA = {
           "D": "利用受委任處理事務之機會，意圖為自己不法之所有，以詐術使委任人交付財物，應成立背信罪\n\n與詐欺罪，兩罪數罪併罰 \n\n利用受委任處理事務之機會，意圖為自己不法之所有，將所持有委任人之物侵占入己，應成立背\n\n信罪與侵占罪，兩罪數罪併罰 \n\n \n\f 代號：1301 \n頁次：12－12"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 66,
@@ -23726,7 +23746,7 @@ const EXAM_DATA = {
           "D": "第 214 條使公務員登載不實罪，必須一經申報，公務員即有登載之義務，始成立本罪。如果公務\n\n員尚有實質審查之義務，並於審查後方為一定之記載，則不成立本罪 \n\n公務員不確定所登載於公文書之內容是否真實，也未加以求證就予以登載，成立第 213 條公務員\n\n登載不實罪"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 67,
@@ -23738,7 +23758,7 @@ const EXAM_DATA = {
           "D": "現行刑事訴訟法明文規定丁於詢問證人乙時，應告以乙得為第 180 條一定親屬關係之拒絕證言 \n現行刑事訴訟法並無明文規定丁於詢問證人乙時，應告以乙得為第 181 條免於自陷入罪之拒絕證言"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 68,
@@ -23750,7 +23770,7 @@ const EXAM_DATA = {
           "D": "法院審理中，檢察官以書狀追加起訴甲詐欺活會會員辛之會款，法院對於該追加之起訴，應諭知\n\n公訴不受理之判決 \n\n法院審理中，檢察官以書狀追加起訴甲詐欺活會會員辛之會款，法院對於該追加之起訴，如未判\n\n決，應由法院依法補充判決"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 69,
@@ -23762,7 +23782,7 @@ const EXAM_DATA = {
           "D": "丙自訴甲犯傷害罪嫌，經法院判決甲無罪確定後，乙得再自訴甲犯傷害罪嫌 \n丙自訴甲犯傷害罪嫌，經法院判決甲罪刑確定後，乙得再自訴甲犯傷害罪嫌"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 70,
@@ -23774,7 +23794,7 @@ const EXAM_DATA = {
           "D": "臺北地方法院對檢察官之起訴，應諭知管轄錯誤判決並移送於有管轄權的法院 \n臺北地方法院對檢察官之起訴，得經臺中地方法院之同意，以裁定移送於臺中地方法院"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 1,
@@ -23786,7 +23806,7 @@ const EXAM_DATA = {
           "D": "甲犯意變更，應論以普通傷害罪"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 2,
@@ -23798,7 +23818,7 @@ const EXAM_DATA = {
           "D": "乙未遂行擄人之行為，係因甲與路人 B、C 之阻力所致，其無力克服，乃屬不能發生結果之不能犯"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 3,
@@ -23810,7 +23830,7 @@ const EXAM_DATA = {
           "D": "甲為謀延長在日本居留許可期間，偽造日本某公司之聘書，向日本主管機關申請延長居留，為日\n\n本官員發現，遭日本法院判刑確定並執行完畢後，遣送回臺"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 3,
@@ -23819,7 +23839,7 @@ const EXAM_DATA = {
           "D": "甲未於檢察官指定之期限內履行義務勞務"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 4,
@@ -23831,7 +23851,7 @@ const EXAM_DATA = {
           "D": "乙、丙需對 C 負共同傷害罪"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 5,
@@ -23843,7 +23863,7 @@ const EXAM_DATA = {
           "D": "加重結果犯，以刑法對於加重之結果有明文規定者為限，始能論以加重結果犯"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 6,
@@ -23855,7 +23875,7 @@ const EXAM_DATA = {
           "D": "乙成立普通侵占罪，論以普通侵占之刑 \n\n \n \n\f 代號：1301 \n頁次：12－2"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 7,
@@ -23867,7 +23887,7 @@ const EXAM_DATA = {
           "D": "甲若於判決確定後執行期間又犯傷害罪，應就傷害罪處斷後，與其他判決更定其應執行之刑"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 8,
@@ -23879,7 +23899,7 @@ const EXAM_DATA = {
           "D": "甲在緩刑期內因過失更犯罪，而在緩刑期內受 6 月有期徒刑之宣告確定"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 9,
@@ -23891,7 +23911,7 @@ const EXAM_DATA = {
           "D": "罰金刑應於裁判確定後 2 個月內完納，不能完納者，得許 1 年內分期繳納"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 10,
@@ -23903,7 +23923,7 @@ const EXAM_DATA = {
           "D": "雷管雖屬 A 合法所有，但為甲作為犯罪工具，已變成違禁物，故不問何人所有均應沒收之"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 11,
@@ -23915,7 +23935,7 @@ const EXAM_DATA = {
           "D": "判決主文應宣告沒收 10 萬元，發還 3 萬元。蓋偽造之全數應扣除正當之欠款"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 12,
@@ -23927,7 +23947,7 @@ const EXAM_DATA = {
           "D": "對甲而言，該汽車乃他人犯竊盜罪所取得之贓物，甲改色噴漆以藏匿之，並成立寄藏贓物罪，但\n\n依刑法第 351 條規定，得免除其刑 \n\n\f代號：1301\n頁次：12－3"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 13,
@@ -23939,7 +23959,7 @@ const EXAM_DATA = {
           "D": "意圖使他人受刑事追訴，偽造證據於前，並進而持該證據向檢察署告發某人涉嫌犯罪，因所侵害\n\n國家審判權之法益僅一，應成立一個誣告罪"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 14,
@@ -23951,7 +23971,7 @@ const EXAM_DATA = {
           "D": "無。偽證罪並未成立，亦不需檢討刑的問題"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 15,
@@ -23963,7 +23983,7 @@ const EXAM_DATA = {
           "D": "甲之行為成立偽造有價證券罪，乙之行為成立該罪之幫助犯"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 16,
@@ -23975,7 +23995,7 @@ const EXAM_DATA = {
           "D": "甲將 4 張百元偽鈔分散於真鈔中，持往 4 家檳榔攤購物之行為，應僅論以接續犯之一罪"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 17,
@@ -23987,7 +24007,7 @@ const EXAM_DATA = {
           "D": "甲之行為論以刑法第 304 條第 1 項之強制罪 \n\n \n\f 代號：1301 \n頁次：12－4"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 18,
@@ -23999,7 +24019,7 @@ const EXAM_DATA = {
           "D": "甲成立刑法第 212 條之偽造特種文書罪"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 19,
@@ -24011,7 +24031,7 @@ const EXAM_DATA = {
           "D": "甲係因與乙私交甚篤，故而成立刑法第 270 條之包庇賭博罪；倘若二人並無私交，則甲自不成立\n\n包庇賭博罪"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 20,
@@ -24023,7 +24043,7 @@ const EXAM_DATA = {
           "D": "因甲尚未將 A 交與乙，A 亦未開始賣淫，甲、乙非屬刑法第 296 條之 1 買賣人口罪之必要共犯"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 21,
@@ -24035,7 +24055,7 @@ const EXAM_DATA = {
           "D": "甲成立刑法第 342 條背信罪"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 22,
@@ -24047,7 +24067,7 @@ const EXAM_DATA = {
           "D": "甲成立普通竊盜未遂罪"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 23,
@@ -24059,7 +24079,7 @@ const EXAM_DATA = {
           "D": "無罪"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 24,
@@ -24071,7 +24091,7 @@ const EXAM_DATA = {
           "D": "甲成立刑法第 353 條第 1 項及第 354 條之數罪併罰"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 25,
@@ -24083,7 +24103,7 @@ const EXAM_DATA = {
           "D": "甲除成立刑法第 271 條第 1 項的殺人罪外，另成立第 185 條之 4 的肇事逃逸罪，二罪侵害法益不\n\n同，應論以想像競合犯 \n\n \n\f代號：1301\n頁次：12－5"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 26,
@@ -24095,7 +24115,7 @@ const EXAM_DATA = {
           "D": "甲成立刑法第 310 條第 2 項加重誹謗罪及第 235 條第 1 項散布猥褻物品罪，想像競合"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 27,
@@ -24107,7 +24127,7 @@ const EXAM_DATA = {
           "D": "若甲迄未提起告訴，甲之法定代理人在甲被毆傷 6 個月後，始知悉上情，因被害人甲本人知悉犯\n\n人之時間已超過 6 個月，故甲之法定代理人亦不得提起告訴"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 28,
@@ -24119,7 +24139,7 @@ const EXAM_DATA = {
           "D": "因甲所犯二罪，屬於同一案件，檢察官對法院之聲請簡易判決無效，B 法院不受其拘束"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 29,
@@ -24131,7 +24151,7 @@ const EXAM_DATA = {
           "D": "因非一案件上訴之故，C 法院雖發現為一案，應將 A、B 二法院之判決撤銷，發回 A 法院全部審理"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 30,
@@ -24143,7 +24163,7 @@ const EXAM_DATA = {
           "D": "己"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 31,
@@ -24155,7 +24175,7 @@ const EXAM_DATA = {
           "D": "檢察官之拘提合法，因為傳喚並不帶有直接強制力，故無嚴格之程式規定，檢察官得裁量使用最\n為有效率且便宜之方式為之。因此，檢察官之傳喚合法，甲無正當理由不到場時，自得予以拘提 \n\n \n\f 代號：1301 \n頁次：12－6"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 32,
@@ -24167,7 +24187,7 @@ const EXAM_DATA = {
           "D": "丙聲請調查證據，法院認為與待證事實無關時，應由法院以裁定駁回之，並非審判長所得單獨決\n\n定處分"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 33,
@@ -24179,7 +24199,7 @@ const EXAM_DATA = {
           "D": "偵查中訊問被告時，毋庸通知辯護人"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 34,
@@ -24191,7 +24211,7 @@ const EXAM_DATA = {
           "D": "不合法。法院雖得引用刑事訴訟法第 300 條之規定，作為改判之依據。但程序上，未踐行告知被\n\n告罪名變更，故判決違法"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 35,
@@ -24203,7 +24223,7 @@ const EXAM_DATA = {
           "D": "檢察官所屬檢察署之檢察長，對已確定之不起訴處分得再依職權審核"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 36,
@@ -24215,7 +24235,7 @@ const EXAM_DATA = {
           "D": "過失致人於死之有罪判決 \n\n \n \n\f代號：1301\n頁次：12－7"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 37,
@@ -24226,7 +24246,7 @@ const EXAM_DATA = {
           "C": "甲在緩起訴前，因犯竊盜罪，經檢察官起訴，在緩起訴處分期間，經法院判處有期徒刑 2 月，緩刑"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 38,
@@ -24238,7 +24258,7 @@ const EXAM_DATA = {
           "D": "甲雖於第二審法院宣示判決後死亡，但甲之配偶仍得獨立上訴"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 39,
@@ -24250,7 +24270,7 @@ const EXAM_DATA = {
           "D": "檢察官若要聲請羈押，應在拘提甲後 24 小時內向法院聲請之。但甲與辯護人丙接見時間應不得計\n\n算在 24 小時之內"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 40,
@@ -24262,7 +24282,7 @@ const EXAM_DATA = {
           "D": "甲對系爭處分，依法並無單獨不服途徑，應隨同本案判決一併上訴救濟之"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 41,
@@ -24274,7 +24294,7 @@ const EXAM_DATA = {
           "D": "被告於原審之辯護人，得為被告之利益，獨立上訴 \n\n \n\f 代號：1301 \n頁次：12－8"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 42,
@@ -24286,7 +24306,7 @@ const EXAM_DATA = {
           "D": "被告甲經第二審判處通姦罪刑，甲上訴主張，告訴人已依法撤回告訴，原審應為不受理判決卻為\n\n有罪判決，故有判決違背法令之事由"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 43,
@@ -24298,7 +24318,7 @@ const EXAM_DATA = {
           "D": "法院駁回被告聲請法官迴避之裁定"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 44,
@@ -24310,7 +24330,7 @@ const EXAM_DATA = {
           "D": "甲之供述作為認定乙之犯罪事實，該項供述內容需有補強證據"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 45,
@@ -24322,7 +24342,7 @@ const EXAM_DATA = {
           "D": "抗告書狀，提出於原審法院之後，原審法院認為抗告一部有理由、一部無理由者，不應更正其裁\n\n定，而應送交抗告法院"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 46,
@@ -24334,7 +24354,7 @@ const EXAM_DATA = {
           "D": "法官及檢察官自離職之日起 3 年內，不得在其離職前 3 年內曾任職務之法院或檢察署執行律師職務"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 47,
@@ -24346,7 +24366,7 @@ const EXAM_DATA = {
           "D": "甲法官如未收受報酬又無其他兼職時，得擔任該職"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 48,
@@ -24356,7 +24376,7 @@ const EXAM_DATA = {
           "B": "撤職"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 49,
@@ -24368,7 +24388,7 @@ const EXAM_DATA = {
           "D": "罰款 \n\n總統，並不違反法官倫理"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 50,
@@ -24380,7 +24400,7 @@ const EXAM_DATA = {
           "D": "法官之審判即使因故意或重大過失，致有明顯而重大之違誤，但如果當事人已依上訴或抗告請求\n救濟，而遭駁回確定者，即不得再循評鑑程序，追究法官個人之紀律責任，以免造成評鑑程序與\n訴訟程序認定之歧異"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 51,
@@ -24392,7 +24412,7 @@ const EXAM_DATA = {
           "D": "以律師事務所名義致函各工商團體，表示該事務所設有全民法律服務中心，免費提供法律諮詢"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 52,
@@ -24404,7 +24424,7 @@ const EXAM_DATA = {
           "D": "檢察官於法庭執行公訴職務時，發現被告犯行之追訴期間已過，主動將資料訊息向法院陳報"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 53,
@@ -24416,7 +24436,7 @@ const EXAM_DATA = {
           "D": "檢察官訊問甲時告知甲，如甲供出乙之下落，且順利救出人質，就會立即釋放甲，並可以對甲為\n\n不起訴處分"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 54,
@@ -24428,7 +24448,7 @@ const EXAM_DATA = {
           "D": "檢察官到舞蹈教室學習國際標準舞，並參加國際標準舞比賽 \n\n \n\f 代號：1301 \n頁次：12－10"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 55,
@@ -24440,7 +24460,7 @@ const EXAM_DATA = {
           "D": "甲是 B 公司於此案件委任之律師丙的女婿"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 56,
@@ -24452,7 +24472,7 @@ const EXAM_DATA = {
           "D": "必須為 A 設計安排，以便事後可以規避法律之制裁"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 57,
@@ -24464,7 +24484,7 @@ const EXAM_DATA = {
           "D": "僅③正確"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 58,
@@ -24476,7 +24496,7 @@ const EXAM_DATA = {
           "D": "丁律師在其事務所招牌上標榜「勝率高達九成」等語"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 59,
@@ -24488,7 +24508,7 @@ const EXAM_DATA = {
           "D": "如果得到甲公司同意就可以，如果沒有得到同意就不可以"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 60,
@@ -24500,7 +24520,7 @@ const EXAM_DATA = {
           "D": "只要得到己方當事人同意就好，不需要得到對方律師的同意 \n\n \n\f二、複選題（第 61 題至第 70 題，每題 3 分，占 30 分） \n    說明：所列的五個選項，其中至少有二個是正確答案。各題之選項獨立判定，全部答對者，\n得 3 分；答錯一個選項者，得 1.8 分；答錯二個選項者，得 0.6 分；所有選項均未作答\n或答錯多於二個選項（不含二個）者，該題以零分計算。 \n\n代號：1301\n頁次：12－11"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 61,
@@ -24512,7 +24532,7 @@ const EXAM_DATA = {
           "D": "甲於假釋中駕車不慎撞死人，受有期徒刑 10 月之宣告確定 \n\n甲於假釋中犯強盜罪，假釋期滿後 5 年，受有期徒刑 8 年判決確定"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 62,
@@ -24524,7 +24544,7 @@ const EXAM_DATA = {
           "D": "結果之不發生，非行為人防果行為所致，而行為人已盡力為防止行為者，學理上稱為準中止犯 \n\n不論是既了未遂或未了未遂，均可能成立中止未遂"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 63,
@@ -24536,7 +24556,7 @@ const EXAM_DATA = {
           "D": "受羈押之被告 \n\n被警察通知到案之犯罪嫌疑人"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 64,
@@ -24548,7 +24568,7 @@ const EXAM_DATA = {
           "D": "燒死甲觸犯刑法第 271 條第 1 項殺人罪 \n\n使甲之屍體焦黑觸犯刑法第 247 條第 1 項毀壞屍體罪"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 65,
@@ -24560,7 +24580,7 @@ const EXAM_DATA = {
           "D": "乙成立殺人罪之未遂犯 \n\n甲、乙兩人成立殺人未遂罪之共同正犯 \n\n \n\f 代號：1301 \n頁次：12－12"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 66,
@@ -24572,7 +24592,7 @@ const EXAM_DATA = {
           "D": "乙雖不知其所為係幫助，仍應依甲所成立之罪，論以幫助犯 \n\n美工刀雖屬犯罪工具，但非甲所有，不得宣告沒收"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 67,
@@ -24584,7 +24604,7 @@ const EXAM_DATA = {
           "D": "搜索票記載地點僅為甲之住宅，無違反搜索票記載明確性原則，該搜索為合法 \n\n搜索票記載地點雖僅為甲之住宅，但樓梯間與甲住宅有密不可分關係，且鞋櫃亦屬甲所有。故搜\n\n索為合法"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 68,
@@ -24596,7 +24616,7 @@ const EXAM_DATA = {
           "D": "被告未據實陳述時，法院仍不得為不利被告之認定 \n\n被告主張其有不陳述之自由，法院仍不得為不利被告之認定"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 69,
@@ -24608,7 +24628,7 @@ const EXAM_DATA = {
           "D": "乙向檢察官告訴甲犯偽證罪嫌後，翌日得再對甲犯誣告罪嫌提出自訴 \n\n乙委任律師為代理人向地方法院自訴甲犯誣告罪嫌後，不得再自訴甲犯偽證罪嫌"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 70,
@@ -24620,7 +24640,7 @@ const EXAM_DATA = {
           "D": "如檢察官起訴甲犯過失致死罪嫌後，因乙未向檢察官告訴，法院對甲過失傷害乙部分不得審判 \n\n如檢察官起訴甲犯過失致死罪嫌後，乙告訴後於審判中撤回告訴，法院對甲過失傷害乙部分應判\n\n決不受理"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 1,
@@ -24632,7 +24652,7 @@ const EXAM_DATA = {
           "D": "甲之行為應成立殺人未遂罪與過失致死罪的數罪併罰"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 2,
@@ -24644,7 +24664,7 @@ const EXAM_DATA = {
           "D": "甲射擊路人之試槍行為，未具有殺人之直接故意，亦未具有傷害之故意，所為致 A 死亡，不構成\n\n任何犯罪"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 3,
@@ -24656,7 +24676,7 @@ const EXAM_DATA = {
           "D": "美國人在法國詐欺我國人"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 4,
@@ -24668,7 +24688,7 @@ const EXAM_DATA = {
           "D": "甲、乙二人論以共同預備殺人罪"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 5,
@@ -24680,7 +24700,7 @@ const EXAM_DATA = {
           "D": "甲救乙之行為，因有造成乙受傷，故仍應承擔傷害罪責 \n\n \n \n \n\f 代號：1301 \n頁次：12－2"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 6,
@@ -24692,7 +24712,7 @@ const EXAM_DATA = {
           "D": "因竊盜罪受刑之執行後假釋，於假釋期滿後第二天，又犯竊盜罪，若宣告強制工作，應加重強制\n\n工作期間至二分之一"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 7,
@@ -24704,7 +24724,7 @@ const EXAM_DATA = {
           "D": "犯強制性交罪之犯罪人，其強制治療期間為至再犯危險顯著降低為止，但最長不得逾 3 年"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 8,
@@ -24716,7 +24736,7 @@ const EXAM_DATA = {
           "D": "假釋中另受刑之執行者，其期間不算入假釋期內"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 9,
@@ -24728,7 +24748,7 @@ const EXAM_DATA = {
           "D": "強制性交行為僅為一個，祇成立一個加重強制性交罪"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 10,
@@ -24740,7 +24760,7 @@ const EXAM_DATA = {
           "D": "本罪獲得不法利益之人，以自然人為限"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 11,
@@ -24751,7 +24771,7 @@ const EXAM_DATA = {
           "C": "一行為觸犯刑法第 173 條第 1 項放火燒燬現供人使用住宅或現有人所在之處所或交通工具罪與第"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 12,
@@ -24763,7 +24783,7 @@ const EXAM_DATA = {
           "D": "應沒收賭資 1 萬元 \n\n\f代號：1301\n頁次：12－3"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 13,
@@ -24775,7 +24795,7 @@ const EXAM_DATA = {
           "D": "侮辱、誹謗直系血親尊親屬罪"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 14,
@@ -24787,7 +24807,7 @@ const EXAM_DATA = {
           "D": "一行為觸犯一個放火罪，單純一罪"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 15,
@@ -24799,7 +24819,7 @@ const EXAM_DATA = {
           "D": "構成刑法第 328 條第 3 項強盜致死罪"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 16,
@@ -24811,7 +24831,7 @@ const EXAM_DATA = {
           "D": "擄人勒贖者"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 17,
@@ -24823,7 +24843,7 @@ const EXAM_DATA = {
           "D": "殺人未遂罪"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 18,
@@ -24835,7 +24855,7 @@ const EXAM_DATA = {
           "D": "甲欠缺不法所有之意圖"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 19,
@@ -24847,7 +24867,7 @@ const EXAM_DATA = {
           "D": "甲成立肇事逃逸罪及有義務遺棄罪；乙成立湮滅證據罪"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 20,
@@ -24859,7 +24879,7 @@ const EXAM_DATA = {
           "D": "甲之行為可另處以刑法第 234 條之公然猥褻罪 \n\n \n\f 代號：1301 \n頁次：12－4"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 21,
@@ -24871,7 +24891,7 @@ const EXAM_DATA = {
           "D": "成立恐嚇取財罪"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 22,
@@ -24883,7 +24903,7 @@ const EXAM_DATA = {
           "D": "甲之行為當成立竊盜罪，與一般之竊盜行為無異"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 23,
@@ -24895,7 +24915,7 @@ const EXAM_DATA = {
           "D": "選科刑"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 24,
@@ -24907,7 +24927,7 @@ const EXAM_DATA = {
           "D": "甲祇成立一個加重竊盜罪，但於判決主文，應將各種加重情形順序揭出，理由欄並應引用加重條\n\n款，俾相適應"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 25,
@@ -24919,7 +24939,7 @@ const EXAM_DATA = {
           "D": "甲因己意中止，並有防果行為，其防止之結果，僅在於擄人部分，故應論以剝奪自由罪之中止犯"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 26,
@@ -24931,7 +24951,7 @@ const EXAM_DATA = {
           "D": "甲成立加重竊盜罪與行使變造準私文書罪（變造為行使所吸收），數罪併罰"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 27,
@@ -24943,7 +24963,7 @@ const EXAM_DATA = {
           "D": "檢察官為分別起訴時，法院仍得為合併審判"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 28,
@@ -24955,7 +24975,7 @@ const EXAM_DATA = {
           "D": "鑑定留置之預定期間，法院得裁定縮短，但不得延長 \n\n \n \n\f代號：1301\n頁次：12－5"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 29,
@@ -24967,7 +24987,7 @@ const EXAM_DATA = {
           "D": "4 年有期徒刑並沒收螺絲起子"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 30,
@@ -24979,7 +24999,7 @@ const EXAM_DATA = {
           "D": "住、居所不在法院所在地之羈押中之被告，以郵務送達之方式提出上訴書狀時，無庸加計在途期間"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 31,
@@ -24991,7 +25011,7 @@ const EXAM_DATA = {
           "D": "檢察官於自訴案件無獨立上訴權"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 32,
@@ -25003,7 +25023,7 @@ const EXAM_DATA = {
           "D": "以被告已死亡為由，逕行簽結"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 33,
@@ -25015,7 +25035,7 @@ const EXAM_DATA = {
           "D": "乙之侵入住宅行為"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 34,
@@ -25027,7 +25047,7 @@ const EXAM_DATA = {
           "D": "不得裁定進行簡式審判程序。本案被告所犯雖係死刑、無期徒刑或最輕本刑為三年以上有期徒刑\n\n之罪以外之案件，惟因被告主張阻卻責任事由之抗辯，並非為有罪之陳述 \n\n \n\f 代號：1301 \n頁次：12－6"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 35,
@@ -25039,7 +25059,7 @@ const EXAM_DATA = {
           "D": "②①⑤③④"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 36,
@@ -25051,7 +25071,7 @@ const EXAM_DATA = {
           "D": "不應裁定分離。因甲與乙具共同被告之關係，未經檢察官同意，法院不應逕行裁定分離"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 37,
@@ -25063,7 +25083,7 @@ const EXAM_DATA = {
           "D": "乙之姐姐受指定後之代行告訴是否合法，並不影響檢察官之偵查起訴"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 38,
@@ -25075,7 +25095,7 @@ const EXAM_DATA = {
           "D": "應由乙提起上訴，糾正錯誤判決"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 39,
@@ -25087,7 +25107,7 @@ const EXAM_DATA = {
           "D": "若乙於檢察官作成緩起訴處分三年後才發現金碗被竊，檢察官不得再行起訴，並無例外 \n\n \n\f代號：1301\n頁次：12－7"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 40,
@@ -25099,7 +25119,7 @@ const EXAM_DATA = {
           "D": "乙於行主詰問時，已陳述其如何與甲共同強盜財物情節，其於行反詰問時，則表示依據刑事訴訟\n\n法第 181 條之規定，拒絕證言，審判長或受命法官應予准許"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 41,
@@ -25111,7 +25131,7 @@ const EXAM_DATA = {
           "D": "警詢筆錄係傳聞證據，但可考慮適用刑事訴訟法第 159 條之 2 傳聞例外之規定。因其審判外供述\n\n在警局中作成，若無任何較具可信性之情況，則該筆錄不符合傳聞例外，法院不得採用之"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 42,
@@ -25123,7 +25143,7 @@ const EXAM_DATA = {
           "D": "如詢問員警對逮捕到案之甲未告知其得選任辯護人，則甲於警詢之自白，不得作為證據，並無例外情形"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 43,
@@ -25135,7 +25155,7 @@ const EXAM_DATA = {
           "D": "拘提或逮捕通緝犯後，不問通緝機關為何，應立即解送最近之檢察機關 \n\n \n\f 代號：1301 \n頁次：12－8"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 44,
@@ -25147,7 +25167,7 @@ const EXAM_DATA = {
           "D": "最高法院應撤銷 B 法院之確定判決，並自為免訴判決"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 45,
@@ -25159,7 +25179,7 @@ const EXAM_DATA = {
           "D": "案件經上訴者，被告羈押期間如已逾原審判決之刑期者，應即撤銷羈押，將被告釋放。但檢察官\n\n為被告之不利益而上訴者，得命具保、責付或限制住居"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 46,
@@ -25171,7 +25191,7 @@ const EXAM_DATA = {
           "D": "法官就自己承辦之案件，不論在訴訟中或訴訟外，對於當事人或其他公眾，均不得表明對案件之\n\n觀點，以免影響民眾對法官中立之信賴"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 47,
@@ -25183,7 +25203,7 @@ const EXAM_DATA = {
           "D": "只有民事案件才需要強制接受委任，刑事案件律師只要不想接就可以不接"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 48,
@@ -25195,7 +25215,7 @@ const EXAM_DATA = {
           "D": "如果當事人只委託訴願程序則可以受任，但行政訴訟就不可以受任 \n\n\f代號：1301\n頁次：12－9"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 49,
@@ -25207,7 +25227,7 @@ const EXAM_DATA = {
           "D": "律師向當事人收取律師費"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 50,
@@ -25219,7 +25239,7 @@ const EXAM_DATA = {
           "D": "只有執業十年以上的資深律師才可以對案件結果做擔保，王律師才剛當律師，資格不符，所以違\n\n反律師倫理規範"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 51,
@@ -25231,7 +25251,7 @@ const EXAM_DATA = {
           "D": "如 B 法官認 A 係蒙受不白之冤，得向原承辦檢察官反應"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 52,
@@ -25243,7 +25263,7 @@ const EXAM_DATA = {
           "D": "地方法院檢察署"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 53,
@@ -25255,7 +25275,7 @@ const EXAM_DATA = {
           "D": "在當事人另因刑事案件涉案時，律師因知悉當事人之秘密，而拒絕於該刑事案件為證言"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 54,
@@ -25267,7 +25287,7 @@ const EXAM_DATA = {
           "D": "乙完全沒有違反律師倫理，因為身為律師必須忠實地替當事人尋求最大利益"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 55,
@@ -25279,7 +25299,7 @@ const EXAM_DATA = {
           "D": "應邀至該團體發表演說，收受合理報酬 \n\n \n \n\f 代號：1301 \n頁次：12－10"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 56,
@@ -25291,7 +25311,7 @@ const EXAM_DATA = {
           "D": "要看某甲擔任的是審判工作或普通行政工作而定"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 57,
@@ -25303,7 +25323,7 @@ const EXAM_DATA = {
           "D": "法官容許在某公益活動中，主辦單位以其名義號召募款"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 58,
@@ -25315,7 +25335,7 @@ const EXAM_DATA = {
           "D": "法官向承辦刑事案件之同院法官表示，該案件之被告是其親屬，請承辦法官應調查清楚，以免冤抑"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 59,
@@ -25327,7 +25347,7 @@ const EXAM_DATA = {
           "D": "檢察官受邀參加同學會餐敘，雖無利害關係與特定目的，惟餐敘中如發現同學中有人係其承辦中\n\n案件之被告，宜立即離去避免社會物議"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 60,
@@ -25339,7 +25359,7 @@ const EXAM_DATA = {
           "D": "民主國家的法律制定都是用多數決 \n\n\f代號：1301\n頁次：12－11\n\n二、複選題（第 61 題至第 70 題，每題 3 分，占 30 分） \n\n說明：所列的五個選項，其中至少有二個是正確答案。各題之選項獨立判定，全部答對者，\n得 3 分；答錯一個選項者，得 1.8 分；答錯二個選項者，得 0.6 分；所有選項均未作答\n或答錯多於二個選項（不含二個）者，該題以零分計算。"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 61,
@@ -25351,7 +25371,7 @@ const EXAM_DATA = {
           "D": "汽車應予沒收"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 62,
@@ -25363,7 +25383,7 @@ const EXAM_DATA = {
           "D": "甲成立偽證罪之教唆犯"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 63,
@@ -25375,7 +25395,7 @@ const EXAM_DATA = {
           "D": "丁對 20 歲智能不足之 D，告知其被小鬼纏身，如不與丁為性交行為，將會七孔流血而亡，D 害怕\n\n而與丁為性交行為 \n\n計程車司機戊搭載乘客 E 回家，到達目的地後，E 酒醉不醒，戊趁 E 不省人事之際，在計程車上\n\n對 E 為性交行為"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 64,
@@ -25387,7 +25407,7 @@ const EXAM_DATA = {
           "D": "犯略誘婦女結婚罪，於裁判宣告前，指明被誘人所在地因而尋獲者，得減輕其刑 \n\n對於配偶犯遺棄罪，得減輕或免除其刑"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 65,
@@ -25399,7 +25419,7 @@ const EXAM_DATA = {
           "D": "甲應論以刑法第 339 條第 1 項詐欺取財罪 \n\n甲盜刻印章乃偽造有價證券罪之階段行為，不另論罪 \n\n \n \n \n \n\f 代號：1301 \n頁次：12－12"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 66,
@@ -25411,7 +25431,7 @@ const EXAM_DATA = {
           "D": "丁犯收受贓物罪"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 67,
@@ -25423,7 +25443,7 @@ const EXAM_DATA = {
           "D": "司法警察未持搜索票進入甲之居所搜索完畢後，始徵得甲之同意，並於搜索扣押筆錄內為同意之\n\n簽名，係合法搜索 \n\n司法警察未持搜索票下，依法律明文規定，應先履行告知甲有權拒絕同意之義務後，再徵得甲之\n\n同意進入甲之居所搜索始為合法搜索"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 68,
@@ -25435,7 +25455,7 @@ const EXAM_DATA = {
           "D": "甲聲請法院交付審判，不得再提出新事實或新證據請求法院調查 \n甲聲請法院交付審判，經法院裁定駁回時，甲仍得抗告救濟之"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 69,
@@ -25447,7 +25467,7 @@ const EXAM_DATA = {
           "D": "乙之詢問筆錄內容若較審判中之證言具有可信之特別情況，且為證明被告甲犯罪事實所必要，得為證據 \n檢察官如要使用乙之警詢筆錄作為不利被告甲的證據，應由檢察官證明警詢筆錄的可信性及必要性"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 70,
@@ -25459,7 +25479,7 @@ const EXAM_DATA = {
           "D": "偵查中，檢察官認為有限制甲與辯護人接見所為急迫情形之必要處分，最長時效 36 小時 \n檢察官對法院駁回其聲請限制甲與其辯護人之接見處分，得抗告之"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 353,
@@ -25484,11 +25504,16 @@ const EXAM_DATA = {
       "112": 75
     },
     "answeredYears": [
-      112,
-      111,
-      110,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
       109,
-      108
+      110,
+      111,
+      112
     ]
   },
   "綜合法學(一) 憲法、行政法、國際公法、國際私法": {
@@ -25504,7 +25529,7 @@ const EXAM_DATA = {
           "D": "國家機關為達成公行政任務，縱以私法形式所為之行為，亦應遵循平等原則"
         },
         "year": 112,
-        "answer": "A"
+        "answer": "C"
       },
       {
         "number": 2,
@@ -25516,7 +25541,7 @@ const EXAM_DATA = {
           "D": "憲法修正案交付人民複決時，須經中華民國自由地區選舉人總額過半數之投票，有效票過半數之同\n\n意，始為通過"
         },
         "year": 112,
-        "answer": "A"
+        "answer": "D"
       },
       {
         "number": 3,
@@ -25528,7 +25553,7 @@ const EXAM_DATA = {
           "D": "有關耕地租約最低租期之規定，並非必要且適當之手段，違反比例原則及契約自由"
         },
         "year": 112,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 4,
@@ -25564,7 +25589,7 @@ const EXAM_DATA = {
           "D": "人性尊嚴"
         },
         "year": 112,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 7,
@@ -25576,7 +25601,7 @@ const EXAM_DATA = {
           "D": "受聘僱外國人其眷屬在勞工保險條例實施區域外死亡者，不得請領保險給付\n\n\f代號：2301\n頁次：10－2"
         },
         "year": 112,
-        "answer": "C"
+        "answer": "A"
       },
       {
         "number": 8,
@@ -25588,7 +25613,7 @@ const EXAM_DATA = {
           "D": "原土地所有權人之收回權雖係私法上請求權，亦受憲法財產權之保障"
         },
         "year": 112,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 9,
@@ -25600,7 +25625,7 @@ const EXAM_DATA = {
           "D": "身心障礙者保護法禁止非視障者從事按摩業，係屬對非視障者選擇職業自由之主觀條件限制，因按\n\n摩業之規範不甚明確，且未能形成多元競爭環境裨益消費者選擇，已牴觸比例原則而與憲法保障工\n作權之意旨相違"
         },
         "year": 112,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 10,
@@ -25624,7 +25649,7 @@ const EXAM_DATA = {
           "D": "原住民族傳統文化權利若與生態環境之保護產生衝突時，國家應為妥適調和，必要時非不得限制原\n\n住民族傳統文化權之行使"
         },
         "year": 112,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 12,
@@ -25636,7 +25661,7 @@ const EXAM_DATA = {
           "D": "資訊隱私權"
         },
         "year": 112,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 13,
@@ -25648,7 +25673,7 @@ const EXAM_DATA = {
           "D": "懲治走私條例關於「管制物品及其數額由行政院公告」之刑罰規定"
         },
         "year": 112,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 14,
@@ -25672,7 +25697,7 @@ const EXAM_DATA = {
           "D": "立法院調查權之行使對象，以與調查事項相關之政府人員為限"
         },
         "year": 112,
-        "answer": "D"
+        "answer": "A"
       },
       {
         "number": 16,
@@ -25684,7 +25709,7 @@ const EXAM_DATA = {
           "D": "考試院得向立法院提出與其職權相關之法律案"
         },
         "year": 112,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 17,
@@ -25696,7 +25721,7 @@ const EXAM_DATA = {
           "D": "對於甲施以懲戒"
         },
         "year": 112,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 18,
@@ -25708,7 +25733,7 @@ const EXAM_DATA = {
           "D": "對裁判上所應適用之法律位階法規範，依其合理確信，認有牴觸憲法者"
         },
         "year": 112,
-        "answer": "C"
+        "answer": "A"
       },
       {
         "number": 19,
@@ -25720,7 +25745,7 @@ const EXAM_DATA = {
           "D": "因涉及總統與立法院互動過程中所引發的爭議，均屬政治問題，憲法法庭得不受理"
         },
         "year": 112,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 20,
@@ -25766,7 +25791,7 @@ const EXAM_DATA = {
           "C": "鄉公所依其法定職權所訂定之自治規則"
         },
         "year": 112,
-        "answer": "A"
+        "answer": "D"
       },
       {
         "number": 24,
@@ -25790,7 +25815,7 @@ const EXAM_DATA = {
           "D": "國家考試申論題型之成績評定"
         },
         "year": 112,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 26,
@@ -25802,7 +25827,7 @@ const EXAM_DATA = {
           "D": "裁量濫用"
         },
         "year": 112,
-        "answer": "D"
+        "answer": "A"
       },
       {
         "number": 27,
@@ -25826,7 +25851,7 @@ const EXAM_DATA = {
           "D": "選舉委員會為獨立機關，對其處分提起行政救濟，應不經訴願，直接提起行政訴訟"
         },
         "year": 112,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 29,
@@ -25850,7 +25875,7 @@ const EXAM_DATA = {
           "D": "公務人員保障法對公務人員健康權及超時服勤之上限，尚未定有合理必要之框架性規範"
         },
         "year": 112,
-        "answer": "A"
+        "answer": "C"
       },
       {
         "number": 31,
@@ -25874,7 +25899,7 @@ const EXAM_DATA = {
           "D": "法院審理特定事件不受相關行政規則之拘束\n\n\f33 主管機關對於不符合法定要件之外國人核發來臺從事家庭看護工作之許可處分，依行政程序法之規定，\n\n代號：2301\n頁次：10－5\n\n下列敘述何者正確？"
         },
         "year": 112,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 34,
@@ -25886,7 +25911,7 @@ const EXAM_DATA = {
           "D": "甲不服該生效要件，得提起行政爭訟"
         },
         "year": 112,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 35,
@@ -25910,7 +25935,7 @@ const EXAM_DATA = {
           "D": "A 市政府環境保護局應補償甲公司不可預期損失"
         },
         "year": 112,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 37,
@@ -25934,7 +25959,7 @@ const EXAM_DATA = {
           "D": "違約金限於金錢給付義務之違反者，始得約定"
         },
         "year": 112,
-        "answer": "C"
+        "answer": "A"
       },
       {
         "number": 39,
@@ -25946,7 +25971,7 @@ const EXAM_DATA = {
           "D": "一位工讀生在 10 分鐘內，在同一個街區所停放的 20 台機車上，每台各夾放一張廣告單，僅構成一\n\n個違反廢棄物清理法之行為\n\n\f代號：2301\n頁次：10－6"
         },
         "year": 112,
-        "answer": "D"
+        "answer": "A"
       },
       {
         "number": 40,
@@ -25958,7 +25983,7 @@ const EXAM_DATA = {
           "D": "由 A 直轄市主管機關與 B 縣主管機關之共同上級機關指定管轄機關"
         },
         "year": 112,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 41,
@@ -25968,7 +25993,7 @@ const EXAM_DATA = {
           "C": "國家教育研究院"
         },
         "year": 112,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 42,
@@ -25980,7 +26005,7 @@ const EXAM_DATA = {
           "D": "國家資通安全研究院"
         },
         "year": 112,
-        "answer": "D"
+        "answer": "A"
       },
       {
         "number": 43,
@@ -25992,7 +26017,7 @@ const EXAM_DATA = {
           "D": "行政執行法中對於行為義務之執行"
         },
         "year": 112,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 44,
@@ -26004,7 +26029,7 @@ const EXAM_DATA = {
           "D": "依行政執行法相關規定，本於利害關係人之地位向執行機關主張執行命令侵害其利益，聲明異議"
         },
         "year": 112,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 45,
@@ -26016,7 +26041,7 @@ const EXAM_DATA = {
           "D": "當事人不服經聽證程序作成之行政處分，得逕行提起行政訴訟"
         },
         "year": 112,
-        "answer": "A"
+        "answer": "B"
       },
       {
         "number": 46,
@@ -26028,7 +26053,7 @@ const EXAM_DATA = {
           "D": "行政處分確定後，因事實變更而受不利影響之人，如非原處分之相對人或利害關係人，不得申請重\n\n新進行行政程序"
         },
         "year": 112,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 47,
@@ -26040,7 +26065,7 @@ const EXAM_DATA = {
           "D": "立法院法制局委託學者進行之研究報告\n\n\f代號：2301\n頁次：10－7"
         },
         "year": 112,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 48,
@@ -26064,7 +26089,7 @@ const EXAM_DATA = {
           "D": "關於內政部移民署之行政收容事件涉訟"
         },
         "year": 112,
-        "answer": "A"
+        "answer": "C"
       },
       {
         "number": 50,
@@ -26076,7 +26101,7 @@ const EXAM_DATA = {
           "D": "停止執行"
         },
         "year": 112,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 51,
@@ -26088,7 +26113,7 @@ const EXAM_DATA = {
           "D": "甲為前臺灣省自來水股份有限公司依行為時「臺灣地區省（市）營事業機構人員遴用暫行辦法」遴\n\n用之人員，向公司請求發給資遣費遭拒，應向行政法院提起訴訟"
         },
         "year": 112,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 52,
@@ -26100,7 +26125,7 @@ const EXAM_DATA = {
           "D": "應提起撤銷訴訟，誤為提起確認行政處分無效之訴訟，其未經訴願程序者，行政法院應以裁定將該\n\n事件移送於訴願管轄機關"
         },
         "year": 112,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 53,
@@ -26112,7 +26137,7 @@ const EXAM_DATA = {
           "D": "甲離開機關時，於門口臺階不慎踩空而跌傷，因此向該機關請求損害賠償"
         },
         "year": 112,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 54,
@@ -26124,7 +26149,7 @@ const EXAM_DATA = {
           "D": "本案並無公務員故意或過失之不法行為\n\n\f代號：2301\n頁次：10－8"
         },
         "year": 112,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 55,
@@ -26136,7 +26161,7 @@ const EXAM_DATA = {
           "D": "當事人所有之土地因屬既成道路成立公用地役關係而無法為通常使用"
         },
         "year": 112,
-        "answer": "B"
+        "answer": "A"
       },
       {
         "number": 56,
@@ -26160,7 +26185,7 @@ const EXAM_DATA = {
           "D": "撤銷對他國政府之承認，即等同於撤銷對其國家之承認"
         },
         "year": 112,
-        "answer": "A"
+        "answer": "D"
       },
       {
         "number": 58,
@@ -26184,7 +26209,7 @@ const EXAM_DATA = {
           "D": "國家有義務避免採取干涉或限制人民自決權行使之行為"
         },
         "year": 112,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 60,
@@ -26208,7 +26233,7 @@ const EXAM_DATA = {
           "D": "條約或協定之約本，應同時以中文及締約對方之官方文字作成，各種文本同等作準為原則"
         },
         "year": 112,
-        "answer": "A"
+        "answer": "B"
       },
       {
         "number": 62,
@@ -26220,7 +26245,7 @@ const EXAM_DATA = {
           "D": "內陸國因事實上沒有大陸礁層，所以無權享有或分配大陸礁層開發所獲取之惠益\n\n\f63 甲國占領乙國部分領土。甲國僅加入公民與政治權利國際公約（ICCPR），乙國則僅加入經濟社會文\n\n化權利國際公約（ICESCR）。關於乙國被占領區內人民享有之兩公約權利保障，下列敘述何者正確？"
         },
         "year": 112,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 64,
@@ -26232,7 +26257,7 @@ const EXAM_DATA = {
           "D": "國際法院規約締約國就其接受國際法院強制管轄之聲明，不得附帶任何條件"
         },
         "year": 112,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 65,
@@ -26244,7 +26269,7 @@ const EXAM_DATA = {
           "D": "法庭得依職權裁定締約國應迅速釋放被扣留之船舶與船員，無待爭端方之提出"
         },
         "year": 112,
-        "answer": "A"
+        "answer": "B"
       },
       {
         "number": 66,
@@ -26256,7 +26281,7 @@ const EXAM_DATA = {
           "D": "我國法院應依英屬開曼群島法定性為繼承，並依涉外民事法律適用法第 58 條定應適用之法律"
         },
         "year": 112,
-        "answer": "A"
+        "answer": "D"
       },
       {
         "number": 67,
@@ -26280,7 +26305,7 @@ const EXAM_DATA = {
           "D": "C 國法"
         },
         "year": 112,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 69,
@@ -26292,7 +26317,7 @@ const EXAM_DATA = {
           "D": "適用安大略省法\n\n\f代號：2301\n頁次：10－10"
         },
         "year": 112,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 70,
@@ -26304,7 +26329,7 @@ const EXAM_DATA = {
           "D": "關於古董所有權之移轉，涉及物權行為，是否已完成有效之權利移轉行為，應依物之所在地之法律\n\n為斷"
         },
         "year": 112,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 71,
@@ -26316,7 +26341,7 @@ const EXAM_DATA = {
           "D": "由法院判定何國法為關係最切之法，而後依該法為準據法"
         },
         "year": 112,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 72,
@@ -26340,7 +26365,7 @@ const EXAM_DATA = {
           "D": "應適用關係最切之我國法"
         },
         "year": 112,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 74,
@@ -26364,7 +26389,7 @@ const EXAM_DATA = {
           "D": "有關間接管轄之判斷標準，通說認為應與直接管轄相同"
         },
         "year": 112,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 1,
@@ -26376,7 +26401,7 @@ const EXAM_DATA = {
           "D": "法官須超出黨派以外，依據法律獨立審判"
         },
         "year": 111,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 2,
@@ -26388,7 +26413,7 @@ const EXAM_DATA = {
           "D": "國家對於土地之分配與整理，應以扶植自耕農及自行使用土地人為原則"
         },
         "year": 111,
-        "answer": "C"
+        "answer": "A"
       },
       {
         "number": 3,
@@ -26412,7 +26437,7 @@ const EXAM_DATA = {
           "D": "如同法官身分之保障與一般公務員不同，戰時軍事審判官身分之保障有別於一般軍官"
         },
         "year": 111,
-        "answer": "A"
+        "answer": "D"
       },
       {
         "number": 5,
@@ -26424,7 +26449,7 @@ const EXAM_DATA = {
           "D": "外國人進入國境之自由"
         },
         "year": 111,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 6,
@@ -26436,7 +26461,7 @@ const EXAM_DATA = {
           "D": "此一課稅處分不違反平等原則"
         },
         "year": 111,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 7,
@@ -26448,7 +26473,7 @@ const EXAM_DATA = {
           "D": "不同意改建之原眷戶喪失承購住宅權益，並喪失搬遷補助費及拆遷補償費，其與同意改建者間之差\n\n別待遇，尚屬妥適\n\n\f代號：2301\n頁次：10－2"
         },
         "year": 111,
-        "answer": "D"
+        "answer": "A"
       },
       {
         "number": 8,
@@ -26460,7 +26485,7 @@ const EXAM_DATA = {
           "D": "地方自治團體享有財產平等權"
         },
         "year": 111,
-        "answer": "D"
+        "answer": "A"
       },
       {
         "number": 9,
@@ -26484,7 +26509,7 @@ const EXAM_DATA = {
           "D": "訴訟權包括提供犯罪被害人於法院程序進行中享有一定程序參與權"
         },
         "year": 111,
-        "answer": "B"
+        "answer": "A"
       },
       {
         "number": 11,
@@ -26508,7 +26533,7 @@ const EXAM_DATA = {
           "D": "人身自由"
         },
         "year": 111,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 13,
@@ -26532,7 +26557,7 @@ const EXAM_DATA = {
           "D": "財團法人"
         },
         "year": 111,
-        "answer": "A"
+        "answer": "C"
       },
       {
         "number": 15,
@@ -26544,7 +26569,7 @@ const EXAM_DATA = {
           "D": "考試院"
         },
         "year": 111,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 16,
@@ -26556,7 +26581,7 @@ const EXAM_DATA = {
           "D": "行政院得依緊急命令之授權訂定補充規定，無須提交立法院追認，即得逕予執行"
         },
         "year": 111,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 17,
@@ -26566,7 +26591,7 @@ const EXAM_DATA = {
           "C": "不負行政罰責任"
         },
         "year": 111,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 18,
@@ -26578,7 +26603,7 @@ const EXAM_DATA = {
           "D": "不因違反紀律而受懲戒"
         },
         "year": 111,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 20,
@@ -26590,7 +26615,7 @@ const EXAM_DATA = {
           "D": "地方行政機關得依職權訂定相關自治規則，不需立法授權"
         },
         "year": 111,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 21,
@@ -26614,7 +26639,7 @@ const EXAM_DATA = {
           "D": "考量警察從事治安工作之特殊性，與一般公務人員有別，關於其身高之條件，可容許合理之差別待遇"
         },
         "year": 111,
-        "answer": "D"
+        "answer": "A"
       },
       {
         "number": 23,
@@ -26626,7 +26651,7 @@ const EXAM_DATA = {
           "D": "處罰法定原則"
         },
         "year": 111,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 24,
@@ -26650,7 +26675,7 @@ const EXAM_DATA = {
           "D": "給付行政並未涉及人民自由權利之限制，故無法律保留原則之適用"
         },
         "year": 111,
-        "answer": "C"
+        "answer": "A"
       },
       {
         "number": 26,
@@ -26662,7 +26687,7 @@ const EXAM_DATA = {
           "D": "丁廠商參與政府採購案件投標，經 D 市政府建設局認定不符投標資格\n\n\f代號：2301\n頁次：10－4"
         },
         "year": 111,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 27,
@@ -26674,7 +26699,7 @@ const EXAM_DATA = {
           "D": "原委託機關衛生福利部為原處分機關，並以其上級機關行政院為訴願機關"
         },
         "year": 111,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 28,
@@ -26686,7 +26711,7 @@ const EXAM_DATA = {
           "D": "甲因駁回申請而遭受損害，提起國家賠償訴訟時，應以 A 為被告"
         },
         "year": 111,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 29,
@@ -26698,7 +26723,7 @@ const EXAM_DATA = {
           "D": "自治條例及自治規則，均應冠以各該地方自治團體之名稱"
         },
         "year": 111,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 30,
@@ -26710,7 +26735,7 @@ const EXAM_DATA = {
           "D": "屏東市自治條例"
         },
         "year": 111,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 31,
@@ -26722,7 +26747,7 @@ const EXAM_DATA = {
           "D": "如下命處分無效，而行政機關據以執行，將產生國家賠償責任"
         },
         "year": 111,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 32,
@@ -26758,7 +26783,7 @@ const EXAM_DATA = {
           "D": "行政機關依職權撤銷行政處分，該撤銷本身亦為行政處分\n\n\f代號：2301\n頁次：10－5"
         },
         "year": 111,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 35,
@@ -26770,7 +26795,7 @@ const EXAM_DATA = {
           "D": "甲對該公告不服，於公告後 3 年內皆得提起訴願"
         },
         "year": 111,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 36,
@@ -26782,7 +26807,7 @@ const EXAM_DATA = {
           "D": "自補助款匯入 B 帳戶時起 10 年"
         },
         "year": 111,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 37,
@@ -26794,7 +26819,7 @@ const EXAM_DATA = {
           "D": "向甲縣政府提起訴願，未獲救濟時，再向行政法院提起訴訟"
         },
         "year": 111,
-        "answer": "C"
+        "answer": "A"
       },
       {
         "number": 38,
@@ -26806,7 +26831,7 @@ const EXAM_DATA = {
           "D": "強制執行過程，甲如有不服，得向 A 部會聲明異議"
         },
         "year": 111,
-        "answer": "C"
+        "answer": "A"
       },
       {
         "number": 39,
@@ -26818,7 +26843,7 @@ const EXAM_DATA = {
           "D": "以處罰機關受理舉發機關移送舉發事件之時點"
         },
         "year": 111,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 40,
@@ -26830,7 +26855,7 @@ const EXAM_DATA = {
           "D": "罰鍰額度應為最低 3,000 元，最高 6,000 元"
         },
         "year": 111,
-        "answer": "B"
+        "answer": "A"
       },
       {
         "number": 41,
@@ -26842,7 +26867,7 @@ const EXAM_DATA = {
           "D": "為防止疫情擴散，市立國民小學禁止該校師生以外之人進入，為公物警察權之行使\n\n\f代號：2301\n頁次：10－6"
         },
         "year": 111,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 42,
@@ -26854,7 +26879,7 @@ const EXAM_DATA = {
           "D": "標誌內容「速限時速 60 公里」"
         },
         "year": 111,
-        "answer": "D"
+        "answer": "A"
       },
       {
         "number": 43,
@@ -26878,7 +26903,7 @@ const EXAM_DATA = {
           "D": "地方法院行政訴訟庭"
         },
         "year": 111,
-        "answer": "A"
+        "answer": "D"
       },
       {
         "number": 45,
@@ -26926,7 +26951,7 @@ const EXAM_DATA = {
           "D": "因法律不溯及既往，故維持原處分"
         },
         "year": 111,
-        "answer": "A"
+        "answer": "B"
       },
       {
         "number": 49,
@@ -26938,7 +26963,7 @@ const EXAM_DATA = {
           "D": "進行闡明，向甲曉諭，如有情況判決發生，是否追加賠償之聲明\n\n\f50 A 市政府公告委任所屬環境保護局就違反水污染防治法事件為裁罰。甲違反水污染防治法，遭 A 市\n\n政府環境保護局科處罰鍰新臺幣 100 萬元。甲依法提起訴願，訴願管轄機關認為該處分有違比例原\n\n則，訴願決定將罰鍰額度變更為新臺幣 50 萬元。甲收受訴願決定書後仍表不服，如欲提起行政訴訟，\n\n代號：2301\n頁次：10－7\n\n應以何機關為被告？"
         },
         "year": 111,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 51,
@@ -26950,7 +26975,7 @@ const EXAM_DATA = {
           "D": "撤銷訴訟之判決，得作為行政法院強制執行名義"
         },
         "year": 111,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 52,
@@ -26962,7 +26987,7 @@ const EXAM_DATA = {
           "D": "甲得於 5 月 3 日對 B 函依據行政執行法第 9 條之規定向乙縣政府聲明異議"
         },
         "year": 111,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 53,
@@ -26974,7 +26999,7 @@ const EXAM_DATA = {
           "D": "停止執行"
         },
         "year": 111,
-        "answer": "B"
+        "answer": "A"
       },
       {
         "number": 54,
@@ -26986,7 +27011,7 @@ const EXAM_DATA = {
           "D": "某機關公務人員甲搭乘同機關司機乙所駕駛之公務車外出洽公，於甲下車而尚未完全離開汽車時，\n\n乙即啟動汽車，致甲摔落車外而骨折"
         },
         "year": 111,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 55,
@@ -26998,7 +27023,7 @@ const EXAM_DATA = {
           "D": "對權利人所受損失，應給予何種程度之補償，得採給與相當之補償方式，以保護其財產上之利益\n\n\f代號：2301\n頁次：10－8"
         },
         "year": 111,
-        "answer": "A"
+        "answer": "D"
       },
       {
         "number": 56,
@@ -27010,7 +27035,7 @@ const EXAM_DATA = {
           "D": "除有雙邊條約外，國家之間並無引渡罪犯之義務，惟亦有可能透過多邊條約規定締約國間有引渡義\n\n務者，如 1948 年之危害種族罪公約"
         },
         "year": 111,
-        "answer": "C"
+        "answer": "A"
       },
       {
         "number": 57,
@@ -27022,7 +27047,7 @@ const EXAM_DATA = {
           "D": "國際法院亦得引用各國最高權威之公法學說，作為裁判法源"
         },
         "year": 111,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 58,
@@ -27034,7 +27059,7 @@ const EXAM_DATA = {
           "D": "對該領土之占領不符合時效取得要件"
         },
         "year": 111,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 59,
@@ -27046,7 +27071,7 @@ const EXAM_DATA = {
           "D": "雖不涉及國內法律之變更，但內容對締約各方均具拘束力者，仍為協定"
         },
         "year": 111,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 60,
@@ -27058,7 +27083,7 @@ const EXAM_DATA = {
           "D": "設有生效要件之多邊條約，仍須待該條約生效要件滿足後，始對批准國生拘束力"
         },
         "year": 111,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 61,
@@ -27070,7 +27095,7 @@ const EXAM_DATA = {
           "D": "「中立化」之國家不得對交戰國之違反人類犯罪發表譴責聲明"
         },
         "year": 111,
-        "answer": "B"
+        "answer": "A"
       },
       {
         "number": 62,
@@ -27082,7 +27107,7 @@ const EXAM_DATA = {
           "D": "由於聯合國是政治性組織，支出經費限於符合政治性目的者，始屬合法"
         },
         "year": 111,
-        "answer": "A"
+        "answer": "D"
       },
       {
         "number": 63,
@@ -27094,7 +27119,7 @@ const EXAM_DATA = {
           "D": "國家檔案屬於與主權功能有關之財產，當然屬於國家繼承之標的\n\n\f代號：2301\n頁次：10－9"
         },
         "year": 111,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 64,
@@ -27130,7 +27155,7 @@ const EXAM_DATA = {
           "D": "應適用 C 國法"
         },
         "year": 111,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 67,
@@ -27142,7 +27167,7 @@ const EXAM_DATA = {
           "D": "關於甲、乙結婚之方式，僅得依 A 國法"
         },
         "year": 111,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 68,
@@ -27154,7 +27179,7 @@ const EXAM_DATA = {
           "D": "依丙、丁之意願適用香港法或我國法"
         },
         "year": 111,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 69,
@@ -27166,7 +27191,7 @@ const EXAM_DATA = {
           "D": "物之所在地法亦適用於暫時存置於一地之物"
         },
         "year": 111,
-        "answer": "B"
+        "answer": "A"
       },
       {
         "number": 70,
@@ -27190,7 +27215,7 @@ const EXAM_DATA = {
           "D": "對於甲、乙離婚後雙方剩餘財產之分配，應依離婚效力之準據法"
         },
         "year": 111,
-        "answer": "A"
+        "answer": "B"
       },
       {
         "number": 72,
@@ -27202,7 +27227,7 @@ const EXAM_DATA = {
           "D": "丁之請求具有所有物返還請求權之性質，應適用物權之準據法"
         },
         "year": 111,
-        "answer": "B"
+        "answer": "A"
       },
       {
         "number": 73,
@@ -27214,7 +27239,7 @@ const EXAM_DATA = {
           "D": "臺灣臺中地方法院得以此為國際訴訟競合為由，裁定駁回 B 訴訟"
         },
         "year": 111,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 74,
@@ -27226,7 +27251,7 @@ const EXAM_DATA = {
           "D": "應直接以丙之住所地為連繫因素"
         },
         "year": 111,
-        "answer": "A"
+        "answer": "B"
       },
       {
         "number": 75,
@@ -27238,7 +27263,7 @@ const EXAM_DATA = {
           "D": "確認親子關係存在之涉外事件，當事人得合意適用我國法"
         },
         "year": 111,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 1,
@@ -27250,7 +27275,7 @@ const EXAM_DATA = {
           "D": "人民對重大政策以投票方式直接決定，與代議民主相輔相成"
         },
         "year": 110,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 2,
@@ -27262,7 +27287,7 @@ const EXAM_DATA = {
           "D": "主管機關依法於合理作業期間內暫時收容外國人，非憲法所不許"
         },
         "year": 110,
-        "answer": "A"
+        "answer": "C"
       },
       {
         "number": 3,
@@ -27274,7 +27299,7 @@ const EXAM_DATA = {
           "D": "本於憲法之意旨，應就軍事審判制度依平時與戰時分別規範"
         },
         "year": 110,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 4,
@@ -27286,7 +27311,7 @@ const EXAM_DATA = {
           "D": "臺灣地區無戶籍國民入國應申請許可"
         },
         "year": 110,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 5,
@@ -27298,7 +27323,7 @@ const EXAM_DATA = {
           "D": "憲法對言論及出版自由之保障尚非絕對，法律非不得依其性質而為必要之限制"
         },
         "year": 110,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 6,
@@ -27334,7 +27359,7 @@ const EXAM_DATA = {
           "D": "工業區開發管理基金兼具特別公課與使用規費之性質"
         },
         "year": 110,
-        "answer": "B"
+        "answer": "A"
       },
       {
         "number": 9,
@@ -27370,7 +27395,7 @@ const EXAM_DATA = {
           "D": "總統行使職權有違法情事者，得受立法院之彈劾"
         },
         "year": 110,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 12,
@@ -27382,7 +27407,7 @@ const EXAM_DATA = {
           "D": "言論自由之保護範疇及限制準則，不因言論之性質而有不同"
         },
         "year": 110,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 13,
@@ -27394,7 +27419,7 @@ const EXAM_DATA = {
           "D": "全國不分區立法委員之人數，約占立法委員總額之一半"
         },
         "year": 110,
-        "answer": "C"
+        "answer": "A"
       },
       {
         "number": 14,
@@ -27406,7 +27431,7 @@ const EXAM_DATA = {
           "D": "立法院於休會期間提出不信任案者，應即召開臨時會審議之"
         },
         "year": 110,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 15,
@@ -27416,7 +27441,7 @@ const EXAM_DATA = {
           "C": "督促司法機關依法審判"
         },
         "year": 110,
-        "answer": "A"
+        "answer": "D"
       },
       {
         "number": 16,
@@ -27428,7 +27453,7 @@ const EXAM_DATA = {
           "D": "促請行政部門改善工作"
         },
         "year": 110,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 17,
@@ -27440,7 +27465,7 @@ const EXAM_DATA = {
           "D": "司法院概不得就審理事項發布規則\n\n\f代號：2301\n頁次：8－3"
         },
         "year": 110,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 18,
@@ -27452,7 +27477,7 @@ const EXAM_DATA = {
           "D": "須呈請所屬法院院長核可後，裁定停止訴訟程序，聲請司法院解釋"
         },
         "year": 110,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 19,
@@ -27464,7 +27489,7 @@ const EXAM_DATA = {
           "D": "土地增值稅屬於國稅或地方稅，由行政院決定"
         },
         "year": 110,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 19,
@@ -27476,7 +27501,7 @@ const EXAM_DATA = {
           "D": "甲未符合 B 國關於結婚年齡之規定，甲、乙之婚姻無效"
         },
         "year": 110,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 20,
@@ -27488,7 +27513,7 @@ const EXAM_DATA = {
           "D": "在民主時代，地方議會議員言論免責權保障不合時宜，應予以廢除"
         },
         "year": 110,
-        "answer": "A"
+        "answer": "B"
       },
       {
         "number": 20,
@@ -27500,7 +27525,7 @@ const EXAM_DATA = {
           "D": "甲在我國將自己擁有之項鍊贈與給中華民國國籍之女友丙，該贈與無效"
         },
         "year": 110,
-        "answer": "A"
+        "answer": "B"
       },
       {
         "number": 21,
@@ -27512,7 +27537,7 @@ const EXAM_DATA = {
           "D": "司法院大法官之憲法解釋"
         },
         "year": 110,
-        "answer": "A"
+        "answer": "D"
       },
       {
         "number": 22,
@@ -27534,7 +27559,7 @@ const EXAM_DATA = {
           "C": "中央廉政委員會"
         },
         "year": 110,
-        "answer": "C"
+        "answer": "A"
       },
       {
         "number": 24,
@@ -27546,7 +27571,7 @@ const EXAM_DATA = {
           "D": "總統府人權諮詢委員會"
         },
         "year": 110,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 25,
@@ -27570,7 +27595,7 @@ const EXAM_DATA = {
           "D": "直轄市政府就直轄市與縣（市）間之事權發生爭議，尚未請行政院解決者"
         },
         "year": 110,
-        "answer": "A"
+        "answer": "D"
       },
       {
         "number": 27,
@@ -27582,7 +27607,7 @@ const EXAM_DATA = {
           "D": "得由各機關以獎懲基準定之\n\n\f代號：2301\n頁次：8－4"
         },
         "year": 110,
-        "answer": "C"
+        "answer": "A"
       },
       {
         "number": 28,
@@ -27594,7 +27619,7 @@ const EXAM_DATA = {
           "D": "免職處分作成前應通知甲陳述意見，但若免職處分送達時由甲親收，免職處分不因未給予甲陳述意\n\n見而違法"
         },
         "year": 110,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 29,
@@ -27606,7 +27631,7 @@ const EXAM_DATA = {
           "D": "違反道路交通管理事件統一裁罰基準及處理細則"
         },
         "year": 110,
-        "answer": "A"
+        "answer": "B"
       },
       {
         "number": 30,
@@ -27618,7 +27643,7 @@ const EXAM_DATA = {
           "D": "廢止解釋性規定之行政規則，只須經原機關為之，無須刊登政府公報"
         },
         "year": 110,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 31,
@@ -27630,7 +27655,7 @@ const EXAM_DATA = {
           "D": "行政處分之確認無效"
         },
         "year": 110,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 32,
@@ -27642,7 +27667,7 @@ const EXAM_DATA = {
           "D": "執行力"
         },
         "year": 110,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 33,
@@ -27654,7 +27679,7 @@ const EXAM_DATA = {
           "D": "一般處分"
         },
         "year": 110,
-        "answer": "C"
+        "answer": "A"
       },
       {
         "number": 34,
@@ -27666,7 +27691,7 @@ const EXAM_DATA = {
           "D": "不能得知處分機關"
         },
         "year": 110,
-        "answer": "D"
+        "answer": "A"
       },
       {
         "number": 35,
@@ -27678,7 +27703,7 @@ const EXAM_DATA = {
           "D": "交通部公路總局臺北區監理所委託民間汽車修理業者辦理汽車定期檢驗合約"
         },
         "year": 110,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 36,
@@ -27690,7 +27715,7 @@ const EXAM_DATA = {
           "D": "向該管地方法院行政訴訟庭提起一般給付訴訟，取得勝訴判決後聲請強制執行"
         },
         "year": 110,
-        "answer": "D"
+        "answer": "A"
       },
       {
         "number": 37,
@@ -27702,7 +27727,7 @@ const EXAM_DATA = {
           "D": "招標機關通知以偽造證件投標之廠商丁將刊登政府採購公報，停權 3 年\n\n\f代號：2301\n頁次：8－5"
         },
         "year": 110,
-        "answer": "A"
+        "answer": "C"
       },
       {
         "number": 38,
@@ -27712,7 +27737,7 @@ const EXAM_DATA = {
           "B": "法規命令"
         },
         "year": 110,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 39,
@@ -27724,7 +27749,7 @@ const EXAM_DATA = {
           "D": "行政規則"
         },
         "year": 110,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 40,
@@ -27736,7 +27761,7 @@ const EXAM_DATA = {
           "D": "該公務員應與接觸對象作成錄音檔案，還原接觸時間、地點及內容"
         },
         "year": 110,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 41,
@@ -27748,7 +27773,7 @@ const EXAM_DATA = {
           "D": "閱覽卷宗之申請，以主張或維護申請人法律上利益之必要者為限"
         },
         "year": 110,
-        "answer": "A"
+        "answer": "B"
       },
       {
         "number": 42,
@@ -27760,7 +27785,7 @@ const EXAM_DATA = {
           "D": "基於個人學術研究之目的而申請提供政府資訊，須提出證據資料，行政機關始得同意提供"
         },
         "year": 110,
-        "answer": "B"
+        "answer": "A"
       },
       {
         "number": 43,
@@ -27772,7 +27797,7 @@ const EXAM_DATA = {
           "D": "行政機關作出沒入並銷毀某產品之行政處分，若該產品已經銷毀完畢，當事人不得就本案提起撤銷\n\n訴願"
         },
         "year": 110,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 44,
@@ -27796,7 +27821,7 @@ const EXAM_DATA = {
           "D": "行政訴訟法規定之強制執行程序，亦許提起第三人異議之訴，並由普通法院受理"
         },
         "year": 110,
-        "answer": "D"
+        "answer": "A"
       },
       {
         "number": 46,
@@ -27808,7 +27833,7 @@ const EXAM_DATA = {
           "D": "一般給付訴訟\n\n\f代號：2301\n頁次：8－6"
         },
         "year": 110,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 47,
@@ -27820,7 +27845,7 @@ const EXAM_DATA = {
           "D": "對於交通裁決事件訴訟程序之第二審判決，不得上訴"
         },
         "year": 110,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 48,
@@ -27832,7 +27857,7 @@ const EXAM_DATA = {
           "D": "對於適用簡易程序之裁判提起上訴或抗告，以訴訟事件所涉及之法律見解具有原則性者為限"
         },
         "year": 110,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 49,
@@ -27844,7 +27869,7 @@ const EXAM_DATA = {
           "D": "不服課稅行政處分所提起之撤銷訴訟"
         },
         "year": 110,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 50,
@@ -27856,7 +27881,7 @@ const EXAM_DATA = {
           "D": "甲得提起訴願，若未獲救濟，得提起撤銷之訴"
         },
         "year": 110,
-        "answer": "A"
+        "answer": "C"
       },
       {
         "number": 51,
@@ -27868,7 +27893,7 @@ const EXAM_DATA = {
           "D": "委任機關之直接上級機關"
         },
         "year": 110,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 52,
@@ -27880,7 +27905,7 @@ const EXAM_DATA = {
           "D": "損失補償責任"
         },
         "year": 110,
-        "answer": "A"
+        "answer": "C"
       },
       {
         "number": 53,
@@ -27892,7 +27917,7 @@ const EXAM_DATA = {
           "D": "人民為公益而遭受特別犧牲者，國家應負賠償責任"
         },
         "year": 110,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 54,
@@ -27904,7 +27929,7 @@ const EXAM_DATA = {
           "D": "賠償義務機關與被害人就賠償金額展開協議，自開始協議之日起逾 60 日協議不成立時，被害人得\n\n提起國家賠償訴訟"
         },
         "year": 110,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 55,
@@ -27926,7 +27951,7 @@ const EXAM_DATA = {
           "D": "受委託行使公權力之個人"
         },
         "year": 110,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 57,
@@ -27950,7 +27975,7 @@ const EXAM_DATA = {
           "D": "國家對其領土的使用不得損害他國人民或財產權利"
         },
         "year": 110,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 59,
@@ -27962,7 +27987,7 @@ const EXAM_DATA = {
           "D": "聯合國為其雇員在執行職務期間所受損害提出索償，其索償對象得為非會員國"
         },
         "year": 110,
-        "answer": "C"
+        "answer": "A"
       },
       {
         "number": 60,
@@ -27974,7 +27999,7 @@ const EXAM_DATA = {
           "D": "在必要情形下，必須承諾或保證不再重複該行為"
         },
         "year": 110,
-        "answer": "A"
+        "answer": "D"
       },
       {
         "number": 61,
@@ -27986,7 +28011,7 @@ const EXAM_DATA = {
           "D": "以「中國臺北」加入亞洲開發銀行"
         },
         "year": 110,
-        "answer": "A"
+        "answer": "C"
       },
       {
         "number": 62,
@@ -27998,7 +28023,7 @@ const EXAM_DATA = {
           "D": "各主權國家得自行決定是否承認雙重國籍"
         },
         "year": 110,
-        "answer": "C"
+        "answer": "A"
       },
       {
         "number": 63,
@@ -28010,7 +28035,7 @@ const EXAM_DATA = {
           "D": "聯合國大會決議該等條款僅具組織內部規範效力"
         },
         "year": 110,
-        "answer": "B"
+        "answer": "A"
       },
       {
         "number": 64,
@@ -28022,7 +28047,7 @@ const EXAM_DATA = {
           "D": "第三國不應協助他國境內之獨立或分離運動"
         },
         "year": 110,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 65,
@@ -28058,7 +28083,7 @@ const EXAM_DATA = {
           "D": "關於定性，實務見解多採法庭地法說"
         },
         "year": 110,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 69,
@@ -28070,7 +28095,7 @@ const EXAM_DATA = {
           "D": "以丁國法為準據法時，禁止離婚"
         },
         "year": 110,
-        "answer": "A"
+        "answer": "B"
       },
       {
         "number": 70,
@@ -28082,7 +28107,7 @@ const EXAM_DATA = {
           "D": "得依 A 國法、B 國法或我國法"
         },
         "year": 110,
-        "answer": "A"
+        "answer": "D"
       },
       {
         "number": 71,
@@ -28091,7 +28116,7 @@ const EXAM_DATA = {
           "A": "A 國法"
         },
         "year": 110,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 72,
@@ -28100,7 +28125,7 @@ const EXAM_DATA = {
           "B": "B 國法"
         },
         "year": 110,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 73,
@@ -28112,7 +28137,7 @@ const EXAM_DATA = {
           "D": "甲之住所在 A 國，應依 A 國法"
         },
         "year": 110,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 74,
@@ -28124,7 +28149,7 @@ const EXAM_DATA = {
           "D": "德國法或日本法"
         },
         "year": 110,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 75,
@@ -28158,7 +28183,7 @@ const EXAM_DATA = {
           "D": "基本國策係屬憲法不可或缺之內容"
         },
         "year": 109,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 3,
@@ -28182,7 +28207,7 @@ const EXAM_DATA = {
           "D": "化粧品廣告屬財產權保障之範疇，不受憲法言論自由保障"
         },
         "year": 109,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 5,
@@ -28206,7 +28231,7 @@ const EXAM_DATA = {
           "D": "國家基於憲法基本國策之規定，得以立法方式介入勞資關係"
         },
         "year": 109,
-        "answer": "A"
+        "answer": "C"
       },
       {
         "number": 7,
@@ -28218,7 +28243,7 @@ const EXAM_DATA = {
           "D": "因公務員對此限制無法預見而不能預作準備，違反比例原則"
         },
         "year": 109,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 8,
@@ -28230,7 +28255,7 @@ const EXAM_DATA = {
           "D": "受羈押被告與辯護人接見時監聽、錄音所獲得之資訊，得作為認定被告本案犯罪事實之證據，會妨\n\n害被告之防禦權\n\n\f代號：2301\n頁次：8－2"
         },
         "year": 109,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 9,
@@ -28242,7 +28267,7 @@ const EXAM_DATA = {
           "D": "若僅屬執行稅法之細節性、技術性次要事項，得由主管機關發布命令為必要之規範"
         },
         "year": 109,
-        "answer": "A"
+        "answer": "B"
       },
       {
         "number": 10,
@@ -28266,7 +28291,7 @@ const EXAM_DATA = {
           "D": "個人資料之自主權"
         },
         "year": 109,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 12,
@@ -28278,7 +28303,7 @@ const EXAM_DATA = {
           "D": "總統豁免權雖係為總統之職位而設，但總統仍得拋棄此憲法賦予之特權"
         },
         "year": 109,
-        "answer": "A"
+        "answer": "B"
       },
       {
         "number": 13,
@@ -28326,7 +28351,7 @@ const EXAM_DATA = {
           "D": "「不受任何干涉」在解釋上包含司法院不得發布規範法官審理事項之規則"
         },
         "year": 109,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 17,
@@ -28338,7 +28363,7 @@ const EXAM_DATA = {
           "D": "立法委員選區劃分之爭議，皆屬「政治問題」\n\n\f代號：2301\n頁次：8－3"
         },
         "year": 109,
-        "answer": "A"
+        "answer": "D"
       },
       {
         "number": 18,
@@ -28362,7 +28387,7 @@ const EXAM_DATA = {
           "D": "政府採購法要求未進用原住民之廠商繳納代金，係為貫徹憲法規定各民族一律平等之要求"
         },
         "year": 109,
-        "answer": "C"
+        "answer": "A"
       },
       {
         "number": 20,
@@ -28386,7 +28411,7 @@ const EXAM_DATA = {
           "D": "臺北市政府因開市政會議訂購午餐便當"
         },
         "year": 109,
-        "answer": "D"
+        "answer": "A"
       },
       {
         "number": 22,
@@ -28410,7 +28435,7 @@ const EXAM_DATA = {
           "D": "行政機關變更函釋，關於新舊函釋之適用，採從新從優原則"
         },
         "year": 109,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 24,
@@ -28434,7 +28459,7 @@ const EXAM_DATA = {
           "D": "行政內部屬法外空間，行政主體所為內部行政行為不受法之拘束"
         },
         "year": 109,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 26,
@@ -28470,7 +28495,7 @@ const EXAM_DATA = {
           "D": "行政院院長更迭時，獨立機關委員因享有任期保障，故毋庸與行政院院長同進退"
         },
         "year": 109,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 29,
@@ -28492,7 +28517,7 @@ const EXAM_DATA = {
           "C": "向原自治監督機關申請覆議"
         },
         "year": 109,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 31,
@@ -28516,7 +28541,7 @@ const EXAM_DATA = {
           "D": "因調職而遭原服務機關要求返還宿舍"
         },
         "year": 109,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 33,
@@ -28528,7 +28553,7 @@ const EXAM_DATA = {
           "D": "內容若牴觸原發布機關之其他函釋，不當然違法"
         },
         "year": 109,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 34,
@@ -28552,7 +28577,7 @@ const EXAM_DATA = {
           "D": "行政處分之附加附款，原則上不排除以締結行政契約之方式代替之"
         },
         "year": 109,
-        "answer": "A"
+        "answer": "C"
       },
       {
         "number": 36,
@@ -28564,7 +28589,7 @@ const EXAM_DATA = {
           "D": "行政契約\n\n\f37 依行政程序法規定，提供金錢給付之授益行政處分經撤銷後，關於受益人應返還受領之給付，下列敘\n\n述何者正確？"
         },
         "year": 109,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 38,
@@ -28576,7 +28601,7 @@ const EXAM_DATA = {
           "D": "原處分機關保留行政處分之廢止權"
         },
         "year": 109,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 39,
@@ -28600,7 +28625,7 @@ const EXAM_DATA = {
           "D": "民事訴訟法"
         },
         "year": 109,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 41,
@@ -28612,7 +28637,7 @@ const EXAM_DATA = {
           "D": "教師不服公立學校解聘、停聘或不續聘之決定者，應以學校為被告，提起確認聘約關係存在之訴"
         },
         "year": 109,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 42,
@@ -28636,7 +28661,7 @@ const EXAM_DATA = {
           "D": "丁非藥商，以單一之意思於電視上為藥物廣告，主管機關依藥事法規定，按刊播廣告次數，分別處罰"
         },
         "year": 109,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 44,
@@ -28648,7 +28673,7 @@ const EXAM_DATA = {
           "D": "地下水為天然資源，屬於國家所有，亦屬公物"
         },
         "year": 109,
-        "answer": "C"
+        "answer": "A"
       },
       {
         "number": 45,
@@ -28660,7 +28685,7 @@ const EXAM_DATA = {
           "D": "所有權人僅能依國家賠償法，向地政機關請求賠償因該註記所生之交易損失\n\n\f代號：2301\n頁次：8－6"
         },
         "year": 109,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 46,
@@ -28684,7 +28709,7 @@ const EXAM_DATA = {
           "D": "行政機關作成經聽證程序之行政處分時，應受聽證結果之拘束"
         },
         "year": 109,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 48,
@@ -28708,7 +28733,7 @@ const EXAM_DATA = {
           "D": "行政院"
         },
         "year": 109,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 50,
@@ -28732,7 +28757,7 @@ const EXAM_DATA = {
           "D": "依廢棄物清理法第72條第1項規定提起一般給付訴訟，請求判命乙機關依法執行法定職務"
         },
         "year": 109,
-        "answer": "A"
+        "answer": "B"
       },
       {
         "number": 52,
@@ -28744,7 +28769,7 @@ const EXAM_DATA = {
           "D": "證據保全"
         },
         "year": 109,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 53,
@@ -28756,7 +28781,7 @@ const EXAM_DATA = {
           "D": "該法所定有審判或追訴職務之公務員"
         },
         "year": 109,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 54,
@@ -28768,7 +28793,7 @@ const EXAM_DATA = {
           "D": "國家賠償之計算，適用與有過失原則"
         },
         "year": 109,
-        "answer": "B"
+        "answer": "A"
       },
       {
         "number": 55,
@@ -28792,7 +28817,7 @@ const EXAM_DATA = {
           "D": "習慣國際法的形成需要多長時間並無絕對標準"
         },
         "year": 109,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 57,
@@ -28804,7 +28829,7 @@ const EXAM_DATA = {
           "D": "全部條約在保留提出國與保留反對國之間，均不生條約效力"
         },
         "year": 109,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 58,
@@ -28816,7 +28841,7 @@ const EXAM_DATA = {
           "D": "一國依條約將部分政府權能交由他國行使，並無礙其獨立性"
         },
         "year": 109,
-        "answer": "B"
+        "answer": "A"
       },
       {
         "number": 59,
@@ -28828,7 +28853,7 @@ const EXAM_DATA = {
           "D": "立法院審議多邊條約案，除該約文明定禁止保留外，得經院會決議提出保留條款"
         },
         "year": 109,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 60,
@@ -28852,7 +28877,7 @@ const EXAM_DATA = {
           "D": "犯罪被害人國籍管轄"
         },
         "year": 109,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 62,
@@ -28876,7 +28901,7 @@ const EXAM_DATA = {
           "D": "危害種族罪僅依客觀事實認定，不論加害人是否具犯罪意圖"
         },
         "year": 109,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 64,
@@ -28888,7 +28913,7 @@ const EXAM_DATA = {
           "D": "國家有禁止酷刑之義務"
         },
         "year": 109,
-        "answer": "A"
+        "answer": "B"
       },
       {
         "number": 65,
@@ -28900,7 +28925,7 @@ const EXAM_DATA = {
           "D": "聯合國會員國不履行國際法院判決，他造得向安全理事會提出申訴\n\n\f代號：2301\n頁次：8－8"
         },
         "year": 109,
-        "answer": "A"
+        "answer": "D"
       },
       {
         "number": 66,
@@ -28912,7 +28937,7 @@ const EXAM_DATA = {
           "D": "③⑤"
         },
         "year": 109,
-        "answer": "D"
+        "answer": "A"
       },
       {
         "number": 67,
@@ -28936,7 +28961,7 @@ const EXAM_DATA = {
           "D": "不可以，因甲並非中華民國國民"
         },
         "year": 109,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 69,
@@ -28960,7 +28985,7 @@ const EXAM_DATA = {
           "D": "尚未取得。依涉外民事法律適用法第 38 條第 1 項規定，關於物權依物之所在地法。債權行為的\n成立與效力，應以 A 國法為準據法，惟物權變動的效果，則應依物之所在地法。依我國法，動產\n現實上尚未交付，故所有權尚未移轉"
         },
         "year": 109,
-        "answer": "A"
+        "answer": "D"
       },
       {
         "number": 71,
@@ -28970,7 +28995,7 @@ const EXAM_DATA = {
           "B": "B 國法"
         },
         "year": 109,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 72,
@@ -28994,7 +29019,7 @@ const EXAM_DATA = {
           "D": "關係最切之國之法"
         },
         "year": 109,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 74,
@@ -29006,7 +29031,7 @@ const EXAM_DATA = {
           "D": "依泰國法"
         },
         "year": 109,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 75,
@@ -29018,7 +29043,7 @@ const EXAM_DATA = {
           "D": "應適用 C 國法"
         },
         "year": 109,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 1,
@@ -29030,7 +29055,7 @@ const EXAM_DATA = {
           "D": "領土之範圍"
         },
         "year": 108,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 2,
@@ -29042,7 +29067,7 @@ const EXAM_DATA = {
           "D": "國家對於身心障礙者，應予保障，並扶助其自立與發展"
         },
         "year": 108,
-        "answer": "A"
+        "answer": "B"
       },
       {
         "number": 3,
@@ -29054,7 +29079,7 @@ const EXAM_DATA = {
           "D": "強制隔離雖與刑事處罰之本質不同，仍應踐行相同程序保障"
         },
         "year": 108,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 4,
@@ -29090,7 +29115,7 @@ const EXAM_DATA = {
           "D": "平等權"
         },
         "year": 108,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 7,
@@ -29102,7 +29127,7 @@ const EXAM_DATA = {
           "D": "立法委員戊兼任地方自治團體行政職務"
         },
         "year": 108,
-        "answer": "B"
+        "answer": "A"
       },
       {
         "number": 8,
@@ -29114,7 +29139,7 @@ const EXAM_DATA = {
           "D": "一般行為自由"
         },
         "year": 108,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 10,
@@ -29126,7 +29151,7 @@ const EXAM_DATA = {
           "D": "平等權 \n\n \n \n \n\f代號：2301 \n頁次：8－2"
         },
         "year": 108,
-        "answer": "A"
+        "answer": "C"
       },
       {
         "number": 11,
@@ -29138,7 +29163,7 @@ const EXAM_DATA = {
           "D": "比例原則"
         },
         "year": 108,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 12,
@@ -29150,7 +29175,7 @@ const EXAM_DATA = {
           "D": "得僅以書面回覆檢察官之訊問"
         },
         "year": 108,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 13,
@@ -29162,7 +29187,7 @@ const EXAM_DATA = {
           "D": "由總統提請行政院院長任命之"
         },
         "year": 108,
-        "answer": "A"
+        "answer": "B"
       },
       {
         "number": 14,
@@ -29174,7 +29199,7 @@ const EXAM_DATA = {
           "D": "立法院通過對行政院院長提出之不信任案時，行政院院長即得逕行解散立法院"
         },
         "year": 108,
-        "answer": "D"
+        "answer": "A"
       },
       {
         "number": 15,
@@ -29186,7 +29211,7 @@ const EXAM_DATA = {
           "D": "監察委員 3 人以上之提議，全體委員三分之一以上之審查及決定"
         },
         "year": 108,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 16,
@@ -29198,7 +29223,7 @@ const EXAM_DATA = {
           "D": "法院院長及各庭庭長之職位均屬憲法第 81 條之身分保障對象"
         },
         "year": 108,
-        "answer": "B"
+        "answer": "A"
       },
       {
         "number": 17,
@@ -29222,7 +29247,7 @@ const EXAM_DATA = {
           "D": "法官聲請解釋判例違憲"
         },
         "year": 108,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 19,
@@ -29246,7 +29271,7 @@ const EXAM_DATA = {
           "D": "行政院得依據職權函告該自治條例無效"
         },
         "year": 108,
-        "answer": "D"
+        "answer": "A"
       },
       {
         "number": 21,
@@ -29258,7 +29283,7 @@ const EXAM_DATA = {
           "D": "中央三級行政機關之設立，應有法律之依據 \n\n \n \n\f代號：2301\n頁次：8－3"
         },
         "year": 108,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 22,
@@ -29270,7 +29295,7 @@ const EXAM_DATA = {
           "D": "受刑人丁不服監獄對其所為之禁止通訊處分，得循序提起行政訴訟"
         },
         "year": 108,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 23,
@@ -29282,7 +29307,7 @@ const EXAM_DATA = {
           "D": "基隆關稅局核發稅單，命義務人繳納"
         },
         "year": 108,
-        "answer": "A"
+        "answer": "B"
       },
       {
         "number": 24,
@@ -29294,7 +29319,7 @@ const EXAM_DATA = {
           "D": "請求權不因原權利人死亡而當然消滅"
         },
         "year": 108,
-        "answer": "D"
+        "answer": "A"
       },
       {
         "number": 25,
@@ -29306,7 +29331,7 @@ const EXAM_DATA = {
           "D": "新北市政府採購申訴審議委員會"
         },
         "year": 108,
-        "answer": "C"
+        "answer": "A"
       },
       {
         "number": 26,
@@ -29318,7 +29343,7 @@ const EXAM_DATA = {
           "D": "人民對改制後行政法人之行政處分不服者，得向改制前之行政機關提起訴願"
         },
         "year": 108,
-        "answer": "A"
+        "answer": "C"
       },
       {
         "number": 27,
@@ -29330,7 +29355,7 @@ const EXAM_DATA = {
           "D": "原管轄權之機關除依行政程序法第 18 條規定喪失管轄權外，不因其將權限之一部委任其他機關辦\n\n理，而喪失管轄權"
         },
         "year": 108,
-        "answer": "D"
+        "answer": "A"
       },
       {
         "number": 28,
@@ -29354,7 +29379,7 @@ const EXAM_DATA = {
           "D": "不適用公務人員任用法"
         },
         "year": 108,
-        "answer": "C"
+        "answer": "B"
       },
       {
         "number": 30,
@@ -29364,7 +29389,7 @@ const EXAM_DATA = {
           "C": "裁量基準"
         },
         "year": 108,
-        "answer": "B"
+        "answer": "A"
       },
       {
         "number": 31,
@@ -29376,7 +29401,7 @@ const EXAM_DATA = {
           "D": "行政規則"
         },
         "year": 108,
-        "answer": "A"
+        "answer": "B"
       },
       {
         "number": 32,
@@ -29388,7 +29413,7 @@ const EXAM_DATA = {
           "D": "依 A 函釋所為之行政處分已確定者，於 B 函釋生效後，除 A 函釋確有違法之情形外，該處分之效\n\n力不受影響"
         },
         "year": 108,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 33,
@@ -29412,7 +29437,7 @@ const EXAM_DATA = {
           "D": "裁量處分與羈束處分均得附解除條件"
         },
         "year": 108,
-        "answer": "B"
+        "answer": "D"
       },
       {
         "number": 35,
@@ -29424,7 +29449,7 @@ const EXAM_DATA = {
           "D": "行政處分之作成有裁量權者，附加附款時應符合比例原則"
         },
         "year": 108,
-        "answer": "A"
+        "answer": "C"
       },
       {
         "number": 36,
@@ -29436,7 +29461,7 @@ const EXAM_DATA = {
           "D": "行政機關以書面確認交通違規人應繳納之罰鍰數額，並限期給付之"
         },
         "year": 108,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 37,
@@ -29448,7 +29473,7 @@ const EXAM_DATA = {
           "D": "甲得以主管教育行政機關為被告，對該核准處分提起行政爭訟"
         },
         "year": 108,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 38,
@@ -29460,7 +29485,7 @@ const EXAM_DATA = {
           "D": "違反強制或禁止規定，情節重大"
         },
         "year": 108,
-        "answer": "B"
+        "answer": "A"
       },
       {
         "number": 39,
@@ -29472,7 +29497,7 @@ const EXAM_DATA = {
           "D": "行政處分之廢止 \n\n \n \n \n \n\f代號：2301\n頁次：8－5"
         },
         "year": 108,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 40,
@@ -29496,7 +29521,7 @@ const EXAM_DATA = {
           "D": "裁處拘留"
         },
         "year": 108,
-        "answer": "C"
+        "answer": "A"
       },
       {
         "number": 42,
@@ -29508,7 +29533,7 @@ const EXAM_DATA = {
           "D": "法規命令"
         },
         "year": 108,
-        "answer": "B"
+        "answer": "C"
       },
       {
         "number": 43,
@@ -29520,7 +29545,7 @@ const EXAM_DATA = {
           "D": "行政訴訟法"
         },
         "year": 108,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 44,
@@ -29532,7 +29557,7 @@ const EXAM_DATA = {
           "D": "主管機關依法要求人民接受疫苗注射"
         },
         "year": 108,
-        "answer": "C"
+        "answer": "D"
       },
       {
         "number": 45,
@@ -29556,7 +29581,7 @@ const EXAM_DATA = {
           "D": "可以，且得對乙之拒絕提供相關資料直接提起訴願、行政訴訟"
         },
         "year": 108,
-        "answer": "D"
+        "answer": "A"
       },
       {
         "number": 47,
@@ -29580,7 +29605,7 @@ const EXAM_DATA = {
           "D": "甲得分別就行政處分 A、B 二部分表示不服，以乙為被告提起行政訴訟 \n\n \n \n \n\f代號：2301 \n頁次：8－6"
         },
         "year": 108,
-        "answer": "D"
+        "answer": "B"
       },
       {
         "number": 49,
@@ -29592,7 +29617,7 @@ const EXAM_DATA = {
           "D": "向行政法院逕行提起訴訟"
         },
         "year": 108,
-        "answer": "D"
+        "answer": "C"
       },
       {
         "number": 50,
@@ -29604,7 +29629,7 @@ const EXAM_DATA = {
           "D": "對行政機關處以怠金"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 51,
@@ -29616,7 +29641,7 @@ const EXAM_DATA = {
           "D": "請原告撤回起訴後，再以正確之被告機關起訴"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 52,
@@ -29628,7 +29653,7 @@ const EXAM_DATA = {
           "D": "於審理課予義務訴訟事件時，審酌請求權是否罹於時效"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 53,
@@ -29640,7 +29665,7 @@ const EXAM_DATA = {
           "D": "行政法院在對於原告不利益之範圍內，不得依職權調查證據"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 54,
@@ -29652,7 +29677,7 @@ const EXAM_DATA = {
           "D": "行政處分已執行完畢者，即不得提起確認行政處分為違法之訴訟"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 55,
@@ -29664,7 +29689,7 @@ const EXAM_DATA = {
           "D": "賠償義務機關業經改組，仍由改組前之機關為賠償義務機關"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 56,
@@ -29676,7 +29701,7 @@ const EXAM_DATA = {
           "D": "禁止侵略原則"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 57,
@@ -29688,7 +29713,7 @@ const EXAM_DATA = {
           "D": "聯合國安全理事會（United Nations Security Council）"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 58,
@@ -29700,7 +29725,7 @@ const EXAM_DATA = {
           "D": "調解（conciliation） \n\n \n\f代號：2301\n頁次：8－7"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 59,
@@ -29712,7 +29737,7 @@ const EXAM_DATA = {
           "D": "國家派駐國際組織之代表，為議定在該組織內議定之條約，得毋須出具全權證書"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 60,
@@ -29724,7 +29749,7 @@ const EXAM_DATA = {
           "D": "文明國家所承認的法律一般原則"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 61,
@@ -29736,7 +29761,7 @@ const EXAM_DATA = {
           "D": "條約得直接課以個人違犯國際犯罪行為的刑事責任"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 62,
@@ -29748,7 +29773,7 @@ const EXAM_DATA = {
           "D": "國家有取得系爭領土主權之主觀意思"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 63,
@@ -29760,7 +29785,7 @@ const EXAM_DATA = {
           "D": "乙國大使館享有不可侵犯權，故甲國不得進入乙國大使館逮捕 A"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 64,
@@ -29772,7 +29797,7 @@ const EXAM_DATA = {
           "D": "有關政治庇護之規定已屬習慣國際法"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 65,
@@ -29784,7 +29809,7 @@ const EXAM_DATA = {
           "D": "懲罰範圍包括違反 1949 年日內瓦公約之行為"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 66,
@@ -29796,7 +29821,7 @@ const EXAM_DATA = {
           "D": "應適用甲、乙之本國法，即沙烏地阿拉伯法律，甲、乙之婚姻有效，但甲、乙婚姻有效之結果違\n\n背我國善良風俗，故不適用沙烏地阿拉伯法律"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 67,
@@ -29808,7 +29833,7 @@ const EXAM_DATA = {
           "D": "依當事人之居所地法定其應適用之法律 \n\n \n \n \n\f代號：2301 \n頁次：8－8"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 68,
@@ -29820,7 +29845,7 @@ const EXAM_DATA = {
           "D": "僱傭契約、買賣契約均適用 A 國法"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 69,
@@ -29832,7 +29857,7 @@ const EXAM_DATA = {
           "D": "此一事件，關於死亡宣告之效力，僅得依失蹤人之本國法"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 70,
@@ -29844,7 +29869,7 @@ const EXAM_DATA = {
           "D": "得依我國法、A 國法或 B 國法"
         },
         "year": 108,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 71,
@@ -29856,7 +29881,7 @@ const EXAM_DATA = {
           "D": "選擇適用日本法或香港法"
         },
         "year": 108,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 72,
@@ -29868,7 +29893,7 @@ const EXAM_DATA = {
           "D": "依涉外民事法律適用法第 10 條第 1 項規定：人之行為能力，依其本國法。所謂本國法專指訴訟時\n\n之本國法"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 73,
@@ -29880,7 +29905,7 @@ const EXAM_DATA = {
           "D": "如果認為可適用不便利法庭原則，法官即駁回原告之訴"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 74,
@@ -29892,7 +29917,7 @@ const EXAM_DATA = {
           "D": "依其婚姻效力的準據法"
         },
         "year": 108,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 75,
@@ -29904,7 +29929,7 @@ const EXAM_DATA = {
           "D": "甲公司所製造之行動電話未於我國銷售，故縱使乙主張以我國法為準據法，我國法院仍不得以我\n\n國法決定甲公司對乙之損害賠償"
         },
         "year": 108,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 2008,
@@ -29928,7 +29953,7 @@ const EXAM_DATA = {
           "D": "目的正當性原則"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 2,
@@ -29940,7 +29965,7 @@ const EXAM_DATA = {
           "D": "全國陸海空軍，須超出個人、地域及黨派關係"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 3,
@@ -29952,7 +29977,7 @@ const EXAM_DATA = {
           "D": "對外國人之暫時收容處分，無須由法院為之"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 4,
@@ -29964,7 +29989,7 @@ const EXAM_DATA = {
           "D": "限制出境並非對人民居住遷徙自由之重大限制"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 5,
@@ -29976,7 +30001,7 @@ const EXAM_DATA = {
           "D": "監獄行刑法施行細則規定，受刑人撰寫題意正確之文稿得准許投寄報章雜誌，與法律保留原則無涉"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 6,
@@ -29988,7 +30013,7 @@ const EXAM_DATA = {
           "D": "信賴保護原則 \n\n \n \n \n \n \n \n\f代號：2301 \n頁次：12－2"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 7,
@@ -30000,7 +30025,7 @@ const EXAM_DATA = {
           "D": "因受扶養人之年齡因素，致已扶養其他親屬或家屬之納稅義務人不能減除扶養親屬免稅額，不符\n\n合課稅公平原則"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 8,
@@ -30012,7 +30037,7 @@ const EXAM_DATA = {
           "D": "個人財產權仍應依法受社會責任及環境生態責任之限制"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 9,
@@ -30024,7 +30049,7 @@ const EXAM_DATA = {
           "D": "對職業自由之限制，雖有內容之差異，但在憲法上不得有寬嚴不同之容許標準"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 10,
@@ -30036,7 +30061,7 @@ const EXAM_DATA = {
           "D": "法官迴避制度應屬訴訟權保障之核心內容"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 11,
@@ -30048,7 +30073,7 @@ const EXAM_DATA = {
           "D": "人民受國民教育以外教育之權利，包括得請求入學許可及提供特定教育給付之權利"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 12,
@@ -30060,7 +30085,7 @@ const EXAM_DATA = {
           "D": "民法婚姻章規定，以性傾向為分類標準，違反平等權意旨 \n\n \n\f代號：2301\n頁次：12－3"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 13,
@@ -30072,7 +30097,7 @@ const EXAM_DATA = {
           "D": "生命權"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 14,
@@ -30084,7 +30109,7 @@ const EXAM_DATA = {
           "D": "資料自主權"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 15,
@@ -30096,7 +30121,7 @@ const EXAM_DATA = {
           "D": "行政院院長代行總統職權，其期限不得逾 3 個月"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 16,
@@ -30108,7 +30133,7 @@ const EXAM_DATA = {
           "D": "覆議時，如經全體立法委員過半數決議維持原案，行政院院長應即辭職"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 17,
@@ -30120,7 +30145,7 @@ const EXAM_DATA = {
           "D": "監察院不得彈劾總統，也不得彈劾立法委員"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 18,
@@ -30132,7 +30157,7 @@ const EXAM_DATA = {
           "D": "教師評審委員會"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 19,
@@ -30144,7 +30169,7 @@ const EXAM_DATA = {
           "D": "關於死刑，已有多號解釋認為並不違憲，大法官無法再行解釋"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 20,
@@ -30156,7 +30181,7 @@ const EXAM_DATA = {
           "D": "地方公務人員之退休撫卹非由考試院辦理 \n\n \n \n\f代號：2301 \n頁次：12－4"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 21,
@@ -30168,7 +30193,7 @@ const EXAM_DATA = {
           "D": "設置警察派出所，維護地方治安"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 22,
@@ -30180,7 +30205,7 @@ const EXAM_DATA = {
           "D": "法規適用對象僅對法規存續有主觀之願望或期待者，欠缺信賴要件，不在保護範圍"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 23,
@@ -30192,7 +30217,7 @@ const EXAM_DATA = {
           "D": "「必須記明之理由已於事後記明」之情形，包括行政機關於訴訟程序中就行政處分所涉之法律觀\n\n點予以補充"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 24,
@@ -30204,7 +30229,7 @@ const EXAM_DATA = {
           "D": "確認第三人不服行政契約締約相對人甄選決定時，得否為行政訴訟之原告"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 25,
@@ -30216,7 +30241,7 @@ const EXAM_DATA = {
           "D": "單位，指基於組織之業務分工，於機關內部設立之組織"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 26,
@@ -30228,7 +30253,7 @@ const EXAM_DATA = {
           "D": "臺北市政府將跨年晚會籌辦相關業務，交由各權責機關協調規劃辦理 \n\n \n\f代號：2301\n頁次：12－5"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 27,
@@ -30240,7 +30265,7 @@ const EXAM_DATA = {
           "D": "臺北市文山區試院里辦公處"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 28,
@@ -30252,7 +30277,7 @@ const EXAM_DATA = {
           "D": "地方自治團體設立公營事業機構，除須有自治條例之設立依據外，尚須經中央目的事業主管機關\n\n之許可，始得為之"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 29,
@@ -30264,7 +30289,7 @@ const EXAM_DATA = {
           "D": "若無決行之權限者，不適用行政程序法上公務員應自行迴避之規定"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 30,
@@ -30276,7 +30301,7 @@ const EXAM_DATA = {
           "D": "依教師法規定，公立學校不服主管教育行政機關之再申訴決定，得逕行提起行政訴訟"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 31,
@@ -30288,7 +30313,7 @@ const EXAM_DATA = {
           "D": "法規命令"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 32,
@@ -30300,7 +30325,7 @@ const EXAM_DATA = {
           "D": "法規命令之停止或恢復適用，因行政程序法另有程序規定，故不準用訂定程序之規定"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 33,
@@ -30312,7 +30337,7 @@ const EXAM_DATA = {
           "D": "對第三人效力 \n\n \n \n \n\f代號：2301 \n頁次：12－6"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 34,
@@ -30324,7 +30349,7 @@ const EXAM_DATA = {
           "D": "行政契約之締結以書面為原則；行政處分之作成不以書面為原則"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 35,
@@ -30336,7 +30361,7 @@ const EXAM_DATA = {
           "D": "甲對於解聘決定之救濟，經提起申訴、再申訴未果，得逕行提起行政訴訟"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 36,
@@ -30348,7 +30373,7 @@ const EXAM_DATA = {
           "D": "除適用於罰鍰外，亦適用於其他各類型之裁罰性不利處分"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 37,
@@ -30360,7 +30385,7 @@ const EXAM_DATA = {
           "D": "教唆"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 38,
@@ -30372,7 +30397,7 @@ const EXAM_DATA = {
           "D": "因主管機關對甲已裁處罰鍰，故不得再裁處沒入"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 39,
@@ -30384,7 +30409,7 @@ const EXAM_DATA = {
           "D": "公務員丙因酒駕肇事，觸犯公共危險罪遭判處有期徒刑 2 個月，嗣後復遭受降二級改敘之懲戒處分 \n\n \n\f40  甲依民法第 767 條第 1 項前段及中段規定，以乙市政府未經其同意在其所有土地上舖設柏油路面供\n\n民眾通行為由，向丙地方法院民事庭起訴，請求乙市政府刨除柏油路面並返還土地。依司法院大法\n\n代號：2301\n頁次：12－7\n\n官解釋，丙地方法院應如何處理？"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 41,
@@ -30396,7 +30421,7 @@ const EXAM_DATA = {
           "D": "街頭藝人表演"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 42,
@@ -30408,7 +30433,7 @@ const EXAM_DATA = {
           "D": "徵收人民土地之行政處分"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 43,
@@ -30420,7 +30445,7 @@ const EXAM_DATA = {
           "D": "管收"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 44,
@@ -30432,7 +30457,7 @@ const EXAM_DATA = {
           "D": "對外國人之收容處分"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 45,
@@ -30444,7 +30469,7 @@ const EXAM_DATA = {
           "D": "公平交易委員會依法所為之處分或決定"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 46,
@@ -30456,7 +30481,7 @@ const EXAM_DATA = {
           "D": "律師對律師懲戒委員會所為之懲戒不服而依律師法請求覆審"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 47,
@@ -30468,7 +30493,7 @@ const EXAM_DATA = {
           "D": "因性質上屬給付訴訟，故原告於訴狀誤列被告機關者，行政法院應以判決駁回 \n\n \n\f代號：2301 \n頁次：12－8"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 48,
@@ -30480,7 +30505,7 @@ const EXAM_DATA = {
           "D": "提起行政處分無效訴訟，不得於同一程序，合併請求撤銷訴訟"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 49,
@@ -30492,7 +30517,7 @@ const EXAM_DATA = {
           "D": "輔助參加訴訟之人，並非行政訴訟法上所稱之當事人"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 50,
@@ -30504,7 +30529,7 @@ const EXAM_DATA = {
           "D": "非法人團體所屬辦理訴訟業務之人員代理非法人團體所涉之交通裁決事件"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 51,
@@ -30516,7 +30541,7 @@ const EXAM_DATA = {
           "D": "主管人員經調任為同一機關非主管人員，但仍以原官等官階任用並敘原俸級及同一陞遷序列"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 52,
@@ -30528,7 +30553,7 @@ const EXAM_DATA = {
           "D": "聲請假扣押考選部之財產，以保全甲日後因無法應考所受損害賠償之執行"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 53,
@@ -30540,7 +30565,7 @@ const EXAM_DATA = {
           "D": "依公法上結果除去請求權，向行政法院提起一般給付訴訟，請求乙機關填補道路坑洞，並合併請\n\n求損害賠償 \n\n \n\f代號：2301\n頁次：12－9"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 54,
@@ -30552,7 +30577,7 @@ const EXAM_DATA = {
           "D": "第三人認為就受查封之財產有足以排除執行之權利"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 55,
@@ -30564,7 +30589,7 @@ const EXAM_DATA = {
           "D": "公用地役關係乃具有公共用物性質之法律關係，與民法上地役權之概念有間"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 56,
@@ -30576,7 +30601,7 @@ const EXAM_DATA = {
           "D": "制裁須經聯合國安全理事會決議方得實施"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 57,
@@ -30588,7 +30613,7 @@ const EXAM_DATA = {
           "D": "斷絕外交關係原則上不影響已締結條約之效力"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 58,
@@ -30600,7 +30625,7 @@ const EXAM_DATA = {
           "D": "一國成為聯合國的會員，代表所有會員國承認該新會員為國家"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 59,
@@ -30612,7 +30637,7 @@ const EXAM_DATA = {
           "D": "與其他國家和國際組織締結條約 \n\n \n\f代號：2301 \n頁次：12－10"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 60,
@@ -30624,7 +30649,7 @@ const EXAM_DATA = {
           "D": "公司的國籍國無法行使外交保護"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 61,
@@ -30636,7 +30661,7 @@ const EXAM_DATA = {
           "D": "依特定制度之規範使用區域之國家，直接享有其全部使用利益"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 62,
@@ -30648,7 +30673,7 @@ const EXAM_DATA = {
           "D": "派遣國外交人員之對外通訊一律不受駐在國檢閱"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 63,
@@ -30660,7 +30685,7 @@ const EXAM_DATA = {
           "D": "保護管轄原則"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 64,
@@ -30672,7 +30697,7 @@ const EXAM_DATA = {
           "D": "軍事占領地區內工作權及受教育權不受保障"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 65,
@@ -30684,7 +30709,7 @@ const EXAM_DATA = {
           "D": "非政府組織不得請求參與諮詢意見之程序 \n\n \n \n\f66  美國人甲認領其有我國籍之非婚生子乙，甲認為其認領乙時，乙即為其婚生子女；但乙認為應溯及\n\n其出生之時而為甲之婚生子女，雙方因此涉訟於我國法院。我國法院以美國法為應適用之法律，但\n\n經查甲之住所於馬里蘭州，並分別於喬治亞州及佛羅里達州有居所。下列敘述，何者正確？ \n\n代號：2301\n頁次：12－11"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 67,
@@ -30696,7 +30721,7 @@ const EXAM_DATA = {
           "D": "應依以色列法定性為繼承"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 68,
@@ -30708,7 +30733,7 @@ const EXAM_DATA = {
           "D": "某涉外權利質權之準據法為 D 國法，質權標的為債權，為該質權選法"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 69,
@@ -30720,7 +30745,7 @@ const EXAM_DATA = {
           "D": "國法及我國法"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 70,
@@ -30732,7 +30757,7 @@ const EXAM_DATA = {
           "D": "依物之所在地法"
         },
         "year": 107,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 71,
@@ -30744,7 +30769,7 @@ const EXAM_DATA = {
           "D": "美國華盛頓特區法 \n\n \n \n \n \n\f代號：2301 \n頁次：12－12"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 72,
@@ -30756,7 +30781,7 @@ const EXAM_DATA = {
           "D": "選擇適用中華民國法或德國法"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 73,
@@ -30768,7 +30793,7 @@ const EXAM_DATA = {
           "D": "夫妻無合意選法時，應先適用夫妻共同之本國法"
         },
         "year": 107,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 74,
@@ -30780,7 +30805,7 @@ const EXAM_DATA = {
           "D": "我國人甲於日本留學時，見其日本籍同學乙之手錶甚為喜愛，遂以所有之意思占有並戴在身上"
         },
         "year": 107,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 75,
@@ -30792,7 +30817,7 @@ const EXAM_DATA = {
           "D": "相互承認原則，不以某外國已經具體承認我國判決為必要，只要客觀上可期待該外國將來承認我\n\n國之判決為已足"
         },
         "year": 107,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 1,
@@ -30804,7 +30829,7 @@ const EXAM_DATA = {
           "D": "司法院釋字第 392 號解釋認為：憲法第 8 條第 1 項、第 2 項所規定之「審問」，係指法院審理之\n\n訊問，其無審判權者既不得為之，則此兩項所稱之「法院」，當指有審判權之法官所構成之獨任\n\n或合議之法院之謂；法院以外之逮捕拘禁機關，應至遲於 24 小時內，將因犯罪嫌疑被逮捕拘禁之\n\n人民移送該管法院審問"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 2,
@@ -30816,7 +30841,7 @@ const EXAM_DATA = {
           "D": "監察院得逕向立法院提出本法律案"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 3,
@@ -30828,7 +30853,7 @@ const EXAM_DATA = {
           "D": "軍事法院法官於審判中亦得為聲請人"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 4,
@@ -30840,7 +30865,7 @@ const EXAM_DATA = {
           "D": "為求財政公平，中央不得對某些地方自治團體提供特別補助 \n\n \n \n\f代號：2301 \n頁次：12－2"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 5,
@@ -30852,7 +30877,7 @@ const EXAM_DATA = {
           "D": "司法院大法官有時會宣告系爭法律應於一定期限內檢討修正，以符憲法意旨"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 6,
@@ -30864,7 +30889,7 @@ const EXAM_DATA = {
           "D": "立法者應針對不同情況，斟酌個案具體情節，諸如駕駛人是否曾有酒駕或拒絕酒測之紀錄、拒絕\n\n酒測時所駕駛之車輛種類分別規定"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 7,
@@ -30876,7 +30901,7 @@ const EXAM_DATA = {
           "D": "總統於他人刑事案件為證人時，主張刑事豁免之特權，須經高等法院 5 名法官組成特別合議庭之\n\n裁定"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 8,
@@ -30888,7 +30913,7 @@ const EXAM_DATA = {
           "D": "結社自由"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 9,
@@ -30900,7 +30925,7 @@ const EXAM_DATA = {
           "D": "總統解散立法院後，30 日內應舉行立法委員選舉"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 10,
@@ -30912,7 +30937,7 @@ const EXAM_DATA = {
           "D": "正當立法程序 \n\n \n \n \n \n \n\f代號：2301\n頁次：12－3"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 11,
@@ -30924,7 +30949,7 @@ const EXAM_DATA = {
           "D": "兵役法所規定服兵役之義務，與憲法第 7 條平等原則及第 13 條宗教信仰自由之保障，並無牴觸"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 12,
@@ -30936,7 +30961,7 @@ const EXAM_DATA = {
           "D": "各稅之徵收均應明定課徵之用途"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 13,
@@ -30948,7 +30973,7 @@ const EXAM_DATA = {
           "D": "如普通法院審理時錯誤衡量本案基本權利的重要性，敗訴之一方得在窮盡救濟途徑後，以法院解\n\n釋法律的見解違憲而聲請釋憲，司法院大法官當然應予以受理"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 14,
@@ -30960,7 +30985,7 @@ const EXAM_DATA = {
           "D": "律師懲戒委員會之成員，除法官、檢察官外，尚有律師或學者，為職業懲戒組織之通例，於其行\n\n使職業懲戒權法庭之特性並無影響"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 15,
@@ -30972,7 +30997,7 @@ const EXAM_DATA = {
           "D": "訂頒行政規則中之解釋性規定"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 16,
@@ -30984,7 +31009,7 @@ const EXAM_DATA = {
           "D": "仍為有效"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 17,
@@ -30996,7 +31021,7 @@ const EXAM_DATA = {
           "D": "廢止權發生事由包含「附負擔授益行政處分之相對人未履行負擔」 \n\n \n\f代號：2301 \n頁次：12－4"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 18,
@@ -31008,7 +31033,7 @@ const EXAM_DATA = {
           "D": "當事人兩造於言詞辯論期日無正當理由均不到場時，應視為合意停止訴訟程序。如於 4 個月內不\n\n續行訴訟者，一律視為撤回其訴"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 19,
@@ -31020,7 +31045,7 @@ const EXAM_DATA = {
           "D": "縣政府係為行政指導，動物養殖場所有人如明確拒絕，即應停止指導"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 20,
@@ -31032,7 +31057,7 @@ const EXAM_DATA = {
           "D": "電業同業工會受電業主管機關委託辦理電匠考驗及登記"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 21,
@@ -31044,7 +31069,7 @@ const EXAM_DATA = {
           "D": "動物養殖場所有人因此所得之利益"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 22,
@@ -31056,7 +31081,7 @@ const EXAM_DATA = {
           "D": "教育部依消費者保護法公告留遊學業者年度查核結果"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 23,
@@ -31068,7 +31093,7 @@ const EXAM_DATA = {
           "D": "該學生得依行政程序法，請求閱覽學校學生獎懲委員會相關會議紀錄 \n\n \n\f代號：2301\n頁次：12－5"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 24,
@@ -31080,7 +31105,7 @@ const EXAM_DATA = {
           "D": "教師待遇屬給付行政之範圍，縣政府得自行依其財政狀況，以行政規則決定是否採計在職進修之\n\n年資"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 25,
@@ -31092,7 +31117,7 @@ const EXAM_DATA = {
           "D": "該函為職權命令，若甲對該函不服，應向行政院陳情"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 26,
@@ -31104,7 +31129,7 @@ const EXAM_DATA = {
           "D": "直接向行政法院提起行政訴訟"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 27,
@@ -31116,7 +31141,7 @@ const EXAM_DATA = {
           "D": "私人所有而由行政機關管理之供大眾通行之道路"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 28,
@@ -31128,7 +31153,7 @@ const EXAM_DATA = {
           "D": "提起訴願，不服訴願決定，得向臺北高等行政法院提起撤銷訴訟"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 29,
@@ -31140,7 +31165,7 @@ const EXAM_DATA = {
           "D": "提起課予義務訴訟 \n\n \n\f代號：2301 \n頁次：12－6"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 30,
@@ -31152,7 +31177,7 @@ const EXAM_DATA = {
           "D": "應向行政法院聲請為假處分"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 31,
@@ -31164,7 +31189,7 @@ const EXAM_DATA = {
           "D": "訴願提起後，訴願人得隨時撤回訴願"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 32,
@@ -31176,7 +31201,7 @@ const EXAM_DATA = {
           "D": "以公務人員保障暨培訓委員會為受理救濟機關，提起復審"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 33,
@@ -31188,7 +31213,7 @@ const EXAM_DATA = {
           "D": "甲所竊之車輛車主"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 34,
@@ -31200,7 +31225,7 @@ const EXAM_DATA = {
           "D": "甲在現行法制下並無救濟管道"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 35,
@@ -31212,7 +31237,7 @@ const EXAM_DATA = {
           "D": "禁止欠繳稅款之納稅義務人移轉其財產"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 36,
@@ -31224,7 +31249,7 @@ const EXAM_DATA = {
           "D": "主管機關對甲、乙所裁處之罰鍰總額不得逾 30 萬元"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 37,
@@ -31236,7 +31261,7 @@ const EXAM_DATA = {
           "D": "國家公園應受保護之公益 \n\n \n\f38  依現行司法實務見解，A 機關將其主管權限之一部委任所屬下級機關辦理。關於管轄權之變動效果，\n\n代號：2301\n頁次：12－7\n\n下列敘述何者正確？"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 39,
@@ -31248,7 +31273,7 @@ const EXAM_DATA = {
           "D": "基於明確性原則，請求補償其損失"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 40,
@@ -31260,7 +31285,7 @@ const EXAM_DATA = {
           "D": "法規命令如限制人民之權利者，應符合授權明確性之要求"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 41,
@@ -31272,7 +31297,7 @@ const EXAM_DATA = {
           "D": "B 國提出國際法院過去曾有與本案案情類似之確定判決作為抗辯，國際法院法官必須依照「遵循先\n\n例原則」（stare decisis），受到過去國際法院案件判決之拘束"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 42,
@@ -31284,7 +31309,7 @@ const EXAM_DATA = {
           "D": "未定有批准條款之條約經立法院議決及總統公布後，亦可發生國內法效力"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 43,
@@ -31296,7 +31321,7 @@ const EXAM_DATA = {
           "D": "國家的國際不法行為在本質上違反國際義務，可能產生國家責任 \n\n \n\f代號：2301 \n頁次：12－8"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 44,
@@ -31308,7 +31333,7 @@ const EXAM_DATA = {
           "D": "個人若觸犯違反人道罪、破壞和平罪、及滅絕種族罪等，可能受到國際刑事法院之追訴與審理"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 45,
@@ -31320,7 +31345,7 @@ const EXAM_DATA = {
           "D": "世界銀行"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 46,
@@ -31332,7 +31357,7 @@ const EXAM_DATA = {
           "D": "割讓"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 47,
@@ -31344,7 +31369,7 @@ const EXAM_DATA = {
           "D": "1958 年大陸礁層公約對大陸礁層範圍的界定方式與 1982 年海洋法公約相同"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 48,
@@ -31356,7 +31381,7 @@ const EXAM_DATA = {
           "D": "被害人國籍所屬國"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 49,
@@ -31368,7 +31393,7 @@ const EXAM_DATA = {
           "D": "永久中立國不得允許交戰國的傷病人員過境"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 50,
@@ -31380,7 +31405,7 @@ const EXAM_DATA = {
           "D": "根據 1899 年海牙和平解決爭端公約成立於海牙，並無固定成員之法官，只是保存各國推薦之仲裁\n\n人，以供爭端當事國選定俾組成仲裁機構之秘書處"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 51,
@@ -31392,7 +31417,7 @@ const EXAM_DATA = {
           "D": "A 國法。因為依原債權之成立及效力所適用之法律 \n\n \n\f代號：2301\n頁次：12－9"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 52,
@@ -31404,7 +31429,7 @@ const EXAM_DATA = {
           "D": "依結婚時約定之法"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 53,
@@ -31416,7 +31441,7 @@ const EXAM_DATA = {
           "D": "甲與丙之間關於債權讓與之法律關係屬於法律行為發生債之關係，應依債權人行為時之住所地法\n\n為準據法"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 54,
@@ -31428,7 +31453,7 @@ const EXAM_DATA = {
           "D": "受訴法院應於依我國法及 A 國法均具判決離婚事由，始得判決甲、乙離婚"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 55,
@@ -31440,7 +31465,7 @@ const EXAM_DATA = {
           "D": "我國法院應適用泰國法為本案判決"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 56,
@@ -31452,7 +31477,7 @@ const EXAM_DATA = {
           "D": "應各依 B 國法與中華民國法律"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 57,
@@ -31464,7 +31489,7 @@ const EXAM_DATA = {
           "D": "以付款地法為準據法 \n\n \n\f代號：2301 \n頁次：12－10"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 58,
@@ -31476,7 +31501,7 @@ const EXAM_DATA = {
           "D": "準據法應依涉外民事法律適用法第 55 條父母與子女間之法律關係，依子女之本國法"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 59,
@@ -31488,7 +31513,7 @@ const EXAM_DATA = {
           "D": "適用甲選定之 A 國、B 國或 C 國法"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 60,
@@ -31500,7 +31525,7 @@ const EXAM_DATA = {
           "D": "適用 A 國法、B 國法或我國法 \n\n二、複選題（第 61 題至第 70 題，每題 3 分，占 30 分） \n\n說明：所列的五個選項，其中至少有二個是正確答案。各題之選項獨立判定，全部答對者，\n得 3 分；答錯一個選項者，得 1.8 分；答錯二個選項者，得 0.6 分；所有選項均未作答\n或答錯多於二個選項（不含二個）者，該題以零分計算。"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 61,
@@ -31512,7 +31537,7 @@ const EXAM_DATA = {
           "D": "上述規定僅針對進用員工人數逾一定數量之廠商課予義務，違反憲法上之平等原則 \n\n上述規定不符合聯合國原住民族權利宣言及國際勞工組織原住民和部落人民公約保障原住民族之\n\n精神"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 62,
@@ -31524,7 +31549,7 @@ const EXAM_DATA = {
           "D": "人民得經由無線電廣播，以取得資訊之自由 \n\n人民有隨時任意前往他方或停留一定處所之行動自由 \n\n \n \n \n\f代號：2301\n頁次：12－11"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 63,
@@ -31536,7 +31561,7 @@ const EXAM_DATA = {
           "D": "民意代表定期改選乃民主原則核心內容之一 \n\n司法院大法官的法律違憲審查權與民主原則互不相容"
         },
         "year": 106,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 64,
@@ -31548,7 +31573,7 @@ const EXAM_DATA = {
           "D": "集會遊行法以「主張共產主義或分裂國土」為不予許可之要件，使主管機關於許可集會、遊行以\n\n前，得就人民政治上之言論而為審查，與憲法保障表現自由之意旨有違 \n\n就群眾因特殊原因未經召集而偶發聚集之集會、遊行，立法者不得採事前許可制，但仍得要求事\n\n前報備"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 65,
@@ -31560,7 +31585,7 @@ const EXAM_DATA = {
           "D": "當事人提起行政訴訟時，若就同一原因事實合併請求國家賠償，行政法院於此情形下取得國家賠\n\n償訴訟審判權 \n\n依上開規定合併請求損害賠償者，如認行政訴訟部分因不合法而經裁定駁回，其附帶提起國家賠\n\n償之訴部分，仍應為實體審查"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 66,
@@ -31572,7 +31597,7 @@ const EXAM_DATA = {
           "D": "行政契約，如與其內容相同之行政處分有得撤銷之違法原因，則該行政契約亦得撤銷 \n\n具第三人效力之行政處分，未經第三人同意者，不生效力；行政契約履行將侵害第三人權利者，\n\n須經該第三人之書面同意，始生效力 \n\n \n\f代號：2301 \n頁次：12－12"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 67,
@@ -31584,7 +31609,7 @@ const EXAM_DATA = {
           "D": "法律優越原則對所有公法性質之行政行為均有適用 \n\n對個人權利之干預，若獲得個人同意，即可不適用法律保留原則"
         },
         "year": 106,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 68,
@@ -31596,7 +31621,7 @@ const EXAM_DATA = {
           "D": "若該行政契約中未約定甲自願接受執行，勞動力發展署得作成行政處分，限期命甲返還該 8 萬元；\n\n甲逾期仍不履行，得依行政執行法移送強制執行 \n\n若該行政契約中未約定甲自願接受執行，勞動力發展署得向行政法院提起一般給付訴訟，取得勝\n\n訴判決後，以之為執行名義，聲請強制執行"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 69,
@@ -31608,7 +31633,7 @@ const EXAM_DATA = {
           "D": "違章建築經通知限期自動拆除，逾期仍未拆除，建管機關乃執行拆除 \n\n行政機關為取締違章營業，會同水電與瓦斯供應公司執行斷水斷電及停止瓦斯之供應"
         },
         "year": 106,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 70,
@@ -31620,7 +31645,7 @@ const EXAM_DATA = {
           "D": "賠償請求權，自請求權人知有損害時起，因二年間不行使而消滅；自損害發生時起，逾五年者亦同 \n\n依國家賠償法請求損害賠償時，應先以書面向法務部請求協助"
         },
         "year": 106,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 1,
@@ -31632,7 +31657,7 @@ const EXAM_DATA = {
           "D": "由行政院院長或有關部會首長向立法院提出報告並備質詢，經立法院同意，行政院即可停止執行\n\nA 核能電廠預算"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 2,
@@ -31644,7 +31669,7 @@ const EXAM_DATA = {
           "D": "總統命立法院對行政院院長進行信任投票，如不獲通過，總統將解散立法院，由選民決定是否繼\n\n續興建 A 核能電廠"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 3,
@@ -31656,7 +31681,7 @@ const EXAM_DATA = {
           "D": "由立法院提出總統、副總統彈劾案，聲請司法院大法官審理。如憲法法庭判決成立時，乙政黨總\n\n統、副總統應即解職 \n\n \n \n\f 代號：2301 \n頁次：12－2"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 4,
@@ -31668,7 +31693,7 @@ const EXAM_DATA = {
           "D": "對於職業自由之限制，只有限制所謂執行職業之自由時，所採取之手段必須符合比例原則之要求"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 5,
@@ -31680,7 +31705,7 @@ const EXAM_DATA = {
           "D": "言論自由保障的目的之一為實現自我"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 6,
@@ -31692,7 +31717,7 @@ const EXAM_DATA = {
           "D": "普通、平等、秘密"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 7,
@@ -31704,7 +31729,7 @@ const EXAM_DATA = {
           "D": "不起訴處分確定前或後，受羈押之人民，與受無罪判決確定前曾受羈押而喪失自由者，權利均遭\n\n受同等損害，亦應享有回復利益，立法者對之漏未規定，足以形成人民在法律上之不平等，與憲\n\n法第 7 條有所牴觸"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 8,
@@ -31716,7 +31741,7 @@ const EXAM_DATA = {
           "D": "審理政黨解散事項"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 9,
@@ -31728,7 +31753,7 @@ const EXAM_DATA = {
           "D": "權力分立思想與儒家思想不謀而合 \n\n\f代號：2301\n頁次：12－3"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 10,
@@ -31740,7 +31765,7 @@ const EXAM_DATA = {
           "D": "依據司法院大法官解釋，其內容應力求周延，以不得再授權為補充規定即可逕予執行為原則"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 11,
@@ -31752,7 +31777,7 @@ const EXAM_DATA = {
           "D": "對大陸地區人民所為之差別待遇，必須是為追求特別重要的公共利益，且沒有其他侵害較小的手\n\n段，始能通過憲法保障平等權的嚴格審查"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 12,
@@ -31764,7 +31789,7 @@ const EXAM_DATA = {
           "D": "衛生主管機關對於疑似感染狂犬病患者為隔離處分"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 13,
@@ -31776,7 +31801,7 @@ const EXAM_DATA = {
           "D": "該直轄市對行政院的拒絕核定應先提起行政爭訟，待確定終局裁判後主張其基本權利受侵害而聲\n\n請釋憲"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 14,
@@ -31788,7 +31813,7 @@ const EXAM_DATA = {
           "D": "涉及執行法律之技術性、細節性次要事項 \n\n \n \n \n\f 代號：2301 \n頁次：12－4"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 15,
@@ -31800,7 +31825,7 @@ const EXAM_DATA = {
           "D": "C 公司之職員戊違法為 C 公司聘用外籍勞工"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 16,
@@ -31812,7 +31837,7 @@ const EXAM_DATA = {
           "D": "建築主管機關核發甲建築執照，其鄰地所有人主張其日照權被侵害，以自己名義提起訴願"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 17,
@@ -31824,7 +31849,7 @@ const EXAM_DATA = {
           "D": "解除條件"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 18,
@@ -31836,7 +31861,7 @@ const EXAM_DATA = {
           "D": "地方制度法之自律規則"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 19,
@@ -31848,7 +31873,7 @@ const EXAM_DATA = {
           "D": "同年 5 月 3 日"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 20,
@@ -31860,7 +31885,7 @@ const EXAM_DATA = {
           "D": "當事人認為某行政處分無效，提起行政處分無效確認之訴"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 21,
@@ -31872,7 +31897,7 @@ const EXAM_DATA = {
           "D": "提起刑事訴訟"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 22,
@@ -31884,7 +31909,7 @@ const EXAM_DATA = {
           "D": "由 A 縣政府單獨負賠償責任 \n\n \n \n\f23  承上題，若 A 縣政府於 99 年 3 月 2 日作成處分，99 年 6 月 3 日處分經訴願決定撤銷。設乙公司於"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 24,
@@ -31896,7 +31921,7 @@ const EXAM_DATA = {
           "D": "甲可提起確認佔用行為違法之訴訟"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 25,
@@ -31908,7 +31933,7 @@ const EXAM_DATA = {
           "D": "人民若欲請求行政機關未來「不作成」某項行政處分，得提起一般給付訴訟"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 26,
@@ -31920,7 +31945,7 @@ const EXAM_DATA = {
           "D": "委託私人行使公權力"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 27,
@@ -31932,7 +31957,7 @@ const EXAM_DATA = {
           "D": "行政院"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 28,
@@ -31944,7 +31969,7 @@ const EXAM_DATA = {
           "D": "國立大學入學資格考試之錄取"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 29,
@@ -31956,7 +31981,7 @@ const EXAM_DATA = {
           "D": "公法上請求權之權利人必定是人民，行政主體不得擁有公法上權利"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 30,
@@ -31968,7 +31993,7 @@ const EXAM_DATA = {
           "D": "該文化景觀雖經專業委員會審議，若有恣意濫用或違法情事，行政法院仍得加以審查 \n\n \n \n\f 代號：2301 \n頁次：12－6"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 31,
@@ -31980,7 +32005,7 @@ const EXAM_DATA = {
           "D": "斗六糖廠附近允許興建新式辦公大樓，斗六糖廠登錄為文化景觀，因建築各有獨立之文化意義，\n\n不會有違反平等原則之問題"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 32,
@@ -31990,7 +32015,7 @@ const EXAM_DATA = {
           "C": "信賴保護原則"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 33,
@@ -32002,7 +32027,7 @@ const EXAM_DATA = {
           "D": "平等原則"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 34,
@@ -32014,7 +32039,7 @@ const EXAM_DATA = {
           "D": "若為高等行政法院應轉呈最高行政法院聲請司法院解釋"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 35,
@@ -32026,7 +32051,7 @@ const EXAM_DATA = {
           "D": "其他重要事項，經地方行政機關決定應以自治條例規定者"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 36,
@@ -32038,7 +32063,7 @@ const EXAM_DATA = {
           "D": "連續處以新臺幣 10 萬元以下罰鍰 \n\n \n \n \n\f代號：2301\n頁次：12－7"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 37,
@@ -32050,7 +32075,7 @@ const EXAM_DATA = {
           "D": "該罰鍰處分無效，甲提起訴願雖會遭不受理之決定，但得依無瑕疵裁量請求權請求 A 撤銷原處分"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 38,
@@ -32062,7 +32087,7 @@ const EXAM_DATA = {
           "D": "法人為行政程序行為"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 39,
@@ -32074,7 +32099,7 @@ const EXAM_DATA = {
           "D": "當事人地址記載錯誤，行政機關予以更正，非屬行政處分"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 40,
@@ -32086,7 +32111,7 @@ const EXAM_DATA = {
           "D": "對學生懲處之學校內申訴程序"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 41,
@@ -32098,7 +32123,7 @@ const EXAM_DATA = {
           "D": "聯合國安全理事會依聯合國憲章第七章所提出之議案，倘若任何一個常任理事國動用否決權，即\n\n無法通過"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 42,
@@ -32110,7 +32135,7 @@ const EXAM_DATA = {
           "D": "聯合國大會"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 43,
@@ -32122,7 +32147,7 @@ const EXAM_DATA = {
           "D": "在公海上舉行軍事演習以及傳統武器之試射，如未違反和平目的使用，其自由應受保障 \n\n \n\f 代號：2301 \n頁次：12－8"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 44,
@@ -32134,7 +32159,7 @@ const EXAM_DATA = {
           "D": "甲在 A 國領海內劫持懸掛 A 國國旗之船舶 E 逃亡至公海，A 國警察有權於公海上登臨 E 船，逮捕\n\n甲並押解回 A 國接受調查"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 45,
@@ -32146,7 +32171,7 @@ const EXAM_DATA = {
           "D": "乃國家與國家間經由條約方式所形成之同盟關係"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 46,
@@ -32158,7 +32183,7 @@ const EXAM_DATA = {
           "D": "習慣國際法之形成，必須經過相當長期演進，不可能在短期間內形成習慣國際法"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 47,
@@ -32170,7 +32195,7 @@ const EXAM_DATA = {
           "D": "古寺本身領土主權歸柬埔寨，鄰近地區屬泰國，但泰國不得阻止柬國人員進入古寺"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 48,
@@ -32182,7 +32207,7 @@ const EXAM_DATA = {
           "D": "條約之上下文（context）包含序言及附件在內 \n\n \n\f代號：2301\n頁次：12－9"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 49,
@@ -32194,7 +32219,7 @@ const EXAM_DATA = {
           "D": "世界貿易組織（WTO），我國係以「臺、澎、金、馬個別關稅領域」名稱參加，成為正式會員"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 50,
@@ -32206,7 +32231,7 @@ const EXAM_DATA = {
           "D": "懸掛權宜船旗之船舶"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 51,
@@ -32218,7 +32243,7 @@ const EXAM_DATA = {
           "D": "甲是否可以取得 B 物之所有權之時效起始日應自回臺之日起算"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 52,
@@ -32230,7 +32255,7 @@ const EXAM_DATA = {
           "D": "關於侵權行為及不當得利債權均應適用澳洲法"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 53,
@@ -32242,7 +32267,7 @@ const EXAM_DATA = {
           "D": "我國法"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 54,
@@ -32254,7 +32279,7 @@ const EXAM_DATA = {
           "D": "繼承人之本國法"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 55,
@@ -32266,7 +32291,7 @@ const EXAM_DATA = {
           "D": "非因當事人提出之債務給付而發生之不當得利，應依利益之受領地法 \n\n \n \n \n\f 代號：2301 \n頁次：12－10"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 56,
@@ -32278,7 +32303,7 @@ const EXAM_DATA = {
           "D": "基於被收養人與收養人一起生活，收養之成立依收養人之本國法"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 57,
@@ -32290,7 +32315,7 @@ const EXAM_DATA = {
           "D": "限制行為能力。依涉外民事法律適用法第 10 條第 2 項之規定，依我國法甲為限制行為能力人"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 58,
@@ -32302,7 +32327,7 @@ const EXAM_DATA = {
           "D": "甲得主張其長年居住於 A 國，故應以 A 國法決定其結婚是否成立"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 59,
@@ -32314,7 +32339,7 @@ const EXAM_DATA = {
           "D": "應適用該 C 車買賣契約所適用的法律"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 60,
@@ -32326,7 +32351,7 @@ const EXAM_DATA = {
           "D": "在甲、丙間汽車所有權移轉契約的成立及效力，均依我國法 \n\n \n\f代號：2301\n頁次：12－11\n\n二、複選題（第 61 題至第 70 題，每題 3 分，占 30 分） \n    說明：所列的五個選項，其中至少有二個是正確答案。各題之選項獨立判定，全部答對者，\n得 3 分；答錯一個選項者，得 1.8 分；答錯二個選項者，得 0.6 分；所有選項均未作答\n或答錯多於二個選項（不含二個）者，該題以零分計算。"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 61,
@@ -32338,7 +32363,7 @@ const EXAM_DATA = {
           "D": "應以所審理之案件並未終結，仍在訴訟繫屬中為原則，但若涉及重大權利之限制者，亦得於結案\n\n後聲請解釋憲法 \n\n法官因聲請解釋憲法，而裁定停止訴訟程序後，原因案件已不能繼續進行，只要遇有權利限制之\n\n情形，即應為必要之保全、保護或其他適當之處分"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 62,
@@ -32350,7 +32375,7 @@ const EXAM_DATA = {
           "D": "國民主權原則  權力分立原則"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 63,
@@ -32362,7 +32387,7 @@ const EXAM_DATA = {
           "D": "基於國家整體施政之需要，立法者制定法律，針對全民健康保險事項，使地方分擔保險費之補助，\n\n尚非憲法所許 \n\n地方自治團體在法律授權之自治事項範圍內，不受中央法令拘束，享有完全的自主與獨立之地位"
         },
         "year": 105,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 64,
@@ -32374,7 +32399,7 @@ const EXAM_DATA = {
           "D": "檢察總長 \n\n司法院大法官"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 65,
@@ -32386,7 +32411,7 @@ const EXAM_DATA = {
           "D": "民眾請求某縣社會局給付低收入戶生活扶助金 \n\n臺北市自來水事業處請求民眾繳清積欠之水費 \n\n \n \n\f 代號：2301 \n頁次：12－12"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 66,
@@ -32398,7 +32423,7 @@ const EXAM_DATA = {
           "D": "D 因係為把風，此在行政罰法上亦視為一項幫助行為，可減輕處罰 \n\n C 丟棄垃圾與隨地小便之行為，應分別處罰"
         },
         "year": 105,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 67,
@@ -32410,7 +32435,7 @@ const EXAM_DATA = {
           "D": "關於申請公務員迴避之拒絕 \n\n依政府資訊公開法申請公開資訊之拒絕"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 68,
@@ -32422,7 +32447,7 @@ const EXAM_DATA = {
           "D": "係直接對外發生法律效果之規定 \n\n係行政機關所為之規定"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 69,
@@ -32434,7 +32459,7 @@ const EXAM_DATA = {
           "D": "依行政訴訟法第 44 條參加訴訟之行政機關 \n\n依行政訴訟法第 44 條參加訴訟之第三人"
         },
         "year": 105,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 70,
@@ -32446,7 +32471,7 @@ const EXAM_DATA = {
           "D": "人民請求國家賠償，採協議先行原則 \n\n依國家賠償法第 2 條第 3 項規定，賠償義務機關僅於公務員有故意時，對之始有求償權"
         },
         "year": 105,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 99,
@@ -32470,7 +32495,7 @@ const EXAM_DATA = {
           "D": "自由主義"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 2,
@@ -32482,7 +32507,7 @@ const EXAM_DATA = {
           "D": "程序保障功能"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 3,
@@ -32494,7 +32519,7 @@ const EXAM_DATA = {
           "D": "為保護名譽權而限制言論內容之法規範，其違憲審查應採取較為寬鬆之審查標準"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 4,
@@ -32506,7 +32531,7 @@ const EXAM_DATA = {
           "D": "鑒於兩岸目前仍處於分治與對立之狀態，為維護自由民主之憲政秩序，限制之目的應屬合理正當"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 5,
@@ -32518,7 +32543,7 @@ const EXAM_DATA = {
           "D": "公務人員任職後，有依其意願陞遷至特定職缺的權利 \n\n \n \n \n \n \n \n\f 代號：2301 \n頁次：12－2"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 5,
@@ -32530,7 +32555,7 @@ const EXAM_DATA = {
           "D": "因乙係某大學農學院動物學系畢業生"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 6,
@@ -32542,7 +32567,7 @@ const EXAM_DATA = {
           "D": "財產權"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 7,
@@ -32554,7 +32579,7 @@ const EXAM_DATA = {
           "D": "為確保公共秩序與安全，應對所有過往人員盤查，以示公平"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 8,
@@ -32566,7 +32591,7 @@ const EXAM_DATA = {
           "D": "監察院設審計長，由總統提名，經立法院同意任命之；審計長應於行政院提出決算後 4 個月內，\n\n依法完成其審核，並提出審核報告於立法院"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 9,
@@ -32578,7 +32603,7 @@ const EXAM_DATA = {
           "D": "不信任案如未獲通過，得隨時對同一行政院院長再提不信任案"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 10,
@@ -32590,7 +32615,7 @@ const EXAM_DATA = {
           "D": "由立法院推舉副總統候選人，經全民補選之"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 11,
@@ -32602,7 +32627,7 @@ const EXAM_DATA = {
           "D": "臺灣電力股份有限公司"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 12,
@@ -32614,7 +32639,7 @@ const EXAM_DATA = {
           "D": "由法官自治組織以決議行之 \n\n \n \n\f代號：2301\n頁次：12－3"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 13,
@@ -32626,7 +32651,7 @@ const EXAM_DATA = {
           "D": "臺北市議會議員現有總額三分之一以上"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 14,
@@ -32638,7 +32663,7 @@ const EXAM_DATA = {
           "D": "大法官與一般法官相同，均為憲法上之法官"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 15,
@@ -32650,7 +32675,7 @@ const EXAM_DATA = {
           "D": "財政部國有財產署標租國有土地"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 17,
@@ -32662,7 +32687,7 @@ const EXAM_DATA = {
           "D": "菸酒查緝及檢舉案件處理作業要點之規定，未將受處罰者之資力納入考量，明顯屬裁量怠惰"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 18,
@@ -32674,7 +32699,7 @@ const EXAM_DATA = {
           "D": "臺北市政府得規定於該市酒後駕車肇事率達到高峰時，酒品廣告未標示健康警語之違規案件一律\n\n處罰 50 萬元 \n\n \n \n \n\f 代號：2301 \n頁次：12－4"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 19,
@@ -32686,7 +32711,7 @@ const EXAM_DATA = {
           "D": "事實上提供公用"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 20,
@@ -32698,7 +32723,7 @@ const EXAM_DATA = {
           "D": "羈束處分不得轉換為裁量處分"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 21,
@@ -32710,7 +32735,7 @@ const EXAM_DATA = {
           "D": "臺北市政府公告大安森林公園開放使用"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 22,
@@ -32722,7 +32747,7 @@ const EXAM_DATA = {
           "D": "全民健康保險局函知某特約診所負責人，追扣部分已領取之醫療給付"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 23,
@@ -32734,7 +32759,7 @@ const EXAM_DATA = {
           "D": "主管機關不得對甲裁處罰鍰，亦不得裁處吊扣駕駛執照"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 24,
@@ -32746,7 +32771,7 @@ const EXAM_DATA = {
           "D": "地方稅法通則"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 25,
@@ -32758,7 +32783,7 @@ const EXAM_DATA = {
           "D": "行政契約 \n\n \n \n \n \n \n\f代號：2301\n頁次：12－5"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 26,
@@ -32770,7 +32795,7 @@ const EXAM_DATA = {
           "D": "主管機關得對甲公司採取間接強制之執行手段"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 27,
@@ -32782,7 +32807,7 @@ const EXAM_DATA = {
           "D": "自有權撤銷之機關略加調查而不難得知時起算"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 28,
@@ -32794,7 +32819,7 @@ const EXAM_DATA = {
           "D": "委託行使公權力"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 29,
@@ -32804,7 +32829,7 @@ const EXAM_DATA = {
           "C": "制定權限來源"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 30,
@@ -32816,7 +32841,7 @@ const EXAM_DATA = {
           "D": "生效要件"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 31,
@@ -32828,7 +32853,7 @@ const EXAM_DATA = {
           "D": "向行政法院提起課予義務訴訟"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 32,
@@ -32840,7 +32865,7 @@ const EXAM_DATA = {
           "D": "甲無當事人能力 \n\n \n \n \n \n\f 代號：2301 \n頁次：12－6"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 33,
@@ -32852,7 +32877,7 @@ const EXAM_DATA = {
           "D": "行政法院認為某一案件之審判權屬於地方法院民事庭，應依據行政訴訟法之規定，以裁定駁回該\n\n事件"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 34,
@@ -32864,7 +32889,7 @@ const EXAM_DATA = {
           "D": "再審之訴應於 20 日之不變期間內提起"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 35,
@@ -32876,7 +32901,7 @@ const EXAM_DATA = {
           "D": "請求行政法院確認因該行政契約所生之法律關係不存在"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 36,
@@ -32888,7 +32913,7 @@ const EXAM_DATA = {
           "D": "原處分之執行，除法律另有規定外，不因提起行政訴訟而停止"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 37,
@@ -32900,7 +32925,7 @@ const EXAM_DATA = {
           "D": "約聘人員處理公務行使公權力時侵害他人權益之行為"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 38,
@@ -32912,7 +32937,7 @@ const EXAM_DATA = {
           "D": "賠償義務機關皆不得向公務員求償 \n\n\f代號：2301\n頁次：12－7"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 39,
@@ -32924,7 +32949,7 @@ const EXAM_DATA = {
           "D": "該法有關公務員行為之國家賠償規定，只適用於公法行為；如係私法行為，則不適用之"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 40,
@@ -32936,7 +32961,7 @@ const EXAM_DATA = {
           "D": "甲如非明知行政處分違法時，行政機關即不得請求返還"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 41,
@@ -32948,7 +32973,7 @@ const EXAM_DATA = {
           "D": "大使實際上開始執行職務時"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 42,
@@ -32960,7 +32985,7 @@ const EXAM_DATA = {
           "D": "經聯合國大會授權之聯合國其他專門機構"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 43,
@@ -32972,7 +32997,7 @@ const EXAM_DATA = {
           "D": "交戰國禁止使用容易引起過分傷害和不必要痛苦性質的武器"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 44,
@@ -32984,7 +33009,7 @@ const EXAM_DATA = {
           "D": "國際法院規約第 38 條第 1 項規定在第 59 條規定下之司法判例，不僅對當事國及本案有拘束力，\n\n對嗣後之相關案件亦有拘束力"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 45,
@@ -32996,7 +33021,7 @@ const EXAM_DATA = {
           "D": "應為聯合國會員國 \n\n \n \n \n\f 代號：2301 \n頁次：12－8"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 46,
@@ -33008,7 +33033,7 @@ const EXAM_DATA = {
           "D": "被承認國的法令在承認國非當然有效"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 47,
@@ -33020,7 +33045,7 @@ const EXAM_DATA = {
           "D": "危害和平罪"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 48,
@@ -33032,7 +33057,7 @@ const EXAM_DATA = {
           "D": "鋪設海底電纜的專屬權"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 49,
@@ -33044,7 +33069,7 @@ const EXAM_DATA = {
           "D": "因被害人中有 D 國國民，D 國基於被害人國籍原則，主張其有管轄權，但因考量程序正義與證據\n\n取得，D 國可聲明同意在管轄競合時，優先由 A 國管轄"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 50,
@@ -33056,7 +33081,7 @@ const EXAM_DATA = {
           "D": "因歸化取得國籍之外國人，若與歸化國之間欠缺真實聯繫，第三國無義務承認此種歸化之效力"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 51,
@@ -33068,7 +33093,7 @@ const EXAM_DATA = {
           "D": "我國關於行為能力制度原則上採本國法主義，若甲依其本國法為完全行為能力人，則甲與乙所締\n\n結之契約為有效 \n\n\f52  我國人甲與 A 國人乙在 B 國訂立機器採購契約，明文約定就契約所生之一切爭議應依 C 國法解決。\n\n嗣甲、乙就契約履行問題在我國涉訟，訴訟進行中雙方明示合意適用 A 國法，我國法院應如何適用\n\n代號：2301\n頁次：12－9\n\n法律？"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 53,
@@ -33080,7 +33105,7 @@ const EXAM_DATA = {
           "D": "應適用甲之住所地法"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 54,
@@ -33092,7 +33117,7 @@ const EXAM_DATA = {
           "D": "甲、乙之協議離婚與裁判離婚毋須適用同一之準據法"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 55,
@@ -33104,7 +33129,7 @@ const EXAM_DATA = {
           "D": "依甲、乙合意選定之法"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 56,
@@ -33116,7 +33141,7 @@ const EXAM_DATA = {
           "D": "受訴法院應以我國法為準據法而為判決"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 57,
@@ -33128,7 +33153,7 @@ const EXAM_DATA = {
           "D": "我國法 \n\n \n \n \n \n \n \n\f 代號：2301 \n頁次：12－10"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 58,
@@ -33140,7 +33165,7 @@ const EXAM_DATA = {
           "D": "當事人之本國法"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 59,
@@ -33152,7 +33177,7 @@ const EXAM_DATA = {
           "D": "應適用之 A 國法，以其實體法之規定為限"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 60,
@@ -33164,7 +33189,7 @@ const EXAM_DATA = {
           "D": "上開各種判決 \n\n二、複選題（第 61 題至第 70 題，每題 3 分，占 30 分） \n    說明：所列的五個選項，其中至少有二個是正確答案。各題之選項獨立判定，全部答對者，\n得 3 分；答錯一個選項者，得 1.8 分；答錯二個選項者，得 0.6 分；所有選項均未作答\n或答錯多於二個選項（不含二個）者，該題以零分計算。"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 61,
@@ -33176,7 +33201,7 @@ const EXAM_DATA = {
           "D": "修憲逾越修憲界限不待司法院大法官的宣告當然無效 \n\n修憲界限以憲法有明文規定者為限"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 62,
@@ -33188,7 +33213,7 @@ const EXAM_DATA = {
           "D": "群眾因特殊原因未經召集自發聚集之偶發性集會、遊行，仍應事先申請許可 \n\n憲法第 14 條規定人民集會自由之保障範圍，包括緊急性集會、遊行 \n\n \n \n \n\f代號：2301\n頁次：12－11"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 63,
@@ -33200,7 +33225,7 @@ const EXAM_DATA = {
           "D": "縣、市升格為直轄市後，現任縣、市長任期延長 1 年，純屬過渡性質，且為改善制度所必須，與\n\n憲法民主政治基本原則並不違背 \n\n總統選舉提前與立法委員選舉在同一日舉行，可節省社會資源，提昇政治穩定，與憲法民主政治\n\n基本原則並不違背"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 64,
@@ -33212,7 +33237,7 @@ const EXAM_DATA = {
           "D": "各機關執行歲出分配預算，應按月或分期實施計畫之完成進度與經費支用之實際狀況逐級考核之，\n\n並由中央主計機關將重要事項考核報告送立法院備查，且總預算內各機關、各政事及計畫或業務\n\n科目間之經費，不得互相流用 \n\n法定預算雖涉及重要政策，但主管機關對執行與否乃其實質行政行為，應有裁量餘地，並得依中\n\n央政府附屬單位預算執行要點核定停辦"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 65,
@@ -33224,7 +33249,7 @@ const EXAM_DATA = {
           "D": "市之區長"
         },
         "year": 104,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 66,
@@ -33236,7 +33261,7 @@ const EXAM_DATA = {
           "D": "負有行為義務而不為，其行為不能由他人代為履行者，得課予怠金 \n\n人民對於行政執行之方法不服，經聲明異議仍未獲救濟，對於該異議之決定得逕行提起行政訴訟 \n\n \n \n \n\f 代號：2301 \n頁次：12－12"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 67,
@@ -33248,7 +33273,7 @@ const EXAM_DATA = {
           "D": "因徵收處分已執行完畢而不存在，故應提起確認徵收處分違法訴訟 \n\n因已不得提起撤銷訴訟，故僅得提起確認徵收處分違法訴訟"
         },
         "year": 104,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 68,
@@ -33260,7 +33285,7 @@ const EXAM_DATA = {
           "D": "在起訴前，保全證據之聲請係向證物所在地之地方法院行政訴訟庭為之 \n\n各類涉及不動產之行政訴訟事件，皆專屬不動產所在地之行政法院管轄"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 69,
@@ -33272,7 +33297,7 @@ const EXAM_DATA = {
           "D": "確認行政處分違法訴訟與合併請求損害賠償訴訟 \n\n確認行政處分無效訴訟與合併請求損害賠償訴訟"
         },
         "year": 104,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 70,
@@ -33284,7 +33309,7 @@ const EXAM_DATA = {
           "D": "甲向健保署申請 20 萬元之健保給付被駁回，甲提起行政訴訟後不久，甲將請求變更為 70 萬元，\n\n本案應由原本的簡易訴訟程序變更為通常訴訟程序 \n\n對於簡易訴訟程序之裁判不服提起之上訴或抗告，如有統一見解之必要，得逕向最高行政法院為之"
         },
         "year": 104,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 1,
@@ -33296,7 +33321,7 @@ const EXAM_DATA = {
           "D": "司法院院長不具大法官身分"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 2,
@@ -33308,7 +33333,7 @@ const EXAM_DATA = {
           "D": "內政部入出國及移民署暫時收容之期間，不得超過 30 日"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 3,
@@ -33320,7 +33345,7 @@ const EXAM_DATA = {
           "D": "我國司法院大法官曾作出解釋反對層級化法律保留體系"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 4,
@@ -33332,7 +33357,7 @@ const EXAM_DATA = {
           "D": "大學自治事項之範圍包括內部組織、課程設計、研究內容、學力評鑑、考試規則、畢業條件及入學資格"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 5,
@@ -33344,7 +33369,7 @@ const EXAM_DATA = {
           "D": "依憲法規定對通過之法律案提起覆議 \n\n \n \n \n \n\f 代號：2301 \n頁次：12－2"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 6,
@@ -33356,7 +33381,7 @@ const EXAM_DATA = {
           "D": "法官縱認判例違憲，審判時仍須受該判例拘束"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 7,
@@ -33368,7 +33393,7 @@ const EXAM_DATA = {
           "D": "共和國概念涉及國家元首的產生方式"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 8,
@@ -33380,7 +33405,7 @@ const EXAM_DATA = {
           "D": "無論誰提出聲請，只要大法官作出為違憲解釋即可"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 9,
@@ -33392,7 +33417,7 @@ const EXAM_DATA = {
           "D": "與憲法要求之明確性原則不符"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 10,
@@ -33404,7 +33429,7 @@ const EXAM_DATA = {
           "D": "人性尊嚴"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 11,
@@ -33416,7 +33441,7 @@ const EXAM_DATA = {
           "D": "餐廳雖為公共領域，在合理期待範圍內甲與乙仍得主張隱私權保障 \n\n \n \n\f代號：2301\n頁次：12－3"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 12,
@@ -33428,7 +33453,7 @@ const EXAM_DATA = {
           "D": "該被推薦之人的「被選舉權」"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 13,
@@ -33440,7 +33465,7 @@ const EXAM_DATA = {
           "D": "本案該政黨於其提名非屬其黨籍之候選人而被主管機關拒絕登記後提起訴訟，得在窮盡救濟途徑\n\n後聲請釋憲"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 14,
@@ -33452,7 +33477,7 @@ const EXAM_DATA = {
           "D": "區域選出之立法委員皆屬於委任代表，只對原選區選民負責"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 15,
@@ -33464,7 +33489,7 @@ const EXAM_DATA = {
           "D": "財政部對納稅義務人所為限制出境處分，於訴願程序中記明理由"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 16,
@@ -33476,7 +33501,7 @@ const EXAM_DATA = {
           "D": "對已決定或已撤回之訴願事件重行提起訴願者"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 17,
@@ -33488,7 +33513,7 @@ const EXAM_DATA = {
           "D": "臺北市居民甲，不服高雄市政府環境保護局之處分，由受委託之高雄市某律師代為提起之訴願 \n\n \n\f 代號：2301 \n頁次：12－4"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 18,
@@ -33498,7 +33523,7 @@ const EXAM_DATA = {
           "C": "提供公開閱覽抄寫複印"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 19,
@@ -33510,7 +33535,7 @@ const EXAM_DATA = {
           "D": "舉行記者會、說明會"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 20,
@@ -33522,7 +33547,7 @@ const EXAM_DATA = {
           "D": "執行斷水、斷電、切斷瓦斯"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 21,
@@ -33534,7 +33559,7 @@ const EXAM_DATA = {
           "D": "除應審酌違法行為之嚴重性及影響性外，裁處罰鍰時尚應審酌因違法行為所受之利益"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 22,
@@ -33546,7 +33571,7 @@ const EXAM_DATA = {
           "D": "10 年"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 23,
@@ -33558,7 +33583,7 @@ const EXAM_DATA = {
           "D": "對原處分為補正"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 24,
@@ -33570,7 +33595,7 @@ const EXAM_DATA = {
           "D": "必要衡量原則"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 25,
@@ -33582,7 +33607,7 @@ const EXAM_DATA = {
           "D": "勒令歇業"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 26,
@@ -33594,7 +33619,7 @@ const EXAM_DATA = {
           "D": "公平交易委員會為合議制機關"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 27,
@@ -33606,7 +33631,7 @@ const EXAM_DATA = {
           "D": "明確性原則 \n\n \n \n \n \n\f代號：2301\n頁次：12－5"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 28,
@@ -33618,7 +33643,7 @@ const EXAM_DATA = {
           "D": "前者之締結主體限於行政機關，後者之作成不限於行政機關"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 29,
@@ -33630,7 +33655,7 @@ const EXAM_DATA = {
           "D": "向行政院提起訴願後，再向臺北高等行政法院提起行政訴訟，請求撤銷繳還押標金通知"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 30,
@@ -33642,7 +33667,7 @@ const EXAM_DATA = {
           "D": "一般處分作成前，行政機關得不給予陳述意見之機會"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 31,
@@ -33654,7 +33679,7 @@ const EXAM_DATA = {
           "D": "設若甲於接獲該公函之際，即循序提起撤銷訴訟，其亦得於本案合併請求國家賠償"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 32,
@@ -33666,7 +33691,7 @@ const EXAM_DATA = {
           "D": "向公務人員保障暨培訓委員會提起復審 \n\n \n \n\f 代號：2301 \n頁次：12－6"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 33,
@@ -33678,7 +33703,7 @@ const EXAM_DATA = {
           "D": "A、B 及甲三者負連帶責任"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 34,
@@ -33690,7 +33715,7 @@ const EXAM_DATA = {
           "D": "若依據行政訴訟之確定裁判，債務人應為一定之給付而不為者，債權人得以該裁判為執行名義，\n\n聲請地方法院行政訴訟庭強制執行"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 35,
@@ -33702,7 +33727,7 @@ const EXAM_DATA = {
           "D": "共同訴訟人須得全體同意，始得續行訴訟"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 36,
@@ -33714,7 +33739,7 @@ const EXAM_DATA = {
           "D": "拒絕給予當事人閱卷之機會"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 37,
@@ -33726,7 +33751,7 @@ const EXAM_DATA = {
           "D": "行政指導"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 38,
@@ -33738,7 +33763,7 @@ const EXAM_DATA = {
           "D": "裁罰處分違法；財政部訂頒之「倍數參考表」不具有直接對外之效力，不得作為稅捐稽徵機關裁\n\n罰之法令依據 \n\n \n \n\f代號：2301\n頁次：12－7"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 39,
@@ -33750,7 +33775,7 @@ const EXAM_DATA = {
           "D": "交通裁決事件起訴前免經訴願程序，但仍應由當事人於起訴前向原處分機關請求「重新審查」"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 40,
@@ -33762,7 +33787,7 @@ const EXAM_DATA = {
           "D": "除有再審議之事由，得聲請再審議外，並無救濟途徑"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 41,
@@ -33774,7 +33799,7 @@ const EXAM_DATA = {
           "D": "維也納關於國家在條約方面繼承的公約"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 42,
@@ -33786,7 +33811,7 @@ const EXAM_DATA = {
           "D": "條約當事國，不得賦予第三國某種權利"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 43,
@@ -33798,7 +33823,7 @@ const EXAM_DATA = {
           "D": "若多邊條約中並無任何有關保留問題之規定，但甲國仍對特定條款提出保留，則此種保留可否接\n\n受端視該保留是否與公約之目的與宗旨相一致為斷 \n\n \n\f 代號：2301 \n頁次：12－8"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 44,
@@ -33810,7 +33835,7 @@ const EXAM_DATA = {
           "D": "第三國可以承認叛亂團體為叛軍佔領區內之事實當局，與其維持關係"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 45,
@@ -33822,7 +33847,7 @@ const EXAM_DATA = {
           "D": "外國人或外國公司對於被徵收財產的補償，同意以「全部總額解決」方式處理"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 46,
@@ -33834,7 +33859,7 @@ const EXAM_DATA = {
           "D": "被請求國經由引渡程序，將人犯解交請求國時，請求國僅能就引渡請求書所載之犯罪為追訴或處罰"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 47,
@@ -33846,7 +33871,7 @@ const EXAM_DATA = {
           "D": "由基線起算最多不得超過 12 海里"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 48,
@@ -33858,7 +33883,7 @@ const EXAM_DATA = {
           "D": "違反人道罪"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 49,
@@ -33870,7 +33895,7 @@ const EXAM_DATA = {
           "D": "聯合國憲章、世界人權宣言及經濟、社會、文化權利國際公約 \n\n \n \n\f代號：2301\n頁次：12－9"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 50,
@@ -33882,7 +33907,7 @@ const EXAM_DATA = {
           "D": "武裝衝突雙方進行激烈的城市戰，其中，攻擊「禮拜場所、房屋、學校」等之軍事行動違反區分原則"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 51,
@@ -33894,7 +33919,7 @@ const EXAM_DATA = {
           "D": "我國法"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 52,
@@ -33906,7 +33931,7 @@ const EXAM_DATA = {
           "D": "累積適用我國和法國法"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 53,
@@ -33918,7 +33943,7 @@ const EXAM_DATA = {
           "D": "我國僅承認地域管轄權的合意，不承認國際管轄權的合意"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 54,
@@ -33930,7 +33955,7 @@ const EXAM_DATA = {
           "D": "關於船舶之物權依船籍國法；航空器之物權，依登記國法"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 55,
@@ -33942,7 +33967,7 @@ const EXAM_DATA = {
           "D": "其許可強制執行之判決，違反實質再審查禁止原則 \n\n \n \n\f 代號：2301 \n頁次：12－10"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 56,
@@ -33954,7 +33979,7 @@ const EXAM_DATA = {
           "D": "如有相當理由足認該事件之外國法院判決在我國有承認其效力之可能，並於被告在外國應訴無重\n\n大不便者，我國法院得在外國法院判決確定前裁定停止訴訟程序"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 57,
@@ -33966,7 +33991,7 @@ const EXAM_DATA = {
           "D": "我國法"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 58,
@@ -33978,7 +34003,7 @@ const EXAM_DATA = {
           "D": "依甲乙合意選擇之我國法、韓國法或英國法"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 59,
@@ -33990,7 +34015,7 @@ const EXAM_DATA = {
           "D": "甲丙合意選擇之法"
         },
         "year": 103,
-        "answer": null
+        "answer": "A"
       },
       {
         "number": 60,
@@ -34002,7 +34027,7 @@ const EXAM_DATA = {
           "D": "本案應反致適用我國法 \n\n二、複選題（第 61 題至第 70 題，每題 3 分，占 30 分） \n\n說明：所列的五個選項，其中至少有二個是正確答案。各題之選項獨立判定，全部答對者，\n得 3 分；答錯一個選項者，得 1.8 分；答錯二個選項者，得 0.6 分；所有選項均未作答\n或答錯多於二個選項（不含二個）者，該題以零分計算。"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 61,
@@ -34014,7 +34039,7 @@ const EXAM_DATA = {
           "D": "行為人對指摘或傳述誹謗事項，必須自行證明其言論內容確屬真實，始能免於刑責 \n\n行為人不能證明言論內容為真實者，即可以誹謗罪之刑責相繩 \n\n \n\f代號：2301\n頁次：12－11"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 62,
@@ -34026,7 +34051,7 @@ const EXAM_DATA = {
           "D": "甲得以丙未到會備詢，違反憲法第 67 條第 2 項之規定，而刪減中央對地方自治團體補助款之預算 \n\n甲在社會福利及衛生環境委員會內之發言，均不受言論免責權之保障"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 63,
@@ -34038,7 +34063,7 @@ const EXAM_DATA = {
           "D": "如有法律規定警察可實施「強制酒測」，則涉及當事人的「名譽權」（憲法第 22 條） \n\n如有法律規定警察於此可為「預防性羈押」且依此而實施者，則涉及當事人的「人格權」（憲法第 22 條）"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 64,
@@ -34050,7 +34075,7 @@ const EXAM_DATA = {
           "D": "依釋字第 633 號解釋意旨，三一九槍擊事件真相調查特別委員會得調用行政機關之適當人員兼充\n\n協同調查人員，該行政機關不得拒絕之規定，與權力分立原則無違 \n\n依釋字第 645 號解釋意旨，公民投票法有關行政院公民投票審議委員會，「由各政黨依立法院各\n\n黨團席次比例推荐，送交主管機關提請總統任命之」之規定，與權力分立原則無違 \n\n \n\f 代號：2301 \n頁次：12－12"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 65,
@@ -34062,7 +34087,7 @@ const EXAM_DATA = {
           "D": "人民不服受委託行使公權力之團體或個人所為之行政處分時，由原委託機關之直接上級機關管轄訴願 \n\n受委託行使公權力所需之費用，除另有約定外，由原委託機關支付"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 66,
@@ -34074,7 +34099,7 @@ const EXAM_DATA = {
           "D": "監督機關對於地方自治事項之辦理予以撤銷"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 67,
@@ -34086,7 +34111,7 @@ const EXAM_DATA = {
           "D": "主管機關調查違法行為時，甲工廠配合之程度 \n\n甲工廠之員工係出於故意或過失而為違法行為"
         },
         "year": 103,
-        "answer": null
+        "answer": "B"
       },
       {
         "number": 68,
@@ -34098,7 +34123,7 @@ const EXAM_DATA = {
           "D": "依據訴願法規定，「原行政處分之合法性顯有疑義」本身即構成停止執行之原因 \n\n在訴願程序進行中，人民不得向行政法院聲請停止執行"
         },
         "year": 103,
-        "answer": null
+        "answer": "D"
       },
       {
         "number": 69,
@@ -34110,7 +34135,7 @@ const EXAM_DATA = {
           "D": "人民向行政機關申請核發公法上金錢給付被駁回，應提起一般給付訴訟 \n\n人民向行政機關請求為事實行為遭拒，原則上不得提起「確認該機關具有給付義務」之確認訴訟"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       },
       {
         "number": 70,
@@ -34122,7 +34147,7 @@ const EXAM_DATA = {
           "D": "行政訴訟繫屬後，被告死亡者，原告應重新向繼受該訴訟之被告住居所地行政法院重新起訴 \n\n因特別情形由有管轄權之行政法院審判，恐影響公安或難期公平者，仍得指定其他行政法院管轄"
         },
         "year": 103,
-        "answer": null
+        "answer": "C"
       }
     ],
     "totalByYear": {
@@ -34138,11 +34163,16 @@ const EXAM_DATA = {
       "112": 73
     },
     "answeredYears": [
-      112,
-      111,
-      110,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
       109,
-      108
+      110,
+      111,
+      112
     ]
   }
 };
