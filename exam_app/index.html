@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>歷屆考畢題答查詢</title>
-    <meta name="description" content="律師、司法官考試歷屆考畢試題與答案查詢 (102年~114年)">
+    <meta name="description" content="律師、司法官考試歷屆試題與答案 — 隨機 75 題模擬測驗 + PDF 瀏覽 (102~114年)">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&display=swap"
         rel="stylesheet">
     <style>
@@ -18,7 +18,7 @@
             --accent1: #667eea;
             --accent2: #764ba2;
             --correct: #4caf50;
-            --warn: #ff9800;
+            --wrong: #ef5350;
             --q-blue: #42a5f5;
             --a-green: #66bb6a;
             --m-orange: #ffa726;
@@ -36,38 +36,32 @@
             background: var(--bg);
             min-height: 100vh;
             color: var(--text);
-            overflow-x: hidden;
         }
 
         body::before {
             content: '';
             position: fixed;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: radial-gradient(ellipse at 20% 50%, rgba(102, 126, 234, 0.15) 0%, transparent 50%),
-                radial-gradient(ellipse at 80% 80%, rgba(118, 75, 162, 0.12) 0%, transparent 50%);
+            inset: 0;
+            background: radial-gradient(ellipse at 20% 50%, rgba(102, 126, 234, .15) 0%, transparent 50%), radial-gradient(ellipse at 80% 80%, rgba(118, 75, 162, .12) 0%, transparent 50%);
             pointer-events: none;
-            z-index: 0;
         }
 
         .container {
-            max-width: 960px;
+            max-width: 720px;
             margin: 0 auto;
-            padding: 20px;
+            padding: 16px;
             position: relative;
             z-index: 1;
         }
 
         /* Header */
-        .app-header {
+        .hdr {
             text-align: center;
-            padding: 30px 0 10px;
+            padding: 24px 0 8px;
         }
 
-        .app-header h1 {
-            font-size: 2rem;
+        .hdr h1 {
+            font-size: 1.8rem;
             font-weight: 900;
             background: linear-gradient(135deg, #667eea, #a78bfa, #f472b6);
             -webkit-background-clip: text;
@@ -75,344 +69,464 @@
             background-clip: text;
         }
 
-        .app-header .subtitle {
+        .hdr .sub {
             color: var(--text2);
-            margin-top: 6px;
-            font-size: 0.9rem;
+            font-size: .85rem;
+            margin-top: 4px;
         }
 
-        /* Random Mode Buttons */
-        .random-bar {
+        /* Tabs */
+        .tabs {
             display: flex;
-            gap: 10px;
-            justify-content: center;
-            flex-wrap: wrap;
-            margin: 20px 0 24px;
+            gap: 6px;
+            margin: 16px 0;
+            background: var(--surface);
+            border-radius: 50px;
+            padding: 4px;
         }
 
-        .rand-btn {
-            padding: 12px 24px;
+        .tab {
+            flex: 1;
+            padding: 10px;
             border: none;
             border-radius: 50px;
+            background: transparent;
+            color: var(--text2);
+            font-size: .9rem;
+            font-weight: 600;
             cursor: pointer;
-            font-size: 0.95rem;
-            font-weight: 700;
             font-family: inherit;
-            transition: all 0.25s;
-            display: flex;
-            align-items: center;
-            gap: 8px;
+            transition: all .25s;
         }
 
-        .rand-btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
-        }
-
-        .rand-btn:active {
-            transform: translateY(0);
-        }
-
-        .rand-full {
+        .tab.active {
             background: linear-gradient(135deg, #667eea, #764ba2);
             color: #fff;
         }
 
-        .rand-subject {
-            background: linear-gradient(135deg, #f59e0b, #ef4444);
-            color: #fff;
-        }
-
-        /* Subject Dropdown for "same subject" mode */
-        .subject-picker {
+        /* ========== QUIZ MODE ========== */
+        #quiz-view {
             display: none;
-            justify-content: center;
-            flex-wrap: wrap;
-            gap: 8px;
-            margin-bottom: 20px;
-            animation: fadeIn 0.3s ease;
         }
 
-        .subject-picker.show {
-            display: flex;
-        }
-
-        .subj-chip {
-            padding: 10px 18px;
-            border: 2px solid var(--surface2);
-            border-radius: 50px;
-            background: var(--surface);
-            color: var(--text);
-            cursor: pointer;
-            font-size: 0.85rem;
-            font-weight: 500;
-            font-family: inherit;
-            transition: all 0.2s;
-        }
-
-        .subj-chip:hover {
-            border-color: var(--accent1);
-            background: rgba(102, 126, 234, 0.15);
-        }
-
-        /* Random Result Card */
-        .random-result {
-            display: none;
-            text-align: center;
-            margin: 0 auto 28px;
-            background: linear-gradient(135deg, rgba(102, 126, 234, 0.15), rgba(118, 75, 162, 0.15));
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            border-radius: var(--radius);
-            padding: 28px;
-            max-width: 600px;
-            animation: slideUp 0.4s ease;
-        }
-
-        .random-result.show {
+        #quiz-view.active {
             display: block;
         }
 
-        .random-result .dice {
-            font-size: 3rem;
-            margin-bottom: 10px;
-        }
-
-        .random-result .result-year {
-            font-size: 1.5rem;
-            font-weight: 900;
-            color: var(--accent1);
-        }
-
-        .random-result .result-subject {
-            font-size: 1rem;
-            color: var(--text2);
-            margin: 6px 0 16px;
-        }
-
-        .random-result .result-btns {
-            display: flex;
+        /* Subject Selector */
+        .subj-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
             gap: 10px;
-            justify-content: center;
-            flex-wrap: wrap;
+            margin-bottom: 16px;
         }
 
-        .random-result .btn {
-            padding: 10px 22px;
-            border-radius: 8px;
-            text-decoration: none;
-            font-size: 0.9rem;
-            font-weight: 600;
-            transition: all 0.2s;
+        .subj-card {
+            background: var(--surface);
+            border: 2px solid rgba(255, 255, 255, .06);
+            border-radius: var(--radius);
+            padding: 16px;
+            cursor: pointer;
+            text-align: center;
+            transition: all .2s;
         }
 
-        .random-result .btn:hover {
+        .subj-card:hover {
+            border-color: var(--accent1);
             transform: translateY(-2px);
         }
 
-        .btn-q {
-            background: rgba(66, 165, 245, 0.2);
-            color: var(--q-blue);
+        .subj-card .icon {
+            font-size: 2rem;
+            margin-bottom: 6px;
         }
 
-        .btn-a {
-            background: rgba(102, 187, 106, 0.2);
-            color: var(--a-green);
+        .subj-card .name {
+            font-size: .85rem;
+            font-weight: 600;
+            line-height: 1.3;
         }
 
-        .btn-m {
-            background: rgba(255, 167, 38, 0.2);
-            color: var(--m-orange);
-        }
-
-        .rand-again {
-            margin-top: 14px;
-            padding: 8px 20px;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            border-radius: 50px;
-            background: transparent;
+        .subj-card .cnt {
+            font-size: .75rem;
             color: var(--text2);
+            margin-top: 4px;
+        }
+
+        /* Quiz UI */
+        #quiz-active {
+            display: none;
+        }
+
+        .prog-bar {
+            background: var(--surface);
+            border-radius: 50px;
+            height: 8px;
+            margin-bottom: 6px;
+            overflow: hidden;
+        }
+
+        .prog-fill {
+            height: 100%;
+            background: linear-gradient(90deg, var(--accent1), var(--accent2));
+            border-radius: 50px;
+            transition: width .3s;
+            width: 0;
+        }
+
+        .prog-meta {
+            display: flex;
+            justify-content: space-between;
+            font-size: .8rem;
+            color: var(--text2);
+            margin-bottom: 16px;
+        }
+
+        .q-card {
+            background: var(--surface);
+            border: 1px solid rgba(255, 255, 255, .08);
+            border-radius: var(--radius);
+            padding: 20px;
+            margin-bottom: 12px;
+            animation: slideUp .35s ease;
+        }
+
+        .q-head {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px;
+        }
+
+        .q-num {
+            background: var(--accent1);
+            color: #fff;
+            font-size: .75rem;
+            font-weight: 700;
+            padding: 3px 10px;
+            border-radius: 20px;
+        }
+
+        .q-src {
+            font-size: .75rem;
+            color: var(--text2);
+        }
+
+        .q-text {
+            font-size: .95rem;
+            line-height: 1.6;
+            margin-bottom: 16px;
+            white-space: pre-line;
+        }
+
+        .opt-btn {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            width: 100%;
+            padding: 12px 14px;
+            margin-bottom: 8px;
+            background: var(--surface2);
+            border: 2px solid transparent;
+            border-radius: 10px;
+            cursor: pointer;
+            text-align: left;
+            font-family: inherit;
+            font-size: .88rem;
+            color: var(--text);
+            line-height: 1.5;
+            transition: all .2s;
+        }
+
+        .opt-btn:hover:not(.disabled) {
+            border-color: var(--accent1);
+            background: rgba(102, 126, 234, .1);
+        }
+
+        .opt-btn .ltr {
+            min-width: 28px;
+            height: 28px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, .1);
+            font-weight: 700;
+            font-size: .8rem;
+            flex-shrink: 0;
+            transition: all .2s;
+        }
+
+        .opt-btn.correct {
+            border-color: var(--correct);
+            background: rgba(76, 175, 80, .12);
+        }
+
+        .opt-btn.correct .ltr {
+            background: var(--correct);
+            color: #fff;
+        }
+
+        .opt-btn.wrong {
+            border-color: var(--wrong);
+            background: rgba(239, 83, 80, .12);
+        }
+
+        .opt-btn.wrong .ltr {
+            background: var(--wrong);
+            color: #fff;
+        }
+
+        .opt-btn.disabled {
+            opacity: .6;
+            cursor: default;
+        }
+
+        .ans-info {
+            font-size: .85rem;
+            padding: 10px 14px;
+            border-radius: 8px;
+            background: rgba(255, 255, 255, .04);
+            margin-top: 8px;
+            display: none;
+        }
+
+        .ans-info.show {
+            display: block;
+            animation: fadeIn .3s;
+        }
+
+        .nav-row {
+            display: flex;
+            gap: 10px;
+            margin-top: 12px;
+        }
+
+        .nav-btn {
+            flex: 1;
+            padding: 12px;
+            border: none;
+            border-radius: 10px;
+            font-size: .95rem;
+            font-weight: 700;
             cursor: pointer;
             font-family: inherit;
-            font-size: 0.85rem;
-            transition: all 0.2s;
+            transition: all .2s;
         }
 
-        .rand-again:hover {
-            border-color: var(--accent1);
-            color: var(--text);
+        .nav-btn.primary {
+            background: linear-gradient(135deg, var(--accent1), var(--accent2));
+            color: #fff;
         }
 
-        /* Year Sections */
-        .year-section {
+        .nav-btn.primary:disabled {
+            opacity: .4;
+            cursor: default;
+        }
+
+        .nav-btn.ghost {
             background: var(--surface);
-            border: 1px solid rgba(255, 255, 255, 0.06);
+            color: var(--text2);
+            border: 1px solid rgba(255, 255, 255, .1);
+        }
+
+        /* Result */
+        #quiz-result {
+            display: none;
+            text-align: center;
+            animation: slideUp .4s ease;
+        }
+
+        #quiz-result .big {
+            font-size: 4rem;
+        }
+
+        #quiz-result h2 {
+            margin: 8px 0;
+        }
+
+        .score {
+            font-size: 3rem;
+            font-weight: 900;
+            background: linear-gradient(135deg, var(--correct), var(--accent1));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .stats {
+            display: flex;
+            gap: 12px;
+            justify-content: center;
+            margin: 16px 0;
+        }
+
+        .stat {
+            background: var(--surface);
             border-radius: var(--radius);
-            margin-bottom: 12px;
-            overflow: hidden;
-            transition: all 0.2s;
-        }
-
-        .year-section:hover {
-            border-color: rgba(255, 255, 255, 0.12);
-        }
-
-        .year-header {
             padding: 14px 20px;
+            min-width: 80px;
+        }
+
+        .stat .v {
+            font-size: 1.4rem;
+            font-weight: 800;
+        }
+
+        .stat .l {
+            font-size: .75rem;
+            color: var(--text2);
+            margin-top: 2px;
+        }
+
+        /* ========== PDF MODE ========== */
+        #pdf-view {
+            display: none;
+        }
+
+        #pdf-view.active {
+            display: block;
+        }
+
+        .yr-sec {
+            background: var(--surface);
+            border: 1px solid rgba(255, 255, 255, .06);
+            border-radius: var(--radius);
+            margin-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .yr-hdr {
+            padding: 14px 18px;
             cursor: pointer;
             user-select: none;
             display: flex;
             justify-content: space-between;
             align-items: center;
-            background: rgba(255, 255, 255, 0.03);
-            transition: background 0.2s;
+            background: rgba(255, 255, 255, .03);
+            transition: background .2s;
         }
 
-        .year-header:hover {
-            background: rgba(255, 255, 255, 0.06);
+        .yr-hdr:hover {
+            background: rgba(255, 255, 255, .06);
         }
 
-        .year-header .year-title {
-            font-size: 1.05rem;
+        .yr-hdr .t {
             font-weight: 700;
         }
 
-        .year-header .meta {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-
-        .count-badge {
-            background: rgba(102, 126, 234, 0.2);
+        .yr-hdr .badge {
+            background: rgba(102, 126, 234, .2);
             color: var(--accent1);
-            padding: 3px 12px;
+            padding: 2px 10px;
             border-radius: 20px;
-            font-size: 0.8rem;
+            font-size: .8rem;
             font-weight: 600;
         }
 
-        .arrow {
-            transition: transform 0.3s;
-            font-size: 0.9rem;
+        .yr-hdr .arrow {
+            transition: transform .3s;
             color: var(--text2);
         }
 
-        .year-header.open .arrow {
+        .yr-hdr.open .arrow {
             transform: rotate(180deg);
         }
 
-        .year-body {
+        .yr-body {
             display: none;
         }
 
-        .year-body.open {
+        .yr-body.open {
             display: block;
         }
 
-        .exam-row {
+        .ex-row {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            padding: 12px 20px;
-            border-top: 1px solid rgba(255, 255, 255, 0.04);
-            transition: background 0.15s;
+            padding: 10px 18px;
+            border-top: 1px solid rgba(255, 255, 255, .04);
         }
 
-        .exam-row:hover {
-            background: rgba(255, 255, 255, 0.03);
+        .ex-row:hover {
+            background: rgba(255, 255, 255, .03);
         }
 
-        .exam-title {
+        .ex-name {
             flex: 1;
-            font-size: 0.9rem;
+            font-size: .88rem;
             color: var(--text2);
             font-weight: 500;
-            line-height: 1.4;
         }
 
-        .btn-group {
+        .ex-btns {
             display: flex;
-            gap: 8px;
-            flex-shrink: 0;
-            margin-left: 12px;
+            gap: 6px;
         }
 
-        .btn-sm {
-            padding: 5px 14px;
+        .ex-btn {
+            padding: 4px 12px;
             border-radius: 6px;
             text-decoration: none;
-            font-size: 0.8rem;
+            font-size: .78rem;
             font-weight: 600;
-            transition: all 0.2s;
-            white-space: nowrap;
+            transition: all .2s;
         }
 
-        .btn-sm:hover {
+        .ex-btn:hover {
             transform: translateY(-1px);
         }
 
-        /* Animations */
+        .btn-q {
+            background: rgba(66, 165, 245, .2);
+            color: var(--q-blue);
+        }
+
+        .btn-a {
+            background: rgba(102, 187, 106, .2);
+            color: var(--a-green);
+        }
+
+        .btn-m {
+            background: rgba(255, 167, 38, .2);
+            color: var(--m-orange);
+        }
+
         @keyframes fadeIn {
             from {
-                opacity: 0;
+                opacity: 0
             }
 
             to {
-                opacity: 1;
+                opacity: 1
             }
         }
 
         @keyframes slideUp {
             from {
                 opacity: 0;
-                transform: translateY(20px);
+                transform: translateY(16px)
             }
 
             to {
                 opacity: 1;
-                transform: translateY(0);
+                transform: translateY(0)
             }
         }
 
-        @keyframes shake {
-
-            0%,
-            100% {
-                transform: rotate(0);
+        @media(max-width:500px) {
+            .subj-grid {
+                grid-template-columns: 1fr;
             }
 
-            25% {
-                transform: rotate(-15deg);
-            }
-
-            75% {
-                transform: rotate(15deg);
-            }
-        }
-
-        .shaking {
-            animation: shake 0.4s ease;
-        }
-
-        /* Responsive */
-        @media (max-width: 600px) {
-            .exam-row {
+            .ex-row {
                 flex-direction: column;
                 align-items: flex-start;
-                gap: 8px;
+                gap: 6px;
             }
 
-            .btn-group {
+            .ex-btns {
                 margin-left: 0;
-            }
-
-            .app-header h1 {
-                font-size: 1.5rem;
-            }
-
-            .rand-btn {
-                padding: 10px 18px;
-                font-size: 0.85rem;
             }
         }
     </style>
@@ -420,197 +534,262 @@
 
 <body>
     <div class="container">
-        <!-- Header -->
-        <div class="app-header">
-            <h1>⚖️ 歷屆考畢題答查詢</h1>
-            <p class="subtitle">律師 / 司法官考試一試綜合法學 — 102~114年歷屆試題</p>
+        <div class="hdr">
+            <h1>⚖️ 歷屆考畢題答</h1>
+            <p class="sub">律師 / 司法官考試 — 102~114年 · 2847 題</p>
         </div>
 
-        <!-- Random Mode Buttons -->
-        <div class="random-bar">
-            <button class="rand-btn rand-full" id="btn-rand-full" onclick="randomFull()">
-                🎲 完全隨機
-            </button>
-            <button class="rand-btn rand-subject" id="btn-rand-subject" onclick="toggleSubjectPicker()">
-                🎯 同科隨機
-            </button>
+        <!-- Tabs -->
+        <div class="tabs">
+            <button class="tab active" onclick="switchTab('quiz')">🎲 隨機測驗</button>
+            <button class="tab" onclick="switchTab('pdf')">📄 歷屆題庫</button>
         </div>
 
-        <!-- Subject Picker (for same-subject random) -->
-        <div class="subject-picker" id="subject-picker"></div>
+        <!-- ======== QUIZ VIEW ======== -->
+        <div id="quiz-view" class="active">
+            <!-- Subject Selector -->
+            <div id="quiz-select">
+                <div class="subj-grid" id="subj-grid"></div>
+            </div>
 
-        <!-- Random Result Card -->
-        <div class="random-result" id="random-result"></div>
+            <!-- Active Quiz -->
+            <div id="quiz-active">
+                <div class="prog-bar">
+                    <div class="prog-fill" id="pf"></div>
+                </div>
+                <div class="prog-meta">
+                    <span id="prog-label">第 1 / 75 題</span>
+                    <span id="acc-label">正確率 --</span>
+                </div>
+                <div class="q-card" id="qcard">
+                    <div class="q-head">
+                        <span class="q-num" id="qnum">Q1</span>
+                        <span class="q-src" id="qsrc"></span>
+                    </div>
+                    <div class="q-text" id="qtxt"></div>
+                    <div id="opts"></div>
+                    <div class="ans-info" id="ans-info"></div>
+                </div>
+                <div class="nav-row">
+                    <button class="nav-btn ghost" onclick="backToSelect()">⬅ 返回選科</button>
+                    <button class="nav-btn primary" id="btn-next" disabled onclick="nextQ()">下一題 →</button>
+                </div>
+            </div>
 
-        <!-- Year-grouped list -->
-        <div id="exam-list"></div>
+            <!-- Result -->
+            <div id="quiz-result">
+                <div class="big">🎉</div>
+                <h2>測驗完成！</h2>
+                <div class="score" id="r-score">0%</div>
+                <p id="r-msg" style="color:var(--text2);margin:6px 0;"></p>
+                <div class="stats">
+                    <div class="stat">
+                        <div class="v" id="r-total">0</div>
+                        <div class="l">總題數</div>
+                    </div>
+                    <div class="stat">
+                        <div class="v" style="color:var(--correct)" id="r-ok">0</div>
+                        <div class="l">答對</div>
+                    </div>
+                    <div class="stat">
+                        <div class="v" style="color:var(--wrong)" id="r-ng">0</div>
+                        <div class="l">答錯</div>
+                    </div>
+                </div>
+                <div class="nav-row">
+                    <button class="nav-btn ghost" onclick="backToSelect()">⬅ 選其他科</button>
+                    <button class="nav-btn primary" onclick="startQuiz(lastSubject)">🔄 再來一組</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- ======== PDF VIEW ======== -->
+        <div id="pdf-view">
+            <div id="pdf-list"></div>
+        </div>
     </div>
 
+    <!-- Data files -->
+    <script src="quiz_data.js"></script>
     <script src="data.js"></script>
     <script>
-        // =============================================
-        // Build year-grouped list
-        // =============================================
-        const container = document.getElementById('exam-list');
+        // ============================================================
+        // Tab switching
+        // ============================================================
+        function switchTab(t) {
+            document.querySelectorAll('.tab').forEach((b, i) => b.classList.toggle('active', (t === 'quiz' ? i === 0 : i === 1)));
+            document.getElementById('quiz-view').classList.toggle('active', t === 'quiz');
+            document.getElementById('pdf-view').classList.toggle('active', t === 'pdf');
+        }
 
-        if (typeof EXAM_DATA === 'undefined' || !Array.isArray(EXAM_DATA)) {
-            container.innerHTML = '<p style="text-align:center;color:#f66;padding:40px;">⚠️ 資料載入失敗</p>';
-        } else {
-            EXAM_DATA.forEach((yg, idx) => {
-                const section = document.createElement('div');
-                section.className = 'year-section';
+        // ============================================================
+        // QUIZ MODE
+        // ============================================================
+        const QUIZ_SIZE = 75;
+        let lastSubject = null;
+        let pool = [], poolIdx = 0, answered = 0, correct = 0, wrong = 0, locked = false;
 
-                const header = document.createElement('div');
-                header.className = 'year-header' + (idx === 0 ? ' open' : '');
-                header.innerHTML = `
-                    <span class="year-title">${yg.yearLabel}</span>
-                    <span class="meta">
-                        <span class="count-badge">${yg.subjects.length} 科</span>
-                        <span class="arrow">▼</span>
-                    </span>
-                `;
+        // Subject definitions mapping to EXAM_DATA keys
+        const SUBJECT_MAP = {
+            '憲法': { icon: '📕', label: '綜合法學(一)\n憲法、行政法、國際公法、國際私法', keys: [] },
+            '民法': { icon: '📗', label: '綜合法學(二)\n民法、民事訴訟法', keys: [] },
+            '公司法': { icon: '📘', label: '綜合法學(二)\n公司法、保險法、票據法、海商法', keys: [] },
+            '刑法': { icon: '📙', label: '綜合法學(一)\n刑法、刑事訴訟法、法律倫理', keys: [] },
+        };
+
+        // Map EXAM_DATA keys to our categories
+        if (typeof EXAM_DATA !== 'undefined' && !Array.isArray(EXAM_DATA)) {
+            Object.keys(EXAM_DATA).forEach(k => {
+                const kn = k.replace(/（/g, '(').replace(/）/g, ')');
+                if (kn.includes('憲法')) SUBJECT_MAP['憲法'].keys.push(k);
+                else if (kn.includes('民法')) SUBJECT_MAP['民法'].keys.push(k);
+                else if (kn.includes('公司') || kn.includes('商事')) SUBJECT_MAP['公司法'].keys.push(k);
+                else if (kn.includes('刑法')) SUBJECT_MAP['刑法'].keys.push(k);
+            });
+        }
+
+        // Build subject grid
+        const subjGrid = document.getElementById('subj-grid');
+        Object.entries(SUBJECT_MAP).forEach(([cat, info]) => {
+            // Count total questions
+            let total = 0;
+            info.keys.forEach(k => { if (EXAM_DATA[k]) total += EXAM_DATA[k].questions.length; });
+            const card = document.createElement('div');
+            card.className = 'subj-card';
+            card.innerHTML = `<div class="icon">${info.icon}</div><div class="name">${info.label.replace(/\n/g, '<br>')}</div><div class="cnt">${total} 題</div>`;
+            card.onclick = () => startQuiz(cat);
+            subjGrid.appendChild(card);
+        });
+
+        function startQuiz(cat) {
+            lastSubject = cat;
+            const info = SUBJECT_MAP[cat];
+            // Gather all questions from all matching exam data keys
+            let allQ = [];
+            info.keys.forEach(k => {
+                if (!EXAM_DATA[k]) return;
+                EXAM_DATA[k].questions.forEach(q => {
+                    if (q.question && Object.keys(q.options).length >= 2) {
+                        allQ.push(q);
+                    }
+                });
+            });
+            // Shuffle (Fisher-Yates)
+            for (let i = allQ.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [allQ[i], allQ[j]] = [allQ[j], allQ[i]];
+            }
+            // Take first QUIZ_SIZE
+            pool = allQ.slice(0, QUIZ_SIZE);
+            poolIdx = 0; answered = 0; correct = 0; wrong = 0; locked = false;
+
+            document.getElementById('quiz-select').style.display = 'none';
+            document.getElementById('quiz-result').style.display = 'none';
+            document.getElementById('quiz-active').style.display = 'block';
+            renderQ();
+            updateProg();
+        }
+
+        function renderQ() {
+            if (poolIdx >= pool.length) { showResult(); return; }
+            const q = pool[poolIdx];
+            document.getElementById('qnum').textContent = `Q${poolIdx + 1}`;
+            document.getElementById('qsrc').textContent = q.year ? `${q.year}年` + (q.answer ? ' ✦ 含答案' : '') : '';
+            document.getElementById('qtxt').textContent = q.question;
+            const opts = document.getElementById('opts');
+            opts.innerHTML = '';
+            locked = false;
+            document.getElementById('btn-next').disabled = true;
+            document.getElementById('ans-info').classList.remove('show');
+
+            // Animate card
+            const card = document.getElementById('qcard');
+            card.style.animation = 'none'; card.offsetHeight; card.style.animation = '';
+
+            Object.keys(q.options).sort().forEach(lbl => {
+                const btn = document.createElement('button');
+                btn.className = 'opt-btn';
+                btn.innerHTML = `<span class="ltr">${lbl}</span><span>${q.options[lbl]}</span>`;
+                btn.onclick = () => pick(lbl, btn, q);
+                opts.appendChild(btn);
+            });
+        }
+
+        function pick(lbl, btn, q) {
+            if (locked) return;
+            locked = true; answered++;
+            document.querySelectorAll('.opt-btn').forEach(b => b.classList.add('disabled'));
+            const info = document.getElementById('ans-info');
+
+            if (!q.answer) {
+                btn.style.borderColor = 'var(--accent1)';
+                info.innerHTML = '⚠️ 此題無官方答案，不計入正確率';
+                answered--; // don't count
+            } else if (lbl === q.answer) {
+                correct++;
+                btn.classList.add('correct');
+                info.innerHTML = `✅ 正確！答案 <strong>(${q.answer})</strong>`;
+            } else {
+                wrong++;
+                btn.classList.add('wrong');
+                document.querySelectorAll('.opt-btn').forEach(b => {
+                    if (b.querySelector('.ltr').textContent === q.answer) b.classList.add('correct');
+                });
+                info.innerHTML = `❌ 正確答案是 <strong>(${q.answer})</strong>`;
+            }
+            info.classList.add('show');
+            document.getElementById('btn-next').disabled = false;
+            updateProg();
+        }
+
+        function nextQ() { poolIdx++; renderQ(); updateProg(); }
+
+        function updateProg() {
+            const total = pool.length;
+            const pct = total > 0 ? Math.round((poolIdx / total) * 100) : 0;
+            document.getElementById('pf').style.width = pct + '%';
+            document.getElementById('prog-label').textContent = `第 ${Math.min(poolIdx + 1, total)} / ${total} 題`;
+            document.getElementById('acc-label').textContent = answered > 0 ? `正確率 ${Math.round((correct / answered) * 100)}%` : '正確率 --';
+        }
+
+        function showResult() {
+            document.getElementById('quiz-active').style.display = 'none';
+            document.getElementById('quiz-result').style.display = 'block';
+            const pct = answered > 0 ? Math.round((correct / answered) * 100) : 0;
+            document.getElementById('r-score').textContent = pct + '%';
+            document.getElementById('r-total').textContent = answered;
+            document.getElementById('r-ok').textContent = correct;
+            document.getElementById('r-ng').textContent = wrong;
+            let msg = pct >= 80 ? '太強了！上榜近在咫尺 🏆' : pct >= 60 ? '穩步前進，繼續加油 💪' : '多練幾輪就熟了 📖';
+            document.getElementById('r-msg').textContent = msg;
+        }
+
+        function backToSelect() {
+            document.getElementById('quiz-active').style.display = 'none';
+            document.getElementById('quiz-result').style.display = 'none';
+            document.getElementById('quiz-select').style.display = '';
+        }
+
+        // ============================================================
+        // PDF VIEW
+        // ============================================================
+        const pdfList = document.getElementById('pdf-list');
+        if (typeof EXAM_PDF_DATA !== 'undefined' && Array.isArray(EXAM_PDF_DATA)) {
+            EXAM_PDF_DATA.forEach((yg, idx) => {
+                const sec = document.createElement('div'); sec.className = 'yr-sec';
+                const hdr = document.createElement('div');
+                hdr.className = 'yr-hdr' + (idx === 0 ? ' open' : '');
+                hdr.innerHTML = `<span class="t">${yg.yearLabel}</span><span><span class="badge">${yg.subjects.length} 科</span> <span class="arrow">▼</span></span>`;
                 const body = document.createElement('div');
-                body.className = 'year-body' + (idx === 0 ? ' open' : '');
-
-                header.onclick = () => {
-                    header.classList.toggle('open');
-                    body.classList.toggle('open');
-                };
-
-                yg.subjects.forEach(sub => {
-                    const row = document.createElement('div');
-                    row.className = 'exam-row';
-                    row.innerHTML = `
-                        <div class="exam-title">${sub.subject}</div>
-                        <div class="btn-group">
-                            ${sub.question ? `<a class="btn-sm btn-q" href="${sub.question}" target="_blank">📄 試題</a>` : ''}
-                            ${sub.answer ? `<a class="btn-sm btn-a" href="${sub.answer}" target="_blank">✅ 答案</a>` : ''}
-                            ${sub.modification ? `<a class="btn-sm btn-m" href="${sub.modification}" target="_blank">⚠️ 更正</a>` : ''}
-                        </div>
-                    `;
+                body.className = 'yr-body' + (idx === 0 ? ' open' : '');
+                hdr.onclick = () => { hdr.classList.toggle('open'); body.classList.toggle('open'); };
+                yg.subjects.forEach(s => {
+                    const row = document.createElement('div'); row.className = 'ex-row';
+                    row.innerHTML = `<div class="ex-name">${s.subject}</div><div class="ex-btns">${s.question ? `<a class="ex-btn btn-q" href="${s.question}" target="_blank">📄 試題</a>` : ''} ${s.answer ? `<a class="ex-btn btn-a" href="${s.answer}" target="_blank">✅ 答案</a>` : ''} ${s.modification ? `<a class="ex-btn btn-m" href="${s.modification}" target="_blank">⚠️ 更正</a>` : ''}</div>`;
                     body.appendChild(row);
                 });
-
-                section.appendChild(header);
-                section.appendChild(body);
-                container.appendChild(section);
+                sec.appendChild(hdr); sec.appendChild(body); pdfList.appendChild(sec);
             });
-        }
-
-        // =============================================
-        // Random Mode Logic
-        // =============================================
-
-        // Flatten all entries for easy random access
-        function getAllEntries() {
-            const entries = [];
-            EXAM_DATA.forEach(yg => {
-                yg.subjects.forEach(sub => {
-                    entries.push({ year: yg.year, yearLabel: yg.yearLabel, ...sub });
-                });
-            });
-            return entries;
-        }
-
-        // Get unique subject categories (normalize names for grouping)
-        function getSubjectCategories() {
-            const cats = {};
-            getAllEntries().forEach(e => {
-                // Normalize: remove year prefix differences, use a simplified key
-                const key = normalizeSubject(e.subject);
-                if (!cats[key]) cats[key] = { label: e.subject, entries: [] };
-                cats[key].entries.push(e);
-            });
-            return cats;
-        }
-
-        function normalizeSubject(s) {
-            // Normalize parentheses and extra chars for grouping
-            return s.replace(/（/g, '(').replace(/）/g, ')').replace(/、$/, '')
-                .replace(/\s+/g, ' ').trim()
-                // Extract the core subject identifier
-                .replace(/^綜合法學.*(憲法).*$/, '憲法')
-                .replace(/^綜合法學.*(民法).*$/, '民法')
-                .replace(/^綜合法學.*(公司).*$/, '公司法')
-                .replace(/^綜合法學.*(刑法).*$/, '刑法');
-        }
-
-        // 🎲 Fully random: random year + random subject
-        function randomFull() {
-            const entries = getAllEntries();
-            const pick = entries[Math.floor(Math.random() * entries.length)];
-            showRandomResult(pick);
-
-            // Animate dice
-            const btn = document.getElementById('btn-rand-full');
-            btn.classList.remove('shaking');
-            void btn.offsetWidth;
-            btn.classList.add('shaking');
-        }
-
-        // 🎯 Same subject picker toggle
-        function toggleSubjectPicker() {
-            const picker = document.getElementById('subject-picker');
-            picker.classList.toggle('show');
-
-            if (picker.classList.contains('show') && picker.children.length === 0) {
-                const cats = getSubjectCategories();
-                const labels = {
-                    '憲法': '📕 憲法、行政法、國際公法、國際私法',
-                    '民法': '📗 民法、民事訴訟法',
-                    '公司法': '📘 公司法、保險法、票據法、海商法、證券交易法',
-                    '刑法': '📙 刑法、刑事訴訟法、法律倫理'
-                };
-                Object.keys(cats).forEach(key => {
-                    const chip = document.createElement('button');
-                    chip.className = 'subj-chip';
-                    chip.textContent = labels[key] || key;
-                    chip.onclick = () => randomBySubject(key);
-                    picker.appendChild(chip);
-                });
-            }
-        }
-
-        // 🎯 Random by subject category
-        function randomBySubject(category) {
-            const cats = getSubjectCategories();
-            const entries = cats[category]?.entries || [];
-            if (entries.length === 0) return;
-            const pick = entries[Math.floor(Math.random() * entries.length)];
-            showRandomResult(pick);
-
-            const btn = document.getElementById('btn-rand-subject');
-            btn.classList.remove('shaking');
-            void btn.offsetWidth;
-            btn.classList.add('shaking');
-        }
-
-        // Show random result card
-        let lastRandomCategory = null;
-        function showRandomResult(entry) {
-            const card = document.getElementById('random-result');
-            lastRandomCategory = normalizeSubject(entry.subject);
-            card.innerHTML = `
-                <div class="dice">🎲</div>
-                <div class="result-year">${entry.yearLabel}</div>
-                <div class="result-subject">${entry.subject}</div>
-                <div class="result-btns">
-                    ${entry.question ? `<a class="btn btn-q" href="${entry.question}" target="_blank">📄 試題</a>` : ''}
-                    ${entry.answer ? `<a class="btn btn-a" href="${entry.answer}" target="_blank">✅ 答案</a>` : ''}
-                    ${entry.modification ? `<a class="btn btn-m" href="${entry.modification}" target="_blank">⚠️ 更正答案</a>` : ''}
-                </div>
-                <button class="rand-again" onclick="randomAgain()">🔄 再來一次</button>
-            `;
-            card.classList.add('show');
-            card.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        }
-
-        function randomAgain() {
-            if (lastRandomCategory) {
-                randomBySubject(lastRandomCategory);
-            } else {
-                randomFull();
-            }
         }
     </script>
 </body>

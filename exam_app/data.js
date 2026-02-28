@@ -1,4 +1,4 @@
-const EXAM_DATA = [
+const EXAM_PDF_DATA = [
   {
     "year": 114,
     "yearLabel": "114年",
