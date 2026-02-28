@@ -629,51 +629,29 @@
         let lastSubject = null;
         let pool = [], poolIdx = 0, answered = 0, correct = 0, wrong = 0, locked = false;
 
-        // Subject definitions mapping to EXAM_DATA keys
-        const SUBJECT_MAP = {
-            '憲法': { icon: '📕', label: '綜合法學(一)\n憲法、行政法、國際公法、國際私法', keys: [] },
-            '民法': { icon: '📗', label: '綜合法學(二)\n民法、民事訴訟法', keys: [] },
-            '公司法': { icon: '📘', label: '綜合法學(二)\n公司法、保險法、票據法、海商法', keys: [] },
-            '刑法': { icon: '📙', label: '綜合法學(一)\n刑法、刑事訴訟法、法律倫理', keys: [] },
-        };
+        // Dynamically detect all subjects from EXAM_DATA
+        const ICONS = ['📕', '📗', '📘', '📙', '�', '📔'];
+        const subjects = (typeof EXAM_DATA !== 'undefined' && !Array.isArray(EXAM_DATA)) ? Object.keys(EXAM_DATA) : [];
 
-        // Map EXAM_DATA keys to our categories
-        if (typeof EXAM_DATA !== 'undefined' && !Array.isArray(EXAM_DATA)) {
-            Object.keys(EXAM_DATA).forEach(k => {
-                const kn = k.replace(/（/g, '(').replace(/）/g, ')');
-                if (kn.includes('憲法')) SUBJECT_MAP['憲法'].keys.push(k);
-                else if (kn.includes('民法')) SUBJECT_MAP['民法'].keys.push(k);
-                else if (kn.includes('公司') || kn.includes('商事')) SUBJECT_MAP['公司法'].keys.push(k);
-                else if (kn.includes('刑法')) SUBJECT_MAP['刑法'].keys.push(k);
-            });
-        }
-
-        // Build subject grid
+        // Build subject grid — each EXAM_DATA key becomes one card
         const subjGrid = document.getElementById('subj-grid');
-        Object.entries(SUBJECT_MAP).forEach(([cat, info]) => {
-            // Count total questions
-            let total = 0;
-            info.keys.forEach(k => { if (EXAM_DATA[k]) total += EXAM_DATA[k].questions.length; });
+        subjects.forEach((key, idx) => {
+            const data = EXAM_DATA[key];
+            const total = data.questions ? data.questions.length : 0;
+            const withAns = data.questions ? data.questions.filter(q => q.answer).length : 0;
             const card = document.createElement('div');
             card.className = 'subj-card';
-            card.innerHTML = `<div class="icon">${info.icon}</div><div class="name">${info.label.replace(/\n/g, '<br>')}</div><div class="cnt">${total} 題</div>`;
-            card.onclick = () => startQuiz(cat);
+            card.innerHTML = `<div class="icon">${ICONS[idx % ICONS.length]}</div><div class="name">${key}</div><div class="cnt">${total} 題（${withAns} 含答案）</div>`;
+            card.onclick = () => startQuiz(key);
             subjGrid.appendChild(card);
         });
 
-        function startQuiz(cat) {
-            lastSubject = cat;
-            const info = SUBJECT_MAP[cat];
-            // Gather all questions from all matching exam data keys
-            let allQ = [];
-            info.keys.forEach(k => {
-                if (!EXAM_DATA[k]) return;
-                EXAM_DATA[k].questions.forEach(q => {
-                    if (q.question && Object.keys(q.options).length >= 2) {
-                        allQ.push(q);
-                    }
-                });
-            });
+        function startQuiz(key) {
+            lastSubject = key;
+            const data = EXAM_DATA[key];
+            if (!data || !data.questions) return;
+            // Gather all valid questions
+            let allQ = data.questions.filter(q => q.question && Object.keys(q.options).length >= 2);
             // Shuffle (Fisher-Yates)
             for (let i = allQ.length - 1; i > 0; i--) {
                 const j = Math.floor(Math.random() * (i + 1));
