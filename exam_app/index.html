@@ -613,7 +613,13 @@
             border-radius: var(--radius);
             padding: 24px;
             text-align: center;
-            margin-bottom: 16px;
+            margin-bottom: 12px;
+            transition: border-color .2s;
+        }
+
+        .import-box.dragover {
+            border-color: var(--accent1);
+            background: rgba(102, 126, 234, .08);
         }
 
         .import-box h3 {
@@ -627,14 +633,97 @@
             line-height: 1.6;
         }
 
+        .import-box input[type=file] {
+            display: none;
+        }
+
+        .upload-btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background: linear-gradient(135deg, var(--accent1), var(--accent2));
+            color: #fff;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: .9rem;
+            margin-top: 8px;
+            transition: transform .2s;
+        }
+
+        .upload-btn:hover {
+            transform: scale(1.03);
+        }
+
+        .file-name {
+            font-size: .8rem;
+            color: var(--accent1);
+            margin-top: 6px;
+        }
+
+        .import-actions {
+            display: flex;
+            gap: 10px;
+            margin: 16px 0;
+        }
+
+        .import-actions .nav-btn {
+            flex: 1;
+        }
+
+        #import-log {
+            background: var(--surface);
+            border-radius: var(--radius);
+            padding: 16px;
+            font-size: .82rem;
+            line-height: 1.7;
+            color: var(--text2);
+            max-height: 300px;
+            overflow-y: auto;
+            display: none;
+        }
+
+        #import-log.show {
+            display: block;
+        }
+
+        #import-log .ok {
+            color: var(--correct);
+        }
+
+        #import-log .err {
+            color: var(--wrong);
+        }
+
+        .import-stats {
+            background: var(--surface);
+            border-radius: var(--radius);
+            padding: 16px;
+            margin-bottom: 12px;
+        }
+
+        .import-stats h4 {
+            margin-bottom: 6px;
+            font-size: .9rem;
+        }
+
+        .import-stats .cnt {
+            color: var(--accent1);
+            font-weight: 700;
+        }
+
         .import-steps {
             background: var(--surface);
             border-radius: var(--radius);
             padding: 20px;
+            text-align: left;
+            margin-top: 24px;
         }
 
         .import-steps h3 {
             margin-bottom: 12px;
+            font-size: 1rem;
+            color: var(--text);
+            text-align: center;
         }
 
         .import-steps ol {
@@ -777,30 +866,87 @@
 
         <!-- ======== IMPORT VIEW ======== -->
         <div id="import-view">
-            <div class="import-box">
-                <h3>📥 匯入新考題與答案</h3>
-                <p>將新的考試 PDF（試題 + 答案）放入資料夾後，執行匯入腳本即可自動加入題庫。</p>
+            <div class="import-stats" style="margin-bottom:20px; text-align:center;">
+                <p>有兩種匯入方式：「線上網頁匯入」（僅存於此瀏覽器）與「主機端 Python 匯入」（更新全站題庫）。</p>
             </div>
+
+            <!-- Offline / Host Import -->
             <div class="import-steps">
-                <h3>操作步驟</h3>
+                <h3>🖥️ 方法一：主機端 Python 匯入 (更新全站)</h3>
                 <ol>
-                    <li>將新的<strong>試題 PDF</strong> 和<strong>答案 PDF</strong> 放入<br><code>K:\EXAM\考畢題答\</code></li>
+                    <li>將新的<strong>試題 PDF</strong> 和<strong>答案 PDF</strong> 放入 <code>K:\EXAM\考畢題答\</code></li>
                     <li>檔名格式請遵循現有命名規則：<br>
                         試題：<code>115110_0101_綜合法學(一)(憲法.pdf</code><br>
                         答案：<code>115110_ANS0101_綜合法學(一)(憲法.pdf</code></li>
                     <li>在 PowerShell 中執行匯入腳本：<br><code>python K:\MAGI\import_new_exam.py</code></li>
                     <li>匯入完成後推送至
-                        GitHub：<br><code>cd K:\StaticWebModule &amp;&amp; git add -A &amp;&amp; git commit -m "Add new exam data" &amp;&amp; git push origin master</code>
+                        GitHub：<br><code>cd K:\StaticWebModule &amp;&amp; git add -A &amp;&amp; git commit -m "import new exams" &amp;&amp; git push origin master</code>
                     </li>
                 </ol>
             </div>
+
+            <hr style="border:0; border-top:1px dashed rgba(255,255,255,0.1); margin:30px 0;">
+
+            <!-- Online / Browser Import -->
+            <h3 style="text-align:center; margin-bottom:16px;">🌐 方法二：線上網頁匯入 (僅存於此裝置)</h3>
+
+            <div class="import-stats" id="custom-stats" style="display:none">
+                <span class="import-clear" onclick="clearImported()">🗑 清除匯入資料</span>
+                <h4>📦 已匯入的線上自訂題目</h4>
+                <p>共 <span class="cnt" id="custom-cnt">0</span> 題（儲存在您的瀏覽器中）</p>
+            </div>
+
+            <div class="import-box" id="q-drop">
+                <h3>📄 Step 1: 上傳試題 PDF</h3>
+                <p>選擇包含選擇題的考試試題 PDF</p>
+                <label class="upload-btn">選擇檔案 <input type="file" accept=".pdf" id="q-file"
+                        onchange="onFileSelect('q')"></label>
+                <div class="file-name" id="q-fname"></div>
+            </div>
+
+            <div class="import-box" id="a-drop">
+                <h3>✅ Step 2: 上傳答案 PDF</h3>
+                <p>選擇對應的標準答案 PDF</p>
+                <label class="upload-btn">選擇檔案 <input type="file" accept=".pdf" id="a-file"
+                        onchange="onFileSelect('a')"></label>
+                <div class="file-name" id="a-fname"></div>
+            </div>
+
+            <div class="import-actions">
+                <button class="nav-btn primary" id="btn-import" onclick="doImport()" disabled>📥 開始匯入</button>
+            </div>
+
+            <div id="import-log"></div>
         </div>
     </div>
+
+    <!-- pdf.js for client-side PDF parsing -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
 
     <!-- Data files -->
     <script src="quiz_data.js"></script>
     <script src="data.js"></script>
     <script>
+        // ============================================================
+        // MERGE IMPORTED CUSTOM QUESTIONS FROM localStorage
+        // ============================================================
+        (function mergeCustom() {
+            try {
+                const raw = localStorage.getItem('customExamData');
+                if (!raw) return;
+                const custom = JSON.parse(raw);
+                let cnt = 0;
+                for (const [key, qs] of Object.entries(custom)) {
+                    if (!EXAM_DATA[key]) {
+                        EXAM_DATA[key] = { questions: [], answeredYears: [], totalByYear: {} };
+                    }
+                    EXAM_DATA[key].questions.push(...qs);
+                    cnt += qs.length;
+                }
+                if (cnt > 0) console.log(`Merged ${cnt} custom questions from localStorage`);
+            } catch (e) { console.warn('Failed to merge custom data', e); }
+        })();
+
         // ============================================================
         // Tab switching
         // ============================================================
@@ -964,11 +1110,11 @@
                 html += `</div></div>`;
             });
             // Answer key on new page
-            html += `<div class="p-ans-page"><h2>答案</h2><div class="p-ans-grid">`;
+            html += `< div class="p-ans-page" ><h2>答案</h2><div class="p-ans-grid">`;
             pool.forEach((q, i) => {
                 html += `<div class="p-ans-item"><strong>${i + 1}</strong>. ${q.answer || '?'}</div>`;
             });
-            html += `</div></div>`;
+            html += `</div></div > `;
             area.innerHTML = html;
             window.print();
         }
@@ -982,18 +1128,227 @@
                 const sec = document.createElement('div'); sec.className = 'yr-sec';
                 const hdr = document.createElement('div');
                 hdr.className = 'yr-hdr' + (idx === 0 ? ' open' : '');
-                hdr.innerHTML = `<span class="t">${yg.yearLabel}</span><span><span class="badge">${yg.subjects.length} 科</span> <span class="arrow">▼</span></span>`;
+                hdr.innerHTML = `< span class="t" > ${yg.yearLabel}</span > <span><span class="badge">${yg.subjects.length} 科</span> <span class="arrow">▼</span></span>`;
                 const body = document.createElement('div');
                 body.className = 'yr-body' + (idx === 0 ? ' open' : '');
                 hdr.onclick = () => { hdr.classList.toggle('open'); body.classList.toggle('open'); };
                 yg.subjects.forEach(s => {
                     const row = document.createElement('div'); row.className = 'ex-row';
-                    row.innerHTML = `<div class="ex-name">${s.subject}</div><div class="ex-btns">${s.question ? `<a class="ex-btn btn-q" href="${s.question}" target="_blank">📄 試題</a>` : ''} ${s.answer ? `<a class="ex-btn btn-a" href="${s.answer}" target="_blank">✅ 答案</a>` : ''} ${s.modification ? `<a class="ex-btn btn-m" href="${s.modification}" target="_blank">⚠️ 更正</a>` : ''}</div>`;
+                    row.innerHTML = `< div class="ex-name" > ${s.subject}</div > <div class="ex-btns">${s.question ? `<a class="ex-btn btn-q" href="${s.question}" target="_blank">📄 試題</a>` : ''} ${s.answer ? `<a class="ex-btn btn-a" href="${s.answer}" target="_blank">✅ 答案</a>` : ''} ${s.modification ? `<a class="ex-btn btn-m" href="${s.modification}" target="_blank">⚠️ 更正</a>` : ''}</div>`;
                     body.appendChild(row);
                 });
                 sec.appendChild(hdr); sec.appendChild(body); pdfList.appendChild(sec);
             });
         }
+
+        // ============================================================
+        // IMPORT: Client-side PDF parsing
+        // ============================================================
+        let qFile = null, aFile = null;
+
+        function onFileSelect(type) {
+            const input = document.getElementById(type === 'q' ? 'q-file' : 'a-file');
+            const label = document.getElementById(type === 'q' ? 'q-fname' : 'a-fname');
+            if (input.files.length > 0) {
+                const f = input.files[0];
+                label.textContent = '✅ ' + f.name;
+                if (type === 'q') qFile = f; else aFile = f;
+            }
+            document.getElementById('btn-import').disabled = !(qFile && aFile);
+        }
+
+        function ilog(msg, cls) {
+            const log = document.getElementById('import-log');
+            log.classList.add('show');
+            log.innerHTML += `< div class="${cls || ''}" > ${msg}</div > `;
+            log.scrollTop = log.scrollHeight;
+        }
+
+        async function extractTextFromPDF(file) {
+            const buf = await file.arrayBuffer();
+            const pdf = await pdfjsLib.getDocument({ data: buf }).promise;
+            let text = '';
+            for (let i = 1; i <= pdf.numPages; i++) {
+                const page = await pdf.getPage(i);
+                const content = await page.getTextContent();
+                text += content.items.map(it => it.str).join(' ') + '\n';
+            }
+            return text;
+        }
+
+        function parseQuestions(text) {
+            const qs = [];
+            // Split by question number patterns
+            const blocks = text.split(/(?:^|\s)(\d{1,3})\s*[.、]/gm);
+            for (let i = 1; i < blocks.length; i += 2) {
+                const num = parseInt(blocks[i]);
+                if (num < 1 || num > 100) continue;
+                const content = blocks[i + 1] || '';
+                // Extract options (A)(B)(C)(D)
+                const opts = {};
+                const optMatches = [...content.matchAll(/\(?([A-D])\)?\s*[.、:：]?\s*(.*?)(?=\(?[A-D]\)|$)/gs)];
+                for (const m of optMatches) {
+                    opts[m[1]] = m[2].trim().replace(/\s+/g, ' ').substring(0, 200);
+                }
+                // Question text = before first option
+                let qText = content.split(/\(?[A-D]\)/)[0].trim().replace(/\s+/g, ' ');
+                if (qText && Object.keys(opts).length >= 2) {
+                    qs.push({ number: num, question: qText, options: opts, year: 0, answer: null });
+                }
+            }
+            return qs;
+        }
+
+        function parseAnswers(text) {
+            const answers = {};
+            // Pattern: 題號 01 02 ... / 答案 A B C ...
+            const lines = text.split('\n');
+            for (let i = 0; i < lines.length; i++) {
+                if (lines[i].includes('答案') && i > 0 && lines[i - 1].includes('題號')) {
+                    const nums = lines[i - 1].match(/\d+/g) || [];
+                    const ans = lines[i].match(/[A-D]/g) || [];
+                    nums.forEach((n, idx) => {
+                        if (idx < ans.length) answers[parseInt(n)] = ans[idx];
+                    });
+                }
+            }
+            // Fallback: try number-letter pairs
+            if (Object.keys(answers).length === 0) {
+                const pairs = text.match(/(\d{1,3})\s*[.、]?\s*([A-D])/g) || [];
+                for (const p of pairs) {
+                    const m = p.match(/(\d+)\s*[.、]?\s*([A-D])/);
+                    if (m) { const n = parseInt(m[1]); if (n >= 1 && n <= 100) answers[n] = m[2]; }
+                }
+            }
+            return answers;
+        }
+
+        function detectYearFromText(text) {
+            const m = text.match(/(\d{2,3})\s*年/);
+            return m ? parseInt(m[1]) : new Date().getFullYear() - 1911;
+        }
+
+        function detectSubject(text) {
+            for (const key of Object.keys(EXAM_DATA)) {
+                // Check if key keywords appear in text
+                const kws = key.match(/[\u4e00-\u9fff]+/g) || [];
+                if (kws.some(kw => text.includes(kw))) return key;
+            }
+            // Fallback: create new key from text
+            const m = text.match(/綜合法學[（(][一二三][）)].*?[）)]/)
+                || text.match(/綜合法學[（(][一二三][）)]\s*[\u4e00-\u9fff、]+/);
+            return m ? m[0].replace(/（/g, '(').replace(/）/g, ')') : '自訂題目';
+        }
+
+        async function doImport() {
+            if (!qFile || !aFile) return;
+            const log = document.getElementById('import-log');
+            log.innerHTML = '';
+            log.classList.add('show');
+            document.getElementById('btn-import').disabled = true;
+
+            try {
+                ilog('📄 正在解析試題 PDF...', '');
+                pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+                const qText = await extractTextFromPDF(qFile);
+                const questions = parseQuestions(qText);
+                ilog(`找到 ${questions.length} 題選擇題`, questions.length > 0 ? 'ok' : 'err');
+
+                ilog('✅ 正在解析答案 PDF...', '');
+                const aText = await extractTextFromPDF(aFile);
+                const answers = parseAnswers(aText);
+                ilog(`找到 ${Object.keys(answers).length} 個答案`, Object.keys(answers).length > 0 ? 'ok' : 'err');
+
+                // Detect year
+                const year = detectYearFromText(qText) || detectYearFromText(aText);
+                ilog(`年份偵測: ${year} 年`, 'ok');
+
+                // Detect subject
+                const subjectKey = detectSubject(qText);
+                ilog(`科目偵測: ${subjectKey} `, 'ok');
+
+                // Match answers to questions
+                let matched = 0;
+                questions.forEach(q => {
+                    q.year = year;
+                    if (answers[q.number]) { q.answer = answers[q.number]; matched++; }
+                });
+                ilog(`配對結果: ${matched}/${questions.length} 題有答案`, matched > 0 ? 'ok' : 'err');
+
+                // Only keep questions with answers
+                const validQs = questions.filter(q => q.answer);
+                if (validQs.length === 0) {
+                    ilog('❌ 沒有成功配對的題目，請確認 PDF 格式', 'err');
+                    document.getElementById('btn-import').disabled = false;
+                    return;
+                }
+
+                // Save to localStorage
+                let custom = {};
+                try { custom = JSON.parse(localStorage.getItem('customExamData') || '{}'); } catch (e) { }
+                if (!custom[subjectKey]) custom[subjectKey] = [];
+                // Avoid duplicates (same year + number)
+                const existing = new Set(custom[subjectKey].map(q => `${q.year}-${q.number}`));
+                const newQs = validQs.filter(q => !existing.has(`${q.year}-${q.number}`));
+                custom[subjectKey].push(...newQs);
+                localStorage.setItem('customExamData', JSON.stringify(custom));
+
+                // Also merge into live EXAM_DATA
+                if (!EXAM_DATA[subjectKey]) {
+                    EXAM_DATA[subjectKey] = { questions: [], answeredYears: [], totalByYear: {} };
+                }
+                EXAM_DATA[subjectKey].questions.push(...newQs);
+
+                ilog(`✅ 成功匯入 ${newQs.length} 題到「${subjectKey}」！`, 'ok');
+                ilog('💡 題目已儲存，下次打開此網頁會自動載入。', '');
+
+                // Update stats
+                updateCustomStats();
+                // Rebuild subject grid
+                rebuildSubjectGrid();
+
+            } catch (err) {
+                ilog(`❌ 錯誤: ${err.message}`, 'err');
+                console.error(err);
+            }
+            document.getElementById('btn-import').disabled = false;
+        }
+
+        function updateCustomStats() {
+            try {
+                const custom = JSON.parse(localStorage.getItem('customExamData') || '{}');
+                const cnt = Object.values(custom).reduce((s, qs) => s + qs.length, 0);
+                const el = document.getElementById('custom-stats');
+                document.getElementById('custom-cnt').textContent = cnt;
+                el.style.display = cnt > 0 ? 'block' : 'none';
+            } catch (e) { }
+        }
+
+        function clearImported() {
+            if (!confirm('確定要清除所有匯入的自訂題目嗎？')) return;
+            localStorage.removeItem('customExamData');
+            updateCustomStats();
+            location.reload();
+        }
+
+        function rebuildSubjectGrid() {
+            const grid = document.getElementById('subj-grid');
+            grid.innerHTML = '';
+            const allSubjects = (typeof EXAM_DATA !== 'undefined' && !Array.isArray(EXAM_DATA)) ? Object.keys(EXAM_DATA) : [];
+            allSubjects.forEach((key, idx) => {
+                const data = EXAM_DATA[key];
+                const total = data.questions ? data.questions.length : 0;
+                const withAns = data.questions ? data.questions.filter(q => q.answer).length : 0;
+                const card = document.createElement('div');
+                card.className = 'subj-card';
+                card.innerHTML = `<div class="icon">${ICONS[idx % ICONS.length]}</div><div class="name">${key}</div><div class="cnt">${total} 題（${withAns} 含答案）</div>`;
+                card.onclick = () => startQuiz(key);
+                grid.appendChild(card);
+            });
+        }
+
+        // Init custom stats
+        updateCustomStats();
     </script>
 </body>
 
