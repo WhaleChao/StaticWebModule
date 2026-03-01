@@ -378,6 +378,61 @@
             margin-top: 2px;
         }
 
+        /* ========== QUIZ SETUP ========== */
+        #quiz-setup {
+            display: none;
+        }
+
+        .setup-box {
+            background: var(--surface);
+            border-radius: var(--radius);
+            padding: 24px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .setup-box h2 {
+            margin-bottom: 20px;
+            color: var(--accent1);
+        }
+
+        .mode-btn {
+            display: block;
+            width: 100%;
+            padding: 16px;
+            background: rgba(255, 255, 255, .05);
+            border: 2px solid rgba(255, 255, 255, .1);
+            border-radius: var(--radius);
+            color: var(--text);
+            font-size: 1.1rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all .2s;
+            margin-bottom: 16px;
+        }
+
+        .mode-btn:hover {
+            background: rgba(102, 126, 234, .15);
+            border-color: var(--accent1);
+            transform: translateY(-2px);
+        }
+
+        .mode-btn.primary {
+            background: linear-gradient(135deg, var(--accent1), var(--accent2));
+            border: none;
+        }
+
+        .mode-btn.primary:hover {
+            box-shadow: 0 4px 15px rgba(102, 126, 234, .4);
+        }
+
+        .year-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+            gap: 12px;
+            margin-top: 16px;
+        }
+
         /* ========== PDF MODE ========== */
         #pdf-view {
             display: none;
@@ -806,6 +861,29 @@
                 <div class="subj-grid" id="subj-grid"></div>
             </div>
 
+            <!-- Quiz Setup (Mode Selection) -->
+            <div id="quiz-setup">
+                <div class="setup-box">
+                    <h2 id="setup-title">科目名稱</h2>
+
+                    <button class="mode-btn primary" onclick="startQuiz(lastSubject, 'random')">
+                        🎲 隨機歷屆抽考 (75題)
+                        <div style="font-size:0.85rem; font-weight:400; opacity:0.8; margin-top:4px;">從所有年份題庫中隨機抽出 75 題
+                        </div>
+                    </button>
+
+                    <hr style="border:0; border-top:1px dashed rgba(255,255,255,0.1); margin:24px 0;">
+
+                    <h3 style="margin-bottom:12px;">📅 指定年份 (照題號練習)</h3>
+                    <div style="font-size:0.9rem; color:var(--text2); margin-bottom:16px;">完整模擬當年考試，依原本題號順序出題</div>
+                    <div class="year-grid" id="year-grid"></div>
+                </div>
+
+                <div class="nav-row">
+                    <button class="nav-btn ghost" onclick="backToSelect()">⬅ 返回選科</button>
+                </div>
+            </div>
+
             <!-- Active Quiz -->
             <div id="quiz-active">
                 <div class="prog-bar">
@@ -853,8 +931,7 @@
                 </div>
                 <div class="nav-row">
                     <button class="nav-btn ghost" onclick="backToSelect()">⬅ 選其他科</button>
-                    <button class="nav-btn ghost" onclick="printQuiz()" style="flex:0.6">🖨️ 列印</button>
-                    <button class="nav-btn primary" onclick="startQuiz(lastSubject)">🔄 再來一組</button>
+                    <button class="nav-btn primary" onclick="startQuiz(lastSubject, currentQuizMode)">🔄 再練一次</button>
                 </div>
             </div>
         </div>
@@ -955,6 +1032,7 @@
             document.getElementById('quiz-view').classList.toggle('active', t === 'quiz');
             document.getElementById('pdf-view').classList.toggle('active', t === 'pdf');
             document.getElementById('import-view').classList.toggle('active', t === 'import');
+            if (t === 'quiz') backToSelect();
         }
 
         // ============================================================
@@ -977,26 +1055,70 @@
             const card = document.createElement('div');
             card.className = 'subj-card';
             card.innerHTML = `<div class="icon">${ICONS[idx % ICONS.length]}</div><div class="name">${key}</div><div class="cnt">${total} 題（${withAns} 含答案）</div>`;
-            card.onclick = () => startQuiz(key);
+            card.onclick = () => startQuizSetup(key);
             subjGrid.appendChild(card);
         });
 
-        function startQuiz(key) {
+        function startQuizSetup(key) {
             lastSubject = key;
             const data = EXAM_DATA[key];
             if (!data || !data.questions) return;
-            // Gather all valid questions
-            let allQ = data.questions.filter(q => q.question && Object.keys(q.options).length >= 2);
-            // Shuffle (Fisher-Yates)
-            for (let i = allQ.length - 1; i > 0; i--) {
-                const j = Math.floor(Math.random() * (i + 1));
-                [allQ[i], allQ[j]] = [allQ[j], allQ[i]];
+
+            document.getElementById('quiz-select').style.display = 'none';
+            document.getElementById('quiz-setup').style.display = 'block';
+            document.getElementById('quiz-active').style.display = 'none';
+            document.getElementById('quiz-result').style.display = 'none';
+
+            document.getElementById('setup-title').textContent = key;
+
+            // Build year buttons
+            const yGrid = document.getElementById('year-grid');
+            yGrid.innerHTML = '';
+
+            // Get unique years that have valid questions
+            const validQ = data.questions.filter(q => q.question && Object.keys(q.options).length >= 2);
+            const years = [...new Set(validQ.map(q => q.year))].sort((a, b) => b - a); // descending
+
+            years.forEach(yr => {
+                const btn = document.createElement('button');
+                btn.className = 'mode-btn';
+                btn.style.padding = '12px 8px';
+                btn.style.marginBottom = '0';
+
+                const qCount = Object.keys(data.totalByYear || {}).length ? (data.totalByYear[yr] || 0) : validQ.filter(q => q.year === yr).length;
+                btn.innerHTML = `${yr}年<br><span style="font-size:0.8rem; opacity:0.7; font-weight:normal;">${qCount} 題</span>`;
+                btn.onclick = () => startQuiz(key, yr);
+                yGrid.appendChild(btn);
+            });
+        }
+
+        let currentQuizMode = 'random';
+
+        function startQuiz(key, mode = 'random') {
+            lastSubject = key;
+            currentQuizMode = mode;
+            const data = EXAM_DATA[key];
+            if (!data || !data.questions) return;
+
+            let targetQ = data.questions.filter(q => q.question && Object.keys(q.options).length >= 2);
+
+            if (mode === 'random') {
+                // Shuffle all valid questions
+                for (let i = targetQ.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [targetQ[i], targetQ[j]] = [targetQ[j], targetQ[i]];
+                }
+                pool = targetQ.slice(0, Math.min(QUIZ_SIZE, targetQ.length));
+            } else {
+                // Filter by specific year and keep original (chronological) order
+                pool = targetQ.filter(q => q.year === mode);
+                pool.sort((a, b) => a.number - b.number);
             }
-            // Take first QUIZ_SIZE
-            pool = allQ.slice(0, QUIZ_SIZE);
+
             poolIdx = 0; answered = 0; correct = 0; wrong = 0; locked = false;
 
             document.getElementById('quiz-select').style.display = 'none';
+            document.getElementById('quiz-setup').style.display = 'none';
             document.getElementById('quiz-result').style.display = 'none';
             document.getElementById('quiz-active').style.display = 'block';
             renderQ();
@@ -1078,6 +1200,7 @@
         }
 
         function backToSelect() {
+            document.getElementById('quiz-setup').style.display = 'none';
             document.getElementById('quiz-active').style.display = 'none';
             document.getElementById('quiz-result').style.display = 'none';
             document.getElementById('quiz-select').style.display = '';
@@ -1096,7 +1219,8 @@
             }
             const now = new Date();
             const dateStr = `${now.getFullYear()}/${now.getMonth() + 1}/${now.getDate()} ${now.getHours()}:${String(now.getMinutes()).padStart(2, '0')}`;
-            let html = `<h1>⚖️ ${lastSubject || '綜合法學'} 模擬測驗</h1>`;
+            const headerSuffix = currentQuizMode === 'random' ? '隨機' : `${currentQuizMode}年`;
+            let html = `<h1>⚖️ ${lastSubject || '綜合法學'} (${headerSuffix}) 模擬測驗</h1>`;
             html += `<div class="p-meta">${pool.length} 題 ｜ ${dateStr} ｜ 姓名：＿＿＿＿＿＿</div>`;
             // Questions
             pool.forEach((q, i) => {
@@ -1110,11 +1234,11 @@
                 html += `</div></div>`;
             });
             // Answer key on new page
-            html += `< div class="p-ans-page" ><h2>答案</h2><div class="p-ans-grid">`;
+            html += `<div class="p-ans-page"><h2>答案</h2><div class="p-ans-grid">`;
             pool.forEach((q, i) => {
                 html += `<div class="p-ans-item"><strong>${i + 1}</strong>. ${q.answer || '?'}</div>`;
             });
-            html += `</div></div > `;
+            html += `</div></div>`;
             area.innerHTML = html;
             window.print();
         }
@@ -1128,13 +1252,13 @@
                 const sec = document.createElement('div'); sec.className = 'yr-sec';
                 const hdr = document.createElement('div');
                 hdr.className = 'yr-hdr' + (idx === 0 ? ' open' : '');
-                hdr.innerHTML = `< span class="t" > ${yg.yearLabel}</span > <span><span class="badge">${yg.subjects.length} 科</span> <span class="arrow">▼</span></span>`;
+                hdr.innerHTML = `<span class="t">${yg.yearLabel}</span><span><span class="badge">${yg.subjects.length} 科</span> <span class="arrow">▼</span></span>`;
                 const body = document.createElement('div');
                 body.className = 'yr-body' + (idx === 0 ? ' open' : '');
                 hdr.onclick = () => { hdr.classList.toggle('open'); body.classList.toggle('open'); };
                 yg.subjects.forEach(s => {
                     const row = document.createElement('div'); row.className = 'ex-row';
-                    row.innerHTML = `< div class="ex-name" > ${s.subject}</div > <div class="ex-btns">${s.question ? `<a class="ex-btn btn-q" href="${s.question}" target="_blank">📄 試題</a>` : ''} ${s.answer ? `<a class="ex-btn btn-a" href="${s.answer}" target="_blank">✅ 答案</a>` : ''} ${s.modification ? `<a class="ex-btn btn-m" href="${s.modification}" target="_blank">⚠️ 更正</a>` : ''}</div>`;
+                    row.innerHTML = `<div class="ex-name">${s.subject}</div><div class="ex-btns">${s.question ? `<a class="ex-btn btn-q" href="${s.question}" target="_blank">📄 試題</a>` : ''} ${s.answer ? `<a class="ex-btn btn-a" href="${s.answer}" target="_blank">✅ 答案</a>` : ''} ${s.modification ? `<a class="ex-btn btn-m" href="${s.modification}" target="_blank">⚠️ 更正</a>` : ''}</div>`;
                     body.appendChild(row);
                 });
                 sec.appendChild(hdr); sec.appendChild(body); pdfList.appendChild(sec);
