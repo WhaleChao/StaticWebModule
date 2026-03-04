@@ -822,6 +822,168 @@
             }
         }
 
+        /* ========== WRONG ANSWER NOTEBOOK ========== */
+        #wrong-view {
+            display: none;
+        }
+
+        #wrong-view.active {
+            display: block;
+        }
+
+        .wrong-header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .wrong-header .big-num {
+            font-size: 3rem;
+            font-weight: 900;
+            background: linear-gradient(135deg, var(--wrong), var(--accent2));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .wrong-header .sub-text {
+            color: var(--text2);
+            font-size: .85rem;
+            margin-top: 4px;
+        }
+
+        .wrong-actions {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 16px;
+        }
+
+        .wrong-actions .nav-btn {
+            flex: 1;
+        }
+
+        .wrong-subj-group {
+            background: var(--surface);
+            border: 1px solid rgba(255, 255, 255, .06);
+            border-radius: var(--radius);
+            margin-bottom: 10px;
+            overflow: hidden;
+        }
+
+        .wrong-subj-hdr {
+            padding: 12px 16px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+            background: rgba(255, 255, 255, .03);
+            transition: background .2s;
+        }
+
+        .wrong-subj-hdr:hover {
+            background: rgba(255, 255, 255, .06);
+        }
+
+        .wrong-subj-hdr .t {
+            font-weight: 700;
+            font-size: .9rem;
+        }
+
+        .wrong-subj-hdr .badge {
+            background: rgba(239, 83, 80, .2);
+            color: var(--wrong);
+            padding: 2px 10px;
+            border-radius: 20px;
+            font-size: .8rem;
+            font-weight: 600;
+        }
+
+        .wrong-subj-hdr .arrow {
+            transition: transform .3s;
+            color: var(--text2);
+        }
+
+        .wrong-subj-hdr.open .arrow {
+            transform: rotate(180deg);
+        }
+
+        .wrong-subj-body {
+            display: none;
+        }
+
+        .wrong-subj-body.open {
+            display: block;
+        }
+
+        .wrong-q-item {
+            padding: 12px 16px;
+            border-top: 1px solid rgba(255, 255, 255, .04);
+        }
+
+        .wrong-q-item:hover {
+            background: rgba(255, 255, 255, .03);
+        }
+
+        .wrong-q-meta {
+            display: flex;
+            gap: 8px;
+            align-items: center;
+            margin-bottom: 6px;
+            flex-wrap: wrap;
+        }
+
+        .wrong-q-meta .yr {
+            font-size: .75rem;
+            background: rgba(102, 126, 234, .2);
+            color: var(--accent1);
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-weight: 600;
+        }
+
+        .wrong-q-meta .cnt {
+            font-size: .75rem;
+            background: rgba(239, 83, 80, .15);
+            color: var(--wrong);
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-weight: 600;
+        }
+
+        .wrong-q-text {
+            font-size: .85rem;
+            color: var(--text2);
+            line-height: 1.5;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .wrong-q-ans {
+            font-size: .8rem;
+            margin-top: 4px;
+            color: var(--text2);
+        }
+
+        .wrong-q-ans strong {
+            color: var(--correct);
+        }
+
+        .wrong-q-ans .user-ans {
+            color: var(--wrong);
+        }
+
+        .wrong-empty {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text2);
+        }
+
+        .wrong-empty .big {
+            font-size: 3rem;
+            margin-bottom: 8px;
+        }
+
         @media(max-width:500px) {
             .subj-grid {
                 grid-template-columns: 1fr;
@@ -849,9 +1011,10 @@
 
         <!-- Tabs -->
         <div class="tabs">
-            <button class="tab active" onclick="switchTab('quiz')">🎲 隨機測驗</button>
-            <button class="tab" onclick="switchTab('pdf')">📄 歷屆題庫</button>
-            <button class="tab" onclick="switchTab('import')">📥 匯入題目</button>
+            <button class="tab active" onclick="switchTab('quiz')">🎲 測驗</button>
+            <button class="tab" onclick="switchTab('wrong')">🔴 錯題本</button>
+            <button class="tab" onclick="switchTab('pdf')">📄 題庫</button>
+            <button class="tab" onclick="switchTab('import')">📥 匯入</button>
         </div>
 
         <!-- ======== QUIZ VIEW ======== -->
@@ -929,8 +1092,10 @@
                         <div class="l">答錯</div>
                     </div>
                 </div>
-                <div class="nav-row">
+                <div class="nav-row" id="result-actions">
                     <button class="nav-btn ghost" onclick="backToSelect()">⬅ 選其他科</button>
+                    <button class="nav-btn ghost" onclick="switchTab('wrong')" id="btn-review-wrong"
+                        style="display:none">📕 查看錯題</button>
                     <button class="nav-btn primary" onclick="startQuiz(lastSubject, currentQuizMode)">🔄 再練一次</button>
                 </div>
             </div>
@@ -939,6 +1104,20 @@
         <!-- ======== PDF VIEW ======== -->
         <div id="pdf-view">
             <div id="pdf-list"></div>
+        </div>
+
+        <!-- ======== WRONG ANSWER NOTEBOOK VIEW ======== -->
+        <div id="wrong-view">
+            <div class="wrong-header">
+                <div class="big-num" id="wrong-total-num">0</div>
+                <div class="sub-text">道錯題等你來征服</div>
+            </div>
+            <div class="wrong-actions">
+                <button class="nav-btn primary" id="btn-wrong-quiz" onclick="startWrongQuiz()" disabled>🎲
+                    錯題隨機測驗</button>
+                <button class="nav-btn ghost" onclick="clearWrongAnswers()">🗑 清除紀錄</button>
+            </div>
+            <div id="wrong-list"></div>
         </div>
 
         <!-- ======== IMPORT VIEW ======== -->
@@ -1028,11 +1207,14 @@
         // Tab switching
         // ============================================================
         function switchTab(t) {
-            document.querySelectorAll('.tab').forEach((b, i) => b.classList.toggle('active', (t === 'quiz' ? i === 0 : t === 'pdf' ? i === 1 : i === 2)));
+            const tabs = ['quiz', 'wrong', 'pdf', 'import'];
+            document.querySelectorAll('.tab').forEach((b, i) => b.classList.toggle('active', tabs[i] === t));
             document.getElementById('quiz-view').classList.toggle('active', t === 'quiz');
+            document.getElementById('wrong-view').classList.toggle('active', t === 'wrong');
             document.getElementById('pdf-view').classList.toggle('active', t === 'pdf');
             document.getElementById('import-view').classList.toggle('active', t === 'import');
             if (t === 'quiz') backToSelect();
+            if (t === 'wrong') renderWrongView();
         }
 
         // ============================================================
@@ -1164,6 +1346,8 @@
                 correct++;
                 btn.classList.add('correct');
                 info.innerHTML = `✅ 正確！答案 <strong>(${q.answer})</strong>`;
+                // If previously wrong, remove from wrong list (mastered!)
+                removeWrongAnswer(q.year, q.number);
             } else {
                 wrong++;
                 btn.classList.add('wrong');
@@ -1171,6 +1355,8 @@
                     if (b.querySelector('.ltr').textContent === q.answer) b.classList.add('correct');
                 });
                 info.innerHTML = `❌ 正確答案是 <strong>(${q.answer})</strong>`;
+                // Save wrong answer
+                saveWrongAnswer(q, lbl);
             }
             info.classList.add('show');
             document.getElementById('btn-next').disabled = false;
@@ -1197,6 +1383,8 @@
             document.getElementById('r-ng').textContent = wrong;
             let msg = pct >= 80 ? '太強了！上榜近在咫尺 🏆' : pct >= 60 ? '穩步前進，繼續加油 💪' : '多練幾輪就熟了 📖';
             document.getElementById('r-msg').textContent = msg;
+            // Show wrong review button if there were wrong answers
+            document.getElementById('btn-review-wrong').style.display = wrong > 0 ? '' : 'none';
         }
 
         function backToSelect() {
@@ -1473,6 +1661,145 @@
 
         // Init custom stats
         updateCustomStats();
+
+        // ============================================================
+        // WRONG ANSWER TRACKING (localStorage)
+        // ============================================================
+        const WRONG_KEY = 'wrongAnswers';
+
+        function loadWrongAnswers() {
+            try { return JSON.parse(localStorage.getItem(WRONG_KEY) || '[]'); }
+            catch (e) { return []; }
+        }
+
+        function saveWrongAnswersData(data) {
+            localStorage.setItem(WRONG_KEY, JSON.stringify(data));
+        }
+
+        function saveWrongAnswer(q, userAnswer) {
+            const data = loadWrongAnswers();
+            const key = `${q.year}-${q.number}`;
+            const idx = data.findIndex(w => `${w.year}-${w.number}` === key);
+            const subjectName = lastSubject || (currentQuizMode === '__wrong__' ? (q._subject || '未知科目') : '未知科目');
+            if (idx >= 0) {
+                data[idx].wrongCount = (data[idx].wrongCount || 1) + 1;
+                data[idx].userAnswer = userAnswer;
+                data[idx].timestamp = Date.now();
+            } else {
+                data.push({
+                    year: q.year,
+                    number: q.number,
+                    subject: subjectName,
+                    question: q.question,
+                    options: q.options,
+                    answer: q.answer,
+                    userAnswer: userAnswer,
+                    wrongCount: 1,
+                    timestamp: Date.now()
+                });
+            }
+            saveWrongAnswersData(data);
+        }
+
+        function removeWrongAnswer(year, number) {
+            const data = loadWrongAnswers();
+            const key = `${year}-${number}`;
+            const filtered = data.filter(w => `${w.year}-${w.number}` !== key);
+            if (filtered.length !== data.length) {
+                saveWrongAnswersData(filtered);
+            }
+        }
+
+        function clearWrongAnswers() {
+            if (!confirm('確定要清除所有錯題紀錄嗎？')) return;
+            localStorage.removeItem(WRONG_KEY);
+            renderWrongView();
+        }
+
+        function renderWrongView() {
+            const data = loadWrongAnswers();
+            document.getElementById('wrong-total-num').textContent = data.length;
+            document.getElementById('btn-wrong-quiz').disabled = data.length === 0;
+            const list = document.getElementById('wrong-list');
+
+            if (data.length === 0) {
+                list.innerHTML = '<div class="wrong-empty"><div class="big">🎉</div><p>沒有錯題紀錄！<br>開始做題後，答錯的題目會自動出現在這裡</p></div>';
+                return;
+            }
+
+            // Group by subject
+            const grouped = {};
+            data.forEach(w => {
+                if (!grouped[w.subject]) grouped[w.subject] = [];
+                grouped[w.subject].push(w);
+            });
+
+            // Sort each group by wrongCount desc
+            Object.values(grouped).forEach(arr => arr.sort((a, b) => b.wrongCount - a.wrongCount));
+
+            let html = '';
+            Object.keys(grouped).forEach((subj, idx) => {
+                const qs = grouped[subj];
+                const isOpen = idx === 0 ? ' open' : '';
+                html += `<div class="wrong-subj-group">`;
+                html += `<div class="wrong-subj-hdr${isOpen}" onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">`;
+                html += `<span class="t">${subj}</span><span><span class="badge">${qs.length} 題</span> <span class="arrow">▼</span></span></div>`;
+                html += `<div class="wrong-subj-body${isOpen}">`;
+                qs.forEach(w => {
+                    html += `<div class="wrong-q-item">`;
+                    html += `<div class="wrong-q-meta"><span class="yr">${w.year}年 第${w.number}題</span><span class="cnt">錯 ${w.wrongCount} 次</span></div>`;
+                    html += `<div class="wrong-q-text">${w.question}</div>`;
+                    html += `<div class="wrong-q-ans">你的答案：<span class="user-ans">(${w.userAnswer})</span> → 正確：<strong>(${w.answer})</strong></div>`;
+                    html += `</div>`;
+                });
+                html += `</div></div>`;
+            });
+            list.innerHTML = html;
+        }
+
+        function startWrongQuiz() {
+            const data = loadWrongAnswers();
+            if (data.length === 0) return;
+
+            // Convert wrong answers to quiz pool format
+            let wrongPool = data.map(w => ({
+                year: w.year,
+                number: w.number,
+                question: w.question,
+                options: w.options,
+                answer: w.answer,
+                _subject: w.subject  // preserve for tracking
+            }));
+
+            // Shuffle
+            for (let i = wrongPool.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [wrongPool[i], wrongPool[j]] = [wrongPool[j], wrongPool[i]];
+            }
+
+            // Cap at 75
+            pool = wrongPool.slice(0, Math.min(QUIZ_SIZE, wrongPool.length));
+            poolIdx = 0; answered = 0; correct = 0; wrong = 0; locked = false;
+            lastSubject = '錯題本';
+            currentQuizMode = '__wrong__';
+
+            // Switch to quiz view
+            document.querySelectorAll('.tab').forEach((b, i) => b.classList.toggle('active', i === 0));
+            document.getElementById('quiz-view').classList.add('active');
+            document.getElementById('wrong-view').classList.remove('active');
+            document.getElementById('pdf-view').classList.remove('active');
+            document.getElementById('import-view').classList.remove('active');
+
+            document.getElementById('quiz-select').style.display = 'none';
+            document.getElementById('quiz-setup').style.display = 'none';
+            document.getElementById('quiz-result').style.display = 'none';
+            document.getElementById('quiz-active').style.display = 'block';
+            renderQ();
+            updateProg();
+        }
+
+        // Init wrong view on first load
+        renderWrongView();
     </script>
 </body>
 
