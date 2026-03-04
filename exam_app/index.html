@@ -8,6 +8,11 @@
     <meta name="description" content="律師、司法官考試歷屆試題與答案 — 隨機 75 題模擬測驗 + PDF 瀏覽 (102~114年)">
     <link rel="icon" type="image/png" href="icon.png">
     <link rel="apple-touch-icon" href="icon.png">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#667eea">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="考畢題答">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&display=swap"
         rel="stylesheet">
     <style>
@@ -1802,6 +1807,15 @@
 
         // Init wrong view on first load
         renderWrongView();
+
+        // ============================================================
+        // PWA: Register Service Worker
+        // ============================================================
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('./sw.js').then(() => {
+                console.log('Service Worker registered');
+            }).catch(err => console.warn('SW registration failed', err));
+        }
     </script>
 </body>
 
